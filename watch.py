@@ -73,6 +73,20 @@ def minutes(iso):
     return h * 60 + mi + se / 60
 
 
+def fill_durations(store):
+    """يكمّل مدة المقاطع (بالدقائق) والمشاهدات للي ناقصها، 50 مقطع في كل طلب."""
+    ids = [k for k, v in store["videos"].items() if "minutes" not in v]
+    done = 0
+    for i in range(0, len(ids), 50):
+        info = api("videos", part="contentDetails,statistics", id=",".join(ids[i:i + 50]))
+        for v in info.get("items", []):
+            rec = store["videos"][v["id"]]
+            rec["minutes"] = round(minutes(v["contentDetails"].get("duration")), 1)
+            rec.setdefault("views", int(v.get("statistics", {}).get("viewCount", 0)))
+            done += 1
+    return done
+
+
 def search_destinations(dests, store):
     after = (datetime.now(timezone.utc) - timedelta(days=365 * YEARS_BACK)).strftime("%Y-%m-%dT%H:%M:%SZ")
     added = 0
@@ -92,7 +106,8 @@ def search_destinations(dests, store):
                 continue
             rec = {"video_id": v["id"], "url": f"https://www.youtube.com/watch?v={v['id']}",
                    "title": sn["title"], "description": sn.get("description", "")[:1500],
-                   "published": sn["publishedAt"][:10], "channel": sn["channelTitle"], "views": views}
+                   "published": sn["publishedAt"][:10], "channel": sn["channelTitle"], "views": views,
+                   "minutes": round(minutes(v["contentDetails"].get("duration")), 1)}
             if key not in match(rec, dests):  # لازم الوجهة تنذكر فعلًا
                 continue
             good.append(rec)
@@ -232,6 +247,10 @@ def main():
             added += n
         except Exception as e:
             print("البحث فشل:", e)
+        try:
+            print(f"كمّلت المدة: {fill_durations(store)}")
+        except Exception as e:
+            print("المدة فشلت:", e)
     else:
         print("ما فيه YOUTUBE_API_KEY، تخطيت البحث")
     if os.environ.get("GITHUB_TOKEN"):
