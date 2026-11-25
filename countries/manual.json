@@ -1,0 +1,87 @@
+{
+  "IN": {
+    "visa_official": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+    "notes": [
+      {
+        "topic": "التأشيرة",
+        "value": "تأشيرة سياحية إلكترونية 30 يوم بـ 25 دولار + رسوم بنكية، وتقدّم قبل 4 أيام على الأقل",
+        "source": "visa-requirements.io و Arab News",
+        "checked": "2026-11-23",
+        "status": "مفحوص"
+      },
+      {
+        "topic": "السلامة",
+        "value": "بحر فاركالا فيه موجات مفاجئة وتيارات سحب قوية",
+        "source": "Tripadvisor",
+        "checked": "2026-11-23",
+        "status": "مفحوص"
+      },
+      {
+        "topic": "فعاليات",
+        "value": "مهرجان Serendipity للفنون في بنجيم، غوا: 13–20 ديسمبر 2026، دخول مجاني",
+        "source": "caleidoscope.in و abirpothi.com",
+        "checked": "2026-11-23",
+        "status": "مفحوص"
+      }
+    ]
+  },
+  "GE": {
+    "notes": [
+      {
+        "topic": "التأمين",
+        "value": "مصدر واحد يقول إن تأمين السفر إلزامي لدخول جورجيا من 2026",
+        "source": "sakhva-travel.com",
+        "checked": "2026-11-23",
+        "status": "يحتاج تحقق من مصدر رسمي"
+      },
+      {
+        "topic": "المساج",
+        "value": "حمامات الكبريت في أبانوتوباني: غرفة خاصة 40–80 لاري للساعة، والفاخرة مع مساج 120–200",
+        "source": "sakhva-travel.com (أسعار أبريل 2026)",
+        "checked": "2026-11-23",
+        "status": "مفحوص"
+      }
+    ]
+  },
+  "TR": {
+    "notes": [
+      {
+        "topic": "المساج",
+        "value": "حمام كيليتش علي باشا في كاراكوي: المساج يوصل إلى 5,500 ليرة",
+        "source": "kilicalipasahamami.com",
+        "checked": "2026-11-23",
+        "status": "مفحوص"
+      }
+    ]
+  },
+  "ME": {
+    "notes": [
+      {
+        "topic": "الطيران",
+        "value": "سائح تيوب ذكر رحلة طيران ناس مباشرة من الرياض بـ 4 ساعات",
+        "source": "ثريد سائح تيوب (rattibha)",
+        "checked": "2026-11-24",
+        "status": "يحتاج تحقق: الخط موسمي؟"
+      },
+      {
+        "topic": "التأشيرة",
+        "value": "البيانات المفتوحة تقول تأشيرة مسبقة. ما تحققت من وجود إعفاء موسمي أو لحاملي شنغن",
+        "source": "passport-index-dataset",
+        "checked": "2026-11-24",
+        "status": "يحتاج تحقق من مصدر رسمي"
+      }
+    ]
+  },
+  "BA": {
+    "visa_official": "https://www.fipa.gov.ba/informacije/raditi_zivjeti_bih/vize/?id=98",
+    "notes": [
+      {
+        "topic": "التأشيرة",
+        "value": "إعفاء صيفي للسعوديين (من 1 يونيو إلى 30 سبتمبر تقريبًا)، وأقصى إقامة 30 يوم. خارج الموسم التأشيرة مطلوبة، إلا لحاملي تأشيرة شنغن سارية",
+        "source": "fipa.gov.ba (رسمي)، Wego أبريل 2026، Argaam",
+        "checked": "2026-11-24",
+        "status": "مفحوص، والإعفاء يتجدد كل سنة بقرار"
+      }
+    ]
+  }
+}
