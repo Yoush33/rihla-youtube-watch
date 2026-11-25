@@ -164,123 +164,124 @@
       {
         "month": 1,
         "name": "يناير",
-        "tmax": 4.1,
-        "tmin": 0.6,
-        "rain_days": 12.4,
-        "rain_mm": 57,
+        "tmax": 4.2,
+        "tmin": 0.8,
+        "rain_days": 13.2,
+        "rain_mm": 68,
         "fit": "غير مناسب"
       },
       {
         "month": 2,
         "name": "فبراير",
         "tmax": 4.6,
-        "tmin": 0.7,
-        "rain_days": 11.1,
-        "rain_mm": 51,
+        "tmin": 0.6,
+        "rain_days": 10.6,
+        "rain_mm": 53,
         "fit": "غير مناسب"
       },
       {
         "month": 3,
         "name": "مارس",
-        "tmax": 6.8,
-        "tmin": 1.5,
-        "rain_days": 10.7,
-        "rain_mm": 46,
+        "tmax": 7.3,
+        "tmin": 1.7,
+        "rain_days": 9.0,
+        "rain_mm": 35,
         "fit": "غير مناسب"
       },
       {
         "month": 4,
         "name": "أبريل",
-        "tmax": 10.5,
-        "tmin": 4.0,
-        "rain_days": 9.1,
-        "rain_mm": 42,
+        "tmax": 10.4,
+        "tmin": 3.8,
+        "rain_days": 8.4,
+        "rain_mm": 39,
         "fit": "غير مناسب"
       },
       {
         "month": 5,
         "name": "مايو",
-        "tmax": 15.5,
+        "tmax": 15.1,
         "tmin": 8.7,
-        "rain_days": 9.5,
-        "rain_mm": 39,
+        "rain_days": 11.0,
+        "rain_mm": 47,
         "fit": "مقبول"
       },
       {
         "month": 6,
         "name": "يونيو",
-        "tmax": 19.7,
-        "tmin": 13.1,
-        "rain_days": 10.0,
-        "rain_mm": 52,
+        "tmax": 19.3,
+        "tmin": 12.7,
+        "rain_days": 9.4,
+        "rain_mm": 39,
         "fit": "ممتاز"
       },
       {
         "month": 7,
         "name": "يوليو",
-        "tmax": 20.6,
-        "tmin": 14.6,
-        "rain_days": 13.1,
-        "rain_mm": 71,
+        "tmax": 20.7,
+        "tmin": 14.9,
+        "rain_days": 13.6,
+        "rain_mm": 79,
         "fit": "ممتاز"
       },
       {
         "month": 8,
         "name": "أغسطس",
-        "tmax": 20.6,
-        "tmin": 14.8,
-        "rain_days": 11.9,
-        "rain_mm": 63,
+        "tmax": 20.3,
+        "tmin": 14.5,
+        "rain_days": 11.2,
+        "rain_mm": 60,
         "fit": "ممتاز"
       },
       {
         "month": 9,
         "name": "سبتمبر",
-        "tmax": 17.9,
-        "tmin": 12.9,
-        "rain_days": 10.6,
-        "rain_mm": 56,
-        "fit": "مقبول"
+        "tmax": 18.1,
+        "tmin": 13.2,
+        "rain_days": 8.6,
+        "rain_mm": 54,
+        "fit": "ممتاز"
       },
       {
         "month": 10,
         "name": "أكتوبر",
-        "tmax": 12.9,
-        "tmin": 9.1,
-        "rain_days": 13.1,
-        "rain_mm": 77,
-        "fit": "غير مناسب"
+        "tmax": 13.3,
+        "tmin": 9.3,
+        "rain_days": 11.2,
+        "rain_mm": 78,
+        "fit": "مقبول"
       },
       {
         "month": 11,
         "name": "نوفمبر",
         "tmax": 8.2,
-        "tmin": 5.1,
-        "rain_days": 11.3,
-        "rain_mm": 50,
+        "tmin": 5.3,
+        "rain_days": 11.4,
+        "rain_mm": 56,
         "fit": "غير مناسب"
       },
       {
         "month": 12,
         "name": "ديسمبر",
-        "tmax": 5.5,
-        "tmin": 2.6,
-        "rain_days": 12.2,
-        "rain_mm": 55,
+        "tmax": 5.1,
+        "tmin": 2.2,
+        "rain_days": 11.6,
+        "rain_mm": 56,
         "fit": "غير مناسب"
       }
     ],
-    "source": "Open-Meteo، متوسط 2016–2025",
+    "source": "Open-Meteo، متوسط 2021–2025",
     "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة العظمى وكمية المطر. المطر في المناطق الاستوائية غالبًا زخات قصيرة."
   },
   "best_months": [
     "يونيو",
     "يوليو",
-    "أغسطس"
+    "أغسطس",
+    "سبتمبر"
   ],
   "ok_months": [
     "مايو",
-    "سبتمبر"
+    "أكتوبر"
   ],
   "manual": []
 }
