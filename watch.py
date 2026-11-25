@@ -107,8 +107,8 @@ def search_destinations(dests, store):
 
 
 # ── ترجمة وتلخيص عربي عبر GitHub Models (مجاني بحدود يومية، يستخدم GITHUB_TOKEN) ──
-MODELS_URL = "https://models.github.ai/inference/chat/completions"
-MODEL = "openai/gpt-4o-mini"
+ENDPOINTS = [("https://models.github.ai/inference/chat/completions", "openai/gpt-4o-mini"),
+             ("https://models.inference.ai.azure.com/chat/completions", "gpt-4o-mini")]
 MAX_PER_RUN = 40
 PROMPT = ("أنت تساعد مسافر سعودي. من عنوان مقطع يوتيوب ووصفه، أرجع JSON فقط بالمفاتيح: "
           "title_ar (العنوان بالعربي، وإذا هو عربي انسخه)، "
@@ -119,23 +119,26 @@ PROMPT = ("أنت تساعد مسافر سعودي. من عنوان مقطع ي�
 
 
 def summarize(video):
-    body = json.dumps({"model": MODEL, "temperature": 0.2,
-                       "response_format": {"type": "json_object"},
-                       "messages": [{"role": "system", "content": PROMPT},
-                                    {"role": "user", "content": f"العنوان: {video['title']}\nالوصف: {video['description'][:1200]}"}]}).encode()
-    req = urllib.request.Request(MODELS_URL, data=body, headers={
-        "Authorization": "Bearer " + os.environ["GITHUB_TOKEN"], "Content-Type": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            raw = r.read().decode("utf-8")
-    except urllib.error.HTTPError as e:
-        raise RuntimeError(f"HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:300]}")
-    try:
-        out = json.loads(raw)["choices"][0]["message"]["content"]
-    except Exception:
-        raise RuntimeError("رد غير متوقع: " + raw[:300])
-    out = re.sub(r"^```(?:json)?|```$", "", out.strip()).strip()
-    return json.loads(out)
+    errors = []
+    for url, model in ENDPOINTS:
+        body = json.dumps({"model": model, "temperature": 0.2,
+                           "response_format": {"type": "json_object"},
+                           "messages": [{"role": "system", "content": PROMPT},
+                                        {"role": "user", "content": f"العنوان: {video['title']}\nالوصف: {video['description'][:1200]}"}]}).encode()
+        req = urllib.request.Request(url, data=body, method="POST", headers={
+            "Authorization": "Bearer " + os.environ["GITHUB_TOKEN"], "Content-Type": "application/json",
+            "Accept": "application/json", "X-GitHub-Api-Version": "2022-11-28"})
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                raw = r.read().decode("utf-8")
+            out = json.loads(raw)["choices"][0]["message"]["content"]
+            out = re.sub(r"^```(?:json)?|```$", "", out.strip()).strip()
+            return json.loads(out)
+        except urllib.error.HTTPError as e:
+            errors.append(f"{url} HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:200]}")
+        except Exception as e:
+            errors.append(f"{url}: {e}")
+    raise RuntimeError(" || ".join(errors))
 
 
 def translate_new(store):
