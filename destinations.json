@@ -1,15 +1,202 @@
 {
-  "ayt": {"name": "أنطاليا", "keywords": ["أنطاليا", "انطاليا", "antalya", "كاليتشي", "kaleici", "kaleiçi"]},
-  "ist": {"name": "إسطنبول", "keywords": ["إسطنبول", "اسطنبول", "istanbul", "أورتاكوي", "ortakoy", "ortaköy", "البوسفور", "bosphorus"]},
-  "tbs": {"name": "تبليسي", "keywords": ["تبليسي", "tbilisi", "جورجيا", "georgia"]},
-  "vkl": {"name": "فاركالا", "keywords": ["فاركالا", "varkala", "كيرالا", "kerala"]},
-  "cok": {"name": "كوتشي", "keywords": ["كوتشي", "kochi", "cochin", "كيرالا", "kerala"]},
-  "goa": {"name": "غوا", "keywords": ["غوا", "goa", "بالوليم", "palolem"]},
-  "baku": {"name": "باكو", "keywords": ["باكو", "baku", "أذربيجان", "اذربيجان", "azerbaijan"]},
-  "bih": {"name": "البوسنة", "keywords": ["البوسنة", "سراييفو", "bosnia", "sarajevo"]},
-  "mne": {"name": "الجبل الأسود", "keywords": ["الجبل الأسود", "الجبل الاسود", "مونتينيغرو", "montenegro"]},
-  "kul": {"name": "ماليزيا", "keywords": ["ماليزيا", "كوالالمبور", "malaysia", "kuala lumpur", "لنكاوي", "langkawi"]},
-  "th": {"name": "تايلند", "keywords": ["تايلند", "تايلاند", "thailand", "بانكوك", "bangkok", "بوكيت", "phuket"]},
-  "lk": {"name": "سريلانكا", "keywords": ["سريلانكا", "sri lanka", "كاندي", "kandy"]},
-  "ma": {"name": "المغرب", "keywords": ["المغرب", "morocco", "مراكش", "marrakech", "شفشاون", "chefchaouen"]}
+  "ayt": {
+    "name": "أنطاليا",
+    "keywords": [
+      "أنطاليا",
+      "انطاليا",
+      "antalya",
+      "كاليتشي",
+      "kaleici",
+      "kaleiçi"
+    ]
+  },
+  "ist": {
+    "name": "إسطنبول",
+    "keywords": [
+      "إسطنبول",
+      "اسطنبول",
+      "istanbul",
+      "أورتاكوي",
+      "ortakoy",
+      "ortaköy",
+      "البوسفور",
+      "bosphorus"
+    ]
+  },
+  "tbs": {
+    "name": "تبليسي",
+    "keywords": [
+      "تبليسي",
+      "tbilisi",
+      "جورجيا",
+      "georgia"
+    ]
+  },
+  "vkl": {
+    "name": "فاركالا",
+    "keywords": [
+      "فاركالا",
+      "varkala",
+      "كيرالا",
+      "kerala"
+    ]
+  },
+  "cok": {
+    "name": "كوتشي",
+    "keywords": [
+      "كوتشي",
+      "kochi",
+      "cochin",
+      "كيرالا",
+      "kerala"
+    ]
+  },
+  "goa": {
+    "name": "غوا",
+    "keywords": [
+      "غوا",
+      "goa",
+      "بالوليم",
+      "palolem"
+    ]
+  },
+  "baku": {
+    "name": "باكو",
+    "keywords": [
+      "باكو",
+      "baku",
+      "أذربيجان",
+      "اذربيجان",
+      "azerbaijan"
+    ]
+  },
+  "bih": {
+    "name": "البوسنة",
+    "keywords": [
+      "البوسنة",
+      "سراييفو",
+      "bosnia",
+      "sarajevo"
+    ]
+  },
+  "mne": {
+    "name": "الجبل الأسود",
+    "keywords": [
+      "الجبل الأسود",
+      "الجبل الاسود",
+      "مونتينيغرو",
+      "montenegro"
+    ]
+  },
+  "kul": {
+    "name": "ماليزيا",
+    "keywords": [
+      "ماليزيا",
+      "كوالالمبور",
+      "malaysia",
+      "kuala lumpur",
+      "لنكاوي",
+      "langkawi"
+    ]
+  },
+  "th": {
+    "name": "تايلند",
+    "keywords": [
+      "تايلند",
+      "تايلاند",
+      "thailand",
+      "بانكوك",
+      "bangkok",
+      "بوكيت",
+      "phuket"
+    ]
+  },
+  "lk": {
+    "name": "سريلانكا",
+    "keywords": [
+      "سريلانكا",
+      "sri lanka",
+      "كاندي",
+      "kandy"
+    ]
+  },
+  "ma": {
+    "name": "المغرب",
+    "keywords": [
+      "المغرب",
+      "morocco",
+      "مراكش",
+      "marrakech",
+      "شفشاون",
+      "chefchaouen"
+    ]
+  },
+  "uzn": {
+    "name": "أوزنجول",
+    "keywords": [
+      "أوزنجول",
+      "اوزنجول",
+      "uzungol",
+      "uzungöl",
+      "طرابزون",
+      "trabzon"
+    ]
+  },
+  "gbl": {
+    "name": "غابالا",
+    "keywords": [
+      "غابالا",
+      "قبله",
+      "gabala",
+      "qabala"
+    ]
+  },
+  "kzb": {
+    "name": "كازبيغي",
+    "keywords": [
+      "كازبيجي",
+      "كازبيغي",
+      "kazbegi",
+      "stepantsminda"
+    ]
+  },
+  "bus": {
+    "name": "باتومي",
+    "keywords": [
+      "باتومي",
+      "batumi"
+    ]
+  },
+  "kbv": {
+    "name": "كرابي",
+    "keywords": [
+      "كرابي",
+      "krabi",
+      "آو نانغ",
+      "ao nang"
+    ]
+  },
+  "cnx": {
+    "name": "شيانغ ماي",
+    "keywords": [
+      "شيانغ ماي",
+      "شنغماي",
+      "chiang mai"
+    ]
+  },
+  "lgk": {
+    "name": "لنكاوي",
+    "keywords": [
+      "لنكاوي",
+      "langkawi"
+    ]
+  },
+  "ela": {
+    "name": "إيلا",
+    "keywords": [
+      "إيلا سريلانكا",
+      "ella sri lanka",
+      "nine arch"
+    ]
+  }
 }
