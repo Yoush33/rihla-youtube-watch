@@ -4,7 +4,7 @@
 المصادر: mledoze/countries (GitHub)، ilyankou/passport-index-dataset (GitHub)،
 Nager.Date (الإجازات)، Open-Meteo Historical Weather API (الطقس، CC BY 4.0).
 """
-import csv, io, json, time, urllib.request
+import csv, io, json, time, urllib.error, urllib.request
 from collections import defaultdict
 from datetime import date
 from pathlib import Path
@@ -12,7 +12,7 @@ from pathlib import Path
 HERE = Path(__file__).parent
 OUT = HERE / "data"
 TODAY = date.today().isoformat()
-YEARS = (2016, 2025)
+YEARS = (2021, 2025)  # 5 سنوات تكفي للمتوسط وتبقى داخل حد Open-Meteo المجاني
 MONTHS = ["يناير", "فبراير", "مارس", "أبريل", "مايو", "يونيو", "يوليو", "أغسطس", "سبتمبر", "أكتوبر", "نوفمبر", "ديسمبر"]
 SRC = {
     "wc": "mledoze/countries",
@@ -22,16 +22,25 @@ SRC = {
 }
 
 
-def get(url, tries=5):
+class RateLimited(Exception):
+    pass
+
+
+def get(url, tries=3):
     for i in range(tries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "rihla-countries/1.0"})
             with urllib.request.urlopen(req, timeout=60) as r:
                 return r.read().decode("utf-8")
-        except Exception as e:
+        except urllib.error.HTTPError as e:
+            if e.code == 429:  # وصلنا الحد المجاني: لا نكرر
+                raise RateLimited(url)
             if i == tries - 1:
                 raise
-            time.sleep(20 * (i + 1))
+        except Exception:
+            if i == tries - 1:
+                raise
+        time.sleep(10 * (i + 1))
 
 
 def visa_label(raw):
@@ -93,6 +102,7 @@ def main():
             visa[row[1]] = row[2]
     OUT.mkdir(exist_ok=True)
     allc, errors = [], []
+    weather_off = False
     for c in lst:
         iso = c["iso"]
         w = wc.get(iso, {})
@@ -104,8 +114,12 @@ def main():
             except Exception:
                 pass
         try:
+            if weather_off:
+                raise RateLimited("تخطيت بعد الوصول للحد")
             wx = climate(c["lat"], c["lon"])
         except Exception as e:
+            if isinstance(e, RateLimited):
+                weather_off = True
             prev = OUT / f"{iso}.json"
             wx = json.loads(prev.read_text(encoding="utf-8"))["weather"]["months"] if prev.exists() else []
             for x in wx:
