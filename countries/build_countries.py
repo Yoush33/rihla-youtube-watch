@@ -22,7 +22,7 @@ SRC = {
 }
 
 
-def get(url, tries=3):
+def get(url, tries=5):
     for i in range(tries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "rihla-countries/1.0"})
@@ -31,7 +31,7 @@ def get(url, tries=3):
         except Exception as e:
             if i == tries - 1:
                 raise
-            time.sleep(5 * (i + 1))
+            time.sleep(20 * (i + 1))
 
 
 def visa_label(raw):
@@ -69,15 +69,16 @@ def climate(lat, lon):
         rd = round(sum(a["rain_days"].values()) / yrs, 1)
         mm = round(sum(a["rain_mm"].values()) / yrs)
         out.append({"month": m, "name": MONTHS[m - 1], "tmax": tmax, "tmin": tmin, "rain_days": rd, "rain_mm": mm,
-                    "fit": fit(tmax, rd)})
+                    "fit": fit(tmax, mm)})
     return out
 
 
-def fit(tmax, rain_days):
-    """تقدير عام: «ممتاز» حرارة عظمى 18–30 ومطر أقل من 8 أيام، «مقبول» 12–34 ومطر أقل من 13 يوم."""
-    if 18 <= tmax <= 30 and rain_days <= 8:
+def fit(tmax, rain_mm):
+    """تقدير عام: «ممتاز» حرارة عظمى 18–31 ومطر ≤110 ملم بالشهر، «مقبول» 13–34 ومطر ≤190 ملم.
+    نعتمد الملم لا عدد الأيام، لأن بيانات إعادة التحليل تحسب الرذاذ يوم ممطر."""
+    if 18 <= tmax <= 31 and rain_mm <= 110:
         return "ممتاز"
-    if 12 <= tmax <= 34 and rain_days <= 12:
+    if 13 <= tmax <= 34 and rain_mm <= 190:
         return "مقبول"
     return "غير مناسب"
 
@@ -105,7 +106,11 @@ def main():
         try:
             wx = climate(c["lat"], c["lon"])
         except Exception as e:
-            wx, _ = [], errors.append(f"{iso} طقس: {e}")
+            prev = OUT / f"{iso}.json"
+            wx = json.loads(prev.read_text(encoding="utf-8"))["weather"]["months"] if prev.exists() else []
+            for x in wx:
+                x["fit"] = fit(x["tmax"], x["rain_mm"])
+            errors.append(f"{iso} طقس: {e}" + (" (استخدمت النسخة السابقة)" if wx else ""))
         m = manual.get(iso, {})
         rec = {
             "iso2": iso,
@@ -124,14 +129,14 @@ def main():
                                     "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز", "official": m.get("visa_official")},
             "public_holidays": {"value": hol, "source": SRC["hol"], "checked": TODAY},
             "weather": {"city": c["city"], "lat": c["lat"], "lon": c["lon"], "months": wx, "source": SRC["wx"],
-                        "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."},
+                        "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة العظمى وكمية المطر. المطر في المناطق الاستوائية غالبًا زخات قصيرة."},
             "best_months": [x["name"] for x in wx if x["fit"] == "ممتاز"],
             "ok_months": [x["name"] for x in wx if x["fit"] == "مقبول"],
             "manual": m.get("notes", []),
         }
         (OUT / f"{iso}.json").write_text(json.dumps(rec, ensure_ascii=False, indent=2), encoding="utf-8")
         allc.append(rec)
-        time.sleep(1)
+        time.sleep(3)
     (OUT / "all.json").write_text(json.dumps(allc, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"دول: {len(allc)} · أخطاء: {len(errors)}")
     for e in errors:
