@@ -4,7 +4,7 @@
 المدخلات: channels.json و destinations.json
 المخرجات: data/youtube-candidates.json (ما يكرر فيديو، ويحافظ على تقييمك status)
 """
-import json, sys, urllib.request, xml.etree.ElementTree as ET
+import json, re, sys, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -37,9 +37,18 @@ def parse_feed(xml_text, channel_name):
         }
 
 
+L = r"\w\u0600-\u06FF"  # حروف لاتينية وعربية
+PREFIX = r"(?:[وبلفك]|ال|وال|بال|لل)?"  # وأنطاليا، بماليزيا، لتايلند
+
+
+def word_re(w):
+    return re.compile(rf"(?<![{L}]){PREFIX}{re.escape(w.lower())}(?![{L}])")
+
+
 def match(video, dests):
+    """يطابق الكلمة كاملة، عشان «غوا» ما تمسك «غواتيمالا»."""
     text = (video["title"] + " " + video["description"]).lower()
-    return [k for k, d in dests.items() if any(w.lower() in text for w in d["keywords"])]
+    return [k for k, d in dests.items() if any(word_re(w).search(text) for w in d["keywords"])]
 
 
 def main():
