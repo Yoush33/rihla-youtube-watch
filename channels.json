@@ -1,6 +1,21 @@
 {
   "_شرح": "أضف كل قناة بالاسم ورقم التعريف اللي يبدأ بـ UC. من صفحة القناة: حول ← مشاركة القناة ← نسخ معرّف القناة.",
   "channels": [
-    {"name": "اكتب اسم القناة", "id": "UCxxxxxxxxxxxxxxxxxxxxxx"}
+    {
+      "name": "خالد · Travel With You",
+      "id": "UC-SEFu-kfLT5SO_RovJyBKQ"
+    },
+    {
+      "name": "كنوز السفر",
+      "id": "UClXNV-V3G04tuETacLOIIeQ"
+    },
+    {
+      "name": "سائح تيوب",
+      "id": "UCMR9OTyowXsbm86LKEGAXgw"
+    },
+    {
+      "name": "أحمد الشمري",
+      "id": "UCx_YHHML3lXhYq4fwp_XhsQ"
+    }
   ]
 }
