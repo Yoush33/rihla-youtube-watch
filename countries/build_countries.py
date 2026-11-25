@@ -26,11 +26,11 @@ class RateLimited(Exception):
     pass
 
 
-def get(url, tries=3):
+def get(url, tries=3, timeout=60):
     for i in range(tries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "rihla-countries/1.0"})
-            with urllib.request.urlopen(req, timeout=60) as r:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.read().decode("utf-8")
         except urllib.error.HTTPError as e:
             if e.code == 429:  # وصلنا الحد المجاني: لا نكرر
@@ -100,6 +100,10 @@ def main():
     for row in csv.reader(io.StringIO(get("https://raw.githubusercontent.com/ilyankou/passport-index-dataset/master/passport-index-tidy-iso2.csv"))):
         if row and row[0] == "SA":
             visa[row[1]] = row[2]
+    try:  # الإجازات: نطلب بس الدول اللي Nager يدعمها
+        nager = {c["countryCode"] for c in json.loads(get("https://date.nager.at/api/v3/AvailableCountries", tries=2, timeout=15))}
+    except Exception:
+        nager = set()
     OUT.mkdir(exist_ok=True)
     allc, errors = [], []
     weather_off = False
@@ -109,8 +113,11 @@ def main():
         label, code, days = visa_label(visa.get(iso))
         hol = []
         for y in (2026, 2027):
+            if iso not in nager:
+                break
             try:
-                hol += [{"date": h["date"], "name": h.get("localName") or h["name"]} for h in json.loads(get(f"https://date.nager.at/api/v3/PublicHolidays/{y}/{iso}"))]
+                hol += [{"date": h["date"], "name": h.get("localName") or h["name"]}
+                        for h in json.loads(get(f"https://date.nager.at/api/v3/PublicHolidays/{y}/{iso}", tries=1, timeout=15))]
             except Exception:
                 pass
         try:
