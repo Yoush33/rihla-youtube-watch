@@ -4,8 +4,8 @@
 المدخلات: channels.json و destinations.json
 المخرجات: data/youtube-candidates.json (ما يكرر فيديو، ويحافظ على تقييمك status)
 """
-import json, os, re, sys, urllib.parse, urllib.request
-from datetime import timedelta, xml.etree.ElementTree as ET
+import json, os, re, sys, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+from datetime import timedelta
 from datetime import datetime, timezone
 from pathlib import Path
 
