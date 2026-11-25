@@ -106,6 +106,51 @@ def search_destinations(dests, store):
     return added
 
 
+# ── ترجمة وتلخيص عربي عبر GitHub Models (مجاني بحدود يومية، يستخدم GITHUB_TOKEN) ──
+MODELS_URL = "https://models.github.ai/inference/chat/completions"
+MODEL = "openai/gpt-4o-mini"
+MAX_PER_RUN = 40
+PROMPT = ("أنت تساعد مسافر سعودي. من عنوان مقطع يوتيوب ووصفه، أرجع JSON فقط بالمفاتيح: "
+          "title_ar (العنوان بالعربي، وإذا هو عربي انسخه)، "
+          "summary_ar (سطرين بالعربي: وش المقطع وهل هو تجربة سفر فعلية)، "
+          "places (قائمة أسماء أماكن أو فنادق أو مطاعم مذكورة، بالعربي، أو قائمة فاضية)، "
+          "is_trip (true إذا المقطع تجربة سفر أو دليل سياحي، false إذا مقلب أو قيادة أو موضوع ثاني). "
+          "لا تخترع شي مو موجود في النص.")
+
+
+def summarize(video):
+    body = json.dumps({"model": MODEL, "temperature": 0.2,
+                       "response_format": {"type": "json_object"},
+                       "messages": [{"role": "system", "content": PROMPT},
+                                    {"role": "user", "content": f"العنوان: {video['title']}\nالوصف: {video['description'][:1200]}"}]}).encode()
+    req = urllib.request.Request(MODELS_URL, data=body, headers={
+        "Authorization": "Bearer " + os.environ["GITHUB_TOKEN"], "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        out = json.load(r)["choices"][0]["message"]["content"]
+    return json.loads(out)
+
+
+def translate_new(store):
+    done = 0
+    for v in store["videos"].values():
+        if done >= MAX_PER_RUN:
+            break
+        if "summary_ar" in v or v.get("status") == "ما ينفع":
+            continue
+        try:
+            r = summarize(v)
+        except Exception as e:
+            print("الترجمة توقفت:", e)
+            break
+        v["title_ar"] = r.get("title_ar") or v["title"]
+        v["summary_ar"] = r.get("summary_ar", "")
+        v["places_ar"] = r.get("places") or []
+        if r.get("is_trip") is False and v.get("status") == "مرشح للمراجعة":
+            v["status"] = "مستبعد تلقائيًا"
+        done += 1
+    return done
+
+
 def main():
     channels = load(HERE / "channels.json", {}).get("channels", [])
     dests = load(HERE / "destinations.json", {})
@@ -140,6 +185,8 @@ def main():
             print("البحث فشل:", e)
     else:
         print("ما فيه YOUTUBE_API_KEY، تخطيت البحث")
+    if os.environ.get("GITHUB_TOKEN"):
+        print(f"تُرجم ولُخّص: {translate_new(store)}")
     store["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps(store, ensure_ascii=False, indent=2), encoding="utf-8")

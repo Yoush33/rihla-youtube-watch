@@ -5,6 +5,7 @@ on:
   workflow_dispatch: {}     # زر تشغيل يدوي
 permissions:
   contents: write
+  models: read
 jobs:
   watch:
     runs-on: ubuntu-latest
@@ -16,6 +17,7 @@ jobs:
       - run: python watch.py
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: حفظ النتيجة
         run: |
           git config user.name "rihla-bot"
