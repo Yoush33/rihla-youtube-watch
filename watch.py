@@ -141,6 +141,44 @@ def summarize(video):
     raise RuntimeError(" || ".join(errors))
 
 
+ARABIC = re.compile(r"[\u0600-\u06FF]")
+_argos = None
+
+
+def argos_translate(text):
+    """ترجمة إنجليزي إلى عربي بدون إنترنت (Argos Translate). ترجمة حرفية بدون تلخيص."""
+    global _argos
+    if _argos is None:
+        import argostranslate.package as pk, argostranslate.translate as tr
+        pk.update_package_index()
+        pkg = next(p for p in pk.get_available_packages() if p.from_code == "en" and p.to_code == "ar")
+        pk.install_from_path(pkg.download())
+        _argos = tr
+    return _argos.translate(text, "en", "ar")
+
+
+def translate_offline(store):
+    done = 0
+    for v in store["videos"].values():
+        if done >= 200:
+            break
+        if "title_ar" in v or v.get("status") == "ما ينفع":
+            continue
+        if ARABIC.search(v["title"]):
+            v["title_ar"] = v["title"]
+            continue
+        try:
+            v["title_ar"] = argos_translate(v["title"])
+            desc = v["description"].split("\n\n")[0][:400]
+            v["summary_ar"] = argos_translate(desc) if desc.strip() else ""
+            v["translated_by"] = "Argos (حرفية)"
+        except Exception as e:
+            print("الترجمة المحلية توقفت:", e)
+            break
+        done += 1
+    return done
+
+
 def translate_new(store):
     done = 0
     for v in store["videos"].values():
@@ -198,6 +236,8 @@ def main():
         print("ما فيه YOUTUBE_API_KEY، تخطيت البحث")
     if os.environ.get("GITHUB_TOKEN"):
         print(f"تُرجم ولُخّص: {translate_new(store)}")
+    if os.environ.get("ARGOS", "1") == "1":
+        print(f"تُرجم محليًا: {translate_offline(store)}")
     store["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps(store, ensure_ascii=False, indent=2), encoding="utf-8")
