@@ -4,7 +4,7 @@
 المدخلات: channels.json و destinations.json
 المخرجات: data/youtube-candidates.json (ما يكرر فيديو، ويحافظ على تقييمك status)
 """
-import json, os, re, sys, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+import json, os, re, sys, urllib.error, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 from datetime import timedelta
 from datetime import datetime, timezone
 from pathlib import Path
@@ -125,8 +125,16 @@ def summarize(video):
                                     {"role": "user", "content": f"العنوان: {video['title']}\nالوصف: {video['description'][:1200]}"}]}).encode()
     req = urllib.request.Request(MODELS_URL, data=body, headers={
         "Authorization": "Bearer " + os.environ["GITHUB_TOKEN"], "Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        out = json.load(r)["choices"][0]["message"]["content"]
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            raw = r.read().decode("utf-8")
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:300]}")
+    try:
+        out = json.loads(raw)["choices"][0]["message"]["content"]
+    except Exception:
+        raise RuntimeError("رد غير متوقع: " + raw[:300])
+    out = re.sub(r"^```(?:json)?|```$", "", out.strip()).strip()
     return json.loads(out)
 
 
