@@ -18,7 +18,8 @@ jobs:
         run: |
           git config user.name "rihla-bot"
           git config user.email "rihla-bot@users.noreply.github.com"
-          git pull --rebase origin main
           git add countries/data
-          git diff --cached --quiet || git commit -m "تحديث بيانات الدول"
+          git diff --cached --quiet && exit 0
+          git commit -m "تحديث بيانات الدول"
+          git pull --rebase origin main
           git push
