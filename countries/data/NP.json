@@ -1,0 +1,175 @@
+{
+  "iso2": "NP",
+  "name_ar": "نيبال",
+  "name_en": "Nepal",
+  "region_rihla": "جنوب آسيا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Kathmandu"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "NPR (Nepalese rupee)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Nepali"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+977",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة عند الوصول",
+    "code": "on_arrival",
+    "days": null,
+    "raw": "visa on arrival",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "بوخارا",
+    "lat": 28.21,
+    "lon": 83.99,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 16.7,
+        "tmin": 6.0,
+        "rain_days": 5.7,
+        "rain_mm": 47,
+        "fit": "مقبول"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 19.1,
+        "tmin": 8.0,
+        "rain_days": 5.4,
+        "rain_mm": 46,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 23.4,
+        "tmin": 11.3,
+        "rain_days": 7.2,
+        "rain_mm": 40,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 27.0,
+        "tmin": 14.7,
+        "rain_days": 7.4,
+        "rain_mm": 48,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 26.8,
+        "tmin": 17.9,
+        "rain_days": 15.2,
+        "rain_mm": 184,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 27.5,
+        "tmin": 20.7,
+        "rain_days": 23.9,
+        "rain_mm": 502,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 26.9,
+        "tmin": 21.7,
+        "rain_days": 30.1,
+        "rain_mm": 866,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 27.0,
+        "tmin": 21.6,
+        "rain_days": 28.3,
+        "rain_mm": 612,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 26.4,
+        "tmin": 20.5,
+        "rain_days": 20.6,
+        "rain_mm": 465,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 24.6,
+        "tmin": 16.1,
+        "rain_days": 7.7,
+        "rain_mm": 108,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 21.4,
+        "tmin": 11.3,
+        "rain_days": 1.1,
+        "rain_mm": 4,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 18.0,
+        "tmin": 7.6,
+        "rain_days": 2.0,
+        "rain_mm": 24,
+        "fit": "ممتاز"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "فبراير",
+    "مارس",
+    "أبريل",
+    "أكتوبر",
+    "نوفمبر",
+    "ديسمبر"
+  ],
+  "ok_months": [
+    "يناير"
+  ],
+  "manual": []
+}

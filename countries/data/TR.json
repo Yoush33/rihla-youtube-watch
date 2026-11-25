@@ -1,0 +1,298 @@
+{
+  "iso2": "TR",
+  "name_ar": "تركيا",
+  "name_en": "Türkiye",
+  "region_rihla": "تركيا والقوقاز",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Ankara"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "TRY (Turkish lira)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Turkish"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+90",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "بدون تأشيرة حتى 90 يوم",
+    "code": "visa_free",
+    "days": 90,
+    "raw": "90",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Yılbaşı"
+      },
+      {
+        "date": "2026-03-20",
+        "name": "Ramazan Bayramı 1. Gün"
+      },
+      {
+        "date": "2026-03-21",
+        "name": "Ramazan Bayramı 2. Gün"
+      },
+      {
+        "date": "2026-03-22",
+        "name": "Ramazan Bayramı 3. Gün"
+      },
+      {
+        "date": "2026-04-23",
+        "name": "Ulusal Egemenlik ve Çocuk Bayramı"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "İşçi Bayramı"
+      },
+      {
+        "date": "2026-05-19",
+        "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+      },
+      {
+        "date": "2026-05-27",
+        "name": "Kurban Bayramı 1. Gün"
+      },
+      {
+        "date": "2026-05-28",
+        "name": "Kurban Bayramı 2. Gün"
+      },
+      {
+        "date": "2026-05-29",
+        "name": "Kurban Bayramı 3. Gün"
+      },
+      {
+        "date": "2026-05-30",
+        "name": "Kurban Bayramı 4. Gün"
+      },
+      {
+        "date": "2026-07-15",
+        "name": "Demokrasi ve Millî Birlik Günü"
+      },
+      {
+        "date": "2026-08-30",
+        "name": "Zafer Bayramı"
+      },
+      {
+        "date": "2026-10-29",
+        "name": "Cumhuriyet Bayramı"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Yılbaşı"
+      },
+      {
+        "date": "2027-03-10",
+        "name": "Ramazan Bayramı 1. Gün (Tentative Date)"
+      },
+      {
+        "date": "2027-03-11",
+        "name": "Ramazan Bayramı 2. Gün (Tentative Date)"
+      },
+      {
+        "date": "2027-03-12",
+        "name": "Ramazan Bayramı 3. Gün (Tentative Date)"
+      },
+      {
+        "date": "2027-04-23",
+        "name": "Ulusal Egemenlik ve Çocuk Bayramı"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "İşçi Bayramı"
+      },
+      {
+        "date": "2027-05-16",
+        "name": "Kurban Bayramı 1. Gün (Tentative Date)"
+      },
+      {
+        "date": "2027-05-17",
+        "name": "Kurban Bayramı 2. Gün (Tentative Date)"
+      },
+      {
+        "date": "2027-05-18",
+        "name": "Kurban Bayramı 3. Gün (Tentative Date)"
+      },
+      {
+        "date": "2027-05-19",
+        "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+      },
+      {
+        "date": "2027-05-19",
+        "name": "Kurban Bayramı 4. Gün (Tentative Date)"
+      },
+      {
+        "date": "2027-07-15",
+        "name": "Demokrasi ve Millî Birlik Günü"
+      },
+      {
+        "date": "2027-08-30",
+        "name": "Zafer Bayramı"
+      },
+      {
+        "date": "2027-10-29",
+        "name": "Cumhuriyet Bayramı"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "إسطنبول",
+    "lat": 41.01,
+    "lon": 28.98,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 9.3,
+        "tmin": 3.7,
+        "rain_days": 13.2,
+        "rain_mm": 106,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 10.4,
+        "tmin": 4.2,
+        "rain_days": 10.5,
+        "rain_mm": 73,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 12.8,
+        "tmin": 5.5,
+        "rain_days": 11.2,
+        "rain_mm": 74,
+        "fit": "مقبول"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 17.0,
+        "tmin": 8.5,
+        "rain_days": 8.6,
+        "rain_mm": 53,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 21.3,
+        "tmin": 13.0,
+        "rain_days": 9.0,
+        "rain_mm": 60,
+        "fit": "مقبول"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 26.5,
+        "tmin": 18.2,
+        "rain_days": 7.6,
+        "rain_mm": 48,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 29.2,
+        "tmin": 20.7,
+        "rain_days": 4.8,
+        "rain_mm": 30,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 29.2,
+        "tmin": 21.4,
+        "rain_days": 3.4,
+        "rain_mm": 20,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 25.5,
+        "tmin": 17.9,
+        "rain_days": 7.4,
+        "rain_mm": 43,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 20.2,
+        "tmin": 13.5,
+        "rain_days": 7.4,
+        "rain_mm": 58,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 16.3,
+        "tmin": 10.0,
+        "rain_days": 9.1,
+        "rain_mm": 85,
+        "fit": "مقبول"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 11.6,
+        "tmin": 6.3,
+        "rain_days": 13.4,
+        "rain_mm": 96,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "يونيو",
+    "يوليو",
+    "أغسطس",
+    "سبتمبر",
+    "أكتوبر"
+  ],
+  "ok_months": [
+    "مارس",
+    "أبريل",
+    "مايو",
+    "نوفمبر"
+  ],
+  "manual": [
+    {
+      "topic": "المساج",
+      "value": "حمام كيليتش علي باشا في كاراكوي: المساج يوصل إلى 5,500 ليرة",
+      "source": "kilicalipasahamami.com",
+      "checked": "2026-11-23",
+      "status": "مفحوص"
+    }
+  ]
+}

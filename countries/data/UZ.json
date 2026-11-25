@@ -1,0 +1,176 @@
+{
+  "iso2": "UZ",
+  "name_ar": "أوزباكستان",
+  "name_en": "Uzbekistan",
+  "region_rihla": "آسيا الوسطى",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Tashkent"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "UZS (Uzbekistani soʻm)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Russian",
+        "Uzbek"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+998",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "بدون تأشيرة حتى 90 يوم",
+    "code": "visa_free",
+    "days": 90,
+    "raw": "90",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "سمرقند",
+    "lat": 39.65,
+    "lon": 66.96,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 8.2,
+        "tmin": -2.2,
+        "rain_days": 8.4,
+        "rain_mm": 54,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 10.7,
+        "tmin": -0.6,
+        "rain_days": 8.8,
+        "rain_mm": 60,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 16.0,
+        "tmin": 4.3,
+        "rain_days": 12.0,
+        "rain_mm": 96,
+        "fit": "مقبول"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 21.3,
+        "tmin": 9.0,
+        "rain_days": 9.5,
+        "rain_mm": 74,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 27.6,
+        "tmin": 14.2,
+        "rain_days": 7.9,
+        "rain_mm": 67,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 33.7,
+        "tmin": 19.0,
+        "rain_days": 1.6,
+        "rain_mm": 6,
+        "fit": "مقبول"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 36.6,
+        "tmin": 21.7,
+        "rain_days": 0.2,
+        "rain_mm": 1,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 34.3,
+        "tmin": 19.2,
+        "rain_days": 0.5,
+        "rain_mm": 2,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 29.8,
+        "tmin": 14.7,
+        "rain_days": 1.0,
+        "rain_mm": 4,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 21.5,
+        "tmin": 8.1,
+        "rain_days": 5.2,
+        "rain_mm": 33,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 14.1,
+        "tmin": 2.0,
+        "rain_days": 6.1,
+        "rain_mm": 39,
+        "fit": "مقبول"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 9.2,
+        "tmin": -1.1,
+        "rain_days": 8.2,
+        "rain_mm": 44,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "مايو",
+    "سبتمبر",
+    "أكتوبر"
+  ],
+  "ok_months": [
+    "مارس",
+    "أبريل",
+    "يونيو",
+    "نوفمبر"
+  ],
+  "manual": []
+}

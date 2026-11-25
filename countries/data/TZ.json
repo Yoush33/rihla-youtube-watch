@@ -1,0 +1,272 @@
+{
+  "iso2": "TZ",
+  "name_ar": "تنزانيا",
+  "name_en": "Tanzania",
+  "region_rihla": "أفريقيا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Dodoma"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "TZS (Tanzanian shilling)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "English",
+        "Swahili"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+255",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة عند الوصول",
+    "code": "on_arrival",
+    "days": null,
+    "raw": "visa on arrival",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Mwaka mpya"
+      },
+      {
+        "date": "2026-01-12",
+        "name": "Sikukuu ya Mapinduzi ya Zanzibar"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Ijumaa Kuu"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Jumatatu ya Pasaka"
+      },
+      {
+        "date": "2026-04-07",
+        "name": "Siku ya Karume"
+      },
+      {
+        "date": "2026-04-26",
+        "name": "Sikukuu ya Muungano"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Sikukuu ya Wafanyakazi"
+      },
+      {
+        "date": "2026-07-07",
+        "name": "Saba Saba"
+      },
+      {
+        "date": "2026-08-08",
+        "name": "Nane Nane"
+      },
+      {
+        "date": "2026-10-14",
+        "name": "Siku ya Nyerere"
+      },
+      {
+        "date": "2026-12-09",
+        "name": "Siku ya Uhuru"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Krismasi"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Siku ya kufungua Zawadi"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Mwaka mpya"
+      },
+      {
+        "date": "2027-01-12",
+        "name": "Sikukuu ya Mapinduzi ya Zanzibar"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Ijumaa Kuu"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Jumatatu ya Pasaka"
+      },
+      {
+        "date": "2027-04-07",
+        "name": "Siku ya Karume"
+      },
+      {
+        "date": "2027-04-26",
+        "name": "Sikukuu ya Muungano"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Sikukuu ya Wafanyakazi"
+      },
+      {
+        "date": "2027-07-07",
+        "name": "Saba Saba"
+      },
+      {
+        "date": "2027-08-08",
+        "name": "Nane Nane"
+      },
+      {
+        "date": "2027-10-14",
+        "name": "Siku ya Nyerere"
+      },
+      {
+        "date": "2027-12-09",
+        "name": "Siku ya Uhuru"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Krismasi"
+      },
+      {
+        "date": "2027-12-26",
+        "name": "Siku ya kufungua Zawadi"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "زنجبار",
+    "lat": -6.16,
+    "lon": 39.19,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 31.8,
+        "tmin": 26.0,
+        "rain_days": 12.3,
+        "rain_mm": 64,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 32.3,
+        "tmin": 26.1,
+        "rain_days": 12.2,
+        "rain_mm": 42,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 31.6,
+        "tmin": 26.0,
+        "rain_days": 19.7,
+        "rain_mm": 105,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 28.5,
+        "tmin": 25.1,
+        "rain_days": 28.0,
+        "rain_mm": 390,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 28.0,
+        "tmin": 24.7,
+        "rain_days": 21.6,
+        "rain_mm": 210,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 27.7,
+        "tmin": 24.0,
+        "rain_days": 17.3,
+        "rain_mm": 70,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 27.2,
+        "tmin": 23.2,
+        "rain_days": 18.7,
+        "rain_mm": 47,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 27.7,
+        "tmin": 22.9,
+        "rain_days": 17.1,
+        "rain_mm": 42,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 28.5,
+        "tmin": 23.1,
+        "rain_days": 17.3,
+        "rain_mm": 46,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 29.3,
+        "tmin": 23.7,
+        "rain_days": 19.0,
+        "rain_mm": 93,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 29.9,
+        "tmin": 24.5,
+        "rain_days": 23.2,
+        "rain_mm": 116,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 30.7,
+        "tmin": 25.4,
+        "rain_days": 20.8,
+        "rain_mm": 106,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [],
+  "manual": []
+}

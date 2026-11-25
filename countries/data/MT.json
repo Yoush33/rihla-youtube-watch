@@ -1,0 +1,294 @@
+{
+  "iso2": "MT",
+  "name_ar": "مالطا",
+  "name_en": "Malta",
+  "region_rihla": "جنوب أوروبا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Valletta"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "EUR (Euro)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "English",
+        "Maltese"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+356",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "L-Ewwel tas-Sena"
+      },
+      {
+        "date": "2026-02-10",
+        "name": "In-Nawfraġju ta’ San Pawl"
+      },
+      {
+        "date": "2026-03-19",
+        "name": "San Ġużepp"
+      },
+      {
+        "date": "2026-03-31",
+        "name": "Jum il-Ħelsien"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Il-Ġimgħa l-Kbira"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Jum il-Ħaddiem"
+      },
+      {
+        "date": "2026-06-07",
+        "name": "Sette Giugno"
+      },
+      {
+        "date": "2026-06-29",
+        "name": "L-Imnarja"
+      },
+      {
+        "date": "2026-08-15",
+        "name": "Santa Marija"
+      },
+      {
+        "date": "2026-09-08",
+        "name": "Il-Vittorja"
+      },
+      {
+        "date": "2026-09-21",
+        "name": "L-Indipendenza"
+      },
+      {
+        "date": "2026-12-08",
+        "name": "L-Immakulata Kunċizzjoni"
+      },
+      {
+        "date": "2026-12-13",
+        "name": "Jum ir-Repubblika"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Il-Milied"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "L-Ewwel tas-Sena"
+      },
+      {
+        "date": "2027-02-10",
+        "name": "In-Nawfraġju ta’ San Pawl"
+      },
+      {
+        "date": "2027-03-19",
+        "name": "San Ġużepp"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Il-Ġimgħa l-Kbira"
+      },
+      {
+        "date": "2027-03-31",
+        "name": "Jum il-Ħelsien"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Jum il-Ħaddiem"
+      },
+      {
+        "date": "2027-06-07",
+        "name": "Sette Giugno"
+      },
+      {
+        "date": "2027-06-29",
+        "name": "L-Imnarja"
+      },
+      {
+        "date": "2027-08-15",
+        "name": "Santa Marija"
+      },
+      {
+        "date": "2027-09-08",
+        "name": "Il-Vittorja"
+      },
+      {
+        "date": "2027-09-21",
+        "name": "L-Indipendenza"
+      },
+      {
+        "date": "2027-12-08",
+        "name": "L-Immakulata Kunċizzjoni"
+      },
+      {
+        "date": "2027-12-13",
+        "name": "Jum ir-Repubblika"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Il-Milied"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "فاليتا",
+    "lat": 35.9,
+    "lon": 14.51,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 15.5,
+        "tmin": 11.5,
+        "rain_days": 7.9,
+        "rain_mm": 38,
+        "fit": "مقبول"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 15.8,
+        "tmin": 11.5,
+        "rain_days": 5.9,
+        "rain_mm": 42,
+        "fit": "مقبول"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 16.9,
+        "tmin": 12.6,
+        "rain_days": 6.4,
+        "rain_mm": 34,
+        "fit": "مقبول"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 18.8,
+        "tmin": 14.2,
+        "rain_days": 3.8,
+        "rain_mm": 16,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 22.4,
+        "tmin": 17.2,
+        "rain_days": 3.3,
+        "rain_mm": 20,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 27.6,
+        "tmin": 21.4,
+        "rain_days": 0.9,
+        "rain_mm": 3,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 30.6,
+        "tmin": 24.1,
+        "rain_days": 0.3,
+        "rain_mm": 1,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 30.5,
+        "tmin": 25.1,
+        "rain_days": 1.4,
+        "rain_mm": 5,
+        "fit": "مقبول"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 27.9,
+        "tmin": 23.2,
+        "rain_days": 4.6,
+        "rain_mm": 30,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 24.3,
+        "tmin": 20.0,
+        "rain_days": 7.2,
+        "rain_mm": 60,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 20.8,
+        "tmin": 16.8,
+        "rain_days": 11.2,
+        "rain_mm": 72,
+        "fit": "مقبول"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 17.3,
+        "tmin": 13.6,
+        "rain_days": 8.7,
+        "rain_mm": 43,
+        "fit": "مقبول"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "أبريل",
+    "مايو",
+    "يونيو",
+    "سبتمبر",
+    "أكتوبر"
+  ],
+  "ok_months": [
+    "يناير",
+    "فبراير",
+    "مارس",
+    "يوليو",
+    "أغسطس",
+    "نوفمبر",
+    "ديسمبر"
+  ],
+  "manual": []
+}

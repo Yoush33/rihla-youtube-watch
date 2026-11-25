@@ -1,0 +1,302 @@
+{
+  "iso2": "BA",
+  "name_ar": "البوسنة والهرسك",
+  "name_en": "Bosnia and Herzegovina",
+  "region_rihla": "البلقان",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Sarajevo"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "BAM (Bosnia and Herzegovina convertible mark)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Bosnian",
+        "Croatian",
+        "Serbian"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+387",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": "https://www.fipa.gov.ba/informacije/raditi_zivjeti_bih/vize/?id=98"
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Nova Godina"
+      },
+      {
+        "date": "2026-01-02",
+        "name": "Nova Godina"
+      },
+      {
+        "date": "2026-01-06",
+        "name": "Božić (za pravoslavce)"
+      },
+      {
+        "date": "2026-01-07",
+        "name": "Božić (za pravoslavce)"
+      },
+      {
+        "date": "2026-03-01",
+        "name": "Dan nezavisnosti Bosne i Hercegovine"
+      },
+      {
+        "date": "2026-04-10",
+        "name": "Veliki petak"
+      },
+      {
+        "date": "2026-04-12",
+        "name": "Vaskrs (Uskrs)"
+      },
+      {
+        "date": "2026-04-13",
+        "name": "Vaskrsni (Uskrsni) ponedeljak"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Praznik rada"
+      },
+      {
+        "date": "2026-05-02",
+        "name": "Praznik rada"
+      },
+      {
+        "date": "2026-05-09",
+        "name": "Dan pobjede nad fašizmom"
+      },
+      {
+        "date": "2026-11-21",
+        "name": "Dan uspostavljanja Opšteg okvirnog sporazuma za mir u BiH"
+      },
+      {
+        "date": "2026-11-25",
+        "name": "Dan državnosti Bosne i Hercegovine"
+      },
+      {
+        "date": "2026-12-24",
+        "name": "Božić (za rimokatolike)"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Božić (za rimokatolike)"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Nova Godina"
+      },
+      {
+        "date": "2027-01-02",
+        "name": "Nova Godina"
+      },
+      {
+        "date": "2027-01-06",
+        "name": "Božić (za pravoslavce)"
+      },
+      {
+        "date": "2027-01-07",
+        "name": "Božić (za pravoslavce)"
+      },
+      {
+        "date": "2027-03-01",
+        "name": "Dan nezavisnosti Bosne i Hercegovine"
+      },
+      {
+        "date": "2027-04-30",
+        "name": "Veliki petak"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Praznik rada"
+      },
+      {
+        "date": "2027-05-02",
+        "name": "Praznik rada"
+      },
+      {
+        "date": "2027-05-02",
+        "name": "Vaskrs (Uskrs)"
+      },
+      {
+        "date": "2027-05-03",
+        "name": "Vaskrsni (Uskrsni) ponedeljak"
+      },
+      {
+        "date": "2027-05-09",
+        "name": "Dan pobjede nad fašizmom"
+      },
+      {
+        "date": "2027-11-21",
+        "name": "Dan uspostavljanja Opšteg okvirnog sporazuma za mir u BiH"
+      },
+      {
+        "date": "2027-11-25",
+        "name": "Dan državnosti Bosne i Hercegovine"
+      },
+      {
+        "date": "2027-12-24",
+        "name": "Božić (za rimokatolike)"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Božić (za rimokatolike)"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "سراييفو",
+    "lat": 43.86,
+    "lon": 18.41,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 5.3,
+        "tmin": -4.2,
+        "rain_days": 13.7,
+        "rain_mm": 90,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 8.8,
+        "tmin": -1.1,
+        "rain_days": 10.7,
+        "rain_mm": 86,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 11.4,
+        "tmin": 0.9,
+        "rain_days": 13.3,
+        "rain_mm": 95,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 15.9,
+        "tmin": 4.1,
+        "rain_days": 12.3,
+        "rain_mm": 82,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 19.6,
+        "tmin": 8.9,
+        "rain_days": 15.7,
+        "rain_mm": 102,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 24.8,
+        "tmin": 13.7,
+        "rain_days": 13.1,
+        "rain_mm": 107,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 26.9,
+        "tmin": 15.3,
+        "rain_days": 11.4,
+        "rain_mm": 94,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 27.1,
+        "tmin": 15.3,
+        "rain_days": 9.8,
+        "rain_mm": 64,
+        "fit": "مقبول"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 22.3,
+        "tmin": 11.4,
+        "rain_days": 9.4,
+        "rain_mm": 63,
+        "fit": "مقبول"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 17.6,
+        "tmin": 7.0,
+        "rain_days": 9.0,
+        "rain_mm": 71,
+        "fit": "مقبول"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 11.8,
+        "tmin": 2.8,
+        "rain_days": 11.6,
+        "rain_mm": 129,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 7.5,
+        "tmin": -0.4,
+        "rain_days": 11.7,
+        "rain_mm": 103,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [
+    "يوليو",
+    "أغسطس",
+    "سبتمبر",
+    "أكتوبر"
+  ],
+  "manual": [
+    {
+      "topic": "التأشيرة",
+      "value": "إعفاء صيفي للسعوديين (من 1 يونيو إلى 30 سبتمبر تقريبًا)، وأقصى إقامة 30 يوم. خارج الموسم التأشيرة مطلوبة، إلا لحاملي تأشيرة شنغن سارية",
+      "source": "fipa.gov.ba (رسمي)، Wego أبريل 2026، Argaam",
+      "checked": "2026-11-24",
+      "status": "مفحوص، والإعفاء يتجدد كل سنة بقرار"
+    }
+  ]
+}

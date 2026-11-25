@@ -1,0 +1,327 @@
+{
+  "iso2": "AT",
+  "name_ar": "النمسا",
+  "name_en": "Austria",
+  "region_rihla": "وسط أوروبا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Vienna"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "EUR (Euro)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Austro-Bavarian German"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+43",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Neujahr"
+      },
+      {
+        "date": "2026-01-06",
+        "name": "Heilige Drei Könige"
+      },
+      {
+        "date": "2026-03-19",
+        "name": "Josefstag"
+      },
+      {
+        "date": "2026-04-05",
+        "name": "Ostersonntag"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Ostermontag"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Staatsfeiertag"
+      },
+      {
+        "date": "2026-05-04",
+        "name": "Florianitag"
+      },
+      {
+        "date": "2026-05-14",
+        "name": "Christi Himmelfahrt"
+      },
+      {
+        "date": "2026-05-24",
+        "name": "Pfingstsonntag"
+      },
+      {
+        "date": "2026-05-25",
+        "name": "Pfingstmontag"
+      },
+      {
+        "date": "2026-06-04",
+        "name": "Fronleichnam"
+      },
+      {
+        "date": "2026-08-15",
+        "name": "Maria Himmelfahrt"
+      },
+      {
+        "date": "2026-09-24",
+        "name": "Rupertitag"
+      },
+      {
+        "date": "2026-10-26",
+        "name": "Nationalfeiertag"
+      },
+      {
+        "date": "2026-11-01",
+        "name": "Allerheiligen"
+      },
+      {
+        "date": "2026-11-11",
+        "name": "Martinstag"
+      },
+      {
+        "date": "2026-11-15",
+        "name": "Leopolditag"
+      },
+      {
+        "date": "2026-12-08",
+        "name": "Mariä Empfängnis"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Weihnachten"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Stefanitag"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Neujahr"
+      },
+      {
+        "date": "2027-01-06",
+        "name": "Heilige Drei Könige"
+      },
+      {
+        "date": "2027-03-19",
+        "name": "Josefstag"
+      },
+      {
+        "date": "2027-03-28",
+        "name": "Ostersonntag"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Ostermontag"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Staatsfeiertag"
+      },
+      {
+        "date": "2027-05-04",
+        "name": "Florianitag"
+      },
+      {
+        "date": "2027-05-06",
+        "name": "Christi Himmelfahrt"
+      },
+      {
+        "date": "2027-05-16",
+        "name": "Pfingstsonntag"
+      },
+      {
+        "date": "2027-05-17",
+        "name": "Pfingstmontag"
+      },
+      {
+        "date": "2027-05-27",
+        "name": "Fronleichnam"
+      },
+      {
+        "date": "2027-08-15",
+        "name": "Maria Himmelfahrt"
+      },
+      {
+        "date": "2027-09-24",
+        "name": "Rupertitag"
+      },
+      {
+        "date": "2027-10-26",
+        "name": "Nationalfeiertag"
+      },
+      {
+        "date": "2027-11-01",
+        "name": "Allerheiligen"
+      },
+      {
+        "date": "2027-11-11",
+        "name": "Martinstag"
+      },
+      {
+        "date": "2027-11-15",
+        "name": "Leopolditag"
+      },
+      {
+        "date": "2027-12-08",
+        "name": "Mariä Empfängnis"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Weihnachten"
+      },
+      {
+        "date": "2027-12-26",
+        "name": "Stefanitag"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "زيلامسي",
+    "lat": 47.32,
+    "lon": 12.8,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 3.9,
+        "tmin": -4.5,
+        "rain_days": 15.7,
+        "rain_mm": 104,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 6.9,
+        "tmin": -2.5,
+        "rain_days": 12.2,
+        "rain_mm": 86,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 10.0,
+        "tmin": -0.2,
+        "rain_days": 14.5,
+        "rain_mm": 88,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 14.0,
+        "tmin": 3.0,
+        "rain_days": 14.6,
+        "rain_mm": 89,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 17.6,
+        "tmin": 6.9,
+        "rain_days": 20.0,
+        "rain_mm": 149,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 23.6,
+        "tmin": 12.2,
+        "rain_days": 16.6,
+        "rain_mm": 128,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 23.9,
+        "tmin": 13.5,
+        "rain_days": 18.7,
+        "rain_mm": 152,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 24.2,
+        "tmin": 13.9,
+        "rain_days": 15.5,
+        "rain_mm": 146,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 20.2,
+        "tmin": 10.0,
+        "rain_days": 13.3,
+        "rain_mm": 122,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 16.0,
+        "tmin": 6.3,
+        "rain_days": 12.4,
+        "rain_mm": 107,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 9.5,
+        "tmin": 0.7,
+        "rain_days": 12.1,
+        "rain_mm": 95,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 5.6,
+        "tmin": -2.0,
+        "rain_days": 14.4,
+        "rain_mm": 100,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [],
+  "manual": []
+}

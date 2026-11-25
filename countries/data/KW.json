@@ -1,0 +1,174 @@
+{
+  "iso2": "KW",
+  "name_ar": "الكويت",
+  "name_en": "Kuwait",
+  "region_rihla": "الخليج",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Kuwait City"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "KWD (Kuwaiti dinar)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Arabic"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+965",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "بدون تأشيرة",
+    "code": "visa_free",
+    "days": null,
+    "raw": "visa free",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "الكويت",
+    "lat": 29.38,
+    "lon": 47.99,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 18.6,
+        "tmin": 10.6,
+        "rain_days": 2.9,
+        "rain_mm": 18,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 20.6,
+        "tmin": 12.0,
+        "rain_days": 4.3,
+        "rain_mm": 13,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 25.3,
+        "tmin": 15.7,
+        "rain_days": 3.9,
+        "rain_mm": 28,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 31.3,
+        "tmin": 21.2,
+        "rain_days": 1.2,
+        "rain_mm": 6,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 38.1,
+        "tmin": 26.6,
+        "rain_days": 0.2,
+        "rain_mm": 1,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 43.4,
+        "tmin": 31.2,
+        "rain_days": 0.0,
+        "rain_mm": 0,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 44.7,
+        "tmin": 33.0,
+        "rain_days": 0.0,
+        "rain_mm": 0,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 43.9,
+        "tmin": 32.6,
+        "rain_days": 0.0,
+        "rain_mm": 0,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 41.5,
+        "tmin": 29.4,
+        "rain_days": 0.0,
+        "rain_mm": 0,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 34.8,
+        "tmin": 24.0,
+        "rain_days": 0.6,
+        "rain_mm": 1,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 26.1,
+        "tmin": 18.2,
+        "rain_days": 3.5,
+        "rain_mm": 34,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 20.3,
+        "tmin": 12.9,
+        "rain_days": 4.3,
+        "rain_mm": 25,
+        "fit": "ممتاز"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "يناير",
+    "فبراير",
+    "مارس",
+    "نوفمبر",
+    "ديسمبر"
+  ],
+  "ok_months": [
+    "أبريل"
+  ],
+  "manual": []
+}

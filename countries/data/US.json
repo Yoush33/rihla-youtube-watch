@@ -1,0 +1,194 @@
+{
+  "iso2": "US",
+  "name_ar": "الولايات المتحدة",
+  "name_en": "United States",
+  "region_rihla": "الأمريكتين",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Washington D.C."
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "USD (United States dollar)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "English"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+1201",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "2026-01-19",
+        "name": "Martin Luther King, Jr. Day"
+      },
+      {
+        "date": "2026-02-12",
+        "name": "Lincoln's Birthday"
+      },
+      {
+        "date": "2026-02-16",
+        "name": "Washington's Birthday"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2026-05-08",
+        "name": "Truman Day"
+      },
+      {
+        "date": "2026-05-25",
+        "name": "Memorial Day"
+      },
+      {
+        "date": "2026-06-19",
+        "name": "Juneteenth National Independence Day"
+      },
+      {
+        "date": "2026-07-03",
+        "name": "Independence Day"
+      },
+      {
+        "date": "2026-09-07",
+        "name": "Labor Day"
+      },
+      {
+        "date": "2026-10-12",
+        "name": "Columbus Day"
+      },
+      {
+        "date": "2026-10-12",
+        "name": "Columbus Day"
+      },
+      {
+        "date": "2026-10-12",
+        "name": "Indigenous Peoples' Day"
+      },
+      {
+        "date": "2026-11-11",
+        "name": "Veterans Day"
+      },
+      {
+        "date": "2026-11-26",
+        "name": "Thanksgiving Day"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "2027-01-18",
+        "name": "Martin Luther King, Jr. Day"
+      },
+      {
+        "date": "2027-02-12",
+        "name": "Lincoln's Birthday"
+      },
+      {
+        "date": "2027-02-15",
+        "name": "Washington's Birthday"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2027-05-08",
+        "name": "Truman Day"
+      },
+      {
+        "date": "2027-05-31",
+        "name": "Memorial Day"
+      },
+      {
+        "date": "2027-06-18",
+        "name": "Juneteenth National Independence Day"
+      },
+      {
+        "date": "2027-07-05",
+        "name": "Independence Day"
+      },
+      {
+        "date": "2027-09-06",
+        "name": "Labor Day"
+      },
+      {
+        "date": "2027-10-11",
+        "name": "Columbus Day"
+      },
+      {
+        "date": "2027-10-11",
+        "name": "Columbus Day"
+      },
+      {
+        "date": "2027-10-11",
+        "name": "Indigenous Peoples' Day"
+      },
+      {
+        "date": "2027-11-11",
+        "name": "Veterans Day"
+      },
+      {
+        "date": "2027-11-25",
+        "name": "Thanksgiving Day"
+      },
+      {
+        "date": "2027-12-24",
+        "name": "Christmas Day"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "نيويورك",
+    "lat": 40.71,
+    "lon": -74.01,
+    "months": [],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [],
+  "manual": []
+}

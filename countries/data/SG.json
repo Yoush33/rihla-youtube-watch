@@ -1,0 +1,258 @@
+{
+  "iso2": "SG",
+  "name_ar": "سنغافورة",
+  "name_en": "Singapore",
+  "region_rihla": "جنوب شرق آسيا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Singapore"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "SGD (Singapore dollar)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "English",
+        "Malay",
+        "Tamil",
+        "Chinese"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+65",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "بدون تأشيرة",
+    "code": "visa_free",
+    "days": null,
+    "raw": "visa free",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "2026-02-17",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "2026-02-18",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "2026-03-21",
+        "name": "Hari Raya Puasa"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2026-05-27",
+        "name": "Hari Raya Haji"
+      },
+      {
+        "date": "2026-06-01",
+        "name": "Vesak Day"
+      },
+      {
+        "date": "2026-08-10",
+        "name": "National Day"
+      },
+      {
+        "date": "2026-11-09",
+        "name": "Deepavali"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "2027-02-06",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "2027-02-08",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "2027-03-10",
+        "name": "Hari Raya Puasa"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2027-05-17",
+        "name": "Hari Raya Haji"
+      },
+      {
+        "date": "2027-05-20",
+        "name": "Vesak Day"
+      },
+      {
+        "date": "2027-08-09",
+        "name": "National Day"
+      },
+      {
+        "date": "2027-10-28",
+        "name": "Deepavali"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Christmas Day"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "سنغافورة",
+    "lat": 1.35,
+    "lon": 103.82,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 29.1,
+        "tmin": 23.5,
+        "rain_days": 25.8,
+        "rain_mm": 292,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 30.0,
+        "tmin": 23.6,
+        "rain_days": 19.2,
+        "rain_mm": 121,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 30.6,
+        "tmin": 24.0,
+        "rain_days": 25.3,
+        "rain_mm": 227,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 30.4,
+        "tmin": 24.4,
+        "rain_days": 27.5,
+        "rain_mm": 304,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 30.2,
+        "tmin": 25.1,
+        "rain_days": 28.2,
+        "rain_mm": 312,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 29.6,
+        "tmin": 25.0,
+        "rain_days": 25.3,
+        "rain_mm": 292,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 29.6,
+        "tmin": 25.0,
+        "rain_days": 23.4,
+        "rain_mm": 202,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 29.5,
+        "tmin": 24.7,
+        "rain_days": 25.8,
+        "rain_mm": 242,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 29.7,
+        "tmin": 24.5,
+        "rain_days": 24.7,
+        "rain_mm": 220,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 29.9,
+        "tmin": 24.2,
+        "rain_days": 27.2,
+        "rain_mm": 301,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 29.6,
+        "tmin": 23.9,
+        "rain_days": 27.8,
+        "rain_mm": 372,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 29.4,
+        "tmin": 23.7,
+        "rain_days": 28.0,
+        "rain_mm": 319,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [],
+  "manual": []
+}

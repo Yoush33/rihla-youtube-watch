@@ -1,0 +1,288 @@
+{
+  "iso2": "BE",
+  "name_ar": "بلجيكا",
+  "name_en": "Belgium",
+  "region_rihla": "غرب أوروبا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Brussels"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "EUR (Euro)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "German",
+        "French",
+        "Dutch"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+32",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Nieuwjaar"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Goede Vrijdag"
+      },
+      {
+        "date": "2026-04-05",
+        "name": "Pasen"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Paasmaandag"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Dag van de arbeid"
+      },
+      {
+        "date": "2026-05-14",
+        "name": "Onze Lieve Heer hemel"
+      },
+      {
+        "date": "2026-05-15",
+        "name": "Day after Ascension Day"
+      },
+      {
+        "date": "2026-05-25",
+        "name": "Pinkstermaandag"
+      },
+      {
+        "date": "2026-07-21",
+        "name": "Nationale feestdag"
+      },
+      {
+        "date": "2026-08-15",
+        "name": "Onze Lieve Vrouw hemelvaart"
+      },
+      {
+        "date": "2026-11-01",
+        "name": "Allerheiligen"
+      },
+      {
+        "date": "2026-11-11",
+        "name": "Wapenstilstand"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Kerstdag"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Boxing Day"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Nieuwjaar"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Goede Vrijdag"
+      },
+      {
+        "date": "2027-03-28",
+        "name": "Pasen"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Paasmaandag"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Dag van de arbeid"
+      },
+      {
+        "date": "2027-05-06",
+        "name": "Onze Lieve Heer hemel"
+      },
+      {
+        "date": "2027-05-07",
+        "name": "Day after Ascension Day"
+      },
+      {
+        "date": "2027-05-17",
+        "name": "Pinkstermaandag"
+      },
+      {
+        "date": "2027-07-21",
+        "name": "Nationale feestdag"
+      },
+      {
+        "date": "2027-08-15",
+        "name": "Onze Lieve Vrouw hemelvaart"
+      },
+      {
+        "date": "2027-11-01",
+        "name": "Allerheiligen"
+      },
+      {
+        "date": "2027-11-11",
+        "name": "Wapenstilstand"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Kerstdag"
+      },
+      {
+        "date": "2027-12-26",
+        "name": "Boxing Day"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "بروكسل",
+    "lat": 50.85,
+    "lon": 4.35,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 6.2,
+        "tmin": 1.4,
+        "rain_days": 13.6,
+        "rain_mm": 81,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 8.5,
+        "tmin": 2.3,
+        "rain_days": 12.1,
+        "rain_mm": 66,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 11.1,
+        "tmin": 3.3,
+        "rain_days": 12.8,
+        "rain_mm": 67,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 14.5,
+        "tmin": 5.2,
+        "rain_days": 10.7,
+        "rain_mm": 45,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 18.6,
+        "tmin": 9.0,
+        "rain_days": 11.5,
+        "rain_mm": 61,
+        "fit": "مقبول"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 22.3,
+        "tmin": 13.0,
+        "rain_days": 10.7,
+        "rain_mm": 72,
+        "fit": "مقبول"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 23.1,
+        "tmin": 14.2,
+        "rain_days": 10.8,
+        "rain_mm": 70,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 23.5,
+        "tmin": 14.5,
+        "rain_days": 11.3,
+        "rain_mm": 54,
+        "fit": "مقبول"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 20.4,
+        "tmin": 12.0,
+        "rain_days": 10.6,
+        "rain_mm": 61,
+        "fit": "مقبول"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 15.7,
+        "tmin": 9.4,
+        "rain_days": 12.8,
+        "rain_mm": 77,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 10.1,
+        "tmin": 4.8,
+        "rain_days": 13.4,
+        "rain_mm": 67,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 7.5,
+        "tmin": 3.0,
+        "rain_days": 13.5,
+        "rain_mm": 73,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [
+    "أبريل",
+    "مايو",
+    "يونيو",
+    "يوليو",
+    "أغسطس",
+    "سبتمبر"
+  ],
+  "manual": []
+}

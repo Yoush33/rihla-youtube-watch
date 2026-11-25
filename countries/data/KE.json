@@ -1,0 +1,256 @@
+{
+  "iso2": "KE",
+  "name_ar": "كينيا",
+  "name_en": "Kenya",
+  "region_rihla": "أفريقيا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Nairobi"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "KES (Kenyan shilling)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "English",
+        "Swahili"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+254",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تصريح إلكتروني (ETA) قبل السفر",
+    "code": "eta",
+    "days": null,
+    "raw": "eta",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2026-06-01",
+        "name": "Madaraka Day"
+      },
+      {
+        "date": "2026-10-10",
+        "name": "Mazingira Day"
+      },
+      {
+        "date": "2026-10-20",
+        "name": "Mashujaa Day"
+      },
+      {
+        "date": "2026-12-12",
+        "name": "Jamhuri Day"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Boxing Day"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2027-06-01",
+        "name": "Madaraka Day"
+      },
+      {
+        "date": "2027-10-11",
+        "name": "Mazingira Day"
+      },
+      {
+        "date": "2027-10-20",
+        "name": "Mashujaa Day"
+      },
+      {
+        "date": "2027-12-13",
+        "name": "Jamhuri Day"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "2027-12-26",
+        "name": "Boxing Day"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "نيروبي",
+    "lat": -1.29,
+    "lon": 36.82,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 26.0,
+        "tmin": 14.6,
+        "rain_days": 9.3,
+        "rain_mm": 54,
+        "fit": "مقبول"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 27.4,
+        "tmin": 14.9,
+        "rain_days": 8.0,
+        "rain_mm": 45,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 27.4,
+        "tmin": 15.5,
+        "rain_days": 13.4,
+        "rain_mm": 79,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 25.1,
+        "tmin": 15.8,
+        "rain_days": 25.8,
+        "rain_mm": 178,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 23.9,
+        "tmin": 14.8,
+        "rain_days": 18.5,
+        "rain_mm": 111,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 23.3,
+        "tmin": 13.2,
+        "rain_days": 9.0,
+        "rain_mm": 35,
+        "fit": "مقبول"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 22.9,
+        "tmin": 12.5,
+        "rain_days": 4.6,
+        "rain_mm": 20,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 23.4,
+        "tmin": 12.7,
+        "rain_days": 8.1,
+        "rain_mm": 31,
+        "fit": "مقبول"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 25.2,
+        "tmin": 13.3,
+        "rain_days": 7.4,
+        "rain_mm": 32,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 26.2,
+        "tmin": 14.6,
+        "rain_days": 14.7,
+        "rain_mm": 97,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 24.4,
+        "tmin": 15.1,
+        "rain_days": 22.7,
+        "rain_mm": 142,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 24.9,
+        "tmin": 14.9,
+        "rain_days": 17.2,
+        "rain_mm": 84,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "فبراير",
+    "يوليو",
+    "سبتمبر"
+  ],
+  "ok_months": [
+    "يناير",
+    "يونيو",
+    "أغسطس"
+  ],
+  "manual": []
+}

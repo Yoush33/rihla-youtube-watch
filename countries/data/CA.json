@@ -1,0 +1,423 @@
+{
+  "iso2": "CA",
+  "name_ar": "كندا",
+  "name_en": "Canada",
+  "region_rihla": "الأمريكتين",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Ottawa"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "CAD (Canadian dollar)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "English",
+        "French"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+1204",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "2026-02-16",
+        "name": "Louis Riel Day"
+      },
+      {
+        "date": "2026-02-16",
+        "name": "Islander Day"
+      },
+      {
+        "date": "2026-02-16",
+        "name": "Heritage Day"
+      },
+      {
+        "date": "2026-02-16",
+        "name": "Family Day"
+      },
+      {
+        "date": "2026-03-17",
+        "name": "Saint Patrick's Day"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "2026-04-23",
+        "name": "Saint George's Day"
+      },
+      {
+        "date": "2026-05-18",
+        "name": "National Patriots' Day"
+      },
+      {
+        "date": "2026-05-18",
+        "name": "Victoria Day"
+      },
+      {
+        "date": "2026-06-21",
+        "name": "National Aboriginal Day"
+      },
+      {
+        "date": "2026-06-24",
+        "name": "Discovery Day"
+      },
+      {
+        "date": "2026-06-24",
+        "name": "Fête nationale du Québec"
+      },
+      {
+        "date": "2026-07-01",
+        "name": "Canada Day"
+      },
+      {
+        "date": "2026-07-12",
+        "name": "Orangemen's Day"
+      },
+      {
+        "date": "2026-08-03",
+        "name": "Civic Holiday"
+      },
+      {
+        "date": "2026-08-03",
+        "name": "British Columbia Day"
+      },
+      {
+        "date": "2026-08-03",
+        "name": "Heritage Day"
+      },
+      {
+        "date": "2026-08-03",
+        "name": "New Brunswick Day"
+      },
+      {
+        "date": "2026-08-03",
+        "name": "Natal Day"
+      },
+      {
+        "date": "2026-08-03",
+        "name": "Saskatchewan Day"
+      },
+      {
+        "date": "2026-08-17",
+        "name": "Gold Cup Parade Day"
+      },
+      {
+        "date": "2026-08-17",
+        "name": "Discovery Day"
+      },
+      {
+        "date": "2026-09-07",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2026-09-30",
+        "name": "National Day for Truth and Reconciliation"
+      },
+      {
+        "date": "2026-10-12",
+        "name": "Thanksgiving"
+      },
+      {
+        "date": "2026-11-11",
+        "name": "Armistice Day"
+      },
+      {
+        "date": "2026-11-11",
+        "name": "Remembrance Day"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Boxing Day"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "2027-02-15",
+        "name": "Louis Riel Day"
+      },
+      {
+        "date": "2027-02-15",
+        "name": "Islander Day"
+      },
+      {
+        "date": "2027-02-15",
+        "name": "Heritage Day"
+      },
+      {
+        "date": "2027-02-15",
+        "name": "Family Day"
+      },
+      {
+        "date": "2027-03-17",
+        "name": "Saint Patrick's Day"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "2027-04-23",
+        "name": "Saint George's Day"
+      },
+      {
+        "date": "2027-05-24",
+        "name": "National Patriots' Day"
+      },
+      {
+        "date": "2027-05-24",
+        "name": "Victoria Day"
+      },
+      {
+        "date": "2027-06-21",
+        "name": "National Aboriginal Day"
+      },
+      {
+        "date": "2027-06-24",
+        "name": "Discovery Day"
+      },
+      {
+        "date": "2027-06-24",
+        "name": "Fête nationale du Québec"
+      },
+      {
+        "date": "2027-07-01",
+        "name": "Canada Day"
+      },
+      {
+        "date": "2027-07-12",
+        "name": "Orangemen's Day"
+      },
+      {
+        "date": "2027-08-02",
+        "name": "Civic Holiday"
+      },
+      {
+        "date": "2027-08-02",
+        "name": "British Columbia Day"
+      },
+      {
+        "date": "2027-08-02",
+        "name": "Heritage Day"
+      },
+      {
+        "date": "2027-08-02",
+        "name": "New Brunswick Day"
+      },
+      {
+        "date": "2027-08-02",
+        "name": "Natal Day"
+      },
+      {
+        "date": "2027-08-02",
+        "name": "Saskatchewan Day"
+      },
+      {
+        "date": "2027-08-16",
+        "name": "Gold Cup Parade Day"
+      },
+      {
+        "date": "2027-08-16",
+        "name": "Discovery Day"
+      },
+      {
+        "date": "2027-09-06",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2027-09-30",
+        "name": "National Day for Truth and Reconciliation"
+      },
+      {
+        "date": "2027-10-11",
+        "name": "Thanksgiving"
+      },
+      {
+        "date": "2027-11-11",
+        "name": "Armistice Day"
+      },
+      {
+        "date": "2027-11-11",
+        "name": "Remembrance Day"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "2027-12-26",
+        "name": "Boxing Day"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "تورنتو",
+    "lat": 43.65,
+    "lon": -79.38,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": -0.0,
+        "tmin": -6.9,
+        "rain_days": 9.7,
+        "rain_mm": 67,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 1.4,
+        "tmin": -7.0,
+        "rain_days": 9.7,
+        "rain_mm": 65,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 5.2,
+        "tmin": -2.9,
+        "rain_days": 10.5,
+        "rain_mm": 73,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 10.4,
+        "tmin": 1.9,
+        "rain_days": 12.8,
+        "rain_mm": 98,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 17.1,
+        "tmin": 8.3,
+        "rain_days": 10.7,
+        "rain_mm": 78,
+        "fit": "مقبول"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 23.2,
+        "tmin": 14.4,
+        "rain_days": 10.5,
+        "rain_mm": 83,
+        "fit": "مقبول"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 26.4,
+        "tmin": 17.9,
+        "rain_days": 11.3,
+        "rain_mm": 74,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 25.6,
+        "tmin": 17.5,
+        "rain_days": 10.0,
+        "rain_mm": 72,
+        "fit": "مقبول"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 22.1,
+        "tmin": 14.2,
+        "rain_days": 9.0,
+        "rain_mm": 57,
+        "fit": "مقبول"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 15.4,
+        "tmin": 8.1,
+        "rain_days": 11.6,
+        "rain_mm": 86,
+        "fit": "مقبول"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 7.8,
+        "tmin": 1.2,
+        "rain_days": 9.6,
+        "rain_mm": 62,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 2.6,
+        "tmin": -3.5,
+        "rain_days": 12.7,
+        "rain_mm": 77,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [
+    "مايو",
+    "يونيو",
+    "يوليو",
+    "أغسطس",
+    "سبتمبر",
+    "أكتوبر"
+  ],
+  "manual": []
+}

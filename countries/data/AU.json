@@ -1,0 +1,394 @@
+{
+  "iso2": "AU",
+  "name_ar": "أستراليا",
+  "name_en": "Australia",
+  "region_rihla": "أوقيانوسيا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Canberra"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "AUD (Australian dollar)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "English"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+61",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة إلكترونية قبل السفر",
+    "code": "e_visa",
+    "days": null,
+    "raw": "e-visa",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "2026-01-26",
+        "name": "Australia Day"
+      },
+      {
+        "date": "2026-03-02",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2026-03-09",
+        "name": "Canberra Day"
+      },
+      {
+        "date": "2026-03-09",
+        "name": "Adelaide Cup Day"
+      },
+      {
+        "date": "2026-03-09",
+        "name": "Eight Hours Day"
+      },
+      {
+        "date": "2026-03-09",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2026-04-04",
+        "name": "Easter Eve"
+      },
+      {
+        "date": "2026-04-05",
+        "name": "Easter Sunday"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "2026-04-25",
+        "name": "Anzac Day"
+      },
+      {
+        "date": "2026-04-27",
+        "name": "Anzac Day"
+      },
+      {
+        "date": "2026-04-25",
+        "name": "Anzac Day"
+      },
+      {
+        "date": "2026-05-04",
+        "name": "May Day"
+      },
+      {
+        "date": "2026-05-04",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2026-06-01",
+        "name": "Reconciliation Day"
+      },
+      {
+        "date": "2026-06-01",
+        "name": "Western Australia Day"
+      },
+      {
+        "date": "2026-06-08",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "2026-08-03",
+        "name": "Picnic Day"
+      },
+      {
+        "date": "2026-09-25",
+        "name": "Friday before AFL Grand Final"
+      },
+      {
+        "date": "2026-09-28",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "2026-10-05",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2026-10-05",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "2026-11-03",
+        "name": "Melbourne Cup"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "2026-12-28",
+        "name": "Boxing Day"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "New Year's Day"
+      },
+      {
+        "date": "2027-01-26",
+        "name": "Australia Day"
+      },
+      {
+        "date": "2027-03-01",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2027-03-08",
+        "name": "Canberra Day"
+      },
+      {
+        "date": "2027-03-08",
+        "name": "Adelaide Cup Day"
+      },
+      {
+        "date": "2027-03-08",
+        "name": "Eight Hours Day"
+      },
+      {
+        "date": "2027-03-08",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2027-03-27",
+        "name": "Easter Eve"
+      },
+      {
+        "date": "2027-03-28",
+        "name": "Easter Sunday"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "2027-04-25",
+        "name": "Anzac Day"
+      },
+      {
+        "date": "2027-04-26",
+        "name": "Anzac Day"
+      },
+      {
+        "date": "2027-04-26",
+        "name": "Anzac Day"
+      },
+      {
+        "date": "2027-05-03",
+        "name": "May Day"
+      },
+      {
+        "date": "2027-05-03",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2027-05-31",
+        "name": "Reconciliation Day"
+      },
+      {
+        "date": "2027-06-07",
+        "name": "Western Australia Day"
+      },
+      {
+        "date": "2027-06-14",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "2027-08-02",
+        "name": "Picnic Day"
+      },
+      {
+        "date": "2027-09-24",
+        "name": "Friday before AFL Grand Final (Tentative Date)"
+      },
+      {
+        "date": "2027-09-27",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "2027-10-04",
+        "name": "Labour Day"
+      },
+      {
+        "date": "2027-10-04",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "2027-11-02",
+        "name": "Melbourne Cup"
+      },
+      {
+        "date": "2027-12-27",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "2027-12-28",
+        "name": "Boxing Day"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "سيدني",
+    "lat": -33.87,
+    "lon": 151.21,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 26.6,
+        "tmin": 19.3,
+        "rain_days": 13.2,
+        "rain_mm": 107,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 26.1,
+        "tmin": 19.0,
+        "rain_days": 13.3,
+        "rain_mm": 109,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 24.9,
+        "tmin": 18.1,
+        "rain_days": 15.8,
+        "rain_mm": 157,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 22.7,
+        "tmin": 14.5,
+        "rain_days": 10.0,
+        "rain_mm": 77,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 19.6,
+        "tmin": 11.1,
+        "rain_days": 8.6,
+        "rain_mm": 78,
+        "fit": "مقبول"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 16.8,
+        "tmin": 8.7,
+        "rain_days": 9.6,
+        "rain_mm": 74,
+        "fit": "مقبول"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 17.0,
+        "tmin": 8.0,
+        "rain_days": 7.3,
+        "rain_mm": 75,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 18.1,
+        "tmin": 8.6,
+        "rain_days": 7.4,
+        "rain_mm": 69,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 20.9,
+        "tmin": 10.6,
+        "rain_days": 7.2,
+        "rain_mm": 54,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 22.6,
+        "tmin": 13.2,
+        "rain_days": 11.1,
+        "rain_mm": 73,
+        "fit": "مقبول"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 23.8,
+        "tmin": 15.3,
+        "rain_days": 11.0,
+        "rain_mm": 81,
+        "fit": "مقبول"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 25.9,
+        "tmin": 17.6,
+        "rain_days": 10.5,
+        "rain_mm": 65,
+        "fit": "مقبول"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "أغسطس",
+    "سبتمبر"
+  ],
+  "ok_months": [
+    "أبريل",
+    "مايو",
+    "يونيو",
+    "يوليو",
+    "أكتوبر",
+    "نوفمبر",
+    "ديسمبر"
+  ],
+  "manual": []
+}

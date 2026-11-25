@@ -1,0 +1,338 @@
+{
+  "iso2": "SI",
+  "name_ar": "سلوفينيا",
+  "name_en": "Slovenia",
+  "region_rihla": "البلقان",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Ljubljana"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "EUR (Euro)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Slovene"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+386",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "novo leto"
+      },
+      {
+        "date": "2026-01-02",
+        "name": "novo leto"
+      },
+      {
+        "date": "2026-02-08",
+        "name": "Prešernov dan"
+      },
+      {
+        "date": "2026-04-05",
+        "name": "velikonočna nedelja in ponedeljek"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "velikonočna nedelja in ponedeljek"
+      },
+      {
+        "date": "2026-04-27",
+        "name": "dan upora proti okupatorju"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "praznik dela"
+      },
+      {
+        "date": "2026-05-02",
+        "name": "praznik dela"
+      },
+      {
+        "date": "2026-05-02",
+        "name": "dan Primoža Trubarja"
+      },
+      {
+        "date": "2026-05-24",
+        "name": "binkoštna nedelja"
+      },
+      {
+        "date": "2026-06-25",
+        "name": "dan državnosti"
+      },
+      {
+        "date": "2026-08-14",
+        "name": "dan suverenosti"
+      },
+      {
+        "date": "2026-08-15",
+        "name": "Marijino vnebovzetje"
+      },
+      {
+        "date": "2026-08-15",
+        "name": "združitev prekmurskih Slovencev z matičnim narodom"
+      },
+      {
+        "date": "2026-09-15",
+        "name": "priključitev Primorske k matični domovini"
+      },
+      {
+        "date": "2026-09-23",
+        "name": "dan slovenskega športa"
+      },
+      {
+        "date": "2026-10-31",
+        "name": "dan reformacije"
+      },
+      {
+        "date": "2026-11-01",
+        "name": "dan spomina na mrtve"
+      },
+      {
+        "date": "2026-11-23",
+        "name": "dan Rudolfa Maistra"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "božič"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "dan samostojnosti in enotnosti"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "novo leto"
+      },
+      {
+        "date": "2027-01-02",
+        "name": "novo leto"
+      },
+      {
+        "date": "2027-02-08",
+        "name": "Prešernov dan"
+      },
+      {
+        "date": "2027-03-28",
+        "name": "velikonočna nedelja in ponedeljek"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "velikonočna nedelja in ponedeljek"
+      },
+      {
+        "date": "2027-04-27",
+        "name": "dan upora proti okupatorju"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "praznik dela"
+      },
+      {
+        "date": "2027-05-02",
+        "name": "praznik dela"
+      },
+      {
+        "date": "2027-05-02",
+        "name": "dan Primoža Trubarja"
+      },
+      {
+        "date": "2027-05-16",
+        "name": "binkoštna nedelja"
+      },
+      {
+        "date": "2027-06-25",
+        "name": "dan državnosti"
+      },
+      {
+        "date": "2027-08-14",
+        "name": "dan suverenosti"
+      },
+      {
+        "date": "2027-08-15",
+        "name": "Marijino vnebovzetje"
+      },
+      {
+        "date": "2027-08-15",
+        "name": "združitev prekmurskih Slovencev z matičnim narodom"
+      },
+      {
+        "date": "2027-09-15",
+        "name": "priključitev Primorske k matični domovini"
+      },
+      {
+        "date": "2027-09-23",
+        "name": "dan slovenskega športa"
+      },
+      {
+        "date": "2027-10-31",
+        "name": "dan reformacije"
+      },
+      {
+        "date": "2027-11-01",
+        "name": "dan spomina na mrtve"
+      },
+      {
+        "date": "2027-11-23",
+        "name": "dan Rudolfa Maistra"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "božič"
+      },
+      {
+        "date": "2027-12-26",
+        "name": "dan samostojnosti in enotnosti"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "بليد",
+    "lat": 46.37,
+    "lon": 14.11,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 5.1,
+        "tmin": -2.6,
+        "rain_days": 9.5,
+        "rain_mm": 100,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 7.3,
+        "tmin": -1.0,
+        "rain_days": 8.9,
+        "rain_mm": 113,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 10.5,
+        "tmin": 1.2,
+        "rain_days": 11.7,
+        "rain_mm": 105,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 14.8,
+        "tmin": 4.8,
+        "rain_days": 11.8,
+        "rain_mm": 108,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 17.9,
+        "tmin": 9.2,
+        "rain_days": 19.2,
+        "rain_mm": 169,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 23.9,
+        "tmin": 14.3,
+        "rain_days": 13.4,
+        "rain_mm": 118,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 25.4,
+        "tmin": 15.8,
+        "rain_days": 15.3,
+        "rain_mm": 110,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 25.1,
+        "tmin": 15.9,
+        "rain_days": 12.5,
+        "rain_mm": 123,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 20.3,
+        "tmin": 11.8,
+        "rain_days": 13.3,
+        "rain_mm": 163,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 16.0,
+        "tmin": 7.7,
+        "rain_days": 11.1,
+        "rain_mm": 144,
+        "fit": "مقبول"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 9.7,
+        "tmin": 2.7,
+        "rain_days": 12.3,
+        "rain_mm": 169,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 6.2,
+        "tmin": -1.0,
+        "rain_days": 8.5,
+        "rain_mm": 117,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [
+    "أبريل",
+    "أكتوبر"
+  ],
+  "manual": []
+}

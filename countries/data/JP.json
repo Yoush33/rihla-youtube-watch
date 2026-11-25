@@ -1,0 +1,299 @@
+{
+  "iso2": "JP",
+  "name_ar": "اليابان",
+  "name_en": "Japan",
+  "region_rihla": "شرق آسيا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Tokyo"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "JPY (Japanese yen)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Japanese"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+81",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة إلكترونية قبل السفر",
+    "code": "e_visa",
+    "days": null,
+    "raw": "e-visa",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "元日"
+      },
+      {
+        "date": "2026-01-12",
+        "name": "成人の日"
+      },
+      {
+        "date": "2026-02-11",
+        "name": "建国記念の日"
+      },
+      {
+        "date": "2026-02-23",
+        "name": "天皇誕生日"
+      },
+      {
+        "date": "2026-03-20",
+        "name": "春分の日"
+      },
+      {
+        "date": "2026-04-29",
+        "name": "昭和の日"
+      },
+      {
+        "date": "2026-05-06",
+        "name": "憲法記念日"
+      },
+      {
+        "date": "2026-05-04",
+        "name": "みどりの日"
+      },
+      {
+        "date": "2026-05-05",
+        "name": "こどもの日"
+      },
+      {
+        "date": "2026-07-20",
+        "name": "海の日"
+      },
+      {
+        "date": "2026-08-11",
+        "name": "山の日"
+      },
+      {
+        "date": "2026-09-21",
+        "name": "敬老の日"
+      },
+      {
+        "date": "2026-09-23",
+        "name": "秋分の日"
+      },
+      {
+        "date": "2026-10-12",
+        "name": "スポーツの日"
+      },
+      {
+        "date": "2026-11-03",
+        "name": "文化の日"
+      },
+      {
+        "date": "2026-11-23",
+        "name": "勤労感謝の日"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "元日"
+      },
+      {
+        "date": "2027-01-11",
+        "name": "成人の日"
+      },
+      {
+        "date": "2027-02-11",
+        "name": "建国記念の日"
+      },
+      {
+        "date": "2027-02-23",
+        "name": "天皇誕生日"
+      },
+      {
+        "date": "2027-03-21",
+        "name": "春分の日"
+      },
+      {
+        "date": "2027-04-29",
+        "name": "昭和の日"
+      },
+      {
+        "date": "2027-05-03",
+        "name": "憲法記念日"
+      },
+      {
+        "date": "2027-05-04",
+        "name": "みどりの日"
+      },
+      {
+        "date": "2027-05-05",
+        "name": "こどもの日"
+      },
+      {
+        "date": "2027-07-19",
+        "name": "海の日"
+      },
+      {
+        "date": "2027-08-11",
+        "name": "山の日"
+      },
+      {
+        "date": "2027-09-20",
+        "name": "敬老の日"
+      },
+      {
+        "date": "2027-09-23",
+        "name": "秋分の日"
+      },
+      {
+        "date": "2027-10-11",
+        "name": "スポーツの日"
+      },
+      {
+        "date": "2027-11-03",
+        "name": "文化の日"
+      },
+      {
+        "date": "2027-11-23",
+        "name": "勤労感謝の日"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "طوكيو",
+    "lat": 35.68,
+    "lon": 139.69,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 9.2,
+        "tmin": -0.1,
+        "rain_days": 4.9,
+        "rain_mm": 51,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 10.5,
+        "tmin": 0.9,
+        "rain_days": 6.7,
+        "rain_mm": 51,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 14.5,
+        "tmin": 4.7,
+        "rain_days": 12.1,
+        "rain_mm": 143,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 18.9,
+        "tmin": 9.6,
+        "rain_days": 11.6,
+        "rain_mm": 135,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 23.1,
+        "tmin": 14.4,
+        "rain_days": 12.0,
+        "rain_mm": 154,
+        "fit": "مقبول"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 26.3,
+        "tmin": 18.8,
+        "rain_days": 14.8,
+        "rain_mm": 192,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 30.4,
+        "tmin": 23.1,
+        "rain_days": 15.8,
+        "rain_mm": 178,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 31.8,
+        "tmin": 24.4,
+        "rain_days": 14.3,
+        "rain_mm": 140,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 27.8,
+        "tmin": 20.9,
+        "rain_days": 15.5,
+        "rain_mm": 208,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 21.6,
+        "tmin": 14.3,
+        "rain_days": 13.0,
+        "rain_mm": 201,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 16.7,
+        "tmin": 8.1,
+        "rain_days": 8.6,
+        "rain_mm": 83,
+        "fit": "مقبول"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 11.5,
+        "tmin": 2.3,
+        "rain_days": 6.7,
+        "rain_mm": 56,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [
+    "أبريل",
+    "مايو",
+    "نوفمبر"
+  ],
+  "manual": []
+}

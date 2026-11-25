@@ -1,0 +1,280 @@
+{
+  "iso2": "CZ",
+  "name_ar": "التشيك",
+  "name_en": "Czechia",
+  "region_rihla": "وسط أوروبا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Prague"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "CZK (Czech koruna)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Czech",
+        "Slovak"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+420",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Den obnovy samostatného českého státu; Nový rok"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Velký pátek"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Velikonoční pondělí"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Svátek práce"
+      },
+      {
+        "date": "2026-05-08",
+        "name": "Den vítězství"
+      },
+      {
+        "date": "2026-07-05",
+        "name": "Den slovanských věrozvěstů Cyrila a Metoděje"
+      },
+      {
+        "date": "2026-07-06",
+        "name": "Den upálení mistra Jana Husa"
+      },
+      {
+        "date": "2026-09-28",
+        "name": "Den české státnosti"
+      },
+      {
+        "date": "2026-10-28",
+        "name": "Den vzniku samostatného československého státu"
+      },
+      {
+        "date": "2026-11-17",
+        "name": "Den boje za svobodu a demokracii a Mezinárodní den studentstva"
+      },
+      {
+        "date": "2026-12-24",
+        "name": "Štědrý den"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "1. svátek vánoční"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "2. svátek vánoční"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Den obnovy samostatného českého státu; Nový rok"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Velký pátek"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Velikonoční pondělí"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Svátek práce"
+      },
+      {
+        "date": "2027-05-08",
+        "name": "Den vítězství"
+      },
+      {
+        "date": "2027-07-05",
+        "name": "Den slovanských věrozvěstů Cyrila a Metoděje"
+      },
+      {
+        "date": "2027-07-06",
+        "name": "Den upálení mistra Jana Husa"
+      },
+      {
+        "date": "2027-09-28",
+        "name": "Den české státnosti"
+      },
+      {
+        "date": "2027-10-28",
+        "name": "Den vzniku samostatného československého státu"
+      },
+      {
+        "date": "2027-11-17",
+        "name": "Den boje za svobodu a demokracii a Mezinárodní den studentstva"
+      },
+      {
+        "date": "2027-12-24",
+        "name": "Štědrý den"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "1. svátek vánoční"
+      },
+      {
+        "date": "2027-12-26",
+        "name": "2. svátek vánoční"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "براغ",
+    "lat": 50.08,
+    "lon": 14.44,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 3.8,
+        "tmin": -2.0,
+        "rain_days": 11.4,
+        "rain_mm": 39,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 6.4,
+        "tmin": -1.1,
+        "rain_days": 9.9,
+        "rain_mm": 42,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 10.3,
+        "tmin": 0.8,
+        "rain_days": 9.6,
+        "rain_mm": 35,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 15.1,
+        "tmin": 4.4,
+        "rain_days": 9.2,
+        "rain_mm": 41,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 19.5,
+        "tmin": 9.0,
+        "rain_days": 11.8,
+        "rain_mm": 65,
+        "fit": "مقبول"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 25.1,
+        "tmin": 14.3,
+        "rain_days": 11.3,
+        "rain_mm": 73,
+        "fit": "مقبول"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 25.9,
+        "tmin": 15.4,
+        "rain_days": 11.9,
+        "rain_mm": 65,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 25.7,
+        "tmin": 15.2,
+        "rain_days": 10.4,
+        "rain_mm": 77,
+        "fit": "مقبول"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 21.1,
+        "tmin": 11.3,
+        "rain_days": 8.5,
+        "rain_mm": 62,
+        "fit": "مقبول"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 15.3,
+        "tmin": 7.1,
+        "rain_days": 11.4,
+        "rain_mm": 51,
+        "fit": "مقبول"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 8.0,
+        "tmin": 1.9,
+        "rain_days": 9.5,
+        "rain_mm": 42,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 4.8,
+        "tmin": -0.4,
+        "rain_days": 10.1,
+        "rain_mm": 45,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [
+    "أبريل",
+    "مايو",
+    "يونيو",
+    "يوليو",
+    "أغسطس",
+    "سبتمبر",
+    "أكتوبر"
+  ],
+  "manual": []
+}

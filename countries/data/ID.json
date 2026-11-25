@@ -1,0 +1,231 @@
+{
+  "iso2": "ID",
+  "name_ar": "إندونيسيا",
+  "name_en": "Indonesia",
+  "region_rihla": "جنوب شرق آسيا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Jakarta"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "IDR (Indonesian rupiah)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Indonesian"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+62",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة عند الوصول",
+    "code": "on_arrival",
+    "days": null,
+    "raw": "visa on arrival",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Tahun Baru Masehi"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Wafat Isa Almasih"
+      },
+      {
+        "date": "2026-04-05",
+        "name": "Paskah"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Hari Buruh Internasional"
+      },
+      {
+        "date": "2026-05-14",
+        "name": "Kenaikan Isa Almasih"
+      },
+      {
+        "date": "2026-06-01",
+        "name": "Hari Lahir Pancasila"
+      },
+      {
+        "date": "2026-08-17",
+        "name": "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Hari Raya Natal"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Tahun Baru Masehi"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Wafat Isa Almasih"
+      },
+      {
+        "date": "2027-03-28",
+        "name": "Paskah"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Hari Buruh Internasional"
+      },
+      {
+        "date": "2027-05-06",
+        "name": "Kenaikan Isa Almasih"
+      },
+      {
+        "date": "2027-06-01",
+        "name": "Hari Lahir Pancasila"
+      },
+      {
+        "date": "2027-08-17",
+        "name": "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Hari Raya Natal"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "بالي",
+    "lat": -8.51,
+    "lon": 115.26,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 28.6,
+        "tmin": 22.5,
+        "rain_days": 28.5,
+        "rain_mm": 334,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 28.6,
+        "tmin": 22.3,
+        "rain_days": 26.4,
+        "rain_mm": 315,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 29.0,
+        "tmin": 22.4,
+        "rain_days": 27.0,
+        "rain_mm": 247,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 28.9,
+        "tmin": 22.2,
+        "rain_days": 22.9,
+        "rain_mm": 151,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 28.6,
+        "tmin": 22.3,
+        "rain_days": 20.7,
+        "rain_mm": 129,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 27.6,
+        "tmin": 21.6,
+        "rain_days": 20.6,
+        "rain_mm": 112,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 26.5,
+        "tmin": 20.9,
+        "rain_days": 25.0,
+        "rain_mm": 148,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 26.7,
+        "tmin": 20.6,
+        "rain_days": 22.7,
+        "rain_mm": 129,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 27.7,
+        "tmin": 21.0,
+        "rain_days": 22.3,
+        "rain_mm": 126,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 28.8,
+        "tmin": 21.7,
+        "rain_days": 21.9,
+        "rain_mm": 151,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 29.0,
+        "tmin": 22.3,
+        "rain_days": 26.6,
+        "rain_mm": 265,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 28.9,
+        "tmin": 22.5,
+        "rain_days": 28.3,
+        "rain_mm": 317,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [],
+  "manual": []
+}

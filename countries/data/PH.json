@@ -1,0 +1,312 @@
+{
+  "iso2": "PH",
+  "name_ar": "الفلبين",
+  "name_en": "Philippines",
+  "region_rihla": "جنوب شرق آسيا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Manila"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "PHP (Philippine peso)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "English",
+        "Filipino"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+63",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "بدون تأشيرة حتى 30 يوم",
+    "code": "visa_free",
+    "days": 30,
+    "raw": "30",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Bagong Taon"
+      },
+      {
+        "date": "2026-02-17",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "2026-04-02",
+        "name": "Huwebes Santo"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Biyernes Santo"
+      },
+      {
+        "date": "2026-04-04",
+        "name": "Sabado de Gloria"
+      },
+      {
+        "date": "2026-04-09",
+        "name": "Araw ng Kagitingan"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Araw ng Paggawa"
+      },
+      {
+        "date": "2026-06-12",
+        "name": "Araw ng Kalayaan"
+      },
+      {
+        "date": "2026-08-21",
+        "name": "Araw ng Kamatayan ni Senador Benigno Simeon \"Ninoy\" Aquino Jr."
+      },
+      {
+        "date": "2026-08-31",
+        "name": "Araw ng mga Bayani"
+      },
+      {
+        "date": "2026-10-31",
+        "name": "All Saints' Day Eve"
+      },
+      {
+        "date": "2026-11-01",
+        "name": "Araw ng mga Santo"
+      },
+      {
+        "date": "2026-11-30",
+        "name": "Araw ni Gat Andres Bonifacio"
+      },
+      {
+        "date": "2026-12-08",
+        "name": "Kapistahan ng Immaculada Concepcion"
+      },
+      {
+        "date": "2026-12-24",
+        "name": "Christmas Eve"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Araw ng Pasko"
+      },
+      {
+        "date": "2026-12-30",
+        "name": "Araw ng Kamatayan ni Dr. Jose Rizal"
+      },
+      {
+        "date": "2026-12-31",
+        "name": "Huling Araw ng Taon"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Bagong Taon"
+      },
+      {
+        "date": "2027-02-06",
+        "name": "Chinese New Year"
+      },
+      {
+        "date": "2027-03-25",
+        "name": "Huwebes Santo"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Biyernes Santo"
+      },
+      {
+        "date": "2027-03-27",
+        "name": "Sabado de Gloria"
+      },
+      {
+        "date": "2027-04-09",
+        "name": "Araw ng Kagitingan"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Araw ng Paggawa"
+      },
+      {
+        "date": "2027-06-12",
+        "name": "Araw ng Kalayaan"
+      },
+      {
+        "date": "2027-08-21",
+        "name": "Araw ng Kamatayan ni Senador Benigno Simeon \"Ninoy\" Aquino Jr."
+      },
+      {
+        "date": "2027-08-30",
+        "name": "Araw ng mga Bayani"
+      },
+      {
+        "date": "2027-10-31",
+        "name": "All Saints' Day Eve"
+      },
+      {
+        "date": "2027-11-01",
+        "name": "Araw ng mga Santo"
+      },
+      {
+        "date": "2027-11-30",
+        "name": "Araw ni Gat Andres Bonifacio"
+      },
+      {
+        "date": "2027-12-08",
+        "name": "Kapistahan ng Immaculada Concepcion"
+      },
+      {
+        "date": "2027-12-24",
+        "name": "Christmas Eve"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Araw ng Pasko"
+      },
+      {
+        "date": "2027-12-30",
+        "name": "Araw ng Kamatayan ni Dr. Jose Rizal"
+      },
+      {
+        "date": "2027-12-31",
+        "name": "Huling Araw ng Taon"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "بالاوان",
+    "lat": 10.18,
+    "lon": 119.4,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 28.1,
+        "tmin": 26.3,
+        "rain_days": 18.0,
+        "rain_mm": 167,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 27.9,
+        "tmin": 26.1,
+        "rain_days": 14.0,
+        "rain_mm": 95,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 28.6,
+        "tmin": 26.5,
+        "rain_days": 13.2,
+        "rain_mm": 86,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 29.5,
+        "tmin": 27.1,
+        "rain_days": 14.9,
+        "rain_mm": 76,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 29.9,
+        "tmin": 27.5,
+        "rain_days": 22.2,
+        "rain_mm": 168,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 29.3,
+        "tmin": 27.1,
+        "rain_days": 22.0,
+        "rain_mm": 157,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 29.0,
+        "tmin": 27.0,
+        "rain_days": 22.2,
+        "rain_mm": 174,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 29.0,
+        "tmin": 27.0,
+        "rain_days": 19.5,
+        "rain_mm": 138,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 28.9,
+        "tmin": 26.9,
+        "rain_days": 21.4,
+        "rain_mm": 161,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 28.8,
+        "tmin": 26.7,
+        "rain_days": 26.3,
+        "rain_mm": 239,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 29.0,
+        "tmin": 26.7,
+        "rain_days": 24.7,
+        "rain_mm": 289,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 28.6,
+        "tmin": 26.6,
+        "rain_days": 25.6,
+        "rain_mm": 284,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [],
+  "manual": []
+}

@@ -1,0 +1,175 @@
+{
+  "iso2": "KG",
+  "name_ar": "قيرغيزستان",
+  "name_en": "Kyrgyzstan",
+  "region_rihla": "آسيا الوسطى",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Bishkek"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "KGS (Kyrgyzstani som)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Kyrgyz",
+        "Russian"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+996",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "بدون تأشيرة حتى 60 يوم",
+    "code": "visa_free",
+    "days": 60,
+    "raw": "60",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "بيشكيك",
+    "lat": 42.87,
+    "lon": 74.59,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 2.0,
+        "tmin": -6.1,
+        "rain_days": 7.1,
+        "rain_mm": 30,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 4.9,
+        "tmin": -4.8,
+        "rain_days": 7.9,
+        "rain_mm": 42,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 12.1,
+        "tmin": 1.6,
+        "rain_days": 12.5,
+        "rain_mm": 90,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 17.9,
+        "tmin": 7.3,
+        "rain_days": 12.2,
+        "rain_mm": 107,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 22.9,
+        "tmin": 11.5,
+        "rain_days": 10.8,
+        "rain_mm": 89,
+        "fit": "مقبول"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 28.2,
+        "tmin": 16.0,
+        "rain_days": 6.9,
+        "rain_mm": 37,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 31.6,
+        "tmin": 19.3,
+        "rain_days": 4.5,
+        "rain_mm": 19,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 29.4,
+        "tmin": 17.6,
+        "rain_days": 4.5,
+        "rain_mm": 24,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 24.0,
+        "tmin": 12.8,
+        "rain_days": 4.5,
+        "rain_mm": 34,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 15.6,
+        "tmin": 5.6,
+        "rain_days": 8.2,
+        "rain_mm": 57,
+        "fit": "مقبول"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 8.1,
+        "tmin": -0.6,
+        "rain_days": 8.3,
+        "rain_mm": 60,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 3.4,
+        "tmin": -4.5,
+        "rain_days": 7.9,
+        "rain_mm": 39,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "يونيو",
+    "أغسطس",
+    "سبتمبر"
+  ],
+  "ok_months": [
+    "مايو",
+    "يوليو",
+    "أكتوبر"
+  ],
+  "manual": []
+}

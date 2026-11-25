@@ -1,0 +1,291 @@
+{
+  "iso2": "IT",
+  "name_ar": "إيطاليا",
+  "name_en": "Italy",
+  "region_rihla": "جنوب أوروبا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Rome"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "EUR (Euro)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Italian"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+39",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Capodanno"
+      },
+      {
+        "date": "2026-01-06",
+        "name": "Epifania"
+      },
+      {
+        "date": "2026-04-05",
+        "name": "Pasqua"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Lunedì dell'Angelo"
+      },
+      {
+        "date": "2026-04-25",
+        "name": "Festa della Liberazione"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Festa del Lavoro"
+      },
+      {
+        "date": "2026-05-25",
+        "name": "Lunedì di Pentecoste"
+      },
+      {
+        "date": "2026-06-02",
+        "name": "Festa della Repubblica"
+      },
+      {
+        "date": "2026-08-15",
+        "name": "Ferragosto o Assunzione"
+      },
+      {
+        "date": "2026-10-04",
+        "name": "San Francesco d'Assisi"
+      },
+      {
+        "date": "2026-11-01",
+        "name": "Tutti i Santi"
+      },
+      {
+        "date": "2026-12-08",
+        "name": "Immacolata Concezione"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Natale"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Santo Stefano"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Capodanno"
+      },
+      {
+        "date": "2027-01-06",
+        "name": "Epifania"
+      },
+      {
+        "date": "2027-03-28",
+        "name": "Pasqua"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Lunedì dell'Angelo"
+      },
+      {
+        "date": "2027-04-25",
+        "name": "Festa della Liberazione"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Festa del Lavoro"
+      },
+      {
+        "date": "2027-05-17",
+        "name": "Lunedì di Pentecoste"
+      },
+      {
+        "date": "2027-06-02",
+        "name": "Festa della Repubblica"
+      },
+      {
+        "date": "2027-08-15",
+        "name": "Ferragosto o Assunzione"
+      },
+      {
+        "date": "2027-10-04",
+        "name": "San Francesco d'Assisi"
+      },
+      {
+        "date": "2027-11-01",
+        "name": "Tutti i Santi"
+      },
+      {
+        "date": "2027-12-08",
+        "name": "Immacolata Concezione"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Natale"
+      },
+      {
+        "date": "2027-12-26",
+        "name": "Santo Stefano"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "روما",
+    "lat": 41.9,
+    "lon": 12.5,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 12.5,
+        "tmin": 3.9,
+        "rain_days": 9.8,
+        "rain_mm": 64,
+        "fit": "مقبول"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 14.5,
+        "tmin": 5.1,
+        "rain_days": 8.2,
+        "rain_mm": 73,
+        "fit": "مقبول"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 16.5,
+        "tmin": 6.5,
+        "rain_days": 11.1,
+        "rain_mm": 90,
+        "fit": "مقبول"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 19.7,
+        "tmin": 9.0,
+        "rain_days": 9.9,
+        "rain_mm": 61,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 23.4,
+        "tmin": 13.0,
+        "rain_days": 12.1,
+        "rain_mm": 86,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 29.8,
+        "tmin": 17.9,
+        "rain_days": 4.8,
+        "rain_mm": 33,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 33.1,
+        "tmin": 20.9,
+        "rain_days": 4.0,
+        "rain_mm": 19,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 32.8,
+        "tmin": 21.1,
+        "rain_days": 5.1,
+        "rain_mm": 33,
+        "fit": "مقبول"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 27.4,
+        "tmin": 17.1,
+        "rain_days": 9.1,
+        "rain_mm": 94,
+        "fit": "مقبول"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 22.7,
+        "tmin": 13.2,
+        "rain_days": 10.6,
+        "rain_mm": 96,
+        "fit": "مقبول"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 17.2,
+        "tmin": 9.2,
+        "rain_days": 13.1,
+        "rain_mm": 148,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 13.6,
+        "tmin": 5.3,
+        "rain_days": 10.1,
+        "rain_mm": 101,
+        "fit": "مقبول"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "يونيو"
+  ],
+  "ok_months": [
+    "يناير",
+    "فبراير",
+    "مارس",
+    "أبريل",
+    "يوليو",
+    "أغسطس",
+    "سبتمبر",
+    "أكتوبر",
+    "ديسمبر"
+  ],
+  "manual": []
+}

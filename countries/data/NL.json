@@ -1,0 +1,258 @@
+{
+  "iso2": "NL",
+  "name_ar": "هولندا",
+  "name_en": "Netherlands",
+  "region_rihla": "غرب أوروبا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Amsterdam"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "EUR (Euro)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Dutch"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+31",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Nieuwjaarsdag"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Goede Vrijdag"
+      },
+      {
+        "date": "2026-04-05",
+        "name": "Eerste Paasdag"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Tweede Paasdag"
+      },
+      {
+        "date": "2026-04-27",
+        "name": "Koningsdag"
+      },
+      {
+        "date": "2026-05-05",
+        "name": "Bevrijdingsdag"
+      },
+      {
+        "date": "2026-05-14",
+        "name": "Hemelvaartsdag"
+      },
+      {
+        "date": "2026-05-24",
+        "name": "Eerste Pinksterdag"
+      },
+      {
+        "date": "2026-05-25",
+        "name": "Tweede Pinksterdag"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Eerste Kerstdag"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Tweede Kerstdag"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Nieuwjaarsdag"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Goede Vrijdag"
+      },
+      {
+        "date": "2027-03-28",
+        "name": "Eerste Paasdag"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Tweede Paasdag"
+      },
+      {
+        "date": "2027-04-27",
+        "name": "Koningsdag"
+      },
+      {
+        "date": "2027-05-05",
+        "name": "Bevrijdingsdag"
+      },
+      {
+        "date": "2027-05-06",
+        "name": "Hemelvaartsdag"
+      },
+      {
+        "date": "2027-05-16",
+        "name": "Eerste Pinksterdag"
+      },
+      {
+        "date": "2027-05-17",
+        "name": "Tweede Pinksterdag"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Eerste Kerstdag"
+      },
+      {
+        "date": "2027-12-26",
+        "name": "Tweede Kerstdag"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "أمستردام",
+    "lat": 52.37,
+    "lon": 4.9,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 6.7,
+        "tmin": 2.0,
+        "rain_days": 14.5,
+        "rain_mm": 79,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 8.0,
+        "tmin": 2.4,
+        "rain_days": 13.1,
+        "rain_mm": 77,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 10.4,
+        "tmin": 3.1,
+        "rain_days": 12.4,
+        "rain_mm": 61,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 13.3,
+        "tmin": 5.3,
+        "rain_days": 11.3,
+        "rain_mm": 60,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 17.5,
+        "tmin": 9.0,
+        "rain_days": 10.7,
+        "rain_mm": 66,
+        "fit": "مقبول"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 20.8,
+        "tmin": 12.8,
+        "rain_days": 12.3,
+        "rain_mm": 78,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 21.7,
+        "tmin": 14.0,
+        "rain_days": 14.5,
+        "rain_mm": 84,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 22.1,
+        "tmin": 14.4,
+        "rain_days": 13.2,
+        "rain_mm": 72,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 19.5,
+        "tmin": 12.0,
+        "rain_days": 12.2,
+        "rain_mm": 79,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 15.2,
+        "tmin": 9.5,
+        "rain_days": 15.4,
+        "rain_mm": 105,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 10.0,
+        "tmin": 4.9,
+        "rain_days": 14.9,
+        "rain_mm": 77,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 7.7,
+        "tmin": 3.3,
+        "rain_days": 14.5,
+        "rain_mm": 80,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [
+    "أبريل",
+    "مايو"
+  ],
+  "manual": []
+}

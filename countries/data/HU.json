@@ -1,0 +1,280 @@
+{
+  "iso2": "HU",
+  "name_ar": "المجر",
+  "name_en": "Hungary",
+  "region_rihla": "وسط أوروبا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Budapest"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "HUF (Hungarian forint)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Hungarian"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+36",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Újév"
+      },
+      {
+        "date": "2026-03-15",
+        "name": "Nemzeti ünnep"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Nagypéntek"
+      },
+      {
+        "date": "2026-04-05",
+        "name": "Húsvétvasárnap"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Húsvéthétfő"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "A munka ünnepe"
+      },
+      {
+        "date": "2026-05-24",
+        "name": "Pünkösdvasárnap"
+      },
+      {
+        "date": "2026-05-25",
+        "name": "Pünkösdhétfő"
+      },
+      {
+        "date": "2026-08-20",
+        "name": "Az államalapítás ünnepe"
+      },
+      {
+        "date": "2026-10-23",
+        "name": "Nemzeti ünnep"
+      },
+      {
+        "date": "2026-11-01",
+        "name": "Mindenszentek"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Karácsony"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Karácsony másnapja"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Újév"
+      },
+      {
+        "date": "2027-03-15",
+        "name": "Nemzeti ünnep"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Nagypéntek"
+      },
+      {
+        "date": "2027-03-28",
+        "name": "Húsvétvasárnap"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Húsvéthétfő"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "A munka ünnepe"
+      },
+      {
+        "date": "2027-05-16",
+        "name": "Pünkösdvasárnap"
+      },
+      {
+        "date": "2027-05-17",
+        "name": "Pünkösdhétfő"
+      },
+      {
+        "date": "2027-08-20",
+        "name": "Az államalapítás ünnepe"
+      },
+      {
+        "date": "2027-10-23",
+        "name": "Nemzeti ünnep"
+      },
+      {
+        "date": "2027-11-01",
+        "name": "Mindenszentek"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Karácsony"
+      },
+      {
+        "date": "2027-12-26",
+        "name": "Karácsony másnapja"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "بودابست",
+    "lat": 47.5,
+    "lon": 19.04,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 4.1,
+        "tmin": -2.4,
+        "rain_days": 8.4,
+        "rain_mm": 36,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 7.9,
+        "tmin": -0.2,
+        "rain_days": 8.6,
+        "rain_mm": 41,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 12.2,
+        "tmin": 2.0,
+        "rain_days": 8.1,
+        "rain_mm": 47,
+        "fit": "مقبول"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 17.2,
+        "tmin": 6.4,
+        "rain_days": 9.0,
+        "rain_mm": 49,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 21.0,
+        "tmin": 11.0,
+        "rain_days": 12.2,
+        "rain_mm": 79,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 26.8,
+        "tmin": 16.4,
+        "rain_days": 10.7,
+        "rain_mm": 70,
+        "fit": "مقبول"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 28.4,
+        "tmin": 17.8,
+        "rain_days": 9.0,
+        "rain_mm": 70,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 28.5,
+        "tmin": 17.6,
+        "rain_days": 8.1,
+        "rain_mm": 56,
+        "fit": "مقبول"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 22.9,
+        "tmin": 13.0,
+        "rain_days": 7.6,
+        "rain_mm": 63,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 16.6,
+        "tmin": 7.7,
+        "rain_days": 7.4,
+        "rain_mm": 50,
+        "fit": "مقبول"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 9.5,
+        "tmin": 2.8,
+        "rain_days": 9.7,
+        "rain_mm": 62,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 5.0,
+        "tmin": -0.5,
+        "rain_days": 9.0,
+        "rain_mm": 52,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "سبتمبر"
+  ],
+  "ok_months": [
+    "مارس",
+    "أبريل",
+    "يونيو",
+    "يوليو",
+    "أغسطس",
+    "أكتوبر"
+  ],
+  "manual": []
+}

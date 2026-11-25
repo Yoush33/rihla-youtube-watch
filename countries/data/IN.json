@@ -1,0 +1,194 @@
+{
+  "iso2": "IN",
+  "name_ar": "الهند",
+  "name_en": "India",
+  "region_rihla": "جنوب آسيا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "New Delhi"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "INR (Indian rupee)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "English",
+        "Hindi",
+        "Tamil"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+91",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة إلكترونية قبل السفر",
+    "code": "e_visa",
+    "days": null,
+    "raw": "e-visa",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": "https://indianvisaonline.gov.in/evisa/tvoa.html"
+  },
+  "public_holidays": {
+    "value": [],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "فاركالا",
+    "lat": 8.73,
+    "lon": 76.71,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 31.0,
+        "tmin": 23.5,
+        "rain_days": 6.7,
+        "rain_mm": 47,
+        "fit": "مقبول"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 32.2,
+        "tmin": 24.0,
+        "rain_days": 4.3,
+        "rain_mm": 15,
+        "fit": "مقبول"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 32.1,
+        "tmin": 24.7,
+        "rain_days": 14.9,
+        "rain_mm": 64,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 31.5,
+        "tmin": 25.3,
+        "rain_days": 23.5,
+        "rain_mm": 146,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 29.9,
+        "tmin": 25.2,
+        "rain_days": 27.7,
+        "rain_mm": 417,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 28.3,
+        "tmin": 24.6,
+        "rain_days": 28.6,
+        "rain_mm": 339,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 27.9,
+        "tmin": 24.2,
+        "rain_days": 27.2,
+        "rain_mm": 271,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 27.8,
+        "tmin": 24.0,
+        "rain_days": 24.8,
+        "rain_mm": 288,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 28.0,
+        "tmin": 24.1,
+        "rain_days": 24.4,
+        "rain_mm": 248,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 28.3,
+        "tmin": 23.9,
+        "rain_days": 25.3,
+        "rain_mm": 324,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 29.0,
+        "tmin": 23.8,
+        "rain_days": 21.5,
+        "rain_mm": 236,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 30.0,
+        "tmin": 23.8,
+        "rain_days": 9.9,
+        "rain_mm": 87,
+        "fit": "مقبول"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [
+    "يناير",
+    "فبراير",
+    "ديسمبر"
+  ],
+  "manual": [
+    {
+      "topic": "التأشيرة",
+      "value": "تأشيرة سياحية إلكترونية 30 يوم بـ 25 دولار + رسوم بنكية، وتقدّم قبل 4 أيام على الأقل",
+      "source": "visa-requirements.io و Arab News",
+      "checked": "2026-11-23",
+      "status": "مفحوص"
+    },
+    {
+      "topic": "السلامة",
+      "value": "بحر فاركالا فيه موجات مفاجئة وتيارات سحب قوية",
+      "source": "Tripadvisor",
+      "checked": "2026-11-23",
+      "status": "مفحوص"
+    },
+    {
+      "topic": "فعاليات",
+      "value": "مهرجان Serendipity للفنون في بنجيم، غوا: 13–20 ديسمبر 2026، دخول مجاني",
+      "source": "caleidoscope.in و abirpothi.com",
+      "checked": "2026-11-23",
+      "status": "مفحوص"
+    }
+  ]
+}

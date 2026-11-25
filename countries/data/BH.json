@@ -1,0 +1,216 @@
+{
+  "iso2": "BH",
+  "name_ar": "البحرين",
+  "name_en": "Bahrain",
+  "region_rihla": "الخليج",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Manama"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "BHD (Bahraini dinar)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Arabic"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+973",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "بدون تأشيرة",
+    "code": "visa_free",
+    "days": null,
+    "raw": "visa free",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "رأس السنة الميلادية"
+      },
+      {
+        "date": "2026-02-22",
+        "name": "اليوم الرياضي"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "يوم العمال"
+      },
+      {
+        "date": "2026-12-16",
+        "name": "اليوم الوطني"
+      },
+      {
+        "date": "2026-12-17",
+        "name": "اليوم الوطني"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "رأس السنة الميلادية"
+      },
+      {
+        "date": "2027-02-22",
+        "name": "اليوم الرياضي"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "يوم العمال"
+      },
+      {
+        "date": "2027-12-16",
+        "name": "اليوم الوطني"
+      },
+      {
+        "date": "2027-12-17",
+        "name": "اليوم الوطني"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "المنامة",
+    "lat": 26.23,
+    "lon": 50.59,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 20.5,
+        "tmin": 14.9,
+        "rain_days": 2.2,
+        "rain_mm": 18,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 21.3,
+        "tmin": 15.5,
+        "rain_days": 3.5,
+        "rain_mm": 22,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 25.2,
+        "tmin": 18.3,
+        "rain_days": 2.6,
+        "rain_mm": 10,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 30.4,
+        "tmin": 22.4,
+        "rain_days": 1.1,
+        "rain_mm": 5,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 34.9,
+        "tmin": 26.8,
+        "rain_days": 0.1,
+        "rain_mm": 4,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 37.7,
+        "tmin": 30.0,
+        "rain_days": 0.0,
+        "rain_mm": 0,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 39.4,
+        "tmin": 31.6,
+        "rain_days": 0.2,
+        "rain_mm": 0,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 39.6,
+        "tmin": 31.5,
+        "rain_days": 0.0,
+        "rain_mm": 0,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 37.7,
+        "tmin": 29.6,
+        "rain_days": 0.0,
+        "rain_mm": 0,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 33.4,
+        "tmin": 26.3,
+        "rain_days": 0.4,
+        "rain_mm": 1,
+        "fit": "مقبول"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 27.8,
+        "tmin": 22.1,
+        "rain_days": 1.8,
+        "rain_mm": 11,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 22.7,
+        "tmin": 17.3,
+        "rain_days": 2.1,
+        "rain_mm": 13,
+        "fit": "ممتاز"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "يناير",
+    "فبراير",
+    "مارس",
+    "نوفمبر",
+    "ديسمبر"
+  ],
+  "ok_months": [
+    "أبريل",
+    "أكتوبر"
+  ],
+  "manual": []
+}

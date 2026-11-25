@@ -1,0 +1,300 @@
+{
+  "iso2": "SE",
+  "name_ar": "السويد",
+  "name_en": "Sweden",
+  "region_rihla": "شمال أوروبا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Stockholm"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "SEK (Swedish krona)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Swedish"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+46",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Nyårsdagen"
+      },
+      {
+        "date": "2026-01-06",
+        "name": "Trettondedag jul"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Långfredagen"
+      },
+      {
+        "date": "2026-04-05",
+        "name": "Påskdagen"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Annandag påsk"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Första maj"
+      },
+      {
+        "date": "2026-05-14",
+        "name": "Kristi himmelsfärdsdag"
+      },
+      {
+        "date": "2026-05-24",
+        "name": "Pingstdagen"
+      },
+      {
+        "date": "2026-06-06",
+        "name": "Sveriges nationaldag"
+      },
+      {
+        "date": "2026-06-19",
+        "name": "Midsommarafton"
+      },
+      {
+        "date": "2026-06-20",
+        "name": "Midsommardagen"
+      },
+      {
+        "date": "2026-10-31",
+        "name": "Alla helgons dag"
+      },
+      {
+        "date": "2026-12-24",
+        "name": "Julafton"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Juldagen"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Annandag jul"
+      },
+      {
+        "date": "2026-12-31",
+        "name": "Nyårsafton"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Nyårsdagen"
+      },
+      {
+        "date": "2027-01-06",
+        "name": "Trettondedag jul"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Långfredagen"
+      },
+      {
+        "date": "2027-03-28",
+        "name": "Påskdagen"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Annandag påsk"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Första maj"
+      },
+      {
+        "date": "2027-05-06",
+        "name": "Kristi himmelsfärdsdag"
+      },
+      {
+        "date": "2027-05-16",
+        "name": "Pingstdagen"
+      },
+      {
+        "date": "2027-06-06",
+        "name": "Sveriges nationaldag"
+      },
+      {
+        "date": "2027-06-25",
+        "name": "Midsommarafton"
+      },
+      {
+        "date": "2027-06-26",
+        "name": "Midsommardagen"
+      },
+      {
+        "date": "2027-11-06",
+        "name": "Alla helgons dag"
+      },
+      {
+        "date": "2027-12-24",
+        "name": "Julafton"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Juldagen"
+      },
+      {
+        "date": "2027-12-26",
+        "name": "Annandag jul"
+      },
+      {
+        "date": "2027-12-31",
+        "name": "Nyårsafton"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "ستوكهولم",
+    "lat": 59.33,
+    "lon": 18.07,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 1.0,
+        "tmin": -3.8,
+        "rain_days": 10.3,
+        "rain_mm": 48,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 2.1,
+        "tmin": -3.6,
+        "rain_days": 8.5,
+        "rain_mm": 34,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 5.4,
+        "tmin": -2.0,
+        "rain_days": 8.1,
+        "rain_mm": 37,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 9.8,
+        "tmin": 0.6,
+        "rain_days": 7.6,
+        "rain_mm": 30,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 15.8,
+        "tmin": 5.6,
+        "rain_days": 8.8,
+        "rain_mm": 47,
+        "fit": "مقبول"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 21.1,
+        "tmin": 11.3,
+        "rain_days": 9.8,
+        "rain_mm": 60,
+        "fit": "مقبول"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 22.3,
+        "tmin": 13.3,
+        "rain_days": 11.9,
+        "rain_mm": 65,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 21.0,
+        "tmin": 12.8,
+        "rain_days": 12.3,
+        "rain_mm": 77,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 16.9,
+        "tmin": 9.8,
+        "rain_days": 8.2,
+        "rain_mm": 48,
+        "fit": "مقبول"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 10.6,
+        "tmin": 5.2,
+        "rain_days": 10.9,
+        "rain_mm": 66,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 5.3,
+        "tmin": 1.1,
+        "rain_days": 10.0,
+        "rain_mm": 47,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 2.3,
+        "tmin": -1.9,
+        "rain_days": 11.7,
+        "rain_mm": 47,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [
+    "مايو",
+    "يونيو",
+    "يوليو",
+    "سبتمبر"
+  ],
+  "manual": []
+}

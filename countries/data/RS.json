@@ -1,0 +1,265 @@
+{
+  "iso2": "RS",
+  "name_ar": "صيربيا",
+  "name_en": "Serbia",
+  "region_rihla": "البلقان",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Belgrade"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "RSD (Serbian dinar)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Serbian"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+381",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Nova Godina"
+      },
+      {
+        "date": "2026-01-02",
+        "name": "Nova Godina"
+      },
+      {
+        "date": "2026-01-07",
+        "name": "Božić"
+      },
+      {
+        "date": "2026-02-16",
+        "name": "Dan državnosti Srbije"
+      },
+      {
+        "date": "2026-02-17",
+        "name": "Dan državnosti Srbije"
+      },
+      {
+        "date": "2026-04-10",
+        "name": "Veliki petak"
+      },
+      {
+        "date": "2026-04-12",
+        "name": "Vaskrs (Uskrs)"
+      },
+      {
+        "date": "2026-04-13",
+        "name": "Vaskrsni (Uskrsni) ponedeljak"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Praznik rada"
+      },
+      {
+        "date": "2026-05-02",
+        "name": "Praznik rada"
+      },
+      {
+        "date": "2026-11-11",
+        "name": "Dan primirja"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Nova Godina"
+      },
+      {
+        "date": "2027-01-02",
+        "name": "Nova Godina"
+      },
+      {
+        "date": "2027-01-07",
+        "name": "Božić"
+      },
+      {
+        "date": "2027-02-15",
+        "name": "Dan državnosti Srbije"
+      },
+      {
+        "date": "2027-02-16",
+        "name": "Dan državnosti Srbije"
+      },
+      {
+        "date": "2027-04-30",
+        "name": "Veliki petak"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Praznik rada"
+      },
+      {
+        "date": "2027-05-03",
+        "name": "Praznik rada"
+      },
+      {
+        "date": "2027-05-02",
+        "name": "Vaskrs (Uskrs)"
+      },
+      {
+        "date": "2027-05-03",
+        "name": "Vaskrsni (Uskrsni) ponedeljak"
+      },
+      {
+        "date": "2027-11-11",
+        "name": "Dan primirja"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "بلغراد",
+    "lat": 44.79,
+    "lon": 20.45,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 5.4,
+        "tmin": -1.8,
+        "rain_days": 10.9,
+        "rain_mm": 51,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 9.7,
+        "tmin": 1.0,
+        "rain_days": 8.9,
+        "rain_mm": 41,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 13.3,
+        "tmin": 3.5,
+        "rain_days": 10.4,
+        "rain_mm": 58,
+        "fit": "مقبول"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 18.2,
+        "tmin": 7.6,
+        "rain_days": 9.7,
+        "rain_mm": 48,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 22.1,
+        "tmin": 12.3,
+        "rain_days": 12.9,
+        "rain_mm": 82,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 27.4,
+        "tmin": 17.4,
+        "rain_days": 10.8,
+        "rain_mm": 84,
+        "fit": "مقبول"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 29.0,
+        "tmin": 18.8,
+        "rain_days": 9.8,
+        "rain_mm": 75,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 29.3,
+        "tmin": 18.7,
+        "rain_days": 6.6,
+        "rain_mm": 51,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 24.4,
+        "tmin": 14.5,
+        "rain_days": 8.1,
+        "rain_mm": 53,
+        "fit": "مقبول"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 18.6,
+        "tmin": 9.4,
+        "rain_days": 7.2,
+        "rain_mm": 42,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 12.0,
+        "tmin": 4.9,
+        "rain_days": 10.2,
+        "rain_mm": 64,
+        "fit": "مقبول"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 7.2,
+        "tmin": 0.9,
+        "rain_days": 9.9,
+        "rain_mm": 57,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "أغسطس",
+    "أكتوبر"
+  ],
+  "ok_months": [
+    "مارس",
+    "أبريل",
+    "يونيو",
+    "يوليو",
+    "سبتمبر",
+    "نوفمبر"
+  ],
+  "manual": []
+}

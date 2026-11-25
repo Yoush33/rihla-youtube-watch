@@ -1,0 +1,59 @@
+{
+  "iso2": "MU",
+  "name_ar": "موريشيوس",
+  "name_en": "Mauritius",
+  "region_rihla": "أفريقيا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Port Louis"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "MUR (Mauritian rupee)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "English",
+        "French",
+        "Mauritian Creole"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+230",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "بدون تأشيرة حتى 90 يوم",
+    "code": "visa_free",
+    "days": 90,
+    "raw": "90",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "موريشيوس",
+    "lat": -20.16,
+    "lon": 57.5,
+    "months": [],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [],
+  "manual": []
+}

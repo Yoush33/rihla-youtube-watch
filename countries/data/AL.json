@@ -1,0 +1,290 @@
+{
+  "iso2": "AL",
+  "name_ar": "ألبانيا",
+  "name_en": "Albania",
+  "region_rihla": "البلقان",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Tirana"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "ALL (Albanian lek)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Albanian"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+355",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "بدون تأشيرة حتى 90 يوم",
+    "code": "visa_free",
+    "days": 90,
+    "raw": "90",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Viti i Ri"
+      },
+      {
+        "date": "2026-01-02",
+        "name": "Viti i Ri"
+      },
+      {
+        "date": "2026-03-16",
+        "name": "Dita e Verës"
+      },
+      {
+        "date": "2026-03-23",
+        "name": "Dita e Sulltan Nevruzit"
+      },
+      {
+        "date": "2026-04-05",
+        "name": "Pashkët Katolike"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "E hëna e Pashkëve Katolike"
+      },
+      {
+        "date": "2026-04-12",
+        "name": "Pashkët Ortodokse"
+      },
+      {
+        "date": "2026-04-13",
+        "name": "E hëna e Pashkëve Ortodokse"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Dita Ndërkombëtare e Punonjësve"
+      },
+      {
+        "date": "2026-09-07",
+        "name": "Dita e Nënë Terezës"
+      },
+      {
+        "date": "2026-11-30",
+        "name": "Dita e Pavarësisë"
+      },
+      {
+        "date": "2026-11-30",
+        "name": "Dita e Çlirimit"
+      },
+      {
+        "date": "2026-12-08",
+        "name": "Dita Kombëtare e Rinisë"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Krishtlindjet"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Viti i Ri"
+      },
+      {
+        "date": "2027-01-04",
+        "name": "Viti i Ri"
+      },
+      {
+        "date": "2027-03-15",
+        "name": "Dita e Verës"
+      },
+      {
+        "date": "2027-03-22",
+        "name": "Dita e Sulltan Nevruzit"
+      },
+      {
+        "date": "2027-03-28",
+        "name": "Pashkët Katolike"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "E hëna e Pashkëve Katolike"
+      },
+      {
+        "date": "2027-05-03",
+        "name": "Dita Ndërkombëtare e Punonjësve"
+      },
+      {
+        "date": "2027-05-02",
+        "name": "Pashkët Ortodokse"
+      },
+      {
+        "date": "2027-05-03",
+        "name": "E hëna e Pashkëve Ortodokse"
+      },
+      {
+        "date": "2027-09-06",
+        "name": "Dita e Nënë Terezës"
+      },
+      {
+        "date": "2027-11-29",
+        "name": "Dita e Pavarësisë"
+      },
+      {
+        "date": "2027-11-29",
+        "name": "Dita e Çlirimit"
+      },
+      {
+        "date": "2027-12-08",
+        "name": "Dita Kombëtare e Rinisë"
+      },
+      {
+        "date": "2027-12-27",
+        "name": "Krishtlindjet"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "تيرانا",
+    "lat": 41.33,
+    "lon": 19.82,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 11.3,
+        "tmin": 2.7,
+        "rain_days": 12.2,
+        "rain_mm": 185,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 13.8,
+        "tmin": 4.2,
+        "rain_days": 9.5,
+        "rain_mm": 102,
+        "fit": "مقبول"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 15.9,
+        "tmin": 6.0,
+        "rain_days": 12.2,
+        "rain_mm": 148,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 19.3,
+        "tmin": 9.0,
+        "rain_days": 11.2,
+        "rain_mm": 116,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 22.9,
+        "tmin": 13.0,
+        "rain_days": 14.1,
+        "rain_mm": 127,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 28.5,
+        "tmin": 17.9,
+        "rain_days": 6.5,
+        "rain_mm": 63,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 31.8,
+        "tmin": 20.4,
+        "rain_days": 4.0,
+        "rain_mm": 33,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 32.0,
+        "tmin": 20.4,
+        "rain_days": 4.8,
+        "rain_mm": 32,
+        "fit": "مقبول"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 26.9,
+        "tmin": 16.6,
+        "rain_days": 8.3,
+        "rain_mm": 105,
+        "fit": "مقبول"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 22.2,
+        "tmin": 12.4,
+        "rain_days": 8.5,
+        "rain_mm": 126,
+        "fit": "مقبول"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 17.4,
+        "tmin": 8.9,
+        "rain_days": 11.9,
+        "rain_mm": 214,
+        "fit": "مقبول"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 13.1,
+        "tmin": 4.6,
+        "rain_days": 10.7,
+        "rain_mm": 140,
+        "fit": "مقبول"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "يونيو"
+  ],
+  "ok_months": [
+    "فبراير",
+    "أبريل",
+    "يوليو",
+    "أغسطس",
+    "سبتمبر",
+    "أكتوبر",
+    "نوفمبر",
+    "ديسمبر"
+  ],
+  "manual": []
+}

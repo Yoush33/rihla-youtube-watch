@@ -1,0 +1,244 @@
+{
+  "iso2": "MX",
+  "name_ar": "المسكيك",
+  "name_en": "Mexico",
+  "region_rihla": "الأمريكتين",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Mexico City"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "MXN (Mexican peso)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "Spanish"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+52",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Año Nuevo"
+      },
+      {
+        "date": "2026-02-02",
+        "name": "Día de la Constitución"
+      },
+      {
+        "date": "2026-03-16",
+        "name": "Natalicio de Benito Juárez"
+      },
+      {
+        "date": "2026-04-02",
+        "name": "Jueves Santo"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Viernes Santo"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Día del Trabajo"
+      },
+      {
+        "date": "2026-09-16",
+        "name": "Día de la Independencia"
+      },
+      {
+        "date": "2026-11-16",
+        "name": "Día de la Revolución"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Navidad"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Año Nuevo"
+      },
+      {
+        "date": "2027-02-01",
+        "name": "Día de la Constitución"
+      },
+      {
+        "date": "2027-03-15",
+        "name": "Natalicio de Benito Juárez"
+      },
+      {
+        "date": "2027-03-25",
+        "name": "Jueves Santo"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Viernes Santo"
+      },
+      {
+        "date": "2027-04-30",
+        "name": "Día del Trabajo"
+      },
+      {
+        "date": "2027-09-16",
+        "name": "Día de la Independencia"
+      },
+      {
+        "date": "2027-11-15",
+        "name": "Día de la Revolución"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Navidad"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "كانكون",
+    "lat": 21.16,
+    "lon": -86.85,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 26.2,
+        "tmin": 21.5,
+        "rain_days": 14.0,
+        "rain_mm": 82,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 27.0,
+        "tmin": 22.4,
+        "rain_days": 10.5,
+        "rain_mm": 47,
+        "fit": "مقبول"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 28.1,
+        "tmin": 23.2,
+        "rain_days": 9.2,
+        "rain_mm": 37,
+        "fit": "مقبول"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 29.3,
+        "tmin": 24.0,
+        "rain_days": 7.5,
+        "rain_mm": 40,
+        "fit": "ممتاز"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 30.3,
+        "tmin": 25.0,
+        "rain_days": 13.7,
+        "rain_mm": 86,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 30.1,
+        "tmin": 25.4,
+        "rain_days": 19.1,
+        "rain_mm": 196,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 31.1,
+        "tmin": 25.8,
+        "rain_days": 16.3,
+        "rain_mm": 97,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 31.2,
+        "tmin": 25.7,
+        "rain_days": 20.5,
+        "rain_mm": 132,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 30.6,
+        "tmin": 25.3,
+        "rain_days": 22.6,
+        "rain_mm": 181,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 29.4,
+        "tmin": 24.3,
+        "rain_days": 21.8,
+        "rain_mm": 179,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 27.9,
+        "tmin": 23.0,
+        "rain_days": 15.5,
+        "rain_mm": 109,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 26.9,
+        "tmin": 22.2,
+        "rain_days": 13.8,
+        "rain_mm": 82,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [
+    "أبريل"
+  ],
+  "ok_months": [
+    "فبراير",
+    "مارس"
+  ],
+  "manual": []
+}

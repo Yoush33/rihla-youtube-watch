@@ -1,0 +1,260 @@
+{
+  "iso2": "FR",
+  "name_ar": "فرنسا",
+  "name_en": "France",
+  "region_rihla": "غرب أوروبا",
+  "updated": "2026-11-25",
+  "static": {
+    "capital": {
+      "value": [
+        "Paris"
+      ],
+      "source": "mledoze/countries"
+    },
+    "currencies": {
+      "value": [
+        "EUR (Euro)"
+      ],
+      "source": "mledoze/countries"
+    },
+    "languages": {
+      "value": [
+        "French"
+      ],
+      "source": "mledoze/countries"
+    },
+    "calling_code": {
+      "value": "+33",
+      "source": "mledoze/countries"
+    }
+  },
+  "visa_saudi_passport": {
+    "value": "تأشيرة مسبقة من السفارة",
+    "code": "required",
+    "days": null,
+    "raw": "visa required",
+    "source": "passport-index-dataset (ilyankou)",
+    "checked": "2026-11-25",
+    "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+    "official": null
+  },
+  "public_holidays": {
+    "value": [
+      {
+        "date": "2026-01-01",
+        "name": "Jour de l'an"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Lundi de Pâques"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Fête du Travail"
+      },
+      {
+        "date": "2026-05-08",
+        "name": "Victoire 1945"
+      },
+      {
+        "date": "2026-05-14",
+        "name": "Ascension"
+      },
+      {
+        "date": "2026-05-25",
+        "name": "Lundi de Pentecôte"
+      },
+      {
+        "date": "2026-07-14",
+        "name": "Fête nationale"
+      },
+      {
+        "date": "2026-08-15",
+        "name": "Assomption"
+      },
+      {
+        "date": "2026-11-01",
+        "name": "Toussaint"
+      },
+      {
+        "date": "2026-11-11",
+        "name": "Armistice 1918"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Noël"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "Jour de l'an"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Lundi de Pâques"
+      },
+      {
+        "date": "2027-05-01",
+        "name": "Fête du Travail"
+      },
+      {
+        "date": "2027-05-06",
+        "name": "Ascension"
+      },
+      {
+        "date": "2027-05-08",
+        "name": "Victoire 1945"
+      },
+      {
+        "date": "2027-05-17",
+        "name": "Lundi de Pentecôte"
+      },
+      {
+        "date": "2027-07-14",
+        "name": "Fête nationale"
+      },
+      {
+        "date": "2027-08-15",
+        "name": "Assomption"
+      },
+      {
+        "date": "2027-11-01",
+        "name": "Toussaint"
+      },
+      {
+        "date": "2027-11-11",
+        "name": "Armistice 1918"
+      },
+      {
+        "date": "2027-12-25",
+        "name": "Noël"
+      }
+    ],
+    "source": "Nager.Date",
+    "checked": "2026-11-25"
+  },
+  "weather": {
+    "city": "باريس",
+    "lat": 48.86,
+    "lon": 2.35,
+    "months": [
+      {
+        "month": 1,
+        "name": "يناير",
+        "tmax": 7.3,
+        "tmin": 1.6,
+        "rain_days": 12.8,
+        "rain_mm": 74,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 2,
+        "name": "فبراير",
+        "tmax": 9.7,
+        "tmin": 2.4,
+        "rain_days": 11.3,
+        "rain_mm": 54,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 3,
+        "name": "مارس",
+        "tmax": 12.5,
+        "tmin": 3.9,
+        "rain_days": 13.1,
+        "rain_mm": 71,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 4,
+        "name": "أبريل",
+        "tmax": 16.0,
+        "tmin": 5.7,
+        "rain_days": 10.0,
+        "rain_mm": 50,
+        "fit": "مقبول"
+      },
+      {
+        "month": 5,
+        "name": "مايو",
+        "tmax": 19.5,
+        "tmin": 9.5,
+        "rain_days": 12.5,
+        "rain_mm": 75,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 6,
+        "name": "يونيو",
+        "tmax": 23.8,
+        "tmin": 13.7,
+        "rain_days": 12.2,
+        "rain_mm": 74,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 7,
+        "name": "يوليو",
+        "tmax": 25.4,
+        "tmin": 15.3,
+        "rain_days": 9.6,
+        "rain_mm": 57,
+        "fit": "مقبول"
+      },
+      {
+        "month": 8,
+        "name": "أغسطس",
+        "tmax": 25.5,
+        "tmin": 15.1,
+        "rain_days": 9.7,
+        "rain_mm": 61,
+        "fit": "مقبول"
+      },
+      {
+        "month": 9,
+        "name": "سبتمبر",
+        "tmax": 21.9,
+        "tmin": 12.4,
+        "rain_days": 9.2,
+        "rain_mm": 60,
+        "fit": "مقبول"
+      },
+      {
+        "month": 10,
+        "name": "أكتوبر",
+        "tmax": 17.2,
+        "tmin": 9.4,
+        "rain_days": 12.4,
+        "rain_mm": 72,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 11,
+        "name": "نوفمبر",
+        "tmax": 11.1,
+        "tmin": 5.1,
+        "rain_days": 11.9,
+        "rain_mm": 65,
+        "fit": "غير مناسب"
+      },
+      {
+        "month": 12,
+        "name": "ديسمبر",
+        "tmax": 8.5,
+        "tmin": 3.2,
+        "rain_days": 13.2,
+        "rain_mm": 76,
+        "fit": "غير مناسب"
+      }
+    ],
+    "source": "Open-Meteo، متوسط 2016–2025",
+    "note": "مدينة وحدة تمثّل الدولة. «ممتاز/مقبول» تقدير عام حسب الحرارة والمطر."
+  },
+  "best_months": [],
+  "ok_months": [
+    "أبريل",
+    "يوليو",
+    "أغسطس",
+    "سبتمبر"
+  ],
+  "manual": []
+}
