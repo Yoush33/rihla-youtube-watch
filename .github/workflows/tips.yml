@@ -1,0 +1,27 @@
+name: نصايح المقاطع عبر Gemini
+on:
+  schedule:
+    - cron: "43 4 * * *"   # كل يوم 7:43 الصبح بتوقيت الرياض (يخلص من المتراكم ثم يشتغل على الجديد بس)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  tips:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python tips.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: حفظ النتيجة
+        run: |
+          git config user.name "rihla-bot"
+          git config user.email "rihla-bot@users.noreply.github.com"
+          git add data/youtube-candidates.json
+          git diff --cached --quiet && exit 0
+          git commit -m "نصايح المقاطع"
+          git pull --rebase origin main
+          git push
