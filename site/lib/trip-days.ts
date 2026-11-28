@@ -68,12 +68,14 @@ export function defaultDayItems(plan:ReadyPlan, nights:number[]):DayList {
 }
 
 /** يرتّب عناصر اليوم حسب الفترة ويحسب وقت الوصول المتوقع لكل عنصر. */
-export function scheduleDay(items:readonly DayItem[]) {
+export function scheduleDay(items:readonly DayItem[], startAt?:number) {
   const used:Record<DaySlot,number> = {morning:0, noon:0, evening:0};
+  let cursor = startAt ?? 0;
   return (Object.keys(daySlots) as DaySlot[]).flatMap(slot=>items.filter(item=>item.slot === slot)).map(item=>{
     const travel = item.walk ?? 0;
-    const start = slotStart[item.slot] + used[item.slot] + travel;
+    const start = Math.max(slotStart[item.slot] + used[item.slot], cursor) + travel;
     used[item.slot] += travel + 75;
+    if (startAt !== undefined) cursor = start + 75;
     return {item, eta:clock(start)};
   });
 }

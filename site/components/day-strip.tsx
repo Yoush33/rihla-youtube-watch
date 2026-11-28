@@ -11,6 +11,8 @@ import {cardMoney, cardNumber, dateText} from '../lib/trip-card';
 import {arrivalTime, dayKindLabels, daySlots, dayTotal, newItemId, scheduleDay, shiftDate, tripDays,
   type DayItem, type DayKind, type DayList, type DaySlot, type TripDay} from '../lib/trip-days';
 
+const toMinutes = (time:string) => { const [h,m] = time.split(':').map(Number); return h * 60 + m; };
+
 const kindIcons:Record<DayKind,typeof Compass> = {arrival:PlaneLanding, explore:Compass, move:ArrowLeftRight, rest:BedDouble, departure:PlaneTakeoff};
 
 export type AddToDay = (dayIndex:number, item:Omit<DayItem,'id'>) => void;
@@ -32,13 +34,13 @@ export function AddToDayButton({days, onAdd, item, label = 'أضف لليوم'}:
   </span>;
 }
 
-function DayEditor({day, items, editable, startDate, onChange}: {
-  day:TripDay; items:DayItem[]; editable:boolean; startDate?:string; onChange:(items:DayItem[])=>void;
+function DayEditor({day, items, editable, startDate, startAt, onChange}: {
+  day:TripDay; items:DayItem[]; editable:boolean; startDate?:string; startAt?:number; onChange:(items:DayItem[])=>void;
 }) {
   const [name,setName] = useState('');
   const [slot,setSlot] = useState<DaySlot>('morning');
   const [price,setPrice] = useState('');
-  const scheduled = scheduleDay(items);
+  const scheduled = scheduleDay(items,startAt);
   const {total,partial} = dayTotal(day,items);
 
   function move(id:string, change:number) {
@@ -147,7 +149,8 @@ export function DayStrip({plan, nights, days, onChange, editable, startDate, dep
       })}
     </ol>
     {selected && <DayEditor key={selected.index} day={selected} items={days[selected.index] ?? []} editable={editable && !!onChange}
-      startDate={startDate} onChange={items=>onChange?.(list.map(day=>day.index === selected.index ? items : days[day.index] ?? []))}/>}
+      startDate={startDate} startAt={selected.kind === 'arrival' && arrival && arrival.date === startDate ? toMinutes(arrival.time) : undefined}
+      onChange={items=>onChange?.(list.map(day=>day.index === selected.index ? items : days[day.index] ?? []))}/>}
   </section>;
 }
 

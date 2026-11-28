@@ -41,6 +41,14 @@ test('أوقات اليوم مرتبة صباح ثم ظهر ثم مساء، وا
   assert.equal(out[1].eta, '19:00');
 });
 
+test('يوم الوصول: الجدول يبدأ بعد وقت الوصول', () => {
+  const out = scheduleDay([
+    {id:'a', slot:'morning', kind:'note', name:'الوصول', price:null, walk:null},
+    {id:'b', slot:'evening', kind:'note', name:'عشاء', price:null, walk:null},
+  ], 20 * 60);
+  assert.deepEqual(out.map(entry => entry.eta), ['20:00', '21:15']);
+});
+
 test('مجموع اليوم يجمع السكن والمصروف والأسعار المعروفة، ويعلّم الناقص', () => {
   const day = {index:0, stopIndex:0, city:'x', country:'TR', kind:'explore', hotelNight:300, daily:100};
   assert.deepEqual(dayTotal(day, [{id:'1', slot:'noon', kind:'place', name:'مساج', price:150, walk:null}]), {total:550, partial:false});
