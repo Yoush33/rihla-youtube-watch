@@ -1,7 +1,9 @@
 import type {ReadyPlan,ReadyPrice} from './ready-plan-schema';
 import {calculateTripCost,cardNumber,isUnnamedPackageHotelRate,unpricedHotelSource} from './trip-card';
+import {cityWithCountry} from './place-label';
 
-export type ReadyPlanChoice = {plan:ReadyPlan;nights:number[];month:number;budget:number};
+export type ReadyPlanChoice = {plan:ReadyPlan;nights:number[];month:number;budget:number;
+  days?:import('./trip-days').DayList;start_date?:string;depart_time?:string};
 export type ReadyCostLine = {label:string;price:ReadyPrice;units:number;total:number|null};
 
 export function eligibleReadyHotelPrice(planId:string,price:ReadyPrice):ReadyPrice {
@@ -26,6 +28,6 @@ export function estimateReadyPlan(plan:ReadyPlan, nights=plan.stops.map(stop=>st
 }
 
 export function readyPlanRoute(plan:ReadyPlan,nights=plan.stops.map(stop=>stop.nights)) {
-  return plan.stops.map((stop,index)=>stop.city+' '+cardNumber(nights[index]??stop.nights)).join(' ← ');
+  return plan.stops.map((stop,index)=>cityWithCountry(stop.city,stop.country??plan.country)+' '+cardNumber(nights[index]??stop.nights)).join(' ← ');
 }
 

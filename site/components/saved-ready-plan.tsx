@@ -12,18 +12,25 @@ import {readyTravelMonth,type SavedReadyPlan} from '../lib/ready-plan-saved';
 import {cardMoney,cardYear,dateText,shiftCardDate,tripDaysText} from '../lib/trip-card';
 import {monthNames} from '../lib/world';
 import '../app/saved-ready-plan.css';
+import {DayStrip, TripEvents} from './day-strip';
+import {MilesLine} from './miles-line';
+import {cityWithCountry} from '../lib/place-label';
+import {defaultDayItems, newItemId, tripDays, type DayList} from '../lib/trip-days';
 
-export function SavedReadyPlanCard({saved,canSave,onCheck,onCopy}: {
+export function SavedReadyPlanCard({saved,canSave,onCheck,onCopy,onDays}: {
   saved:SavedReadyPlan;
   canSave:boolean;
   onCheck:(checked:string[])=>boolean;
   onCopy:(date:string)=>boolean;
+  onDays?:(days:DayList)=>boolean;
 }) {
   const {countries} = useCatalog();
   const [copyOpen,setCopyOpen] = useState(false);
   const [date,setDate] = useState('');
   const {plan,nights} = saved;
   const estimate = estimateReadyPlan(plan,nights,saved.budget);
+  const days = saved.days ?? defaultDayItems(plan,nights);
+  const list = tripDays(plan,nights);
   const first = plan.stops[0];
   const last = plan.stops[plan.stops.length-1];
   const travelMonth = readyTravelMonth(saved.month,saved.created_on);
@@ -48,7 +55,7 @@ export function SavedReadyPlanCard({saved,canSave,onCheck,onCopy}: {
     <h1 id="saved-ready-title">الخطة المحفوظة</h1>
     <article className="panel saved-ready-cover">
       <PlaceImage kind="city" place={first.image_key??first.city} fallbackName={first.city} className="saved-ready-photo"
-        label={<><h2>{plan.title}</h2><p>{first.city}</p></>}/>
+        label={<><h2>{plan.title}</h2><p>{cityWithCountry(first.city,first.country ?? plan.country)}</p></>}/>
       <div className="saved-ready-overview">
         <div className="saved-ready-period"><CalendarDays size={19} aria-hidden="true"/><span>{period} · {tripDaysText(estimate.days)}</span></div>
         <p className="saved-ready-route"><MapPin size={19} aria-hidden="true"/>{readyPlanRoute(plan,nights)}</p>
@@ -61,7 +68,8 @@ export function SavedReadyPlanCard({saved,canSave,onCheck,onCopy}: {
           </div>}
         </div>
         {saved.start_date&&<p className="notice warning">شيّك على الأسعار وإتاحة السكن للتاريخ الجديد.</p>}
-        <p>تبدأ رحلتك من <b>{first.city}</b> وتنتهي في <b>{last.city}</b>.</p>
+        <p>تبدأ رحلتك من <b>{cityWithCountry(first.city,first.country ?? plan.country)}</b> وتنتهي في <b>{cityWithCountry(last.city,last.country ?? plan.country)}</b>.</p>
+        <MilesLine country={first.country ?? plan.country} city={first.city}/>
         <details>
           <summary>بنود التقدير ومصادرها</summary>
           <ul className="saved-ready-costs">{estimate.lines.map(({label,total,price},index)=><li key={label+'-'+index}>
@@ -72,6 +80,14 @@ export function SavedReadyPlanCard({saved,canSave,onCheck,onCopy}: {
         </details>
         <ReadyRouteMaps stops={plan.stops} sourcePlanId={plan.id}/>
       </div>
+    </article>
+    <article className="panel">
+      <DayStrip plan={plan} nights={nights} days={days} editable={canSave && !!onDays} onChange={value=>onDays?.(value)}
+        startDate={saved.start_date} departTime={saved.depart_time}/>
+    </article>
+    <article className="panel">
+      <TripEvents plan={plan} nights={nights} startDate={saved.start_date} days={list}
+        onAdd={canSave && onDays ? (index,item)=>onDays(list.map(day=>day.index === index ? [...(days[day.index] ?? []),{...item,id:newItemId('a')}] : days[day.index] ?? [])) : undefined}/>
     </article>
     <article className="panel saved-ready-prep" aria-labelledby="ready-prep-title">
       <h2 id="ready-prep-title"><CircleCheck size={23} aria-hidden="true"/> قبل ما تطلع</h2>

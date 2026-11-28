@@ -26,6 +26,7 @@ import {CatalogContext} from '../components/catalog-context';
 import {CatalogImportPanel} from '../components/catalog-import-panel';
 import {YoutubeCoverageDirectory} from '../components/video-knowledge';
 import {DestinationExclusionsSettings} from '../components/destination-exclusions-settings';
+import {MilesSettingsPanel} from '../components/miles-line';
 import {isRouteExcluded} from '../lib/destination-exclusions';
 import {ResearchDesk} from '../components/research-desk';
 import {countryFor,budgetScenario} from '../lib/journey-insights';
@@ -221,7 +222,8 @@ return <CatalogContext.Provider value={{...catalogs,youtubeReviews:youtube.revie
   initialBudget={data.bored?.settings.budget} cards={data.tripCards} exclusions={data.excludedDestinations} canSave={enabled&&!saveBlocked}
   onSave={saveReadyChoice} onOpenSaved={()=>navigate('ready-trip')}/></Suspense>}
  {tab==='ready-trip'&&(t.readyPlan?<SavedReadyPlanCard key={t.id} saved={t.readyPlan} canSave={enabled&&!saveBlocked}
-  onCheck={checked=>update({readyPlan:{...t.readyPlan!,checked}})} onCopy={duplicateReadyTrip}/>:ready?
+  onCheck={checked=>update({readyPlan:{...t.readyPlan!,checked}})} onCopy={duplicateReadyTrip}
+  onDays={days=>update({readyPlan:{...t.readyPlan!,days}})}/>:ready?
   <div className="empty"><h2>اختر خطة عشان تحفظها في رحلتي</h2><button type="button" onClick={()=>navigate('ready-plans')}>تصفح الخطط الجاهزة</button></div>:
   <p role="status">جارٍ تحميل رحلاتك…</p>)}
  {tab==='trip-card'&&<TripCardWorkspace key={cardSelection?.nonce} selection={cardSelection} cards={tripCardsWithDefaults(data.tripCards)} canSave={enabled&&!saveBlocked}
@@ -229,6 +231,7 @@ return <CatalogContext.Provider value={{...catalogs,youtubeReviews:youtube.revie
   saveSummary={saveCardSummary} openSaved={()=>navigate('desk')} openCountry={openCountry} youtubeReviews={youtube.reviews} onYoutubeReview={youtube.review}/>}
  {tab==='settings'&&<section className="workspace-settings" aria-labelledby="settings-title">
   <h1 id="settings-title">الإعدادات</h1>
+  <MilesSettingsPanel/>
   <DestinationExclusionsSettings value={data.excludedDestinations} canSave={enabled&&!saveBlocked}
    onChange={excludedDestinations=>changeData(current=>({...current,excludedDestinations}))}/>
   <CatalogImportPanel canSave={enabled&&!saveBlocked} onImport={imports=>changeData(current=>({...current,catalogImports:{...current.catalogImports,...imports}}))}/>

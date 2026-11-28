@@ -1,0 +1,40 @@
+{
+  "program": "الفرسان · الخطوط السعودية",
+  "unit": "ميل لكل اتجاه",
+  "source": "https://www.saudia.com/loyalty/about-alfursan-program/alfursan-miles/miles-redemption",
+  "checked_date": "2026-11-28",
+  "note": "الأرقام لكل اتجاه، والذهاب والعودة ضعفها. الرسوم والضرائب تندفع كاش فوق الأميال. الجدول ينطبق بس على رحلات تشغّلها السعودية.",
+  "zones": {
+    "gcc": {"label": "الخليج", "reward": 5000, "reward_plus": 10000, "business": 24000},
+    "middle_east": {"label": "الشرق الأوسط", "reward": 6500, "reward_plus": 13000, "business": 28000},
+    "africa_east": {"label": "شرق أفريقيا", "reward": 12000, "reward_plus": 24000, "business": 36500},
+    "africa_north": {"label": "شمال أفريقيا", "reward": 10000, "reward_plus": 20000, "business": 46000},
+    "africa_south": {"label": "جنوب أفريقيا وموريشيوس", "reward": 9000, "reward_plus": 18000, "business": 47500},
+    "europe_a": {"label": "أوروبا (أ): تركيا", "reward": 11500, "reward_plus": 23000, "business": 37000},
+    "europe_b": {"label": "أوروبا (ب)", "reward": 12000, "reward_plus": 24000, "business": 44000},
+    "subcontinent_a": {"label": "شبه القارة (أ): باكستان وشمال الهند", "reward": 9000, "reward_plus": 18000, "business": 34000},
+    "subcontinent_b": {"label": "شبه القارة (ب): جنوب الهند وسريلانكا والمالديف", "reward": 12000, "reward_plus": 24000, "business": 37000},
+    "far_east": {"label": "الشرق الأقصى", "reward": 18000, "reward_plus": 36000, "business": 64000},
+    "north_america_a": {"label": "أمريكا (ما عدا لوس أنجلوس)", "reward": 22000, "reward_plus": 44000, "business": 65000},
+    "north_america_b": {"label": "أمريكا: لوس أنجلوس", "reward": 25000, "reward_plus": 50000, "business": 80000}
+  },
+  "countries": {
+    "AE": "gcc", "BH": "gcc", "KW": "gcc", "QA": "gcc", "OM": "gcc",
+    "JO": "middle_east", "LB": "middle_east", "EG": "middle_east", "IQ": "middle_east",
+    "ET": "africa_east", "KE": "africa_east", "SD": "africa_east",
+    "MA": "africa_north", "TN": "africa_north", "DZ": "africa_north",
+    "ZA": "africa_south", "NG": "africa_south", "MU": "africa_south",
+    "TR": "europe_a",
+    "AL": "europe_b", "AT": "europe_b", "BA": "europe_b", "BE": "europe_b", "BG": "europe_b", "CH": "europe_b", "CY": "europe_b",
+    "CZ": "europe_b", "DE": "europe_b", "DK": "europe_b", "ES": "europe_b", "FI": "europe_b", "FR": "europe_b", "GB": "europe_b",
+    "GR": "europe_b", "HR": "europe_b", "HU": "europe_b", "IE": "europe_b", "IS": "europe_b", "IT": "europe_b", "ME": "europe_b",
+    "MK": "europe_b", "MT": "europe_b", "NL": "europe_b", "NO": "europe_b", "PL": "europe_b", "PT": "europe_b", "RO": "europe_b",
+    "RS": "europe_b", "SE": "europe_b", "SI": "europe_b",
+    "PK": "subcontinent_a", "IN": "subcontinent_a",
+    "LK": "subcontinent_b", "BD": "subcontinent_b", "MV": "subcontinent_b",
+    "MY": "far_east", "SG": "far_east", "ID": "far_east", "CN": "far_east", "PH": "far_east", "TH": "far_east", "JP": "far_east",
+    "US": "north_america_a"
+  },
+  "south_india_cities": ["فاركالا", "كوتشي", "تريفاندرم", "كيرالا", "تشيناي", "بنغالور", "حيدر أباد", "Varkala", "Kochi", "Trivandrum", "Chennai", "Bengaluru", "Hyderabad"],
+  "los_angeles_cities": ["لوس أنجلوس", "Los Angeles"]
+}

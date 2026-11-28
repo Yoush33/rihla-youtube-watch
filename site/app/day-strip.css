@@ -1,0 +1,62 @@
+.day-strip, .trip-events, .miles-line { display: grid; gap: 12px; min-width: 0; }
+.day-strip-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 8px; }
+.day-strip-head h3, .trip-events h3 { margin: 0; display: flex; align-items: center; gap: 8px; }
+.day-strip-head span { color: var(--muted); font-size: 14px; }
+.day-strip-head b { color: var(--ink); font-size: 18px; }
+.day-arrival { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 0; padding: 10px 12px; border-radius: 12px; background: #e3efee; color: #0f5c5a; font-size: 14px; }
+
+/* الدواير: صف أفقي يمشي مع اتجاه الصفحة (من اليمين لليسار) ويتمرر بالسحب على الجوال */
+.day-circles { display: flex; gap: 14px; margin: 0; padding: 6px 2px 10px; list-style: none; overflow-x: auto; scroll-snap-type: x proximity; -webkit-overflow-scrolling: touch; }
+.day-circles li { flex: 0 0 auto; display: grid; justify-items: center; gap: 4px; scroll-snap-align: start; }
+.day-circles button { width: 74px; height: 74px; padding: 0; border-radius: 50%; display: grid; place-items: center; align-content: center; gap: 0;
+  background: #fff; color: #0f5c5a; border: 2px solid #c9dedb; line-height: 1.2; }
+.day-circles button b { font-size: 20px; }
+.day-circles button small { font-size: 11px; color: #55625f; font-weight: 500; }
+.day-circles button[data-kind="arrival"], .day-circles button[data-kind="departure"] { border-color: #d9a173; color: #8a4a12; }
+.day-circles button[data-kind="rest"] { border-style: dashed; }
+.day-circles button[aria-selected="true"] { background: #0f5c5a; border-color: #0f5c5a; color: #fff; }
+.day-circles button[aria-selected="true"] small { color: #e3efee; }
+.day-circle-city { font-size: 12px; color: #55625f; max-width: 84px; text-align: center; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.day-editor { display: grid; gap: 10px; padding: 16px; border: 1px solid var(--line); border-radius: 14px; background: #fbf9f5; }
+.day-editor-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 8px; }
+.day-editor-head h4 { margin: 0; font-size: 17px; }
+.day-total { font-size: 14px; color: var(--muted); }
+.day-total b { color: #1b6b45; font-size: 17px; }
+.day-cost-parts { margin: 0; font-size: 13px; }
+.day-items { display: grid; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.day-items li { display: grid; grid-template-columns: auto minmax(0,1fr) auto; gap: 10px; align-items: start; padding: 10px; border-radius: 12px; background: #fff; border: 1px solid var(--line); }
+.day-items li[data-kind="event"] { border-color: #d9a173; }
+.day-eta { font-weight: 700; color: #0f5c5a; font-variant-numeric: tabular-nums; direction: ltr; padding-top: 2px; }
+.day-item-body { display: grid; gap: 2px; min-width: 0; }
+.day-item-body small { color: var(--muted); }
+.day-item-meta { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 13px; color: var(--muted); align-items: center; }
+.day-item-meta label { display: inline-flex; align-items: center; gap: 4px; margin: 0; font-size: 13px; }
+.day-item-meta input { width: 96px; padding: 4px 8px; margin: 0; }
+.day-item-meta a { display: inline-flex; align-items: center; gap: 3px; }
+.day-item-actions { display: flex; gap: 4px; }
+.day-item-actions button { min-width: 36px; min-height: 36px; padding: 4px; display: grid; place-items: center; }
+.day-add { display: grid; grid-template-columns: minmax(0,2fr) auto minmax(0,1fr) auto; gap: 8px; }
+.day-add button { display: inline-flex; align-items: center; gap: 4px; }
+@media (max-width: 640px) {
+  .day-add { grid-template-columns: 1fr 1fr; }
+  .day-add input:first-child { grid-column: 1 / -1; }
+  .day-items li { grid-template-columns: auto minmax(0,1fr); }
+  .day-item-actions { grid-column: 1 / -1; justify-content: flex-end; }
+}
+
+.add-to-day select { width: auto; min-width: 150px; padding: 6px 10px; font-size: 13px; margin: 0; }
+
+.trip-events ul { display: grid; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.trip-events li { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 12px; background: #fff; }
+.trip-events li > div { display: grid; gap: 2px; min-width: 0; flex: 1 1 260px; }
+.trip-events small { color: var(--muted); }
+.trip-event-impact { font-size: 13px; color: #8a4a12; }
+
+.miles-line { gap: 4px; padding: 10px 12px; border-radius: 12px; background: #f1ece3; font-size: 14px; }
+.miles-line strong { color: #1f2a2e; }
+.miles-line [data-ok="true"] { color: #1b6b45; font-weight: 700; }
+.miles-line [data-ok="false"] { color: #b42318; font-weight: 700; }
+.miles-line small { color: var(--muted); }
+.trip-plan-dates { display: flex; flex-wrap: wrap; gap: 12px; align-items: end; }
+.trip-plan-dates label { margin: 0; }

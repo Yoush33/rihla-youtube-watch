@@ -17,6 +17,10 @@ import {MoneyInput} from './money-input';
 import {PlaceImage} from './place-image';
 import {ReadyPriceSource} from './ready-price-source';
 import {ReadyRouteMaps} from './ready-route-maps';
+import {AddToDayButton, DayStrip, TripEvents, type AddToDay} from './day-strip';
+import {MilesLine} from './miles-line';
+import {cityWithCountry} from '../lib/place-label';
+import {defaultDayItems, mergeDays, newItemId, tripDays, type DayList, type TripDay} from '../lib/trip-days';
 
 const steps = ['اختر رحلتك','اختر المسار','تفاصيل المسار','احفظ في رحلتي'];
 const categories = Object.entries(readyCategoryLabels) as [keyof typeof readyCategoryLabels, string][];
@@ -61,6 +65,7 @@ function RouteCard({plan, month, budget, onChoose}: {plan:ReadyPlan; month:numbe
     <div className="ready-route-card-content">
       <p className="ready-route-line"><Route aria-hidden="true" size={18}/><span>{readyPlanRoute(plan)}</span></p>
       <CostTotal estimate={estimate}/>
+      <MilesLine country={first.country ?? plan.country} city={first.city}/>
       <p className="ready-arrival"><Clock3 aria-hidden="true" size={18}/>
         {plan.arrival_hours === null ? 'مدة الوصول من الرياض تحتاج تحقق' : 'الوصول من الرياض نحو ' + formatArabicHours(plan.arrival_hours)}
       </p>
@@ -72,11 +77,11 @@ function RouteCard({plan, month, budget, onChoose}: {plan:ReadyPlan; month:numbe
   </article>;
 }
 
-function StopPlaces({stop,tips}: {stop:Stop;tips:readonly YoutubeTravelTip[]}) {
+function StopPlaces({stop,country,tips,days,onAdd}: {stop:Stop;country:string;tips:readonly YoutubeTravelTip[];days:readonly TripDay[];onAdd:AddToDay}) {
   const [category,setCategory] = useState<keyof typeof readyCategoryLabels>(categories[0][0]);
   const places = verifiedReadyPlaces(stop).filter(place => place.category === category);
   return <section className="ready-stop-places" aria-label={'الأماكن في ' + stop.city}>
-    <h3>الأماكن في {stop.city}</h3>
+    <h3>الأماكن في {cityWithCountry(stop.city,country)}</h3>
     <div className="ready-place-categories" role="group" aria-label="الفئات">
       {categories.map(([id, label]) => <button type="button" className="secondary" aria-pressed={category === id} key={id}
         onClick={() => setCategory(id)}>{label}</button>)}
@@ -93,6 +98,10 @@ function StopPlaces({stop,tips}: {stop:Stop;tips:readonly YoutubeTravelTip[]}) {
           {place.price && <ReadyPriceSource price={place.price}/>}
           <small className="ready-price-source"><a href={place.osm_url} target="_blank" rel="noreferrer">المصدر: OpenStreetMap</a></small>
           <CommunityTipList tips={tips.filter(tip=>tipMatchesPlace(tip,place))}/>
+          <AddToDayButton days={days.filter(day=>day.city === stop.city)} onAdd={onAdd} item={{
+            slot:place.category === 'breakfast' || place.category === 'coffee' ? 'morning' : place.category === 'dinner' || place.category === 'spa' ? 'evening' : 'noon',
+            kind:'place', name:place.name, price:place.price?.amount ?? null,
+            walk:place.distance_meters <= 1500 ? place.walk_minutes : null, maps:readyPlaceMap(place)}}/>
         </div>
         <a className="ready-map-link" href={readyPlaceMap(place)} target="_blank" rel="noreferrer"><MapPin aria-hidden="true" size={18}/> Google Maps</a>
       </li>)}
@@ -100,38 +109,14 @@ function StopPlaces({stop,tips}: {stop:Stop;tips:readonly YoutubeTravelTip[]}) {
   </section>;
 }
 
-function StopDays({stop, days, startDay, departureDay}: {stop:Stop; days:number; startDay:number; departureDay:boolean}) {
-  const lastRecordedDay = stop.day_plan.at(-1);
-  const departure = departureDay && lastRecordedDay?.evening.startsWith('المغادرة') ? lastRecordedDay : undefined;
-  const cityDays = departure ? stop.day_plan.slice(0,-1) : stop.day_plan;
-  return <section className="ready-stop-days" aria-label={'جدول الأيام في ' + stop.city}>
-    <h3>جدول الأيام</h3>
-    <ol className="ready-days-list">
-      {Array.from({length:days},(_,index) => {
-        const lastDay = departureDay && index === days - 1;
-        const day = lastDay ? departure : cityDays[index];
-        return <li key={index}>
-          <h4>اليوم {cardNumber(startDay + index)}</h4>
-          {day ? <>
-            <dl><div><dt>صباح</dt><dd>{day.morning || 'وقت مرن'}</dd></div>
-              <div><dt>ظهر</dt><dd>{day.noon || 'وقت مرن'}</dd></div>
-              <div><dt>مساء</dt><dd>{day.evening || 'وقت مرن'}</dd></div></dl>
-            {day.rest && <span className="ready-tag">يوم راحة</span>}
-          </> : <p className="ready-muted">{lastDay ? 'تسجيل الخروج والانتقال إلى مطار المغادرة حسب حجزك.' : 'وقت مرن، ما له جدول مسجّل في هالخطة.'}</p>}
-        </li>;
-      })}
-    </ol>
-  </section>;
-}
-
-function StopCard({stop, country, nights, startDay, departureDay, canAdd, onNight}: {
-  stop:Stop; country:string; nights:number; startDay:number; departureDay:boolean; canAdd:boolean; onNight:(change:number) => void;
+function StopCard({stop, country, nights, canAdd, onNight, days, onAdd}: {
+  stop:Stop; country:string; nights:number; canAdd:boolean; onNight:(change:number) => void; days:readonly TripDay[]; onAdd:AddToDay;
 }) {
   const hotelMap = readyHotelMap(stop);
   const cityMap = readyCityMap(stop);
   const tips = useCommunityTips([{...stop,country,places:[stop.hotel,...stop.places]}]);
   return <article className="panel ready-stop-card">
-    <PlaceImage place={stop.image_key ?? stop.city} className="ready-stop-photo" fallbackName={stop.city} label={<h2>{stop.city}</h2>}/>
+    <PlaceImage place={stop.image_key ?? stop.city} className="ready-stop-photo" fallbackName={stop.city} label={<h2>{cityWithCountry(stop.city,country)}</h2>}/>
     <div className="ready-stop-content">
       <div className="ready-stop-heading">
         <p>{stop.summary}</p>
@@ -160,29 +145,43 @@ function StopCard({stop, country, nights, startDay, departureDay, canAdd, onNigh
         <MapPinned aria-hidden="true" size={20}/> عرض على الخريطة
       </a>}
       <details className="ready-people"><summary>كلام الناس</summary><CommunityTips tips={tips}/></details>
-      <StopPlaces stop={stop} tips={tips}/>
-      <StopDays stop={stop} days={nights + Number(departureDay)} startDay={startDay} departureDay={departureDay}/>
+      <StopPlaces stop={stop} country={country} tips={tips} days={days} onAdd={onAdd}/>
     </div>
   </article>;
 }
 
-function RouteDetails({choice, estimate, onNight}: {choice:ReadyPlanChoice; estimate:Estimate; onNight:(index:number,change:number) => void}) {
+type DayProps = {days:DayList; onDays:(days:DayList) => void; startDate:string; onStartDate:(date:string) => void;
+  departTime:string; onDepartTime:(time:string) => void};
+
+function RouteDetails({choice, estimate, onNight, dayProps}: {choice:ReadyPlanChoice; estimate:Estimate; onNight:(index:number,change:number) => void; dayProps:DayProps}) {
   const {plan,nights} = choice;
+  const {days,onDays,startDate,onStartDate,departTime,onDepartTime} = dayProps;
+  const list = tripDays(plan,nights);
+  const first = plan.stops[0];
+  const onAdd:AddToDay = (index,item) => onDays(list.map(day=>day.index === index ? [...(days[day.index] ?? []),{...item,id:newItemId('a')}] : days[day.index] ?? []));
   return <>
     <div className="panel ready-route-overview">
       <div>
         <h2>{plan.title}</h2>
         <p className="ready-route-line"><Route aria-hidden="true" size={18}/><span>{readyPlanRoute(plan,nights)}</span></p>
-        <p>تبدأ رحلتك من {plan.stops[0].city}</p>
+        <p>تبدأ رحلتك من {cityWithCountry(first.city,first.country ?? plan.country)}</p>
+        <MilesLine country={first.country ?? plan.country} city={first.city}/>
       </div>
       <CostTotal estimate={estimate}/>
     </div>
     <ReadyRouteMaps stops={plan.stops} className="panel ready-maps"/>
     {plan.transfers.length > 0 && <div className="panel ready-detail-transfers"><h2>التنقّل بين المدن</h2><Transfers transfers={plan.transfers}/></div>}
+    <div className="panel">
+      <div className="trip-plan-dates">
+        <label>تاريخ بداية الرحلة<input type="date" value={startDate} onChange={event => onStartDate(event.target.value)}/></label>
+        <label>وقت الإقلاع من الرياض<input type="time" value={departTime} onChange={event => onDepartTime(event.target.value)}/></label>
+      </div>
+      <DayStrip plan={plan} nights={nights} days={days} onChange={onDays} editable startDate={startDate || undefined} departTime={departTime || undefined}/>
+    </div>
+    <div className="panel"><TripEvents plan={plan} nights={nights} startDate={startDate || undefined} days={list} onAdd={onAdd}/></div>
     {plan.stops.map((stop,index) => <StopCard stop={stop} country={stop.country ?? plan.country} key={stop.city + index} nights={nights[index]}
-      departureDay={index === plan.stops.length - 1} startDay={1 + nights.slice(0,index).reduce((sum,night) => sum + night,0)}
-      canAdd={estimate.days < maxPlanDays} onNight={change => onNight(index,change)}/>)}
-    <p className="panel ready-route-line"><MapPin size={18} aria-hidden="true"/> تنتهي في {plan.stops[plan.stops.length - 1].city}</p>
+      canAdd={estimate.days < maxPlanDays} onNight={change => onNight(index,change)} days={list} onAdd={onAdd}/>)}
+    <p className="panel ready-route-line"><MapPin size={18} aria-hidden="true"/> تنتهي في {cityWithCountry(plan.stops[plan.stops.length - 1].city,plan.stops[plan.stops.length - 1].country ?? plan.country)}</p>
   </>;
 }
 
@@ -224,6 +223,9 @@ export function ReadyPlansWorkspace({initialMonth = 12, initialBudget = 5000, ca
   const [budgetInput,setBudgetInput] = useState(String(initialBudget));
   const [selectedId,setSelectedId] = useState<string>();
   const [nights,setNights] = useState<number[]>([]);
+  const [days,setDays] = useState<DayList>([]);
+  const [startDate,setStartDate] = useState('');
+  const [departTime,setDepartTime] = useState('08:00');
   const [saved,setSaved] = useState(false);
   const [saveError,setSaveError] = useState(false);
   const heading = useRef<HTMLHeadingElement>(null);
@@ -234,7 +236,7 @@ export function ReadyPlansWorkspace({initialMonth = 12, initialBudget = 5000, ca
   const selected = matches.find(plan => plan.id === selectedId);
   const plan = selected && resolveReadyPlanTripCard(selected,cards,nights,month,today);
   const activeStep = step > 1 && !plan ? 1 : step;
-  const choice = plan && {plan,nights,month,budget};
+  const choice = plan && {plan,nights,month,budget,days,depart_time:departTime || undefined,...(startDate ? {start_date:startDate} : {})};
   const estimate = plan && estimateReadyPlan(plan,nights,budget);
 
   function go(next: number) {
@@ -244,7 +246,9 @@ export function ReadyPlansWorkspace({initialMonth = 12, initialBudget = 5000, ca
 
   function choose(plan:ReadyPlan) {
     setSelectedId(plan.id);
-    setNights(plan.stops.map(stop => stop.nights));
+    const initial = plan.stops.map(stop => stop.nights);
+    setNights(initial);
+    setDays(defaultDayItems(plan,initial));
     setSaved(false);
     setSaveError(false);
     go(2);
@@ -254,7 +258,9 @@ export function ReadyPlansWorkspace({initialMonth = 12, initialBudget = 5000, ca
     setNights(current => {
       const total = current.reduce((sum,night) => sum + night,0);
       if (current[index] + change < 1 || total + change >= maxPlanDays) return current;
-      return current.map((night,position) => position === index ? night + change : night);
+      const next = current.map((night,position) => position === index ? night + change : night);
+      if (plan) setDays(previous => mergeDays(previous,defaultDayItems(plan,next)));
+      return next;
     });
     setSaved(false);
     setSaveError(false);
@@ -307,7 +313,8 @@ export function ReadyPlansWorkspace({initialMonth = 12, initialBudget = 5000, ca
       <button type="button" className="secondary" onClick={() => go(0)}>تعديل الاختيارات</button>
     </section>}
     {activeStep === 2 && choice && estimate && <section className="ready-route-detail" aria-label="تفاصيل المسار">
-      <RouteDetails choice={choice} estimate={estimate} onNight={editNight}/>
+      <RouteDetails choice={choice} estimate={estimate} onNight={editNight} dayProps={{days,onDays:value => {setDays(value);setSaved(false);},
+        startDate,onStartDate:setStartDate,departTime,onDepartTime:setDepartTime}}/>
       <div className="panel ready-flow-actions ready-detail-actions">
         <CostTotal estimate={estimate}/>
         <div><button type="button" className="secondary" onClick={() => go(1)}>ارجع للمسارات</button>

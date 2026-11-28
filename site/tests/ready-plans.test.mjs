@@ -51,7 +51,7 @@ test('nights and daily spend recalculate separately from fixed travel prices',()
   assert.equal(extended.total,Math.round((initial.total+plan.stops[0].hotel.night_price.amount+plan.cost_estimate.daily.amount)*100)/100);
   assert.equal(Math.round((budget-extended.total)*100)/100,extended.remaining);
   assert.equal(estimateReadyPlan(find('ayt'),undefined,budget).remaining,null);
-  assert.match(readyPlanRoute(plan,[5]),/فاركالا ٥/);
+  assert.match(readyPlanRoute(plan,[5]),/فاركالا، الهند ٥/);
 });
 
 test('Varkala matches Bored and My Trip with the same days and saved quote',()=>{

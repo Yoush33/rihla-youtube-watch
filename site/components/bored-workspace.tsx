@@ -3,6 +3,7 @@
 import {useId, useState, type FormEvent} from 'react';
 import {ChevronDown, Clock, Footprints, Plane, SlidersHorizontal, TriangleAlert, Wallet} from 'lucide-react';
 import {DestinationCalendarAlert} from './country-guide';
+import {MilesLine} from './miles-line';
 import {MoneyInput} from './money-input';
 import {BoredPlanningTools} from './bored-planning-tools';
 import {PlaceImage} from './place-image';
@@ -122,7 +123,7 @@ function DestinationOption({option, settings, links, canSave, updateLinks, openC
 
   return <article className="bored-option">
     <PlaceImage kind="city" place={trip.id} className="bored-image"
-      label={<div className="bored-image-text"><h3>{trip.city}</h3><p>{[trip.neighborhood,option.country].filter(Boolean).join(' · ')}</p></div>}
+      label={<div className="bored-image-text"><h3>{trip.city}{option.country ? '، ' + option.country : ''}</h3><p>{[trip.neighborhood,option.country].filter(Boolean).join(' · ')}</p></div>}
       overlay={<span className="bored-season" data-best={option.season === 2}>{option.season === 2 ? 'أفضل شهر لها' : 'مناسب · مو أفضل شهر'}</span>}/>
     <div className="bored-option-body">
       <div className="bored-price">
@@ -142,6 +143,7 @@ function DestinationOption({option, settings, links, canSave, updateLinks, openC
           ' + ' + (trip.costs.milesCount.value ? cardNumber(trip.costs.milesCount.value) + ' ميل' : 'أميال غير محددة') : ''}</li>}
         <li data-tone={option.walk ? 'positive' : 'neutral'}><Footprints size={16} aria-hidden="true"/> {option.walk ? 'كل شي مشي' : 'المشي حسب المكان'}</li>
       </ul>
+      <MilesLine country={trip.country.toUpperCase()} city={trip.city}/>
       {settings.departure && <DestinationCalendarAlert code={trip.country.toUpperCase()} start={settings.departure} end={shiftCardDate(settings.departure,settings.days-1)}/>}
       <p className="bored-reason"><strong>ليش يناسبك؟</strong> {profile.why[0]}</p>
       {warnings[0] && <div className="bored-warning"><TriangleAlert size={17} aria-hidden="true"/><p>{warnings[0]}</p></div>}

@@ -1,6 +1,7 @@
 import {z} from 'zod';
 import {readyBudgetSchema,readyDateSchema,readyMonthSchema,readyNightSchema,readyPlanSchema} from './ready-plan-schema';
 import type {ReadyPlanChoice} from './ready-plan-calculations';
+import {dayListSchema,departTimeSchema} from './trip-days';
 
 export const savedReadyPlanSchema = z.object({
   plan:readyPlanSchema,
@@ -10,6 +11,8 @@ export const savedReadyPlanSchema = z.object({
   created_on:readyDateSchema,
   start_date:readyDateSchema.optional(),
   checked:z.array(z.string().min(1).max(240)).max(80),
+  days:dayListSchema.optional(),
+  depart_time:departTimeSchema.optional(),
 }).refine(value=>value.nights.length===value.plan.stops.length&&value.nights.reduce((sum,nights)=>sum+nights,0)<=29,
   {path:['nights'],message:'عدد الليالي غير صالح'});
 export type SavedReadyPlan = z.infer<typeof savedReadyPlanSchema>;
