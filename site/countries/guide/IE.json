@@ -1,0 +1,480 @@
+{
+  "code": "IE",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "تأشيرة زيارة قصيرة من الفئة «سي». قد ينطبق استثناء لمن دخل المملكة المتحدة بتأشيرة بريطانية قصيرة مؤهلة واستوفى شروط البرنامج.",
+        "source": "https://api.ireland.ie/en/saudiarabia/riyadh/services/visas/visas-for-ireland/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 90 يومًا وفق الإذن عند الوصول.",
+        "source": "https://www.irishimmigration.ie/short-stay-visas-policy/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "الرسوم العامة للدخول مرة واحدة 60 يورو. راجع الإعفاءات عند التقديم.",
+        "source": "https://www.irishimmigration.ie/preclearance-and-entry-visas-fees/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "يمكن استخدام بطاقات الائتمان للمشتريات والسحب، وقد توجد رسوم.",
+        "source": "https://www.ireland.com/en/help-and-advice/practical-information/money-in-ireland/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "اليورو",
+        "source": "https://www.ireland.com/en/help-and-advice/practical-information/money-in-ireland/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "لا تُتوقع عادة عند طلب مشروب من طاولة الخدمة في الحانة.",
+        "source": "https://dublinauthority.com/en/articles/dublin-tipping",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 285 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/Ireland",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 712 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/Ireland",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 15 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/ireland-esim/failte-in-7days-5gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "تي إف آي لايف (TFI Live) للمواعيد وتخطيط الرحلات.",
+        "source": "https://www.transportforireland.ie/available-apps/tfi-live/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "حافلات نقل عام وحافلات مطار خاصة من مطار دبلن (Dublin) إلى المدينة.",
+        "source": "https://www.dublinairport.com/to-from-the-airport/by-bus/plan-your-journey",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "تصل القطارات والحافلات المدن، وتفيد الحافلات للوجهات خارج شبكة القطار.",
+        "source": "https://www.ireland.com/en-gb/plan-your-trip/travel/getting-around-ireland/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "تنشر المؤسسة الإسلامية دليل متاجر ومطاعم حلال في دبلن (Dublin).",
+        "source": "https://islamicfoundation.ie/import/halal-shops-restaurants/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "مسجد دبلن (Dublin Mosque) في ساوث سيركيولار رود (South Circular Road).",
+        "source": "https://islamicfoundation.ie/services/mosques-and-prayer-rooms/dublin/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "خبز الصودا، بوكستي (فطيرة بطاطس)، وكولكانون (بطاطس بالخضار).",
+        "source": "https://newtoireland.ie/food-groceries/traditional-irish-food-guide",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "راعِ ملابس المكان وتعليماته، خصوصًا في المواقع الدينية.",
+        "source": "https://api.ireland.ie/en/dfa/overseas-travel/know-before-you-go/local-laws-and-customs/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "الخميس يوم تسوق مسائي في دبلن (Dublin)، وتمتد ساعات بعض المتاجر حتى الثامنة مساءً.",
+        "source": "https://www.dublin.de/en/shopping/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 أو 999 للطوارئ.",
+        "source": "https://www.ireland.com/en/help-and-advice/practical-information/emergency-contacts/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "انتبه للنشل في مواقع الجذب المزدحمة.",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/ireland.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "السرقات الصغيرة في المواقع السياحية المزدحمة.",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/ireland.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "تمبل بار (Temple Bar)",
+        "value": "للنشاط المسائي",
+        "source": "https://things-to-do-in-dublin.com/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "سانت ستيفنز غرين (St Stephen’s Green)",
+        "value": "للحديقة والتسوق",
+        "source": "https://things-to-do-in-dublin.com/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "سميثفيلد (Smithfield)",
+        "value": "لأجواء محلية",
+        "source": "https://things-to-do-in-dublin.com/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "دبلن (Dublin)",
+        "value": "نقترح ثلاثة أيام عند توزيع وقت الرحلة.",
+        "source": "https://www.dublintourism.org/dublin-and-ireland-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "غالواي (Galway)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.dublintourism.org/dublin-and-ireland-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كورك (Cork)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.dublintourism.org/dublin-and-ireland-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق معظم المتاجر ويعمل النقل العام بخدمة محدودة.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديسة بريجيد",
+        "value": "٢٠٢٦-٠٢-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-02",
+        "impact": "قد يعمل النقل العام بجدول الأحد، وتتفاوت ساعات المحلات بين المدن والبلدات.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس باتريك",
+        "value": "٢٠٢٦-٠٣-١٧",
+        "source": "https://date.nager.at/Calendar/2026/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-17",
+        "impact": "موكب وفعاليات في وسط دبلن (Dublin)؛ راجع مسار الموكب قبل التنقل.",
+        "impactSource": "https://www.ireland.com/en/things-to-do/themes/culture/st-patricks-day/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣ · مناسبة دينية",
+        "source": "https://date.nager.at/Calendar/2026/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "يوم عمل عادي في جمهورية أيرلندا (Republic of Ireland) وفق قائمة العطلات العامة؛ تحقّق من دوام المنشأة.",
+        "impactSource": "https://www.workplacerelations.ie/en/what_you_should_know/public-holidays/public_hols.html",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "قد يعمل النقل العام بجدول الأحد، وتتفاوت ساعات المحلات بين المدن والبلدات.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة أول مايو",
+        "value": "٢٠٢٦-٠٥-٠٤",
+        "source": "https://date.nager.at/Calendar/2026/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-04",
+        "impact": "قد يعمل النقل العام بجدول الأحد، وتتفاوت ساعات المحلات بين المدن والبلدات.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة يونيو",
+        "value": "٢٠٢٦-٠٦-٠١",
+        "source": "https://date.nager.at/Calendar/2026/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "قد يعمل النقل العام بجدول الأحد، وتتفاوت ساعات المحلات بين المدن والبلدات.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة أغسطس",
+        "value": "٢٠٢٦-٠٨-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-03",
+        "impact": "قد يعمل النقل العام بجدول الأحد، وتتفاوت ساعات المحلات بين المدن والبلدات.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة أكتوبر",
+        "value": "٢٠٢٦-١٠-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-26",
+        "impact": "قد يعمل النقل العام بجدول الأحد، وتتفاوت ساعات المحلات بين المدن والبلدات.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تغلق أغلب الأعمال وتتوقف خدمات النقل العام عادة؛ رتّب تنقلك مسبقًا.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "تبدأ تخفيضات ما بعد الميلاد في المدن الكبرى؛ يغلق كثير من متاجر البلدات ويقلّ النقل العام.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق معظم المتاجر ويعمل النقل العام بخدمة محدودة.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديسة بريجيد",
+        "value": "٢٠٢٧-٠٢-٠١",
+        "source": "https://date.nager.at/Calendar/2027/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-01",
+        "impact": "قد يعمل النقل العام بجدول الأحد، وتتفاوت ساعات المحلات بين المدن والبلدات.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس باتريك",
+        "value": "٢٠٢٧-٠٣-١٧",
+        "source": "https://date.nager.at/Calendar/2027/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-17",
+        "impact": "موكب وفعاليات في وسط دبلن (Dublin)؛ راجع مسار الموكب قبل التنقل.",
+        "impactSource": "https://www.ireland.com/en/things-to-do/themes/culture/st-patricks-day/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦ · مناسبة دينية",
+        "source": "https://date.nager.at/Calendar/2027/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "يوم عمل عادي في جمهورية أيرلندا (Republic of Ireland) وفق قائمة العطلات العامة؛ تحقّق من دوام المنشأة.",
+        "impactSource": "https://www.workplacerelations.ie/en/what_you_should_know/public-holidays/public_hols.html",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "قد يعمل النقل العام بجدول الأحد، وتتفاوت ساعات المحلات بين المدن والبلدات.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة أول مايو",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://date.nager.at/Calendar/2027/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "قد يعمل النقل العام بجدول الأحد، وتتفاوت ساعات المحلات بين المدن والبلدات.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة يونيو",
+        "value": "٢٠٢٧-٠٦-٠٧",
+        "source": "https://date.nager.at/Calendar/2027/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-07",
+        "impact": "قد يعمل النقل العام بجدول الأحد، وتتفاوت ساعات المحلات بين المدن والبلدات.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة أغسطس",
+        "value": "٢٠٢٧-٠٨-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-02",
+        "impact": "قد يعمل النقل العام بجدول الأحد، وتتفاوت ساعات المحلات بين المدن والبلدات.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة أكتوبر",
+        "value": "٢٠٢٧-١٠-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-25",
+        "impact": "قد يعمل النقل العام بجدول الأحد، وتتفاوت ساعات المحلات بين المدن والبلدات.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق أغلب الأعمال وتتوقف خدمات النقل العام عادة؛ رتّب تنقلك مسبقًا.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/IE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تبدأ تخفيضات ما بعد الميلاد في المدن الكبرى؛ يغلق كثير من متاجر البلدات ويقلّ النقل العام.",
+        "impactSource": "https://www.ireland.com/en-us/help-and-advice/practical-information/public-holidays/",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "الإجازة الصيفية غير موحدة، وتحدد المدرسة تاريخ البداية والنهاية.",
+        "source": "https://www.gov.ie/en/department-of-education/services/school-holiday-dates/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "يزداد الطلب في غالواي (Galway) خلال مهرجان الفنون في يوليو.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-travel-to-ireland",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زيادة الزحام"
+      },
+      {
+        "label": "عطلة الميلاد المدرسية",
+        "value": "من 2026-12-23 إلى 2027-01-05 حسب التقويم المدرسي.",
+        "source": "https://www.into.ie/app/uploads/2026/02/2026.01.30_FINAL_Circular_SSY_2026.29_30_Jan_2026_English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-23",
+        "end": "2027-01-05",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة السفر الصيفي",
+        "value": "تذكر مراجعة سياسة السياحة الأيرلندية أن أغسطس هو الشهر الأكثر ازدحامًا للسياحة في أيرلندا.",
+        "source": "https://enterprise.gov.ie/en/publications/publication-files/tourism-sectoral-adaptation-plan-2025-2030.pdf",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "ارتفاع الإقبال السياحي",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان القديس باتريك",
+        "value": "دبلن (Dublin)، مارس.",
+        "source": "https://stpatricksfestival.ie/event/st-patricks-festival-parade/",
+        "checked": "2026-11-27",
+        "month": 3,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

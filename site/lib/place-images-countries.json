@@ -1,0 +1,491 @@
+{
+  "AE": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sheikh_Zayed_Grand_Mosque_%40_Abu_Dhabi_%2815856602738%29.jpg/960px-Sheikh_Zayed_Grand_Mosque_%40_Abu_Dhabi_%2815856602738%29.jpg",
+    "author": "Guilhem Vellut from Annecy, France",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sheikh_Zayed_Grand_Mosque_@_Abu_Dhabi_(15856602738).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "BH": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Bahrain_Fort_March_2015.JPG/960px-Bahrain_Fort_March_2015.JPG",
+    "author": "Martin Falbisoner",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bahrain_Fort_March_2015.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "KW": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Kuwait_towers.jpg/960px-Kuwait_towers.jpg",
+    "author": "Mikael Lindmark",
+    "license": "CC BY-SA 2.5 se",
+    "page": "https://commons.wikimedia.org/wiki/File:Kuwait_towers.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/se/deed.en"
+  },
+  "QA": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Khor_Al_Adaid_Inland_Sea_and_desert_in_Katar.jpg/960px-Khor_Al_Adaid_Inland_Sea_and_desert_in_Katar.jpg",
+    "author": "FLASHPACKER TRAVELGUIDE",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Khor_Al_Adaid_Inland_Sea_and_desert_in_Katar.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "OM": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Wadi_Bani_Khalid_East_RB.jpg/960px-Wadi_Bani_Khalid_East_RB.jpg",
+    "author": "Richard Bartz",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Wadi_Bani_Khalid_East_RB.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "JO": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Petra%27s_Secret_Vantage_Point.jpg/960px-Petra%27s_Secret_Vantage_Point.jpg",
+    "author": "Sinan Diraneyya",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Petra%27s_Secret_Vantage_Point.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "EG": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Queen_Pyramids_G1b.jpg/960px-Queen_Pyramids_G1b.jpg",
+    "author": "Queen_Pyramids_G1b_G1c.jpg: Lyn Gateley from Silicon Valley, CA, USA derivative work: AnnekeBart",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Queen_Pyramids_G1b.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "MA": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2018_01_%28Blue%29_-_Chaouen.jpg/960px-2018_01_%28Blue%29_-_Chaouen.jpg",
+    "author": "Fbrandao.1963",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2018_01_(Blue)_-_Chaouen.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "TN": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Sidi_Chebaan.jpg/960px-Sidi_Chebaan.jpg",
+    "author": "Mohamed Moslem Mosbah",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sidi_Chebaan.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "TR": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg/960px-Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg",
+    "author": "Arian Zwegers from Brussels, Belgium",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cappadocia_balloon_trip,_Ortahisar_Castle_(11893715185).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "AZ": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Gobustan_State_Reserve_mountain_in_the_background.jpg/960px-Gobustan_State_Reserve_mountain_in_the_background.jpg",
+    "author": "Havin HP",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gobustan_State_Reserve_mountain_in_the_background.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "GE": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Abudelauri_valley_under_clouds%2C_early_summer%2C_Georgia.jpg/960px-Abudelauri_valley_under_clouds%2C_early_summer%2C_Georgia.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Abudelauri_valley_under_clouds,_early_summer,_Georgia.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "AM": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Holy_Saviour%27s_Church%2C_Gyumri%2C_Armenia_%282026%29.jpg/960px-Holy_Saviour%27s_Church%2C_Gyumri%2C_Armenia_%282026%29.jpg",
+    "author": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Holy_Saviour%27s_Church,_Gyumri,_Armenia_(2026).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "UZ": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Tuman_Oko_complex%2C_Samarkand_%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%A2%D1%83%D0%BC%D0%B0%D0%BD_%D0%9E%D0%BA%D0%BE%2C_%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4%2C_2025%29.jpg/960px-Tuman_Oko_complex%2C_Samarkand_%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%A2%D1%83%D0%BC%D0%B0%D0%BD_%D0%9E%D0%BA%D0%BE%2C_%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4%2C_2025%29.jpg",
+    "author": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tuman_Oko_complex,_Samarkand_(%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%A2%D1%83%D0%BC%D0%B0%D0%BD_%D0%9E%D0%BA%D0%BE,_%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4,_2025).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "KZ": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Kazakhstan_Altay_2.jpg/960px-Kazakhstan_Altay_2.jpg",
+    "author": "Dmitry A. Mottl",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kazakhstan_Altay_2.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "KG": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Kichi_Ak_Suu_Sanctuary%2C_Issyk_Kul_Region%2C_Kyrgyzstan_001.jpg/960px-Kichi_Ak_Suu_Sanctuary%2C_Issyk_Kul_Region%2C_Kyrgyzstan_001.jpg",
+    "author": "Vilya Shoni",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kichi_Ak_Suu_Sanctuary,_Issyk_Kul_Region,_Kyrgyzstan_001.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "GB": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Edinburgh_Castle_%28239295111%29.jpeg/960px-Edinburgh_Castle_%28239295111%29.jpeg",
+    "author": "Michael D Beckwith",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_(239295111).jpeg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "IE": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Cliffs_of_Moher%2C_County_Clare%2C_Ireland.jpg/960px-Cliffs_of_Moher%2C_County_Clare%2C_Ireland.jpg",
+    "author": "Barney Murphy",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cliffs_of_Moher,_County_Clare,_Ireland.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "FR": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramparts_%28fortifications%29_around_Mont_Saint-Michel%2C_one_of_France%27s_most_recognisable_landmarks_%2832880858366%29.jpg/960px-Ramparts_%28fortifications%29_around_Mont_Saint-Michel%2C_one_of_France%27s_most_recognisable_landmarks_%2832880858366%29.jpg",
+    "author": "Jorge Láscar from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ramparts_(fortifications)_around_Mont_Saint-Michel,_one_of_France%27s_most_recognisable_landmarks_(32880858366).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "BE": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Durbuy_-_L%27Ourthe_et_le_ch%C3%A2teau.jpg/960px-Durbuy_-_L%27Ourthe_et_le_ch%C3%A2teau.jpg",
+    "author": "JackyM59",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Durbuy_-_L%27Ourthe_et_le_ch%C3%A2teau.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "NL": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/KinderdijkMolens02.jpg/960px-KinderdijkMolens02.jpg",
+    "author": "Lucas Hirschegger",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:KinderdijkMolens02.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "DE": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Neuschwanstein_Castle_%28532850%29.jpg/960px-Neuschwanstein_Castle_%28532850%29.jpg",
+    "author": "cameralends",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_(532850).jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "CH": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Monte_Rosa%2C_Riffelhorn%2C_Matterhorn_and_Riffelsee_with_cairn_-_Zermatt%2C_Switzerland_-_August_13%2C_2022.jpg/960px-Monte_Rosa%2C_Riffelhorn%2C_Matterhorn_and_Riffelsee_with_cairn_-_Zermatt%2C_Switzerland_-_August_13%2C_2022.jpg",
+    "author": "Giorgio Galeotti",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Monte_Rosa,_Riffelhorn,_Matterhorn_and_Riffelsee_with_cairn_-_Zermatt,_Switzerland_-_August_13,_2022.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "AT": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/View_of_Hallstatt_waterfront_and_churches_from_Hallst%C3%A4tter_See.jpg/960px-View_of_Hallstatt_waterfront_and_churches_from_Hallst%C3%A4tter_See.jpg",
+    "author": "David Kernan",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Hallstatt_waterfront_and_churches_from_Hallst%C3%A4tter_See.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "CZ": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Czech_Republic_-_landscape_near_Kory%C4%8Dany.jpg/960px-Czech_Republic_-_landscape_near_Kory%C4%8Dany.jpg",
+    "author": "Pudelek",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Czech_Republic_-_landscape_near_Kory%C4%8Dany.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "HU": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg/960px-Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
+    "author": "Pudelek",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "PL": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_Liche%C5%84%2C_Stary_Liche%C5%84%2C_Polonia%2C_2016-12-21%2C_DD_39-41_HDR.jpg/960px-Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_Liche%C5%84%2C_Stary_Liche%C5%84%2C_Polonia%2C_2016-12-21%2C_DD_39-41_HDR.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_Liche%C5%84,_Stary_Liche%C5%84,_Polonia,_2016-12-21,_DD_39-41_HDR.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "SI": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Ljubljana_-_Gallus_waterfront_and_river_Ljubljanica.JPG/960px-Ljubljana_-_Gallus_waterfront_and_river_Ljubljanica.JPG",
+    "author": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ljubljana_-_Gallus_waterfront_and_river_Ljubljanica.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "HR": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Plitvice_Lakes1.jpg/960px-Plitvice_Lakes1.jpg",
+    "author": "Tesla Delacroix",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Plitvice_Lakes1.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "BA": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Bosnia_and_Herzegovina-02225_-_Old_Bridge_%2810481028976%29.jpg/960px-Bosnia_and_Herzegovina-02225_-_Old_Bridge_%2810481028976%29.jpg",
+    "author": "Dennis G. Jarvis",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina-02225_-_Old_Bridge_(10481028976).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "ME": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Monasterio_de_San_Jorge%2C_Perast%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_21.JPG/960px-Monasterio_de_San_Jorge%2C_Perast%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_21.JPG",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Monasterio_de_San_Jorge,_Perast,_Bah%C3%ADa_de_Kotor,_Montenegro,_2014-04-19,_DD_21.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "AL": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG",
+    "author": "Pudelek",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gjipe_beach,_Albania.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "MK": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Stone_Bridge_so_Arheolo%C5%A1kiot.jpg/960px-Stone_Bridge_so_Arheolo%C5%A1kiot.jpg",
+    "author": "Prince Roy",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Stone_Bridge_so_Arheolo%C5%A1kiot.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "RS": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Church_of_Saint_Sava_%28Belgrade%2C_Serbia%29.jpg/960px-Church_of_Saint_Sava_%28Belgrade%2C_Serbia%29.jpg",
+    "author": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Sava_(Belgrade,_Serbia).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "BG": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Vihren_%26_Kutelo_Pirin_Mountains_Bulgaria_2025.jpg/960px-Vihren_%26_Kutelo_Pirin_Mountains_Bulgaria_2025.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Vihren_%26_Kutelo_Pirin_Mountains_Bulgaria_2025.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "RO": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Romania-1850_-_Dracula%27s_Castle_%28Bran_Castle%29_%287706908996%29.jpg/960px-Romania-1850_-_Dracula%27s_Castle_%28Bran_Castle%29_%287706908996%29.jpg",
+    "author": "Dennis G. Jarvis",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Romania-1850_-_Dracula%27s_Castle_(Bran_Castle)_(7706908996).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "GR": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Erechtheum_Acropolis_Athens.jpg/960px-Erechtheum_Acropolis_Athens.jpg",
+    "author": "Jebulon",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Erechtheum_Acropolis_Athens.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "CY": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Roca_de_Afrodita%2C_Chipre%2C_2021-12-10%2C_DD_65.jpg/960px-Roca_de_Afrodita%2C_Chipre%2C_2021-12-10%2C_DD_65.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Roca_de_Afrodita,_Chipre,_2021-12-10,_DD_65.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "IT": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Grand_Canal_Venice_Italy_%28104466303%29.jpeg/960px-Grand_Canal_Venice_Italy_%28104466303%29.jpeg",
+    "author": "Elan Fleisher",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Grand_Canal_Venice_Italy_(104466303).jpeg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "MT": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Mdina_%28128761783%29.jpeg/960px-Mdina_%28128761783%29.jpeg",
+    "author": "Nsm Photography",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mdina_(128761783).jpeg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "ES": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pano_Barna.jpg/960px-Pano_Barna.jpg",
+    "author": "Elemaki",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pano_Barna.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "PT": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ponte_de_Dom_Lu%C3%ADs_I_and_Ribeira%2C_Porto_%2854795128175%29.jpg/960px-Ponte_de_Dom_Lu%C3%ADs_I_and_Ribeira%2C_Porto_%2854795128175%29.jpg",
+    "author": "Dale Cruse - 10M views from San Francisco, CA, USA",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ponte_de_Dom_Lu%C3%ADs_I_and_Ribeira,_Porto_(54795128175).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "NO": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2016-11-13_01_Kjeungskj%C3%A6r_Lighthouse%2C_S%C3%B8r-Tr%C3%B8ndelag%2C_Norway.jpg/960px-2016-11-13_01_Kjeungskj%C3%A6r_Lighthouse%2C_S%C3%B8r-Tr%C3%B8ndelag%2C_Norway.jpg",
+    "author": "Gordon Leggett",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2016-11-13_01_Kjeungskj%C3%A6r_Lighthouse,_S%C3%B8r-Tr%C3%B8ndelag,_Norway.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "SE": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Red_fishing_huts_in_R%C3%A5g%C3%A5rdsdal.jpg/960px-Red_fishing_huts_in_R%C3%A5g%C3%A5rdsdal.jpg",
+    "author": "W.carter",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_fishing_huts_in_R%C3%A5g%C3%A5rdsdal.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "DK": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Two_beached_fishing_vessels%2C_N%C3%B8rre_Vorup%C3%B8r%2C_Denmark%2C_2015-07-09-5588.jpg/960px-Two_beached_fishing_vessels%2C_N%C3%B8rre_Vorup%C3%B8r%2C_Denmark%2C_2015-07-09-5588.jpg",
+    "author": "Slaunger",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Two_beached_fishing_vessels,_N%C3%B8rre_Vorup%C3%B8r,_Denmark,_2015-07-09-5588.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "FI": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/The_Cathedral_At_Sunset_Helsinki_Finland_Architecture_Photography_%28152490913%29.jpeg/960px-The_Cathedral_At_Sunset_Helsinki_Finland_Architecture_Photography_%28152490913%29.jpeg",
+    "author": "Giuseppe Milo",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Cathedral_At_Sunset_Helsinki_Finland_Architecture_Photography_(152490913).jpeg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "IS": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sk%C3%B3gafoss_July_2014.JPG/960px-Sk%C3%B3gafoss_July_2014.JPG",
+    "author": "Martin Falbisoner",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sk%C3%B3gafoss_July_2014.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "MY": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Kuala_Lumpur_%28131754211%29.jpeg/960px-Kuala_Lumpur_%28131754211%29.jpeg",
+    "author": "Jacky Cw",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_(131754211).jpeg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "TH": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg/960px-%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg",
+    "author": "Mastertongapollo",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "ID": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Borobudur-Nothwest-view.jpg/960px-Borobudur-Nothwest-view.jpg",
+    "author": "Gunawan Kartapranata",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Borobudur-Nothwest-view.jpg"
+  },
+  "SG": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg/960px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg",
+    "author": "Mustang Joe",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore1.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "VN": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/H%E1%BA%A1_Long_Bay_Panorama%2C_Vietnam.jpg/960px-H%E1%BA%A1_Long_Bay_Panorama%2C_Vietnam.jpg",
+    "author": "Mustang Joe",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:H%E1%BA%A1_Long_Bay_Panorama,_Vietnam.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "PH": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Marabut%2C_Philippines%2C_Limestone_islands_in_San_Pedro_Bay.jpg/960px-Marabut%2C_Philippines%2C_Limestone_islands_in_San_Pedro_Bay.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marabut,_Philippines,_Limestone_islands_in_San_Pedro_Bay.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "LK": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Sigiriya_Fortress.jpg/960px-The_Sigiriya_Fortress.jpg",
+    "author": "Thushara Nadeeja",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Sigiriya_Fortress.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "MV": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Floatplane_at_Bathala_%28Maldives%29.jpg/960px-Floatplane_at_Bathala_%28Maldives%29.jpg",
+    "author": "Gzzz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Floatplane_at_Bathala_(Maldives).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "IN": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Hampi%2C_India%2C_Rocky_landscape_of_Hampi%2C_Granite_rocks_of_Matanga_Hill.jpg/960px-Hampi%2C_India%2C_Rocky_landscape_of_Hampi%2C_Granite_rocks_of_Matanga_Hill.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hampi,_India,_Rocky_landscape_of_Hampi,_Granite_rocks_of_Matanga_Hill.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "NP": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Sagarmatha_Everest_Zone%2C_Nepal%2C_Himalayas.jpg/960px-Sagarmatha_Everest_Zone%2C_Nepal%2C_Himalayas.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sagarmatha_Everest_Zone,_Nepal,_Himalayas.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "PK": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Blue_Hour_at_Pakistan_Monument.jpg/960px-Blue_Hour_at_Pakistan_Monument.jpg",
+    "author": "Muhammad Ashar",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Blue_Hour_at_Pakistan_Monument.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "JP": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Lake_Kawaguchiko_Sakura_Mount_Fuji_4.JPG/960px-Lake_Kawaguchiko_Sakura_Mount_Fuji_4.JPG",
+    "author": "Midori",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lake_Kawaguchiko_Sakura_Mount_Fuji_4.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "KR": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Bulguksa_temple_entrance_gate_stairs_flower_bed_and_blue_sky_in_Gyeongju_South_Korea.jpg/960px-Bulguksa_temple_entrance_gate_stairs_flower_bed_and_blue_sky_in_Gyeongju_South_Korea.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bulguksa_temple_entrance_gate_stairs_flower_bed_and_blue_sky_in_Gyeongju_South_Korea.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "CN": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Badaling_China_Great-Wall-of-China-01.jpg/960px-Badaling_China_Great-Wall-of-China-01.jpg",
+    "author": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Badaling_China_Great-Wall-of-China-01.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "TZ": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Kilimanjaro%2C_Tanzania%2C_2024-05-22%2C_DD_110.jpg/960px-Kilimanjaro%2C_Tanzania%2C_2024-05-22%2C_DD_110.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kilimanjaro,_Tanzania,_2024-05-22,_DD_110.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "KE": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Elephant_in_Maasai_Mara_landscape%2C_Kenya.jpg/960px-Elephant_in_Maasai_Mara_landscape%2C_Kenya.jpg",
+    "author": "Daniel Case",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Elephant_in_Maasai_Mara_landscape,_Kenya.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "ZA": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Blyde_River_Canyon_Nature_Reserve_%28ZA%29%2C_Lowveld_View%2C_Blyde_River_--_2024_--_9964.jpg/960px-Blyde_River_Canyon_Nature_Reserve_%28ZA%29%2C_Lowveld_View%2C_Blyde_River_--_2024_--_9964.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Blyde_River_Canyon_Nature_Reserve_(ZA),_Lowveld_View,_Blyde_River_--_2024_--_9964.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "MU": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Le_Morne_Peninsula_in_Mauritius_%2853697779236%29.jpg/960px-Le_Morne_Peninsula_in_Mauritius_%2853697779236%29.jpg",
+    "author": "\"dronepicr\"",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Le_Morne_Peninsula_in_Mauritius_(53697779236).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "SC": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Grand_Anse-La_Digue-Seychellen.jpg/960px-Grand_Anse-La_Digue-Seychellen.jpg",
+    "author": "Tobias Alt, Tobi 87",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Grand_Anse-La_Digue-Seychellen.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "US": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg/960px-Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg",
+    "author": "Tuxyso",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "CA": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Montmorency_waterfall%2C_Qu%C3%A9bec%2C_Qu%C3%A9bec.jpg/960px-Montmorency_waterfall%2C_Qu%C3%A9bec%2C_Qu%C3%A9bec.jpg",
+    "author": "Wilfredor",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Montmorency_waterfall,_Qu%C3%A9bec,_Qu%C3%A9bec.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "MX": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/960px-Chichen_Itza_3.jpg",
+    "author": "Daniel Schwen",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "AU": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petermann_Ranges_%28AU%29%2C_Uluru-Kata_Tjuta_National_Park%2C_Uluru_--_2019_--_3602-6.jpg/960px-Petermann_Ranges_%28AU%29%2C_Uluru-Kata_Tjuta_National_Park%2C_Uluru_--_2019_--_3602-6.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Petermann_Ranges_(AU),_Uluru-Kata_Tjuta_National_Park,_Uluru_--_2019_--_3602-6.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

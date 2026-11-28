@@ -1,0 +1,1020 @@
+{
+  "code": "CA",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "تأشيرة زيارة مؤقتة قبل السفر لحامل الجواز السعودي العادي، وقد تُطلب البصمات ضمن إجراءات الطلب.",
+        "source": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/check-visa-eta.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "يُسمح لمعظم الزوار بالبقاء حتى ستة أشهر. يحدد موظف الحدود تاريخ المغادرة إن اختلف.",
+        "source": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم التأشيرة",
+        "value": "يبدأ من 100 دولار كندي للفرد، وقد تُستحق رسوم البصمات.",
+        "source": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الدولار الكندي",
+        "source": "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/money.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "تقبل المطاعم البطاقات، ويحسن حمل مبلغ نقدي صغير.",
+        "source": "https://wise.com/us/travel-money/tip-calculator/canada",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "يشيع نحو 15–20٪ لخدمة الطاولة في مطاعم تورونتو (Toronto).",
+        "source": "https://www.torontotourism.org/toronto-first-time-visitors-guide/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 262 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/canada",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 728 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/canada",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 26 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/canada-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«سيتي مابر» للمواصلات العامة في تورونتو (Toronto) ومونتريال (Montréal) وفانكوفر (Vancouver).",
+        "source": "https://apps.apple.com/ca/app/citymapper/id469463298?platform=watch",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "ترتبط محطة كبلينغ (Kipling) بمطار تورونتو بيرسون (Toronto Pearson) بالحافلة السريعة 900 للمتابعة على المترو.",
+        "source": "https://www.ttc.ca/riding-the-ttc/Service-to-the-airport/Toronto-Pearson-International-Airport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "القطارات والحافلات بين المدن خيارات عملية في ممر تورونتو (Toronto) ومونتريال (Montréal). احسب الوقت للمسافات الطويلة.",
+        "source": "https://www.settlecanada.ca/transit/intercity-travel-without-car/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "تتوفر مطاعم حلال في أحياء تورونتو (Toronto) ومنها سكاربورو (Scarborough).",
+        "source": "https://al-m.ca/restaurants/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد بيت الأمان (Baitul Aman Masjid) في تورونتو.",
+        "source": "https://halalstreet.app/region/toronto/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "بوتين، فطيرة الزبدة، وفطيرة اللحم «تورتيير». تحقّق من مرق البوتين وحشوة الفطيرة.",
+        "source": "https://knowyourcountry.org/ca/culture/food-and-drink",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "في معبد سوامينارايان (BAPS Shri Swaminarayan Mandir) بتورونتو يجب تغطية الكتفين والركبتين وخلع الأحذية عند الدخول.",
+        "source": "https://www.baps.org/Global-Network/North-America/Toronto/Visitor-Info.aspx",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "تختلف قوانين شرب الكحول والتدخين في الأماكن العامة بحسب المقاطعة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/canada/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "في تورونتو (Toronto) تلزم عطلات معينة متاجر بالإغلاق مع استثناءات بحسب النوع والمكان.",
+        "source": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "في المتنزهات النائية، راجع التحذيرات المحلية للطقس والحياة البرية قبل مغادرة المسارات.",
+        "source": "https://www.gov.uk/foreign-travel-advice/canada/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "لا تترك المتعلقات الثمينة ظاهرة في سيارة متوقفة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/canada/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 911.",
+        "source": "https://www.gov.uk/foreign-travel-advice/canada/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "وسط المدينة (Downtown Toronto)",
+        "value": "للمعالم ومحطة يونيون.",
+        "source": "https://www.expedia.com/magazine/where-to-stay-in-toronto",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "حي الترفيه (Entertainment District)",
+        "value": "للمسرح والمطاعم.",
+        "source": "https://www.expedia.com/magazine/where-to-stay-in-toronto",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "يوركفيل (Yorkville)",
+        "value": "للتسوق والمتاحف القريبة.",
+        "source": "https://www.expedia.com/magazine/where-to-stay-in-toronto",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "تورونتو (Toronto)",
+        "value": "توزيع مقترح للزيارة: 3 أيام.",
+        "source": "https://geniustravelguru.com/en/north-america/canada/collections/10-day-eastern-canada-itinerary",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "مونتريال (Montréal)",
+        "value": "توزيع مقترح للزيارة: 3 أيام.",
+        "source": "https://geniustravelguru.com/en/north-america/canada/collections/10-day-eastern-canada-itinerary",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "مدينة كيبيك (Québec City)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://geniustravelguru.com/en/north-america/canada/collections/10-day-eastern-canada-itinerary",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق متاجر التجزئة في تورونتو (Toronto)، باستثناء قطاعات ومناطق سياحية محددة.",
+        "impactSource": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم لويس رييل",
+        "value": "٢٠٢٦-٠٢-١٦",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-16",
+        "impact": "غير مؤكد",
+        "scope": "مانيتوبا (Manitoba)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم سكان الجزيرة",
+        "value": "٢٠٢٦-٠٢-١٦",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-16",
+        "impact": "غير مؤكد",
+        "scope": "جزيرة الأمير إدوارد (Prince Edward Island)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التراث",
+        "value": "٢٠٢٦-٠٢-١٦",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-16",
+        "impact": "غير مؤكد",
+        "scope": "نوفا سكوشا (Nova Scotia)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأسرة",
+        "value": "٢٠٢٦-٠٢-١٦",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-16",
+        "impact": "غير مؤكد",
+        "scope": "ألبرتا (Alberta)، كولومبيا البريطانية (British Columbia)، نيو برونزويك (New Brunswick)، أونتاريو (Ontario)، ساسكاتشوان (Saskatchewan)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم القديس باتريك",
+        "value": "٢٠٢٦-٠٣-١٧",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-17",
+        "impact": "غير مؤكد",
+        "scope": "نيوفاوندلاند ولابرادور (Newfoundland and Labrador)، لبعض الخدمات",
+        "scopeSource": "https://www.gov.nl.ca/releases/2020/exec/0618n08/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "تغلق متاجر التجزئة في تورونتو (Toronto)، باستثناء قطاعات ومناطق سياحية محددة.",
+        "impactSource": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم القديس جورج",
+        "value": "٢٠٢٦-٠٤-٢٣",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-23",
+        "impact": "غير مؤكد",
+        "scope": "نيوفاوندلاند ولابرادور (Newfoundland and Labrador)، لبعض الخدمات",
+        "scopeSource": "https://www.gov.nl.ca/releases/2020/exec/0618n08/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الوطنيين",
+        "value": "٢٠٢٦-٠٥-١٨",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-18",
+        "impact": "غير مؤكد",
+        "scope": "كيبيك (Québec)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم فيكتوريا",
+        "value": "٢٠٢٦-٠٥-١٨",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-18",
+        "impact": "تُجيز تورونتو (Toronto) للمتاجر اختيار الفتح في هذه العطلة.",
+        "impactSource": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الشعوب الأصلية",
+        "value": "٢٠٢٦-٠٦-٢١",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-21",
+        "impact": "غير مؤكد",
+        "scope": "يوكون (Yukon) والأقاليم الشمالية الغربية (Northwest Territories)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الاكتشاف",
+        "value": "٢٠٢٦-٠٦-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-24",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "scope": "نيوفاوندلاند ولابرادور (Newfoundland and Labrador)، تسمية تاريخية",
+        "scopeSource": "https://www.gov.nl.ca/releases/2020/exec/0618n08/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني لكيبيك",
+        "value": "٢٠٢٦-٠٦-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-24",
+        "impact": "غير مؤكد",
+        "scope": "كيبيك (Québec)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كندا",
+        "value": "٢٠٢٦-٠٧-٠١",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-07-01",
+        "impact": "زحمة وإغلاقات طرق وسط أوتاوا (Ottawa) قرب مواقع الاحتفالات. اختر مسار تنقلك قبل التوجه إليها.",
+        "impactSource": "https://ottawa.ca/en/health-and-public-safety/emergency-preparedness/current-and-ongoing-emergencies/canada-day/traffic-and-parking",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأورانجيين",
+        "value": "٢٠٢٦-٠٧-١٢",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-07-12",
+        "impact": "غير مؤكد",
+        "scope": "نيوفاوندلاند ولابرادور (Newfoundland and Labrador)، لبعض الخدمات",
+        "scopeSource": "https://www.gov.nl.ca/releases/2020/exec/0618n08/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "العطلة المدنية",
+        "value": "٢٠٢٦-٠٨-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-03",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كولومبيا البريطانية",
+        "value": "٢٠٢٦-٠٨-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-03",
+        "impact": "غير مؤكد",
+        "scope": "كولومبيا البريطانية (British Columbia)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التراث",
+        "value": "٢٠٢٦-٠٨-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-03",
+        "impact": "غير مؤكد",
+        "scope": "ألبرتا (Alberta)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم نيو برونزويك",
+        "value": "٢٠٢٦-٠٨-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-03",
+        "impact": "غير مؤكد",
+        "scope": "نيو برونزويك (New Brunswick)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التأسيس المحلي",
+        "value": "٢٠٢٦-٠٨-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-03",
+        "impact": "غير مؤكد",
+        "scope": "من المناسبات البلدية، ومنها هاليفاكس (Halifax)",
+        "scopeSource": "https://cdn.halifax.ca/sites/default/files/documents/business/doing-business-halifax/traffic-control-manual-supplement-2025-final_0.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ساسكاتشوان",
+        "value": "٢٠٢٦-٠٨-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-03",
+        "impact": "غير مؤكد",
+        "scope": "ساسكاتشوان (Saskatchewan)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم موكب الكأس الذهبية",
+        "value": "غير مؤكد",
+        "source": "https://www.charlottetown.ca/cms/One.aspx?pageId=21374396&portalId=10500387",
+        "checked": "2026-11-27",
+        "date": "2026-08-17",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "scope": "شارلوت تاون (Charlottetown)، جزيرة الأمير إدوارد (Prince Edward Island)",
+        "scopeSource": "https://www.charlottetown.ca/cms/One.aspx?pageId=21374396&portalId=10500387",
+        "regional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الاكتشاف",
+        "value": "٢٠٢٦-٠٨-١٧",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-17",
+        "impact": "غير مؤكد",
+        "scope": "يوكون (Yukon)",
+        "scopeSource": "https://yukon.ca/en/find-yukon-statutory-holiday/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "موكب الكأس الذهبية",
+        "date": "2026-08-21",
+        "value": "٢٠٢٦-٠٨-٢١",
+        "source": "https://www.charlottetown.ca/cms/One.aspx?pageId=21374396&portalId=10500387",
+        "checked": "2026-11-27",
+        "impact": "تغلق شوارع على مسار الموكب في وسط المدينة.",
+        "impactSource": "https://www.charlottetown.ca/cms/One.aspx?pageId=21374396&portalId=10500387",
+        "scope": "شارلوت تاون (Charlottetown)، جزيرة الأمير إدوارد (Prince Edward Island)",
+        "scopeSource": "https://www.charlottetown.ca/cms/One.aspx?pageId=21374396&portalId=10500387",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم العمال",
+        "value": "٢٠٢٦-٠٩-٠٧",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-07",
+        "impact": "تغلق متاجر التجزئة في تورونتو (Toronto)، باستثناء قطاعات ومناطق سياحية محددة.",
+        "impactSource": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني للحقيقة والمصالحة",
+        "value": "٢٠٢٦-٠٩-٣٠",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-30",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الشكر",
+        "value": "٢٠٢٦-١٠-١٢",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-12",
+        "impact": "تغلق متاجر التجزئة في تورونتو (Toronto)، باستثناء قطاعات ومناطق سياحية محددة.",
+        "impactSource": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الهدنة",
+        "value": "٢٠٢٦-١١-١١",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-11",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الذكرى",
+        "value": "٢٠٢٦-١١-١١",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-11",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "يغلق المتحف الكندي للتاريخ (Canadian Museum of History) في غاتينو (Gatineau).",
+        "impactSource": "https://www.historymuseum.ca/plan-your-visit",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق متاجر التجزئة في تورونتو (Toronto)، باستثناء قطاعات ومناطق سياحية محددة.",
+        "impactSource": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم لويس رييل",
+        "value": "٢٠٢٧-٠٢-١٥",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-15",
+        "impact": "غير مؤكد",
+        "scope": "مانيتوبا (Manitoba)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم سكان الجزيرة",
+        "value": "٢٠٢٧-٠٢-١٥",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-15",
+        "impact": "غير مؤكد",
+        "scope": "جزيرة الأمير إدوارد (Prince Edward Island)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التراث",
+        "value": "٢٠٢٧-٠٢-١٥",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-15",
+        "impact": "غير مؤكد",
+        "scope": "نوفا سكوشا (Nova Scotia)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأسرة",
+        "value": "٢٠٢٧-٠٢-١٥",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-15",
+        "impact": "تُجيز تورونتو (Toronto) للمتاجر اختيار الفتح في هذه العطلة.",
+        "impactSource": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "scope": "ألبرتا (Alberta)، كولومبيا البريطانية (British Columbia)، نيو برونزويك (New Brunswick)، أونتاريو (Ontario)، ساسكاتشوان (Saskatchewan)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم القديس باتريك",
+        "value": "٢٠٢٧-٠٣-١٧",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-17",
+        "impact": "غير مؤكد",
+        "scope": "نيوفاوندلاند ولابرادور (Newfoundland and Labrador)، لبعض الخدمات",
+        "scopeSource": "https://www.gov.nl.ca/releases/2020/exec/0618n08/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "تغلق متاجر التجزئة في تورونتو (Toronto)، باستثناء قطاعات ومناطق سياحية محددة.",
+        "impactSource": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم القديس جورج",
+        "value": "٢٠٢٧-٠٤-٢٣",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-23",
+        "impact": "غير مؤكد",
+        "scope": "نيوفاوندلاند ولابرادور (Newfoundland and Labrador)، لبعض الخدمات",
+        "scopeSource": "https://www.gov.nl.ca/releases/2020/exec/0618n08/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الوطنيين",
+        "value": "٢٠٢٧-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-24",
+        "impact": "غير مؤكد",
+        "scope": "كيبيك (Québec)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم فيكتوريا",
+        "value": "٢٠٢٧-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-24",
+        "impact": "تُجيز تورونتو (Toronto) للمتاجر اختيار الفتح في هذه العطلة.",
+        "impactSource": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الشعوب الأصلية",
+        "value": "٢٠٢٧-٠٦-٢١",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-21",
+        "impact": "غير مؤكد",
+        "scope": "يوكون (Yukon) والأقاليم الشمالية الغربية (Northwest Territories)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الاكتشاف",
+        "value": "٢٠٢٧-٠٦-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-24",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "scope": "نيوفاوندلاند ولابرادور (Newfoundland and Labrador)، تسمية تاريخية",
+        "scopeSource": "https://www.gov.nl.ca/releases/2020/exec/0618n08/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني لكيبيك",
+        "value": "٢٠٢٧-٠٦-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-24",
+        "impact": "غير مؤكد",
+        "scope": "كيبيك (Québec)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كندا",
+        "value": "٢٠٢٧-٠٧-٠١",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-01",
+        "impact": "زحمة وإغلاقات طرق وسط أوتاوا (Ottawa) قرب مواقع الاحتفالات. اختر مسار تنقلك قبل التوجه إليها.",
+        "impactSource": "https://ottawa.ca/en/health-and-public-safety/emergency-preparedness/current-and-ongoing-emergencies/canada-day/traffic-and-parking",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأورانجيين",
+        "value": "٢٠٢٧-٠٧-١٢",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-12",
+        "impact": "غير مؤكد",
+        "scope": "نيوفاوندلاند ولابرادور (Newfoundland and Labrador)، لبعض الخدمات",
+        "scopeSource": "https://www.gov.nl.ca/releases/2020/exec/0618n08/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "العطلة المدنية",
+        "value": "٢٠٢٧-٠٨-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-02",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كولومبيا البريطانية",
+        "value": "٢٠٢٧-٠٨-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-02",
+        "impact": "غير مؤكد",
+        "scope": "كولومبيا البريطانية (British Columbia)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التراث",
+        "value": "٢٠٢٧-٠٨-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-02",
+        "impact": "غير مؤكد",
+        "scope": "ألبرتا (Alberta)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم نيو برونزويك",
+        "value": "٢٠٢٧-٠٨-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-02",
+        "impact": "غير مؤكد",
+        "scope": "نيو برونزويك (New Brunswick)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التأسيس المحلي",
+        "value": "٢٠٢٧-٠٨-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-02",
+        "impact": "غير مؤكد",
+        "scope": "من المناسبات البلدية، ومنها هاليفاكس (Halifax)",
+        "scopeSource": "https://cdn.halifax.ca/sites/default/files/documents/business/doing-business-halifax/traffic-control-manual-supplement-2025-final_0.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ساسكاتشوان",
+        "value": "٢٠٢٧-٠٨-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-02",
+        "impact": "غير مؤكد",
+        "scope": "ساسكاتشوان (Saskatchewan)",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم موكب الكأس الذهبية",
+        "value": "غير مؤكد",
+        "source": "https://goldcupparade.ca/",
+        "checked": "2026-11-27",
+        "date": "2027-08-16",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "scope": "شارلوت تاون (Charlottetown)، جزيرة الأمير إدوارد (Prince Edward Island)",
+        "scopeSource": "https://www.charlottetown.ca/cms/One.aspx?pageId=21374396&portalId=10500387",
+        "regional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الاكتشاف",
+        "value": "٢٠٢٧-٠٨-١٦",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-16",
+        "impact": "غير مؤكد",
+        "scope": "يوكون (Yukon)",
+        "scopeSource": "https://yukon.ca/en/find-yukon-statutory-holiday/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم العمال",
+        "value": "٢٠٢٧-٠٩-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-06",
+        "impact": "تغلق متاجر التجزئة في تورونتو (Toronto)، باستثناء قطاعات ومناطق سياحية محددة.",
+        "impactSource": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني للحقيقة والمصالحة",
+        "value": "٢٠٢٧-٠٩-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-30",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الشكر",
+        "value": "٢٠٢٧-١٠-١١",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-11",
+        "impact": "تغلق متاجر التجزئة في تورونتو (Toronto)، باستثناء قطاعات ومناطق سياحية محددة.",
+        "impactSource": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الهدنة",
+        "value": "٢٠٢٧-١١-١١",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-11",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الذكرى",
+        "value": "٢٠٢٧-١١-١١",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-11",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق متاجر التجزئة في تورونتو (Toronto)، باستثناء قطاعات ومناطق سياحية محددة.",
+        "impactSource": "https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/holiday-shopping/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/CA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة عن العمل بحسب المقاطعة والقطاع الوظيفي.",
+        "scopeSource": "https://payroll.ca/CPAWebsite/media/PDF/Guidelines/NPI-Stat-Holiday-Guidelines-ENG.pdf",
+        "regional": true,
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الميلاد لمدارس أونتاريو (Ontario)",
+        "value": "إجازة مدرسية من 2026-12-21 إلى 2027-01-01 شاملة الطرفين.",
+        "source": "https://www.ontario.ca/page/school-year-calendars",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-21",
+        "end": "2027-01-01",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "الصيف موسم السفر الداخلي والزيارات إلى المتنزهات والمدن الرئيسية.",
+        "source": "https://www.lonelyplanet.com/articles/canada-on-a-budget",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "تنخفض أجور السفر أحياناً في يناير وفبراير وسبتمبر، مع اختلاف منتجعات التزلج.",
+        "source": "https://www.lonelyplanet.com/articles/canada-on-a-budget",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الزيارة الصيفي في يوليو",
+        "value": "يزيد عدد الزوار في المتنزهات والوجهات الصيفية.",
+        "source": "https://www.ace.aaa.com/travel/destinations/north-america/canada.html",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "يزيد عدد الزوار في المتنزهات والوجهات الصيفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الزيارة الصيفي في أغسطس",
+        "value": "يزيد عدد الزوار في المتنزهات والوجهات الصيفية.",
+        "source": "https://www.ace.aaa.com/travel/destinations/north-america/canada.html",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "يزيد عدد الزوار في المتنزهات والوجهات الصيفية.",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان تورونتو السينمائي الدولي",
+        "value": "تورونتو (Toronto)، سبتمبر عادةً، لعروض الأفلام الدولية.",
+        "source": "https://assets.ctfassets.net/22n7d68fswlw/1gbXzvqP9Z52W4bg7vle7F/82f6673ba7a47a1d835e01077be46fd5/Submissions_Frequently_Asked_Questions_-_TIFF_2026_presented_by_Rogers.pdf",
+        "checked": "2026-11-27",
+        "month": 9,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

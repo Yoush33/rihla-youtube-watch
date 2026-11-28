@@ -1,0 +1,443 @@
+{
+  "code": "AE",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "يدخل المواطن السعودي بالجواز أو الهوية الوطنية ضمن نظام مواطني مجلس التعاون.",
+        "source": "https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة",
+        "value": "لا تحدد البوابة مدة سياحية لتأشيرة لأن الدخول يتم بصفة مواطن خليجي.",
+        "source": "https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم التأشيرة",
+        "value": "صفر، الدخول بدون تأشيرة.",
+        "source": "https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الدرهم الإماراتي",
+        "source": "https://u.ae/en/information-and-services/finance-and-investment/the-uae-national-currency",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "البطاقات شائعة في دبي (Dubai). خذ مبلغاً نقدياً للمشتريات الصغيرة.",
+        "source": "https://www.visitdubai.com/en/articles/tipping-in-dubai",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية، ويشيع في المطاعم ترك 10–15٪ عند الرضا عن الخدمة.",
+        "source": "https://www.visitdubai.com/en/articles/tipping-in-dubai",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 424 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/united-arab-emirates",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 1065 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/united-arab-emirates",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/united-arab-emirates-esim/burj-mobile-3days-3gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«سهيل» لتخطيط الرحلات داخل دبي (Dubai) وتحديد المترو والحافلة المناسبة.",
+        "source": "https://www.rta.ae/wps/portal/rta/ae/home/smart-apps/app-details/shail/shail-app?lang=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "يخدم المترو مطار دبي الدولي (Dubai International Airport) عبر مبنيي 1 و3 على الخط الأحمر.",
+        "source": "https://www.visitdubai.com/en/plan-your-trip/getting-around-dubai",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "حافلات بين الإمارات تصل دبي (Dubai) بأبوظبي (Abu Dhabi). راجع محطة الانطلاق للخط المختار.",
+        "source": "https://u.ae/en/information-and-services/transportation/public-transport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "تتوفر خيارات حلال في دبي (Dubai).",
+        "source": "https://halal.svoy.io/en/city/dubai/halal",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد جميرا (Jumeirah Mosque) في دبي.",
+        "source": "https://www.visitdubai.com/en/places-to-visit/jumeirah-mosque",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "مجبوس، هريس، لقيمات.",
+        "source": "https://visitabudhabi.ae/en/plan-your-trip/article-hub/emirati-cuisine-the-dishes-to-try-and-where-to-try-them",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "راعِ اللباس المحتشم في الأماكن العامة. غطِّ الكتفين والركبتين في دور العبادة.",
+        "source": "https://www.visitdubai.com/en/plan-your-trip/practical-information",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "استأذن قبل تصوير الأشخاص وتجنب تصوير المنشآت الحكومية الحساسة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "تفتح المراكز التجارية حتى المساء وتختلف ساعات الجمعة ورمضان بحسب المركز.",
+        "source": "https://www.visitdubai.com/en/articles/-/media/Images/pdf/2025/maps/hatta-map-2025-en.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "تحرَّ مواقع القيود على التصوير قبل الاقتراب من مرافق عسكرية أو حكومية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "لا تترك مشروبك دون مراقبة ولا تقبل مشروباً من شخص مجهول.",
+        "source": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة 999، والإسعاف 998.",
+        "source": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "وسط دبي (Downtown Dubai)",
+        "value": "للمشي إلى برج خليفة والتسوق.",
+        "source": "https://www.district-dubai.com/where-to-stay-in-dubai",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "مرسى دبي (Dubai Marina)",
+        "value": "للممشى والمطاعم وقرب الشاطئ.",
+        "source": "https://www.district-dubai.com/where-to-stay-in-dubai",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ديرة (Deira)",
+        "value": "للأسواق القديمة والقرب من الخور.",
+        "source": "https://www.district-dubai.com/where-to-stay-in-dubai",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "دبي (Dubai)",
+        "value": "توزيع مقترح للزيارة: 3–4 أيام.",
+        "source": "https://emirateswithme.com/2026/09/30/dubai-abu-dhabi-7-day-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "أبوظبي (Abu Dhabi)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://emirateswithme.com/2026/09/30/dubai-abu-dhabi-7-day-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الشارقة (Sharjah)",
+        "value": "توزيع مقترح للزيارة: يوم.",
+        "source": "https://emirateswithme.com/2026/09/30/dubai-abu-dhabi-7-day-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "عطلة رسمية 2026-01-01.",
+        "source": "https://www.uaelegislation.gov.ae/en/legislations/2595/download",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاتحاد",
+        "value": "عطلة رسمية 2026-12-02 إلى 2026-12-04.",
+        "source": "https://www.fahr.gov.ae/en/news/federal-government-holiday-for-the-uaes-55th-eid-al-etihad-to-run-from-2-to-4-december-2026/",
+        "checked": "2026-11-27",
+        "date": "2026-12-02",
+        "end": "2026-12-04",
+        "impact": "تعطل الجهات الاتحادية في الفترة المعروضة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "عطلة رسمية 2027-01-01.",
+        "source": "https://www.uaelegislation.gov.ae/en/legislations/2595/download",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاتحاد",
+        "value": "عطلة رسمية 2027-12-02 إلى 2027-12-03.",
+        "source": "https://www.uaelegislation.gov.ae/en/legislations/2595/download",
+        "checked": "2026-11-27",
+        "date": "2027-12-02",
+        "end": "2027-12-03",
+        "impact": "تعطل الجهات الاتحادية في الفترة المعروضة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة عيد الفطر",
+        "value": "عطلة رسمية 2026-03-19 إلى 2026-03-22؛ يعتمد على رؤية الهلال.",
+        "source": "https://www.fahr.gov.ae/en/news/eid-al-fitr-holiday-in-the-federal-government-from-19-to-22-march-2026/",
+        "checked": "2026-11-27",
+        "date": "2026-03-19",
+        "end": "2026-03-22",
+        "impact": "إجازة القطاع الحكومي الاتحادي. راجع أوقات الخدمات قبل الزيارة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة يوم عرفة وعيد الأضحى",
+        "value": "عطلة رسمية 2026-05-25 إلى 2026-05-29؛ يعتمد على رؤية الهلال.",
+        "source": "https://www.fahr.gov.ae/en/news/the-federal-authority-for-human-resources-announces-the-eid-al-adha-holiday-for-the-federal-government-from-may-25-29-2026/",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "end": "2026-05-29",
+        "impact": "إجازة القطاع الحكومي الاتحادي. راجع أوقات الخدمات قبل الزيارة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "عطلة رسمية 2026-06-15؛ يعتمد على رؤية الهلال.",
+        "source": "https://www.wam.ae/en/article/c0o6wxh-ajman-announces-june-holiday-for-government",
+        "checked": "2026-11-27",
+        "date": "2026-06-15",
+        "impact": "عطلة الجهات الحكومية في عجمان (Ajman).",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "عطلة رسمية 2026-08-28؛ يعتمد على رؤية الهلال.",
+        "source": "https://www.wam.ae/en/article/c1oid5r-prophet-muhammad%E2%80%99s-birthday-holiday-for-dubai",
+        "checked": "2026-11-27",
+        "date": "2026-08-28",
+        "impact": "عطلة الجهات الحكومية في دبي (Dubai).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر 2027",
+        "value": "تاريخ ميلادي تقريبي 2027-03-10 إلى 2027-03-12؛ يعتمد على رؤية الهلال. الموعد الرسمي لتعطيل العمل غير مؤكد.",
+        "source": "https://www.timeanddate.com/holidays/united-arab-emirates/2027",
+        "checked": "2026-11-27",
+        "impact": "موعد تقريبي؛ راجع إعلان الجهات المعنية.",
+        "date": "2027-03-10",
+        "end": "2027-03-12",
+        "provisional": true,
+        "status": "uncertain",
+        "lawSource": "https://www.uaelegislation.gov.ae/en/legislations/2595/download",
+        "approximate": true
+      },
+      {
+        "label": "يوم عرفة وعيد الأضحى 2027",
+        "value": "تاريخ ميلادي تقريبي 2027-05-16 إلى 2027-05-18؛ يعتمد على رؤية الهلال. الموعد الرسمي لتعطيل العمل غير مؤكد.",
+        "source": "https://www.timeanddate.com/holidays/united-arab-emirates/2027",
+        "checked": "2026-11-27",
+        "impact": "موعد تقريبي؛ راجع إعلان الجهات المعنية.",
+        "date": "2027-05-16",
+        "end": "2027-05-18",
+        "provisional": true,
+        "status": "uncertain",
+        "lawSource": "https://www.uaelegislation.gov.ae/en/legislations/2595/download",
+        "approximate": true
+      },
+      {
+        "label": "رأس السنة الهجرية 2027",
+        "value": "تاريخ ميلادي تقريبي 2027-06-06؛ يعتمد على رؤية الهلال. الموعد الرسمي لتعطيل العمل غير مؤكد.",
+        "source": "https://www.timeanddate.com/holidays/united-arab-emirates/2027",
+        "checked": "2026-11-27",
+        "impact": "موعد تقريبي؛ راجع إعلان الجهات المعنية.",
+        "date": "2027-06-06",
+        "provisional": true,
+        "status": "uncertain",
+        "lawSource": "https://www.uaelegislation.gov.ae/en/legislations/2595/download",
+        "approximate": true
+      },
+      {
+        "label": "المولد النبوي 2027",
+        "value": "تاريخ ميلادي تقريبي 2027-08-15؛ يعتمد على رؤية الهلال. الموعد الرسمي لتعطيل العمل غير مؤكد.",
+        "source": "https://www.timeanddate.com/holidays/united-arab-emirates/2027",
+        "checked": "2026-11-27",
+        "impact": "موعد تقريبي؛ راجع إعلان الجهات المعنية.",
+        "date": "2027-08-15",
+        "provisional": true,
+        "status": "uncertain",
+        "lawSource": "https://www.uaelegislation.gov.ae/en/legislations/2595/download",
+        "approximate": true
+      }
+    ],
+    "peak": [
+      {
+        "label": "إجازة الشتاء للمدارس التي تطبق منهج الوزارة",
+        "value": "إجازة مدرسية من 2026-12-14 إلى 2027-01-01 شاملة الطرفين.",
+        "source": "https://www.moe.gov.ae/en/guides/Pages/Academic-calendar-2026-2027.aspx",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-14",
+        "end": "2027-01-01",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "يزداد الطلب بين نوفمبر ومارس، وخصوصاً في عطلة نهاية ديسمبر.",
+        "source": "https://uaefrontier.com/plan/best-time-to-visit/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "الصيف أقل إقبالاً على الأنشطة الخارجية بسبب الحر.",
+        "source": "https://uaefrontier.com/plan/best-time-to-visit/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة عيد الفطر للمدارس التي تطبق منهج الوزارة",
+        "value": "أدرجتها وزارة التربية في التقويم المدرسي من 8 إلى 12 مارس 2027. اليوم الأول للعيد يعتمد على رؤية الهلال.",
+        "source": "https://moe.gov.ae/en/guides/Documents/Academic-Calender-2026-2027/Academic-Calender-2026-2027-En.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "end": "2027-03-12",
+        "peak": true,
+        "impact": "عطلة مدرسية مقررة",
+        "status": "confirmed"
+      },
+      {
+        "label": "زيادة الطلب في الشتاء في ديسمبر",
+        "value": "تزداد الحجوزات حول أعياد نهاية العام.",
+        "source": "https://uaefrontier.com/plan/best-time-to-visit/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 12,
+        "impact": "تزداد الحجوزات حول أعياد نهاية العام.",
+        "status": "confirmed"
+      },
+      {
+        "label": "زيادة الطلب في الشتاء في يناير",
+        "value": "تزداد الحجوزات حول أعياد نهاية العام.",
+        "source": "https://uaefrontier.com/plan/best-time-to-visit/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 1,
+        "impact": "تزداد الحجوزات حول أعياد نهاية العام.",
+        "status": "confirmed"
+      },
+      {
+        "label": "زيادة الطلب في الشتاء في فبراير",
+        "value": "تزداد الحجوزات حول أعياد نهاية العام.",
+        "source": "https://uaefrontier.com/plan/best-time-to-visit/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 2,
+        "impact": "تزداد الحجوزات حول أعياد نهاية العام.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الزيارة المعتدل في دبي (Dubai)",
+        "value": "من نوفمبر إلى مارس يزداد الإقبال السياحي ويتطلب الحجز المبكر، خصوصًا قرب نهاية السنة.",
+        "source": "https://uaefrontier.com/plan/best-time-to-visit/",
+        "checked": "2026-11-27",
+        "month": 11,
+        "peak": true,
+        "impact": "ارتفاع الطلب على السكن والرحلات في دبي",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الزيارة المعتدل في دبي (Dubai)",
+        "value": "من نوفمبر إلى مارس يزداد الإقبال السياحي ويتطلب الحجز المبكر، خصوصًا قرب نهاية السنة.",
+        "source": "https://uaefrontier.com/plan/best-time-to-visit/",
+        "checked": "2026-11-27",
+        "month": 3,
+        "peak": true,
+        "impact": "ارتفاع الطلب على السكن والرحلات في دبي",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان دبي للتسوق",
+        "value": "دبي (Dubai)، ديسمبر ويناير. أعلنت الجهة المنظمة الدورة من 4 ديسمبر 2026 إلى 17 يناير 2027.",
+        "source": "https://www.visitdubai.com/en/festivals-and-events/dubai-shopping-festival",
+        "checked": "2026-11-27",
+        "month": 12,
+        "status": "confirmed",
+        "date": "2026-12-04",
+        "end": "2027-01-17"
+      }
+    ]
+  }
+}

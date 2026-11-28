@@ -1,0 +1,654 @@
+{
+  "code": "AL",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "إعفاء موسمي للسياحة لحامل الجواز العادي من 15 أبريل إلى 31 ديسمبر 2026.",
+        "source": "https://punetejashtme.gov.al/en/regjimi-i-vizave-per-te-huajt/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة المسموحة للفرد",
+        "value": "تخضع الزيارة القصيرة لسقف 90 يوماً ضمن أي فترة 180 يوماً، وفي نطاق فترة الإعفاء الموسمي المعلنة.",
+        "source": "https://punetejashtme.gov.al/en/regjimi-i-vizave-per-te-huajt/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم التأشيرة خلال فترة الإعفاء",
+        "value": "صفر.",
+        "source": "https://punetejashtme.gov.al/en/regjimi-i-vizave-per-te-huajt/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإعفاء الموسمي في 2027",
+        "value": "غير مؤكد",
+        "source": "https://punetejashtme.gov.al/en/regjimi-i-vizave-per-te-huajt/",
+        "checked": "2026-11-27",
+        "status": "uncertain"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الليك الألباني",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/destination.alb.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "الكاش عملي خارج المدن الكبرى وفي المتاجر الصغيرة.",
+        "source": "https://www.lonelyplanet.com/articles/things-to-know-before-traveling-to-albania",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "يمكن ترك مبلغ بسيط مقابل الخدمة الجيدة. افحص ما إذا كانت الخدمة مدرجة في الفاتورة.",
+        "source": "https://tiranaalbaniatravel.com/guides/tipping-in-albania/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 184 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/albania",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 450 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/albania",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/albania-esim/hej-telecom-in-3days-1gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«باتوكو» لحجز سيارة أجرة داخل تيرانا (Tirana).",
+        "source": "https://apps.apple.com/al/app/patoko-taxi-rides-deals/id6443835473",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "تربط حافلات المطار تيرانا (Tirana) بوسط المدينة على مدار اليوم.",
+        "source": "https://www.tirana-airport.com/en/transport-and-directions/15",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تربط الحافلات بين تيرانا (Tirana) والمدن الأخرى. تأكد من المحطة فقد تختلف باختلاف الوجهة.",
+        "source": "https://www.visit-tirana.com/locations/public-bus-tirana/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "تتوفر مطاعم حلال في تيرانا (Tirana)، واسأل عن الذبح عند الطلب.",
+        "source": "https://www.zabihah.com/subregion/504df399-9f3a-11ef-956c-6045bdeb9f57/tirana",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد أدهم بك (Et’hem Bey Mosque) وسط تيرانا (Tirana).",
+        "source": "https://akt.gov.al/en/attractions/Ethem-Bey-Mosque/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "بوريك، طاجن اللبن «تافه كوسي»، فلفل بالجبن «فيرغيسي».",
+        "source": "https://albaniaatlas.com/guide/food-travel",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "اختر لباساً ساتراً عند زيارة المساجد والكنائس.",
+        "source": "https://fieldsupport.dliflc.edu/products/albanian/ab_co/albanian.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "ابتعد عن التجمعات السياسية في وسط تيرانا (Tirana).",
+        "source": "https://www.gov.uk/foreign-travel-advice/albania/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "تفتح متاجر كثيرة بالمدن السياحية يومياً نحو 9 صباحاً إلى 8 مساءً.",
+        "source": "https://akt.gov.al/wp-content/uploads/2019/06/ALBANIA-MAP-compressed.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "تجنب المظاهرات في وسط تيرانا (Tirana) واترك مجالاً لتغيير المسار.",
+        "source": "https://www.gov.uk/foreign-travel-advice/albania/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "احفظ مقتنياتك عند الازدحام والأماكن السياحية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/albania/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 112، والإسعاف 127.",
+        "source": "https://www.gov.uk/foreign-travel-advice/albania/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "بلوكو (Blloku)",
+        "value": "للمقاهي والمطاعم المسائية.",
+        "source": "https://clevertourists.com/resources/where-to-stay-in-tirana",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ساحة إسكندر بك (Skanderbeg Square)",
+        "value": "لنقطة انطلاق قريبة من المتاحف.",
+        "source": "https://clevertourists.com/resources/where-to-stay-in-tirana",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "البازار الجديد (Pazari i Ri)",
+        "value": "للأكل والسوق على مسافة مشي.",
+        "source": "https://clevertourists.com/resources/where-to-stay-in-tirana",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "تيرانا (Tirana)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://unfoldalbania.com/en/itineraries/albania-7-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "بيرات (Berat)",
+        "value": "توزيع مقترح للزيارة: يوم إلى يومين.",
+        "source": "https://unfoldalbania.com/en/itineraries/albania-7-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "غيروكاستر (Gjirokastër)",
+        "value": "توزيع مقترح للزيارة: يوم إلى يومين.",
+        "source": "https://unfoldalbania.com/en/itineraries/albania-7-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠٢",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الصيف الألباني",
+        "value": "٢٠٢٦-٠٣-١٦",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-03-16",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "date": "2026-03-20",
+        "value": "٢٠٢٦-٠٣-٢٠ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "impact": "إغلاق المصرف المركزي وفق التقويم الرسمي.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد السلطان نوروز",
+        "value": "٢٠٢٦-٠٣-٢٣",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-03-23",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح الكاثوليكي",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح الكاثوليكي",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح الأرثوذكسي",
+        "value": "٢٠٢٦-٠٤-١٢",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-04-12",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح الأرثوذكسي",
+        "value": "٢٠٢٦-٠٤-١٣",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-04-13",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "date": "2026-05-27",
+        "value": "٢٠٢٦-٠٥-٢٧ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "impact": "إغلاق المصرف المركزي وفق التقويم الرسمي.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الأم تيريزا",
+        "value": "٢٠٢٦-٠٩-٠٧",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-09-07",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأبجدية",
+        "value": "٢٠٢٦-١١-٢٢",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-11-22",
+        "impact": "تطبق عطلة تعويضية إذا وافقت نهاية الأسبوع.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-١١-٣٠",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-11-30",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التحرير · تاريخ التعويض في اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-11-30",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "إجازة تعويض يوم التحرير",
+        "date": "2026-12-01",
+        "value": "٢٠٢٦-١٢-٠١",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "impact": "إغلاق المصرف المركزي وفق التقويم الرسمي.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني للشباب",
+        "value": "٢٠٢٦-١٢-٠٨",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-12-08",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "المصرف المركزي مغلق في العطلة المعتمدة أو في يوم التعويض المعلن.",
+        "impactSource": "https://www.bankofalbania.org/Press/2026_Official_Bank_Holiday_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠٤",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-01-04",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "٢٠٢٧-٠٣-٠٩ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-03-09",
+        "impact": "يغلق المصرف المركزي في العطلة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الصيف الألباني",
+        "value": "٢٠٢٧-٠٣-١٥",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-03-15",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد السلطان نوروز",
+        "value": "٢٠٢٧-٠٣-٢٢",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-03-22",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح الكاثوليكي",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح الكاثوليكي",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح الأرثوذكسي",
+        "value": "٢٠٢٧-٠٥-٠٢",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح الأرثوذكسي",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٧-٠٥-١٦ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "يعلن المصرف المركزي عطلة بديلة في ١٧ مايو.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الأم تيريزا",
+        "value": "٢٠٢٧-٠٩-٠٦",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-09-06",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأبجدية",
+        "value": "٢٠٢٧-١١-٢٢",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-11-22",
+        "impact": "تطبق عطلة تعويضية إذا وافقت نهاية الأسبوع.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال · تاريخ التعويض في اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-11-29",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم التحرير",
+        "value": "٢٠٢٧-١١-٢٩",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-11-29",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة تعويض عيد الاستقلال",
+        "value": "٢٠٢٧-١١-٣٠",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-11-30",
+        "impact": "إغلاق المصرف المركزي وفق التقويم الرسمي.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني للشباب",
+        "value": "٢٠٢٧-١٢-٠٨",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-12-08",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٧",
+        "source": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "checked": "2026-11-27",
+        "date": "2027-12-27",
+        "impact": "يغلق المصرف المركزي في العطلة ويطبق أيام التعويض المعلنة.",
+        "impactSource": "https://www.bankofalbania.org/Press/2027_Official_Bank_Holidays_Schedule/",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الشتاء المدرسية",
+        "value": "إجازة مدرسية من 2026-12-24 إلى 2027-01-04 شاملة الطرفين.",
+        "source": "https://arsimi.gov.al/wp-content/uploads/2026/05/Urdher-i-perbashket-nr.110-date-21.4.2026-per-miratimin-e-struktures-se-viti-shkollor-2026-2027-ne-sistemin-arsimor-parauniversita.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-24",
+        "end": "2027-01-04",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "يمتلئ الساحل أكثر بين يونيو وأغسطس.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-albania",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "الربيع أو سبتمبر بعد ذروة الشاطئ.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-albania",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الشاطئ في يونيو",
+        "value": "تزدحم الوجهات الساحلية خلال الصيف.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-albania",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 6,
+        "impact": "تزدحم الوجهات الساحلية خلال الصيف.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الشاطئ في يوليو",
+        "value": "تزدحم الوجهات الساحلية خلال الصيف.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-albania",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "تزدحم الوجهات الساحلية خلال الصيف.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الشاطئ في أغسطس",
+        "value": "تزدحم الوجهات الساحلية خلال الصيف.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-albania",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "تزدحم الوجهات الساحلية خلال الصيف.",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان يوم الصيف",
+        "value": "إلباسان (Elbasan)، مارس. أدرجت البلدية 14 مارس 2027 في تقويمها.",
+        "source": "https://elbasani.gov.al/events/dita-e-veres/",
+        "checked": "2026-11-27",
+        "month": 3,
+        "status": "confirmed",
+        "date": "2027-03-14"
+      }
+    ]
+  }
+}

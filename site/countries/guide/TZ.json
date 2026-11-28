@@ -1,0 +1,525 @@
+{
+  "code": "TZ",
+  "sections": {
+    "entry": [
+      {
+        "label": "تأشيرة الجواز السعودي والمدة",
+        "value": "التأشيرة السياحية العادية لدخول واحد، حتى ٩٠ يومًا. يتاح تقديم الطلب إلكترونيًا عبر الهجرة.",
+        "source": "https://visa.immigration.go.tz/guidelines",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسوم",
+        "value": "٥٠ دولارًا أمريكيًا للتأشيرة السياحية العادية لدخول واحد.",
+        "source": "https://visa.immigration.go.tz/guidelines",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الشلن التنزاني (TZS).",
+        "source": "https://www.budgetyourtrip.com/tanzania",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع والإكرامية",
+        "value": "النقد وسيلة الدفع الأكثر استخدامًا بين الزوار في مسح السياحة، تليه بطاقات الائتمان والخصم.",
+        "source": "https://www.bot.go.tz/Publications/Other/Tanzania%20Tourism%20Sector%20Survey%20Report/en/2026022617081267.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميزانية الفرد اليومية بالريال",
+        "value": "اقتصادي نحو ١٥٨ ريالًا ومتوسط نحو ٤٠٩ ريالات للفرد وفق إنفاق المسافرين. تختلف رحلات السفاري الخاصة في تكلفتها.",
+        "source": "https://www.budgetyourtrip.com/tanzania/trip-cost-TZ",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "إكرامية السفاري",
+        "value": "الإكرامية شائعة للمرشدين والعاملين في مخيمات السفاري، وقد يُفصل نصيب الدليل عن صندوق موظفي المخيم.",
+        "source": "https://entara.co.tz/static/ec877a2757623c6d8f3e5ece1f8620fe/Entara-Tipping-Guidelines.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "مثال لباقة بيانات إلكترونية، ١ غيغابايت لسبعة أيام بنحو ٦٫٦٠ دولار أمريكي.",
+        "source": "https://www.traveloka.com/en-en/activities/tanzania/product/tanzania-esim-local-networks-4g5g-data-by-esimfox-5275971494712",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "بولت لخدمات السيارات في دار السلام (Dar es Salaam).",
+        "source": "https://bolt.eu/en-mt/cities/dar-es-salaam/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "المطار إلى المدينة",
+        "value": "محطة الحافلات خارج البوابة الرئيسية لمطار جوليوس نيريري (Julius Nyerere)، نحو ٩ دقائق مشيًا من المبنى الدولي.",
+        "source": "https://www.jnia.taa.go.tz/pages/public-transport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "القطار السريع يصل دار السلام (Dar es Salaam) بدودوما (Dodoma). راجع مواعيد الهيئة قبل حجز الوصلة.",
+        "source": "https://trc.co.tz/uploads/publications/sw1774256450-TRC-%20ANNUAL_GHG_REPORT%202024-2025_111626.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال",
+        "value": "زنجبار (Zanzibar) ذات أغلبية مسلمة، وتتوافر خيارات حلال. اسأل المطعم عن اللحم وطريقة التحضير.",
+        "source": "https://visitzanzibar.africa/is-zanzibar-a-muslim-country/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "تنتشر المساجد في بلدات زنجبار (Zanzibar).",
+        "source": "https://visitzanzibar.africa/is-zanzibar-a-muslim-country/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "أوغالي من الذرة، وبيلاو بالأرز والتوابل، ونياما تشوما باللحم المشوي.",
+        "source": "https://makasatanzania.com/knowledge-base/tanzania/tanzanian-food/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والسلوك",
+        "value": "يُراعى اللباس المحتشم خصوصًا خارج الشواطئ في زنجبار (Zanzibar)، وتراعى مواعيد رمضان.",
+        "source": "https://www.gov.uk/foreign-travel-advice/tanzania/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "قد تغلق متاجر يديرها مسلمون بعد ظهر الجمعة. في المدن الكبيرة تعمل أسواق نهارية غالبًا ٨ صباحًا–٦ مساء.",
+        "source": "https://www.indus.travel/before-you-go/tanzania",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة والإسعاف والإطفاء ١١٢.",
+        "source": "https://www.gov.uk/foreign-travel-advice/tanzania/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "السرقة والاحتيال",
+        "value": "استخدم سيارة مرتبة مسبقًا أو تطبيقًا معروفًا، واحذر عروض التوصيل غير المطلوبة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/tanzania/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأماكن التي تستدعي الحذر",
+        "value": "راجع تحذيرات المنطقة الحدودية مع موزمبيق عند التخطيط للجنوب.",
+        "source": "https://www.gov.uk/foreign-travel-advice/tanzania?embed=true",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "مناطق السكن وأسباب الاختيار",
+        "value": "في دار السلام (Dar es Salaam)، ماساكي (Masaki) للمطاعم والسكن الساحلي، وأويستر باي (Oyster Bay) للواجهة البحرية، ووسط المدينة (City Centre) للقرب من الأعمال والخدمات.",
+        "source": "https://esoko.co.tz/en/resources/area-guide-dar",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار الزيارة ومدة كل محطة",
+        "value": "دار السلام (Dar es Salaam) بوابة خط الساحل، وأروشا (Arusha) قاعدة السفاري الشمالية، وستون تاون (Stone Town) للتاريخ زنجبار (Zanzibar). يقترح الدليل رحلة ١٠–١٤ يومًا تجمع السفاري وزنجبار.",
+        "source": "https://www.travpa.com/tanzania/where-to-stay",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "دار السلام (Dar es Salaam)",
+        "value": "مسار يومين للمدينة والساحل والأسواق قبل المواصلة إلى زنجبار (Zanzibar).",
+        "source": "https://www.africatourismguide.com/itineraries/dar-es-salaam-2-days-city-coast",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "أروشا (Arusha)",
+        "checked": "2026-11-27",
+        "value": "يخصّص مسار محلي يومًا للأسواق والتاريخ داخل المدينة، بخلاف أيام السفاري.",
+        "source": "https://kilimania.co.tz/one-day-in-arusha-city/",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ثورة زنجبار",
+        "value": "٢٠٢٦-٠١-١٢",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-12",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كارومي",
+        "value": "٢٠٢٦-٠٤-٠٧",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-07",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الاتحاد",
+        "value": "٢٠٢٦-٠٤-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-26",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم سابا سابا للمعرض التجاري",
+        "value": "٢٠٢٦-٠٧-٠٧",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-07-07",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد المزارعين",
+        "value": "٢٠٢٦-٠٨-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-08",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم نيريري",
+        "value": "٢٠٢٦-١٠-١٤",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-14",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-١٢-٠٩",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-09",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ثورة زنجبار",
+        "value": "٢٠٢٧-٠١-١٢",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-12",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كارومي",
+        "value": "٢٠٢٧-٠٤-٠٧",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-07",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الاتحاد",
+        "value": "٢٠٢٧-٠٤-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-26",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم سابا سابا للمعرض التجاري",
+        "value": "٢٠٢٧-٠٧-٠٧",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-07",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد المزارعين",
+        "value": "٢٠٢٧-٠٨-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-08",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم نيريري",
+        "value": "٢٠٢٧-١٠-١٤",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-14",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-١٢-٠٩",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-09",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/TZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "ينشر المتحف الوطني التنزاني (National Museum of Tanzania) دوامًا يوميًا لمواقعه من التاسعة صباحًا حتى السادسة مساءً.",
+        "impactSource": "https://www.nmt.go.tz/uploads/documents/en-1701943813-NATIONAL%20MUSEUM%20OF%20TANZANIA%20-%20FINEST%20ATTRACTIONS%20MAGAZINE.pdf",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "بموجب تعديل الوزارة أغلقت مدارس البر الرئيسي الابتدائية والثانوية يوم ١٣ نوفمبر ٢٠٢٦ بدل ٤ ديسمبر. للثانوي المتقدم تقويم مستقل.",
+        "source": "https://www.moe.go.tz/en/public-notices/education-circular-no-3-of-the-year-2026-on-changes-to-the-school-closing-dates-for-pre-primary-primary-and-secondary-schools-in-tanzania-mainland",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الذروة والفترة الأهدأ",
+        "value": "يكثر الزوار بالمنتزهات الشمالية ضمن الموسم الرئيسي، وتنخفض الحركة عادةً في أبريل ومايو أثناء الأمطار.",
+        "source": "https://www.visittanzania.org/tanzania-fast-facts/faq/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "انخفاض الحركة في المنتزهات الشمالية",
+        "value": "توافق أبريل ومايو فترة منخفضة الموسم في شمال تنزانيا.",
+        "source": "https://www.visittanzania.org/tanzania-fast-facts/faq/",
+        "checked": "2026-11-27",
+        "month": 4,
+        "peak": false,
+        "impact": "زوار أقل في موسم المطر.",
+        "status": "confirmed"
+      },
+      {
+        "label": "انخفاض الحركة في المنتزهات الشمالية",
+        "value": "توافق أبريل ومايو فترة منخفضة الموسم في شمال تنزانيا.",
+        "source": "https://www.visittanzania.org/tanzania-fast-facts/faq/",
+        "checked": "2026-11-27",
+        "month": 5,
+        "peak": false,
+        "impact": "زوار أقل في موسم المطر.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة المنتزهات الشمالية",
+        "value": "تشهد دوائر السفاري الشمالية إقبالًا مرتفعًا في موسم الزيارة.",
+        "source": "https://www.visittanzania.org/tanzania-fast-facts/faq/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "زحمة محتملة في المنتزهات الشمالية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة المنتزهات الشمالية",
+        "value": "تشهد دوائر السفاري الشمالية إقبالًا مرتفعًا في موسم الزيارة.",
+        "source": "https://www.visittanzania.org/tanzania-fast-facts/faq/",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "زحمة محتملة في المنتزهات الشمالية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة المنتزهات الشمالية",
+        "value": "تشهد دوائر السفاري الشمالية إقبالًا مرتفعًا في موسم الزيارة.",
+        "source": "https://www.visittanzania.org/tanzania-fast-facts/faq/",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": true,
+        "impact": "زحمة محتملة في المنتزهات الشمالية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة المنتزهات الشمالية",
+        "value": "تشهد دوائر السفاري الشمالية إقبالًا مرتفعًا في موسم الزيارة.",
+        "source": "https://www.visittanzania.org/tanzania-fast-facts/faq/",
+        "checked": "2026-11-27",
+        "month": 10,
+        "peak": true,
+        "impact": "زحمة محتملة في المنتزهات الشمالية.",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "الفعالية السنوية",
+        "value": "مهرجان ساوتي زا بوسارا الموسيقي السنوي في زنجبار (Zanzibar)، في فبراير.",
+        "source": "https://busaramusic.org/press-kit/",
+        "checked": "2026-11-27",
+        "month": 2,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

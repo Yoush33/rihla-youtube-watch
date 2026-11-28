@@ -1,0 +1,547 @@
+{
+  "code": "UZ",
+  "sections": {
+    "entry": [
+      {
+        "label": "تأشيرة الجواز السعودي والمدة",
+        "value": "يعفي المرسوم الجواز السعودي من التأشيرة حتى ٣٠ يومًا من تاريخ الدخول، اعتبارًا من ١٥ مارس ٢٠٢٤.",
+        "source": "https://www.lex.uz/uz/acts/6833898?ONDATE=11.03.2024+00",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسوم",
+        "value": "لا رسم لطلب تأشيرة عند استخدام الإعفاء.",
+        "source": "https://trans.uz/en/foreigner",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "السوم الأوزبكي (UZS).",
+        "source": "https://www.visituzbek.uz/travel-guide/uzbekistan-money-and-costs",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع والإكرامية",
+        "value": "البطاقات متاحة في الفنادق والمحلات الكبيرة. احمل سومًا للأسواق وسيارات الأجرة وتحقق من أجرة الخدمة قبل الإكرامية.",
+        "source": "https://www.visituzbek.uz/travel-guide/uzbekistan-money-and-costs",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميزانية الفرد اليومية بالريال",
+        "value": "يقدّر دليل محلي سفر الفرد الاقتصادي بـ١٥٠–٢٢٥ ريالًا يوميًا والمتوسط المستقل بـ٣٧٥–٦٠٠ ريال. لا يشمل الطيران الدولي.",
+        "source": "https://uzbguidedtours.com/guide/money-costs-budgeting/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "مثال لإضافة بيانات على خط محلي، ٧ غيغابايت لسبعة أيام بنحو ٣٠ ألف سوم. سعر إصدار الشريحة منفصل.",
+        "source": "https://sim.uz/uzbekistan/sim-card/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "ياندكس غو يعمل في طشقند (Tashkent) ويمكن طلب السيارة إلى نقاط المطار المحددة.",
+        "source": "https://www.uzdaily.uz/en/taxi-access-expanded-at-tashkent-airports-arrivals-terminal/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "المطار إلى المدينة",
+        "value": "تتوفر سيارات المطار الرسمية عند مخرج صالة الوصول في طشقند (Tashkent).",
+        "source": "https://t.me/s/uzbairportsuz/3621",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "يصل القطار السريع طشقند (Tashkent) بسمرقند (Samarkand) وبخارى (Bukhara). احجز كل مرحلة حسب توافر المقاعد.",
+        "source": "https://uzbguidedtours.com/kb/kb-logistics-10-day-itinerary/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال",
+        "value": "خيارات حلال شائعة في المدن الرئيسية، ويعرض دليل المسافرين المسلمين إرشادات للمطاعم. اسأل عن الاعتماد إذا احتجته.",
+        "source": "https://tourtouzbekistan.com/travel-guide/uzbekistan-for-muslim-travellers/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "مجمع حضرة الإمام (Hazrati Imam) في طشقند (Tashkent) من محطات الزيارة والصلاة.",
+        "source": "https://uzbekistan.travel/en/o/tashkent-city-3-day-ziyarat-pilgrimage-travel-itinerary/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "بلوف بالأرز، وسامسا المخبوزة، ولاغمان بالنودلز. تحقّق من اللحم حسب المطعم.",
+        "source": "https://www.visituzbek.uz/travel-guide/uzbek-food",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والسلوك",
+        "value": "راع اللباس المحتشم في المواقع الدينية واطلب الإذن قبل التصوير قرب المنشآت الرسمية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/uzbekistan/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "تذكر هيئة السياحة نطاقًا شائعًا ٨ صباحًا إلى ١١ مساءً لمراكز التسوق. تحقق من موعد البازار أو المحل.",
+        "source": "https://app.uzbekistan.travel/en/i/travel-tips/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة ١٠٢ والإسعاف ١٠٣.",
+        "source": "https://www.gov.uk/foreign-travel-advice/uzbekistan/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "السرقة والاحتيال",
+        "value": "احذر النشل بالمناطق المزدحمة، واحتفظ بمقتنياتك عند السفر بالقطار.",
+        "source": "https://www.gov.uk/foreign-travel-advice/uzbekistan/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأماكن التي تستدعي الحذر",
+        "value": "راجع وضع المعابر الحدودية قبل زيارة المناطق النائية المتاخمة للدول المجاورة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/uzbekistan",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "مناطق السكن وأسباب الاختيار",
+        "value": "في طشقند (Tashkent)، البلدة القديمة (Old Town) لبازار تشورسو، وميراباد (Mirabad) لقرب المحطة، وساحة أمير تيمور (Amir Timur Square) للموقع المركزي.",
+        "source": "https://tourtouzbekistan.com/destinations/uzbekistan/tashkent/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار الزيارة ومدة كل محطة",
+        "value": "برنامج عشرة أيام يخصص يومين لطشقند (Tashkent)، وثلاثة لسمرقند (Samarkand)، ويومين لبخارى (Bukhara)، ويومين لخيوة (Khiva) يشملان الانتقال إليها.",
+        "source": "https://uzbguidedtours.com/kb/kb-logistics-10-day-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "رأس السنة الميلادية",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة رأس السنة الإضافية",
+        "value": "عطلة رأس السنة الإضافية",
+        "source": "https://lex.uz/docs/7938924?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "تمتد عطلة بعض الجهات. راجع موعد القطار والخدمات قبل المشوار.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة إضافية لنظام العمل ستة أيام",
+        "value": "عطلة إضافية لنظام العمل ستة أيام",
+        "source": "https://lex.uz/docs/7938924?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-03",
+        "impact": "تمتد عطلة بعض الجهات. راجع موعد القطار والخدمات قبل المشوار.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المرأة",
+        "value": "يوم المرأة",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-08",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بديل يوم المرأة",
+        "value": "بديل يوم المرأة",
+        "source": "https://lex.uz/docs/7938924?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-09",
+        "impact": "تمتد عطلة بعض الجهات. راجع موعد القطار والخدمات قبل المشوار.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "عيد الفطر، التاريخ المسجّل لعام ٢٠٢٦. تحديد العيد يعتمد على رؤية الهلال.",
+        "source": "https://my.gov.uz/en/day-off",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "impact": "إجازة رسمية يتغيّر معها دوام الجهات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النوروز",
+        "value": "عيد النوروز",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-21",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بديل عيد النوروز لنظام خمسة أيام",
+        "value": "بديل عيد النوروز لنظام خمسة أيام",
+        "source": "https://lex.uz/docs/7938924?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-23",
+        "impact": "تمتد عطلة بعض الجهات. راجع موعد القطار والخدمات قبل المشوار.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الذكرى والتكريم",
+        "value": "يوم الذكرى والتكريم",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-09",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بديل يوم الذكرى لنظام خمسة أيام",
+        "value": "بديل يوم الذكرى لنظام خمسة أيام",
+        "source": "https://lex.uz/docs/7938924?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-11",
+        "impact": "تمتد عطلة بعض الجهات. راجع موعد القطار والخدمات قبل المشوار.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "عيد الأضحى، التاريخ المسجّل لعام ٢٠٢٦. تحديد العيد يعتمد على رؤية الهلال.",
+        "source": "https://my.gov.uz/en/day-off",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "impact": "إجازة رسمية يتغيّر معها دوام الجهات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة إضافية بعد عيد الأضحى",
+        "value": "إجازة إضافية بعد عيد الأضحى · يعتمد على رؤية الهلال.",
+        "source": "https://lex.uz/docs/7938924?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-28",
+        "impact": "تمتد عطلة بعض الجهات. راجع موعد القطار والخدمات قبل المشوار.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة إضافية بعد عيد الأضحى",
+        "value": "إجازة إضافية بعد عيد الأضحى · يعتمد على رؤية الهلال.",
+        "source": "https://lex.uz/docs/7938924?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-29",
+        "impact": "تمتد عطلة بعض الجهات. راجع موعد القطار والخدمات قبل المشوار.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة إضافية لنظام العمل ستة أيام",
+        "value": "إجازة إضافية لنظام العمل ستة أيام",
+        "source": "https://lex.uz/docs/7938924?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-30",
+        "impact": "تمتد عطلة بعض الجهات. راجع موعد القطار والخدمات قبل المشوار.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة إضافية قبل الاستقلال",
+        "value": "عطلة إضافية قبل الاستقلال",
+        "source": "https://lex.uz/docs/7938924?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-08-31",
+        "impact": "تمتد عطلة بعض الجهات. راجع موعد القطار والخدمات قبل المشوار.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "عيد الاستقلال",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-09-01",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المعلم والمربّي",
+        "value": "يوم المعلم والمربّي",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-10-01",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "يوم الدستور",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-08",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة نهاية السنة",
+        "value": "إجازة نهاية السنة",
+        "source": "https://lex.uz/docs/7938924?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-31",
+        "impact": "تمتد عطلة بعض الجهات. راجع موعد القطار والخدمات قبل المشوار.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "رأس السنة الميلادية",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المرأة",
+        "value": "يوم المرأة",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر «تقريبي»",
+        "value": "عيد الفطر، تاريخ تقريبي يعتمد على رؤية الهلال.",
+        "source": "https://megatour.uz/holidays-and-festivals/",
+        "checked": "2026-11-27",
+        "date": "2027-03-10",
+        "impact": "موعد تخطيطي يتأكد بالإعلان المحلي.",
+        "provisional": true,
+        "status": "uncertain",
+        "lawSource": "https://lex.uz/ru/docs/6257291?type=pdf"
+      },
+      {
+        "label": "عيد النوروز",
+        "value": "عيد النوروز",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-21",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بديل النوروز وفق قاعدة نقل الإجازة",
+        "value": "بديل النوروز وفق قاعدة نقل الإجازة",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-22",
+        "impact": "عطلة بديلة عند تصادف العيد مع الراحة الأسبوعية، لمن يسري عليهم النقل.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الذكرى والتكريم",
+        "value": "يوم الذكرى والتكريم",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-09",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بديل يوم الذكرى وفق قاعدة نقل الإجازة",
+        "value": "بديل يوم الذكرى وفق قاعدة نقل الإجازة",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-10",
+        "impact": "عطلة بديلة عند تصادف العيد مع الراحة الأسبوعية، لمن يسري عليهم النقل.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى «تقريبي»",
+        "value": "عيد الأضحى، تاريخ تقريبي يعتمد على رؤية الهلال.",
+        "source": "https://megatour.uz/holidays-and-festivals/",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "موعد تخطيطي يتأكد بالإعلان المحلي.",
+        "provisional": true,
+        "status": "uncertain",
+        "lawSource": "https://lex.uz/ru/docs/6257291?type=pdf"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "عيد الاستقلال",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2027-09-01",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المعلم والمربّي",
+        "value": "يوم المعلم والمربّي",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2027-10-01",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "يوم الدستور",
+        "source": "https://lex.uz/ru/docs/6257291?type=pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-08",
+        "impact": "عطلة قانونية. تحقّق من ساعات الدوائر والمواقع التي ستزورها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإجازات الاستثنائية التي قد يضيفها مرسوم سنوي لعام ٢٠٢٧",
+        "value": "غير مؤكد",
+        "source": "https://lex.uz/docs/7938924?type=pdf",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "تبدأ إجازة الخريف في المدارس العامة يوم ٤ نوفمبر وتستمر ستة أيام بحسب الوزارة.",
+        "source": "https://advice.adliya.uz/en/news/3854",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الذروة والفترة الأهدأ",
+        "value": "تنخفض الأسعار صيفًا مع الحرارة الشديدة، ويفضّل كثير من المسافرين الربيع والخريف.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-uzbekistan",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة الخريف",
+        "value": "ستة أيام لطلاب المدارس العامة.",
+        "source": "https://advice.adliya.uz/en/news/3854",
+        "checked": "2026-11-27",
+        "date": "2026-11-04",
+        "end": "2026-11-09",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الصيف الحار",
+        "value": "تقل أسعار الزيارة في أشهر الصيف.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-uzbekistan",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": false,
+        "impact": "أسعار أقل مع الحرارة المرتفعة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الصيف الحار",
+        "value": "تقل أسعار الزيارة في أشهر الصيف.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-uzbekistan",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": false,
+        "impact": "أسعار أقل مع الحرارة المرتفعة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس · عطلة الشتاء · أوزبكستان",
+        "value": "تغلق المدارس المشمولة بهذا التقويم خلال الفترة المذكورة.",
+        "date": "2026-12-28",
+        "end": "2027-01-10",
+        "peak": true,
+        "impact": "تتوقف الدراسة. أثر الإجازة على أسعار السفر غير مؤكد.",
+        "source": "https://gov.uz/oz/advice/65/document/1522",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ربيع سمرقند (Samarkand) وبخارى (Bukhara) وخيوة (Khiva)",
+        "value": "ترتفع أسعار الإقامة في أبريل ومايو وتُحجز غرف فنادق الأحياء القديمة مسبقًا.",
+        "source": "https://toureast.uz/en/blog/uzbekistan-in-spring",
+        "checked": "2026-11-27",
+        "month": 4,
+        "peak": true,
+        "impact": "أسعار أعلى وطلب على السكن في المراكز التاريخية",
+        "status": "confirmed"
+      },
+      {
+        "label": "ربيع سمرقند (Samarkand) وبخارى (Bukhara) وخيوة (Khiva)",
+        "value": "ترتفع أسعار الإقامة في أبريل ومايو وتُحجز غرف فنادق الأحياء القديمة مسبقًا.",
+        "source": "https://toureast.uz/en/blog/uzbekistan-in-spring",
+        "checked": "2026-11-27",
+        "month": 5,
+        "peak": true,
+        "impact": "أسعار أعلى وطلب على السكن في المراكز التاريخية",
+        "status": "confirmed"
+      },
+      {
+        "label": "خريف سمرقند (Samarkand) وبخارى (Bukhara) وخيوة (Khiva)",
+        "value": "سبتمبر وأكتوبر أشد الشهور ازدحامًا بالزوار الدوليين، وتمتلئ فنادق البلدات القديمة سريعًا.",
+        "source": "https://toureast.uz/en/blog/uzbekistan-in-autumn",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": true,
+        "impact": "ارتفاع الطلب على السكن في المراكز التاريخية",
+        "status": "confirmed"
+      },
+      {
+        "label": "خريف سمرقند (Samarkand) وبخارى (Bukhara) وخيوة (Khiva)",
+        "value": "سبتمبر وأكتوبر أشد الشهور ازدحامًا بالزوار الدوليين، وتمتلئ فنادق البلدات القديمة سريعًا.",
+        "source": "https://toureast.uz/en/blog/uzbekistan-in-autumn",
+        "checked": "2026-11-27",
+        "month": 10,
+        "peak": true,
+        "impact": "ارتفاع الطلب على السكن في المراكز التاريخية",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "الفعالية السنوية",
+        "value": "مهرجان الحرير والتوابل في بخارى (Bukhara)، أقيمت دورة رسمية في يونيو. قد يتغير الشهر بين الدورات.",
+        "source": "https://uzbekistan.travel/en/vt/silk-and-spices-international-festival/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ]
+  }
+}

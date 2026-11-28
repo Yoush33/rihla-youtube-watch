@@ -1,0 +1,491 @@
+{
+  "code": "BH",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "يدخل المواطن الخليجي بالهوية الوطنية أو الجواز.",
+        "source": "https://www.bahrain.bh/wps/portal/en/BNP/HomeNationalPortal/ContentDetailsPage/%21ut/p/z0/nVBdT8IwFP0r92WPpmWDgY8iidMEmZoo9IXcbWW7UtrR1kX_vRMIMS4uxsdzcnK-mGBLJjQ2VKIno1G1eCXi9eB2xJPJNefpbBjyh-fLx3g6H_D5TcTumPguSO7TGY8XyWQcjqfR8Cn8cqDX_V5cMZEb7eW7Z8tM12u0ATe-ktYFXOGHefMBt1KhlwV4U1PuzvhnSLfFbyFSB7y1tqBoI4E0ZFhZpJbVp4VAhdSeNpQfCEBdQEMO3R8k_eMXaX8vzNrN0D4AW9JlYXYBP7UjULIkpw5xrntLJVH5qj-dR_955eico5Xd1NpS0xJw1ICTuTeW1VuRjVSze7kQq0_gAUoI/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة",
+        "value": "تعامل البوابة دخول المواطن الخليجي كدخول بالهوية، ولا تحدد له مهلة تأشيرة سياحية.",
+        "source": "https://www.bahrain.bh/wps/portal/en/BNP/HomeNationalPortal/ContentDetailsPage/%21ut/p/z0/nVBdT8IwFP0r92WPpmWDgY8iidMEmZoo9IXcbWW7UtrR1kX_vRMIMS4uxsdzcnK-mGBLJjQ2VKIno1G1eCXi9eB2xJPJNefpbBjyh-fLx3g6H_D5TcTumPguSO7TGY8XyWQcjqfR8Cn8cqDX_V5cMZEb7eW7Z8tM12u0ATe-ktYFXOGHefMBt1KhlwV4U1PuzvhnSLfFbyFSB7y1tqBoI4E0ZFhZpJbVp4VAhdSeNpQfCEBdQEMO3R8k_eMXaX8vzNrN0D4AW9JlYXYBP7UjULIkpw5xrntLJVH5qj-dR_955eico5Xd1NpS0xJw1ICTuTeW1VuRjVSze7kQq0_gAUoI/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم التأشيرة",
+        "value": "صفر.",
+        "source": "https://www.bahrain.bh/wps/portal/en/BNP/HomeNationalPortal/ContentDetailsPage/%21ut/p/z0/nVBdT8IwFP0r92WPpmWDgY8iidMEmZoo9IXcbWW7UtrR1kX_vRMIMS4uxsdzcnK-mGBLJjQ2VKIno1G1eCXi9eB2xJPJNefpbBjyh-fLx3g6H_D5TcTumPguSO7TGY8XyWQcjqfR8Cn8cqDX_V5cMZEb7eW7Z8tM12u0ATe-ktYFXOGHefMBt1KhlwV4U1PuzvhnSLfFbyFSB7y1tqBoI4E0ZFhZpJbVp4VAhdSeNpQfCEBdQEMO3R8k_eMXaX8vzNrN0D4AW9JlYXYBP7UjULIkpw5xrntLJVH5qj-dR_955eico5Xd1NpS0xJw1ICTuTeW1VuRjVSze7kQq0_gAUoI/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الدينار البحريني",
+        "source": "https://www.bahrain.com/en/currency-and-payments",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "البطاقات شائعة، والنقد مفيد في السوق.",
+        "source": "https://www.bahrain.com/en/currency-and-payments",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "تفرض مطاعم كثيرة رسم خدمة مسبقاً. يذكر دليل الزوار أن إكرامية 10–15٪ متداولة لخدمة جيدة.",
+        "source": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/Chazen/study-tours/AY25-26/Updated%20Safety%20and%20Security%20Considerations%20for%20Bahrain.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 330 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/bahrain",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 739 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/bahrain",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 17 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/bahrain-esim/saar-mobile-3days-3gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "تطبيق «بحرين باص» للتأكد من الخط ووقت وصول الحافلة.",
+        "source": "https://www.mtt.gov.bh/bus",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "تخدم حافلة المطار «إيه 2» وجهات تشمل المنامة (Manama). تحقق من الاتجاه قبل الصعود.",
+        "source": "https://bacadmin.bahrainairport.bh/passenger/bus",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تخدم حافلات النقل العام المدن والمناطق الرئيسية. اختر خطك من مخطط الرحلات.",
+        "source": "https://www.mtt.gov.bh/planning-your-journey",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "تتوفر خيارات حلال في المنامة (Manama).",
+        "source": "https://www.mun.gov.bh/newportal/en/municipal-affairs/services/national-halal-system-kingdom-bahrain",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "جامع أحمد الفاتح (Al Fateh Grand Mosque) في المنامة (Manama).",
+        "source": "https://www.bahrain.com/en/al-fateh-grand-mosque",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "مجبوس، مُحمّر، وحلوى بحرينية.",
+        "source": "https://www.visaja.com/bahrain/food",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "غطِّ الكتفين والركبتين في الأماكن العامة، خاصة الأسواق والمواقع الدينية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/bahrain/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "تجنب تصوير المواقع الأمنية والعسكرية والمشاركة في تجمعات سياسية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/bahrain/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "في مجمع السيف (Seef Mall) بالمنامة تمتد ساعات الأحد من 10 صباحاً إلى 10 مساءً.",
+        "source": "https://www.bahrain.com/en/seef-mall-manama",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "ابتعد عن أي مظاهرة أو تجمع مفاجئ، خصوصاً على طريق البديع (Budaiya Highway) والقرى المجاورة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/bahrain/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "اختر شركة أجرة معروفة واحفظ مقتنياتك الشخصية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/bahrain/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 999.",
+        "source": "https://www.gov.uk/foreign-travel-advice/bahrain/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "السيف (Seef)",
+        "value": "لقرب المراكز التجارية.",
+        "source": "https://wherebest.com/en/top10-hotels-bahrain",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "محيط سوق المنامة (Manama Souq)",
+        "value": "للمشي بين السوق وباب البحرين.",
+        "source": "https://wherebest.com/en/top10-hotels-bahrain",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "العدلية (Adliya)",
+        "value": "للمطاعم والمعارض الفنية.",
+        "source": "https://wherebest.com/en/top10-hotels-bahrain",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "المنامة (Manama)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://mytoursplan.com/package/Bahrain-Discovery",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "المحرق (Muharraq)",
+        "value": "توزيع مقترح للزيارة: يوم.",
+        "source": "https://mytoursplan.com/package/Bahrain-Discovery",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الرفاع (Riffa)",
+        "value": "توزيع مقترح للزيارة: نصف يوم إلى يوم.",
+        "source": "https://mytoursplan.com/package/Bahrain-Discovery",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://aim.mtt.gov.bh/eAIP/2026-03-19/html/eAIC/OB-eAIC-26-01-en-BH.html",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الرياضي البحريني",
+        "date": "2026-02-12",
+        "value": "١٢ فبراير ٢٠٢٦ · نصف يوم عمل في الوزارات والجهات الحكومية",
+        "impact": "انتهى الدوام الحكومي مبكرًا. الإجراء خاص بالجهات الحكومية.",
+        "source": "https://www.works.gov.bh/English/News/mownews/Pages/2026/1222026.aspx",
+        "impactSource": "https://www.works.gov.bh/English/News/mownews/Pages/2026/1222026.aspx",
+        "checked": "2026-11-27",
+        "scope": "نصف يوم للجهات الحكومية",
+        "scopeSource": "https://www.works.gov.bh/English/News/mownews/Pages/2026/1222026.aspx",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الرياضي · تاريخ اللقطة قيد التحقق",
+        "value": "غير مؤكد",
+        "source": "https://www.works.gov.bh/English/News/mownews/Pages/2026/1222026.aspx",
+        "checked": "2026-11-27",
+        "date": "2026-02-22",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "٢٠٢٦-٠٣-٢٠ إلى ٢٠٢٦-٠٣-٢٢ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://aim.mtt.gov.bh/eAIP/2026-03-19/html/eAIC/OB-eAIC-26-01-en-BH.html",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "end": "2026-03-22",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://aim.mtt.gov.bh/eAIP/2026-03-19/html/eAIC/OB-eAIC-26-01-en-BH.html",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة عرفة وعيد الأضحى",
+        "value": "٢٠٢٦-٠٥-٢٦ إلى ٢٠٢٦-٠٥-٢٩ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://aim.mtt.gov.bh/eAIP/2026-03-19/html/eAIC/OB-eAIC-26-01-en-BH.html",
+        "checked": "2026-11-27",
+        "date": "2026-05-26",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "end": "2026-05-29",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "uncertain"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "٢٠٢٦-٠٦-١٦ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://aim.mtt.gov.bh/eAIP/2026-03-19/html/eAIC/OB-eAIC-26-01-en-BH.html",
+        "checked": "2026-11-27",
+        "date": "2026-06-16",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "uncertain"
+      },
+      {
+        "label": "عاشوراء",
+        "value": "٢٠٢٦-٠٦-٢٤ إلى ٢٠٢٦-٠٦-٢٥ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://aim.mtt.gov.bh/eAIP/2026-03-19/html/eAIC/OB-eAIC-26-01-en-BH.html",
+        "checked": "2026-11-27",
+        "date": "2026-06-24",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "end": "2026-06-25",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "uncertain"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "٢٠٢٦-٠٨-٢٥ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://aim.mtt.gov.bh/eAIP/2026-03-19/html/eAIC/OB-eAIC-26-01-en-BH.html",
+        "checked": "2026-11-27",
+        "date": "2026-08-25",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "uncertain"
+      },
+      {
+        "label": "اليوم الوطني",
+        "value": "٢٠٢٦-١٢-١٦",
+        "source": "https://aim.mtt.gov.bh/eAIP/2026-03-19/html/eAIC/OB-eAIC-26-01-en-BH.html",
+        "checked": "2026-11-27",
+        "date": "2026-12-16",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني",
+        "value": "٢٠٢٦-١٢-١٧",
+        "source": "https://aim.mtt.gov.bh/eAIP/2026-03-19/html/eAIC/OB-eAIC-26-01-en-BH.html",
+        "checked": "2026-11-27",
+        "date": "2026-12-17",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://www.iga.gov.bh/Media/Pdf-Section/Bahrain_in_figures_Booklet.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الرياضي · تاريخ اللقطة قيد التحقق",
+        "value": "غير مؤكد",
+        "source": "https://www.iga.gov.bh/Media/Pdf-Section/Bahrain_in_figures_Booklet.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-22",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://www.iga.gov.bh/Media/Pdf-Section/Bahrain_in_figures_Booklet.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني",
+        "value": "٢٠٢٧-١٢-١٦",
+        "source": "https://www.iga.gov.bh/Media/Pdf-Section/Bahrain_in_figures_Booklet.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-16",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني",
+        "value": "٢٠٢٧-١٢-١٧",
+        "source": "https://www.iga.gov.bh/Media/Pdf-Section/Bahrain_in_figures_Booklet.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-17",
+        "impact": "تستثني فروع بنك البحرين والكويت (Bank of Bahrain and Kuwait) العطلات الرسمية من ساعات العمل المعتادة.",
+        "impactSource": "https://www.bbkonline.com/wp-content/uploads/2026/02/4070-BBK-General-Terms-and-Conditions-Updated-2026-English-V8-12.2.2026.pdf",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة منتصف العام الدراسي",
+        "value": "إجازة نصف السنة من 17 إلى 28 يناير 2027 وفق التقويم الرسمي لوزارة التربية.",
+        "source": "https://iga-infra-moe-website-file-ir.s3.eu-west-1.amazonaws.com/uploads/SchoolCalendar2026.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2027-01-17",
+        "end": "2027-01-28",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "ترتفع جاذبية الزيارات الخارجية في الموسم المعتدل شتاءً.",
+        "source": "https://goodtimetogo.com/bahrain",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "الصيف حار وتقل جاذبية الأنشطة الخارجية.",
+        "source": "https://goodtimetogo.com/bahrain",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "العطلة الصيفية المدرسية",
+        "value": "من 1 يوليو إلى 2 سبتمبر 2027 وفق تقويم وزارة التربية.",
+        "source": "https://iga-infra-moe-website-file-ir.s3.eu-west-1.amazonaws.com/uploads/SchoolCalendar2026.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2027-07-01",
+        "end": "2027-09-02",
+        "impact": "عطلة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة سباق الفورمولا 1 في الصخير (Sakhir)",
+        "value": "ارتفاع متوقع للطلب في عطلة السباق المعلنة من 12 إلى 14 مارس 2027. ذكرت هيئة السياحة أن إشغال الفنادق خلال سباقات سابقة بلغ 80–100٪.",
+        "source": "https://ttnonline.com/Article/384762/-shaping-the-future-of-tourism-in-bahrain_colon-a-conversation-with-sara-buhiji",
+        "checked": "2026-11-27",
+        "date": "2027-03-12",
+        "end": "2027-03-14",
+        "peak": true,
+        "impact": "يرتفع الطلب على الفنادق في عطلة السباق.",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم الفندقي الشتوي في المنامة (Manama) والمحرّق (Muharraq)",
+        "value": "ترتفع أسعار الفنادق في موسم الطقس المعتدل من نوفمبر إلى فبراير في المنامة والمحرّق وخليج البحرين (Bahrain Bay).",
+        "source": "https://www.mybahrainstay.com/booking-the-cool-season-how-bahrain-hotel-rates-turn-as-the-autumn-window-opens",
+        "checked": "2026-11-27",
+        "month": 11,
+        "peak": true,
+        "impact": "ارتفاع أسعار الإقامة في الفنادق المشمولة",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم الفندقي الشتوي في المنامة (Manama) والمحرّق (Muharraq)",
+        "value": "ترتفع أسعار الفنادق في موسم الطقس المعتدل من نوفمبر إلى فبراير في المنامة والمحرّق وخليج البحرين (Bahrain Bay).",
+        "source": "https://www.mybahrainstay.com/booking-the-cool-season-how-bahrain-hotel-rates-turn-as-the-autumn-window-opens",
+        "checked": "2026-11-27",
+        "month": 12,
+        "peak": true,
+        "impact": "ارتفاع أسعار الإقامة في الفنادق المشمولة",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم الفندقي الشتوي في المنامة (Manama) والمحرّق (Muharraq)",
+        "value": "ترتفع أسعار الفنادق في موسم الطقس المعتدل من نوفمبر إلى فبراير في المنامة والمحرّق وخليج البحرين (Bahrain Bay).",
+        "source": "https://www.mybahrainstay.com/booking-the-cool-season-how-bahrain-hotel-rates-turn-as-the-autumn-window-opens",
+        "checked": "2026-11-27",
+        "month": 1,
+        "peak": true,
+        "impact": "ارتفاع أسعار الإقامة في الفنادق المشمولة",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم الفندقي الشتوي في المنامة (Manama) والمحرّق (Muharraq)",
+        "value": "ترتفع أسعار الفنادق في موسم الطقس المعتدل من نوفمبر إلى فبراير في المنامة والمحرّق وخليج البحرين (Bahrain Bay).",
+        "source": "https://www.mybahrainstay.com/booking-the-cool-season-how-bahrain-hotel-rates-turn-as-the-autumn-window-opens",
+        "checked": "2026-11-27",
+        "month": 2,
+        "peak": true,
+        "impact": "ارتفاع أسعار الإقامة في الفنادق المشمولة",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "ربيع الثقافة",
+        "value": "المنامة (Manama) ومواقع أخرى. امتدت دورة 2026 من مارس إلى مايو. موعد دورة 2027 غير مؤكد.",
+        "source": "https://culture.gov.bh/en/mediacenter/news_center/2026/Feb2026/Name%2C23009%2Cen.html",
+        "checked": "2026-11-27",
+        "month": 3,
+        "status": "uncertain"
+      },
+      {
+        "label": "جائزة البحرين الكبرى للفورمولا 1",
+        "value": "الصخير (Sakhir). أعلنت الحلبة سباق 2027 من 12 إلى 14 مارس.",
+        "source": "https://www.bahraingp.com/blog/news/bic-launches-ticket-sales-for-formula-1-gulf-air-bahrain-grand-prix-2027/",
+        "checked": "2026-11-27",
+        "date": "2027-03-12",
+        "end": "2027-03-14",
+        "month": 3,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

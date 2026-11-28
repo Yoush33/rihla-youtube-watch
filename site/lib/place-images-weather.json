@@ -1,0 +1,491 @@
+{
+  "دبي": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/DONIS_Dubai_Frame_Nighttime.jpg/960px-DONIS_Dubai_Frame_Nighttime.jpg",
+    "author": "Sachimo",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:DONIS_Dubai_Frame_Nighttime.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "المنامة": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Manama_Manama_Skyline_14.jpg/960px-Manama_Manama_Skyline_14.jpg",
+    "author": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Manama_Manama_Skyline_14.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "الكويت": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Kuwait_City%27s_popular_landmarks_Liberty_Tower_%26_Kuwait_Towers.jpg/960px-Kuwait_City%27s_popular_landmarks_Liberty_Tower_%26_Kuwait_Towers.jpg",
+    "author": "Mahrs Multiverse",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kuwait_City%27s_popular_landmarks_Liberty_Tower_%26_Kuwait_Towers.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "الدوحة": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Doha_-_West_Bay_Skyline_04.jpg/960px-Doha_-_West_Bay_Skyline_04.jpg",
+    "author": "P. Hughes",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Doha_-_West_Bay_Skyline_04.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "صلالة": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Downtown_Salalah_Oman.jpg/960px-Downtown_Salalah_Oman.jpg",
+    "author": "StellarD",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Downtown_Salalah_Oman.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "عمّان": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/View_of_Amman_from_Citadel_Hill.jpeg/960px-View_of_Amman_from_Citadel_Hill.jpeg",
+    "author": "Falcodigiada",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Amman_from_Citadel_Hill.jpeg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "القاهرة": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Cairo_skyline%2C_Nile_River%2C_Egypt.jpg/960px-Cairo_skyline%2C_Nile_River%2C_Egypt.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cairo_skyline,_Nile_River,_Egypt.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "مراكش": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Jemaa_el-Fnaa_%287346166250%29.jpg/960px-Jemaa_el-Fnaa_%287346166250%29.jpg",
+    "author": "Jorge Láscar from Australia",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jemaa_el-Fnaa_(7346166250).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "تونس": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/TunisAveHabibBourguiba.jpg/960px-TunisAveHabibBourguiba.jpg",
+    "author": "Dacoslett",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:TunisAveHabibBourguiba.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "إسطنبول": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ortak%C3%B6y_Mosque_and_Bosphorus_Bridge%2C_March_2024_01.jpg/960px-Ortak%C3%B6y_Mosque_and_Bosphorus_Bridge%2C_March_2024_01.jpg",
+    "author": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ortak%C3%B6y_Mosque_and_Bosphorus_Bridge,_March_2024_01.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "باكو": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Baku_banner_Old_City_panorama.jpg/960px-Baku_banner_Old_City_panorama.jpg",
+    "author": "AlixSaz",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Baku_banner_Old_City_panorama.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "تبليسي": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg/960px-View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg",
+    "author": "Alexey Komarov",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "يريفان": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Matenadaran%2C_Yerevan%2C_Armenia_%28%D5%84%D5%A1%D5%BF%D5%A5%D5%B6%D5%A1%D5%A4%D5%A1%D6%80%D5%A1%D5%B6%D0%B1%2C_2026%29.jpg/960px-Matenadaran%2C_Yerevan%2C_Armenia_%28%D5%84%D5%A1%D5%BF%D5%A5%D5%B6%D5%A1%D5%A4%D5%A1%D6%80%D5%A1%D5%B6%D0%B1%2C_2026%29.jpg",
+    "author": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Matenadaran,_Yerevan,_Armenia_(%D5%84%D5%A1%D5%BF%D5%A5%D5%B6%D5%A1%D5%A4%D5%A1%D6%80%D5%A1%D5%B6%D0%B1,_2026).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "سمرقند": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Northeast_Samarkand_%28220273317%29.jpeg/960px-Northeast_Samarkand_%28220273317%29.jpeg",
+    "author": "Francisco Anzola",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Northeast_Samarkand_(220273317).jpeg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "ألماتي": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Almaty_K%C3%B6k_T%C3%B6be.jpg/960px-Almaty_K%C3%B6k_T%C3%B6be.jpg",
+    "author": "Dauren Nabijan",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Almaty_K%C3%B6k_T%C3%B6be.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "بيشكيك": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Ala_Too_Square_Bishkek_2021.jpg/960px-Ala_Too_Square_Bishkek_2021.jpg",
+    "author": "Emil.akhmatbekov",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ala_Too_Square_Bishkek_2021.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "لندن": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Tower_Bridge_London_Dusk_Feb_2006.jpg/960px-Tower_Bridge_London_Dusk_Feb_2006.jpg",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_Dusk_Feb_2006.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "دبلن": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Panoramic_View_of_River_Liffey_and_Samuel_Beckett_Bridge%2C_Dublin_20150807_1.jpg/960px-Panoramic_View_of_River_Liffey_and_Samuel_Beckett_Bridge%2C_Dublin_20150807_1.jpg",
+    "author": "DXR",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Panoramic_View_of_River_Liffey_and_Samuel_Beckett_Bridge,_Dublin_20150807_1.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "باريس": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Paris_Night.jpg/960px-Paris_Night.jpg",
+    "author": "Benh LIEU SONG",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris_Night.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "بروكسل": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Edificios_en_la_Grand-Place%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_184-186_HDR.jpg/960px-Edificios_en_la_Grand-Place%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_184-186_HDR.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Edificios_en_la_Grand-Place,_Bruselas,_B%C3%A9lgica,_2021-12-15,_DD_184-186_HDR.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "أمستردام": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Water_reflection_of_canal_houses_at_blue_hour_in_Damrak_Amsterdam_the_Netherlands.jpg/960px-Water_reflection_of_canal_houses_at_blue_hour_in_Damrak_Amsterdam_the_Netherlands.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_canal_houses_at_blue_hour_in_Damrak_Amsterdam_the_Netherlands.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "ميونخ": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Frauenkirche_Munich%2C_March_2018.jpg/960px-Frauenkirche_Munich%2C_March_2018.jpg",
+    "author": "Martin Falbisoner",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Frauenkirche_Munich,_March_2018.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "إنترلاكن": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Panorama_Schynige_Platte.jpg/960px-Panorama_Schynige_Platte.jpg",
+    "author": "Fl.schmitt",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Panorama_Schynige_Platte.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "زيلامسي": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Zeller_See_August_2004.jpg/960px-Zeller_See_August_2004.jpg",
+    "author": "Joachim Köhler",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Zeller_See_August_2004.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "براغ": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Prague_Astronomical_Clock_in_Old_Town_-_8559.jpg/960px-The_Prague_Astronomical_Clock_in_Old_Town_-_8559.jpg",
+    "author": "Jorge Royan",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Prague_Astronomical_Clock_in_Old_Town_-_8559.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "بودابست": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Budapest_Parliament_4604.JPG/960px-Budapest_Parliament_4604.JPG",
+    "author": "Dirk Beyer",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Budapest_Parliament_4604.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "كراكوف": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Krak%C3%B3w_-_Synagoga_Stara.jpg/960px-Krak%C3%B3w_-_Synagoga_Stara.jpg",
+    "author": "Fred Romero from Paris, France",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Krak%C3%B3w_-_Synagoga_Stara.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "بليد": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bled-lake-Slovenia.jpg/960px-Bled-lake-Slovenia.jpg",
+    "author": "canvas123",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bled-lake-Slovenia.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "دوبروفنيك": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Dubrovnik_Castle_Walls_Croatia_%28137302579%29.jpeg/960px-Dubrovnik_Castle_Walls_Croatia_%28137302579%29.jpeg",
+    "author": "Kim Wong",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dubrovnik_Castle_Walls_Croatia_(137302579).jpeg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "سراييفو": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%C5%BDuta_Tabija_Overcast_%28207107177%29.jpeg/960px-%C5%BDuta_Tabija_Overcast_%28207107177%29.jpeg",
+    "author": "Justin W Flory",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%C5%BDuta_Tabija_Overcast_(207107177).jpeg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "كوتور": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/View_of_Kotor_bay_and_old_town.jpg/960px-View_of_Kotor_bay_and_old_town.jpg",
+    "author": "Jaakko Luttinen",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Kotor_bay_and_old_town.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "تيرانا": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Orthodox_Church_Tirana_2016_albania.jpg/960px-Orthodox_Church_Tirana_2016_albania.jpg",
+    "author": "Photo: Daniel Flickr: https://www.flickr.com/photos/da-ni-el/",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Orthodox_Church_Tirana_2016_albania.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "أوهريد": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Church_of_St._John_at_Kaneo_6.jpg/960px-Church_of_St._John_at_Kaneo_6.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Church_of_St._John_at_Kaneo_6.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "بلغراد": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Beograd_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%29%2C_Serbia_2022_-_Prometna_banka_%28%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%BD%D0%B0_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0%29%2C_Belgrade.jpg/960px-Beograd_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%29%2C_Serbia_2022_-_Prometna_banka_%28%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%BD%D0%B0_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0%29%2C_Belgrade.jpg",
+    "author": "Sharon Hahn Darlin",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Beograd_(%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4),_Serbia_2022_-_Prometna_banka_(%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%BD%D0%B0_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0),_Belgrade.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "صوفيا": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/AlexanderNevskyCathedral-Sofia-6.jpg/960px-AlexanderNevskyCathedral-Sofia-6.jpg",
+    "author": "Plamen Agov (user:MrPanyGoff)",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:AlexanderNevskyCathedral-Sofia-6.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "براشوف": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Bra%C8%99ov%2C_Pia%C8%9Ba_Sfatului_-_Flickr_-_Jorge_Franganillo.jpg/960px-Bra%C8%99ov%2C_Pia%C8%9Ba_Sfatului_-_Flickr_-_Jorge_Franganillo.jpg",
+    "author": "Jorge Franganillo",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bra%C8%99ov,_Pia%C8%9Ba_Sfatului_-_Flickr_-_Jorge_Franganillo.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "أثينا": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Acropolis_Museum_in_Athens_with_Acropolis_View.jpg/960px-Acropolis_Museum_in_Athens_with_Acropolis_View.jpg",
+    "author": "Pinterpandai.com",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Acropolis_Museum_in_Athens_with_Acropolis_View.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "لارنكا": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Larnaca_Salt_Lake_with_Flamingos_%2832492255346%29.jpg/960px-Larnaca_Salt_Lake_with_Flamingos_%2832492255346%29.jpg",
+    "author": "Amanda Slater from Coventry, West Midlands, UK",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Larnaca_Salt_Lake_with_Flamingos_(32492255346).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "روما": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Rome_%28IT%29%2C_Kolosseum_--_2013_--_3379-86.jpg/960px-Rome_%28IT%29%2C_Kolosseum_--_2013_--_3379-86.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rome_(IT),_Kolosseum_--_2013_--_3379-86.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "فاليتا": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Valletta_Grand_Harbour_Panorama.jpg/960px-Valletta_Grand_Harbour_Panorama.jpg",
+    "author": "GregorioW This image was created with Hugin.",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Valletta_Grand_Harbour_Panorama.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "غرناطة": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg/960px-Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg",
+    "author": "Slaunger",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "لشبونة": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/View_from_Miradouro_de_Santa_Luzia%2C_Lisbon%2C_20250603_2016_9045.jpg/960px-View_from_Miradouro_de_Santa_Luzia%2C_Lisbon%2C_20250603_2016_9045.jpg",
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_de_Santa_Luzia,_Lisbon,_20250603_2016_9045.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "بيرغن": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Bryggen_waterfront_reflections_at_night_Bergen_Norway.jpg/960px-Bryggen_waterfront_reflections_at_night_Bergen_Norway.jpg",
+    "author": "Smtunli",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bryggen_waterfront_reflections_at_night_Bergen_Norway.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "ستوكهولم": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Stockholm-Gamla-Stan-panorama.jpg/960px-Stockholm-Gamla-Stan-panorama.jpg",
+    "author": "Acediscovery",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Stockholm-Gamla-Stan-panorama.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "كوبنهاغن": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Nyhavn%2C_Copenhagen%2C_Denmark.jpg/960px-Nyhavn%2C_Copenhagen%2C_Denmark.jpg",
+    "author": "Marshallhenrie",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nyhavn,_Copenhagen,_Denmark.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "روفانيمي": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Rovaniemi_06101999_rescanned.jpg/960px-Rovaniemi_06101999_rescanned.jpg",
+    "author": "MattiKSinisalo at Finnish Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rovaniemi_06101999_rescanned.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "ريكيافيك": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/20190623_Perlan_8841_%2848469867211%29.jpg/960px-20190623_Perlan_8841_%2848469867211%29.jpg",
+    "author": "Ray Swi-hymn from Sijhih-Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:20190623_Perlan_8841_(48469867211).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "لنكاوي": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Eagle_Square_Langkawi._%2811130066275%29.jpg/960px-Eagle_Square_Langkawi._%2811130066275%29.jpg",
+    "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eagle_Square_Langkawi._(11130066275).jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "كرابي": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Krabi_-_Khao_Khanab_Nam_-_0006.jpg/960px-Krabi_-_Khao_Khanab_Nam_-_0006.jpg",
+    "author": "Stefan Fussan",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Krabi_-_Khao_Khanab_Nam_-_0006.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "بالي": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Rice_terraces_on_Bali_-_Tegalalang_Rice_Terrace_-_Indonesia_05.jpg/960px-Rice_terraces_on_Bali_-_Tegalalang_Rice_Terrace_-_Indonesia_05.jpg",
+    "author": "Thomas Fuhrmann",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_terraces_on_Bali_-_Tegalalang_Rice_Terrace_-_Indonesia_05.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "سنغافورة": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Singapore_%28SG%29%2C_Merlion_--_2019_--_4692.jpg/960px-Singapore_%28SG%29%2C_Merlion_--_2019_--_4692.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Merlion_--_2019_--_4692.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "دا نانغ": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg/960px-Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg",
+    "author": "Vivu Vietnam",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "بالاوان": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Limestone_island_in_Bacuit_Bay%2C_El_Nido%2C_Palawan%2C_Philippines.jpg/960px-Limestone_island_in_Bacuit_Bay%2C_El_Nido%2C_Palawan%2C_Philippines.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Limestone_island_in_Bacuit_Bay,_El_Nido,_Palawan,_Philippines.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "إيلا": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Nine_arch_bridge%2C_Ella%2C_Sri_lanka.jpg/960px-Nine_arch_bridge%2C_Ella%2C_Sri_lanka.jpg",
+    "author": "Ishan shanuka",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nine_arch_bridge,_Ella,_Sri_lanka.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "ماليه": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Islamic_Centre_%28Maldives%29_at_night._2018-03-17.jpg/960px-Islamic_Centre_%28Maldives%29_at_night._2018-03-17.jpg",
+    "author": "FaysaLBinDaruL",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Islamic_Centre_(Maldives)_at_night._2018-03-17.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "فاركالا": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Varkala_Cliff_by_KS.jpg/960px-Varkala_Cliff_by_KS.jpg",
+    "author": "Krissubh",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Varkala_Cliff_by_KS.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "بوخارا": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/World_Peace_Pagoda_%28Shanti_Stupa%29%2C_Pokhara.jpg/960px-World_Peace_Pagoda_%28Shanti_Stupa%29%2C_Pokhara.jpg",
+    "author": "SristiAwasthi21",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:World_Peace_Pagoda_(Shanti_Stupa),_Pokhara.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "إسلام آباد": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Faisal_Mosque_Front_Sunset.jpg/960px-Faisal_Mosque_Front_Sunset.jpg",
+    "author": "Rao Umair Khan",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Faisal_Mosque_Front_Sunset.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "طوكيو": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tokyo_Tower%2C_Minato_City.jpg/960px-Tokyo_Tower%2C_Minato_City.jpg",
+    "author": "David Kernan",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower,_Minato_City.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "سيول": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Seoul_City_Core_from_N-Seoul_Tower_%285464351080%29.jpg/960px-Seoul_City_Core_from_N-Seoul_Tower_%285464351080%29.jpg",
+    "author": "InSapphoWeTrust from Los Angeles, California, USA",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Seoul_City_Core_from_N-Seoul_Tower_(5464351080).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "شنغهاي": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Bund_2.jpg/960px-The_Bund_2.jpg",
+    "author": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Bund_2.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "زنجبار": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/House_of_wonders.jpg/960px-House_of_wonders.jpg",
+    "author": "Moongateclimber",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:House_of_wonders.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "نيروبي": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Nairobi%27s_Central_Business_District_Landmark_Skyscrapers..jpg/960px-Nairobi%27s_Central_Business_District_Landmark_Skyscrapers..jpg",
+    "author": "Tall Black",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nairobi%27s_Central_Business_District_Landmark_Skyscrapers..jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "كيب تاون": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Cape_Town_skyline_with_Table_Mountain.jpg/960px-Cape_Town_skyline_with_Table_Mountain.jpg",
+    "author": "Islahaddow",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cape_Town_skyline_with_Table_Mountain.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "موريشيوس": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Mauritius_flic_en_flac_beach.jpg/960px-Mauritius_flic_en_flac_beach.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "page": "https://commons.wikimedia.org/wiki/File:Mauritius_flic_en_flac_beach.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  "ماهي": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Beau_Vallon_beach_Mahe_Seychelles.jpg/960px-Beau_Vallon_beach_Mahe_Seychelles.jpg",
+    "author": "Photography by Dino Sassi - Marcel Fayon, Photo Eden LTD",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Beau_Vallon_beach_Mahe_Seychelles.jpg"
+  },
+  "نيويورك": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lower_Manhattan_from_Jersey_City_November_2014_panorama_2.jpg/960px-Lower_Manhattan_from_Jersey_City_November_2014_panorama_2.jpg",
+    "author": "King of Hearts",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Jersey_City_November_2014_panorama_2.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "تورنتو": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg/960px-Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg",
+    "author": "Jchmrt",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "كانكون": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Cancun_aerial_photo_by_safa.jpg/960px-Cancun_aerial_photo_by_safa.jpg",
+    "author": "Safa in la but uploaded by Mardetanha",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cancun_aerial_photo_by_safa.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "سيدني": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Sydney_%28AU%29%2C_View_from_Opera_House_--_2019_--_3073-8.jpg/960px-Sydney_%28AU%29%2C_View_from_Opera_House_--_2019_--_3073-8.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_View_from_Opera_House_--_2019_--_3073-8.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

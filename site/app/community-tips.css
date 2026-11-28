@@ -1,0 +1,48 @@
+.community-tip-note {
+  margin: .5rem 0;
+  color: var(--muted);
+  font-size: .875rem;
+}
+.community-tip-list {
+  display: grid;
+  gap: .6rem;
+  list-style: none;
+  padding: 0;
+  margin: .5rem 0;
+}
+.community-tip-list > li {
+  min-width: 0;
+  padding: .6rem .75rem;
+  border-inline-start: 2px solid var(--line);
+  overflow-wrap: anywhere;
+}
+.community-tip-list p {
+  margin: 0 0 .25rem;
+}
+.community-tip-list p strong {
+  display: inline;
+  margin-inline-end: .25rem;
+}
+.community-tip-list [data-warning="true"] {
+  color: var(--warning-text, #a34a17);
+}
+.community-tip-source {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .25rem .75rem;
+  align-items: baseline;
+  font-size: .875rem;
+}
+.community-tip-source a {
+  text-decoration: underline;
+  text-underline-offset: .2em;
+}
+.ready-people > summary {
+  cursor: pointer;
+  font-weight: 650;
+}
+.ready-location-list .community-tip-list > li {
+  display: block;
+  padding: .6rem .75rem;
+  border-block-end: 0;
+}

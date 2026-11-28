@@ -1,0 +1,572 @@
+{
+  "code": "JP",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "يستطيع المقيم في السعودية تقديم طلب تأشيرة سياحية إلكترونية لسفرة واحدة إذا استوفى شروط وزارة الخارجية.",
+        "source": "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html?lv=true",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 90 يومًا للتأشيرة السياحية الإلكترونية.",
+        "source": "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html?lv=true",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "75 ريالًا نقدًا في سفارة الرياض أو 3,000 ين للدفع الإلكتروني لتأشيرة السفرة الواحدة.",
+        "source": "https://www.ksa.emb-japan.go.jp/files/100998184.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "تقبل متاجر كثيرة البطاقات، وبعض المنشآت الصغيرة تطلب النقد.",
+        "source": "https://www.gotokyo.org/en/plan/money/index.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "الين الياباني",
+        "source": "https://www.gotokyo.org/en/plan/money/index.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "لا تُتوقع عادة في المطاعم.",
+        "source": "https://www.gotokyo.org/en/plan/diverse-culinary-culture/index.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 206 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/Japan",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 521 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/Japan",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "إيرالو، 1 غيغابايت لمدة 7 أيام بنحو 15 ريالًا.",
+        "source": "https://www.airalo.com/japan-esim/moshi-moshi-7days-1gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "تذكر هيئة سياحة طوكيو تطبيقات لتخطيط مسارات القطارات والمترو في طوكيو (Tokyo).",
+        "source": "https://www.gotokyo.org/en/plan/useful-apps/index.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "من هانيدا (Haneda) وناريتا (Narita) تتوفر قطارات وحافلات إلى طوكيو (Tokyo). اختر المحطة الأقرب للفندق.",
+        "source": "https://www.gotokyo.org/en/plan/getting-to-tokyo/index.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "قطارات شينكانسن السريعة والحافلات البعيدة تصل المدن.",
+        "source": "https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "تنشر هيئة السياحة إرشادات عن المطاعم المناسبة للمسلمين ومكوّنات الصلصات والمرق.",
+        "source": "https://www.japan.travel/en/guide/muslim-travelers/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "دليل طوكيو للمسافر المسلم يجمع المساجد ومصليات الزوار في طوكيو (Tokyo).",
+        "source": "https://www.gotokyo.org/book/wp-content/uploads/2026/03/AO2_2603_muslim_low_EN.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "السوشي، التمبورا، والرامن. اسأل عن المرق والصلصة.",
+        "source": "https://www.japan.travel/en/au/experience/cuisine/10-dishes-you-shouldnt-leave-japan-without-trying/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "ادخل دور العبادة بملابس مناسبة واتبع تعليمات خلع الحذاء والتصوير.",
+        "source": "https://www.japan-guide.com/e/e2057.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "مثال من طوكيو (Tokyo)، تفتح متاجر غينزا ميتسوكوشي (Ginza Mitsukoshi) من 10 صباحًا حتى 8 مساءً، وبعض المطاعم حتى 11 مساءً.",
+        "source": "https://cp.mistore.jp/global/en/ginza.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "110 للشرطة و119 للإسعاف والإطفاء.",
+        "source": "https://www.gov.uk/foreign-travel-advice/japan/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "اتبع قيود الدخول إلى المناطق المحظورة حول محطة فوكوشيما داييتشي (Fukushima Daiichi).",
+        "source": "https://travel.gc.ca/destinations/japan",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "تحذر شرطة طوكيو (Tokyo) من النشل وسرقة الأمتعة.",
+        "source": "https://www.keishicho.metro.tokyo.lg.jp/multilingual/english/safe_society/victim_of_crime/ninpo.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "شينجوكو (Shinjuku)",
+        "value": "لسهولة تبديل خطوط القطار",
+        "source": "https://www.asianvisit.com/blog/where-to-stay-in-tokyo/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "شيبويا (Shibuya)",
+        "value": "للتسوق والنشاط المسائي",
+        "source": "https://www.asianvisit.com/blog/where-to-stay-in-tokyo/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "أساكوسا (Asakusa)",
+        "value": "للمعابد والأحياء القديمة",
+        "source": "https://www.asianvisit.com/blog/where-to-stay-in-tokyo/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "طوكيو (Tokyo)",
+        "value": "نقترح أربعة أيام عند توزيع وقت الرحلة.",
+        "source": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كيوتو (Kyoto)",
+        "value": "نقترح ثلاثة أيام عند توزيع وقت الرحلة.",
+        "source": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "أوساكا (Osaka)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "هيروشيما (Hiroshima)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "زحمة في النقل والسكن وأسعار أعلى خلال موسم السفر؛ احجز مبكرًا.",
+        "impactSource": "https://www.japan.travel/en/faq/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم بلوغ سن الرشد",
+        "value": "٢٠٢٦-٠١-١٢",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-01-12",
+        "impact": "يفتح متحف طوكيو الوطني (Tokyo National Museum) في الاثنين إذا كان عطلة، ويغلق في اليوم التالي.",
+        "impactSource": "https://www.tnm.jp/modules/r_free_page/index.php?id=113l&lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم تأسيس الدولة",
+        "value": "٢٠٢٦-٠٢-١١",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-02-11",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد الإمبراطور",
+        "value": "٢٠٢٦-٠٢-٢٣",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-02-23",
+        "impact": "يفتح متحف طوكيو الوطني (Tokyo National Museum) في الاثنين إذا كان عطلة، ويغلق في اليوم التالي.",
+        "impactSource": "https://www.tnm.jp/modules/r_free_page/index.php?id=113l&lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الاعتدال الربيعي",
+        "value": "٢٠٢٦-٠٣-٢٠",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم شوا",
+        "value": "٢٠٢٦-٠٤-٢٩",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-04-29",
+        "impact": "زحمة في النقل والسكن وأسعار أعلى خلال موسم السفر؛ احجز مبكرًا.",
+        "impactSource": "https://www.japan.travel/en/faq/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٦-٠٥-٠٣ · التاريخ الأصلي",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-05-03",
+        "impact": "زحمة في النقل والسكن خلال الأسبوع الذهبي.",
+        "impactSource": "https://www.japan.travel/en/faq/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الخضرة",
+        "value": "٢٠٢٦-٠٥-٠٤",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-05-04",
+        "impact": "زحمة في النقل والسكن وأسعار أعلى خلال موسم السفر؛ احجز مبكرًا.",
+        "impactSource": "https://www.japan.travel/en/faq/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الطفل",
+        "value": "٢٠٢٦-٠٥-٠٥",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-05-05",
+        "impact": "زحمة في النقل والسكن وأسعار أعلى خلال موسم السفر؛ احجز مبكرًا.",
+        "impactSource": "https://www.japan.travel/en/faq/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٦-٠٥-٠٦ · إجازة بديلة",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-05-06",
+        "impact": "زحمة في النقل والسكن وأسعار أعلى خلال موسم السفر؛ احجز مبكرًا.",
+        "impactSource": "https://www.japan.travel/en/faq/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم البحر",
+        "value": "٢٠٢٦-٠٧-٢٠",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-07-20",
+        "impact": "يفتح متحف طوكيو الوطني (Tokyo National Museum) في الاثنين إذا كان عطلة، ويغلق في اليوم التالي.",
+        "impactSource": "https://www.tnm.jp/modules/r_free_page/index.php?id=113l&lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الجبل",
+        "value": "٢٠٢٦-٠٨-١١",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-08-11",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم احترام المسنين",
+        "value": "٢٠٢٦-٠٩-٢١",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-09-21",
+        "impact": "الدخول مجاني لمعارض المجموعات الدائمة في متحف طوكيو الوطني (Tokyo National Museum) في هذا التاريخ.",
+        "impactSource": "https://www.tnm.jp/modules/r_free_page/index.php?id=113l&lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة وطنية بين عيدين",
+        "value": "٢٠٢٦-٠٩-٢٢",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-09-22",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الاعتدال الخريفي",
+        "value": "٢٠٢٦-٠٩-٢٣",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-09-23",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الرياضة",
+        "value": "٢٠٢٦-١٠-١٢",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-10-12",
+        "impact": "يفتح متحف طوكيو الوطني (Tokyo National Museum) في الاثنين إذا كان عطلة، ويغلق في اليوم التالي.",
+        "impactSource": "https://www.tnm.jp/modules/r_free_page/index.php?id=113l&lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الثقافة",
+        "value": "٢٠٢٦-١١-٠٣",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-11-03",
+        "impact": "الدخول مجاني لمعارض المجموعات الدائمة في متحف طوكيو الوطني (Tokyo National Museum) في هذا التاريخ.",
+        "impactSource": "https://www.tnm.jp/modules/r_free_page/index.php?id=113l&lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الشكر للعمل",
+        "value": "٢٠٢٦-١١-٢٣",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2026-11-23",
+        "impact": "يفتح متحف طوكيو الوطني (Tokyo National Museum) في الاثنين إذا كان عطلة، ويغلق في اليوم التالي.",
+        "impactSource": "https://www.tnm.jp/modules/r_free_page/index.php?id=113l&lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "زحمة في النقل والسكن وأسعار أعلى خلال موسم السفر؛ احجز مبكرًا.",
+        "impactSource": "https://www.japan.travel/en/faq/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم بلوغ سن الرشد",
+        "value": "٢٠٢٧-٠١-١١",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-01-11",
+        "impact": "يفتح متحف طوكيو الوطني (Tokyo National Museum) في الاثنين إذا كان عطلة، ويغلق في اليوم التالي.",
+        "impactSource": "https://www.tnm.jp/modules/r_free_page/index.php?id=113l&lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم تأسيس الدولة",
+        "value": "٢٠٢٧-٠٢-١١",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-02-11",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد الإمبراطور",
+        "value": "٢٠٢٧-٠٢-٢٣",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-02-23",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الاعتدال الربيعي",
+        "value": "٢٠٢٧-٠٣-٢١",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-03-21",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم شوا",
+        "value": "٢٠٢٧-٠٤-٢٩",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-04-29",
+        "impact": "زحمة في النقل والسكن وأسعار أعلى خلال موسم السفر؛ احجز مبكرًا.",
+        "impactSource": "https://www.japan.travel/en/faq/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "زحمة في النقل والسكن وأسعار أعلى خلال موسم السفر؛ احجز مبكرًا.",
+        "impactSource": "https://www.japan.travel/en/faq/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الخضرة",
+        "value": "٢٠٢٧-٠٥-٠٤",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-05-04",
+        "impact": "زحمة في النقل والسكن وأسعار أعلى خلال موسم السفر؛ احجز مبكرًا.",
+        "impactSource": "https://www.japan.travel/en/faq/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الطفل",
+        "value": "٢٠٢٧-٠٥-٠٥",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-05-05",
+        "impact": "زحمة في النقل والسكن وأسعار أعلى خلال موسم السفر؛ احجز مبكرًا.",
+        "impactSource": "https://www.japan.travel/en/faq/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم البحر",
+        "value": "٢٠٢٧-٠٧-١٩",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-07-19",
+        "impact": "يفتح متحف طوكيو الوطني (Tokyo National Museum) في الاثنين إذا كان عطلة، ويغلق في اليوم التالي.",
+        "impactSource": "https://www.tnm.jp/modules/r_free_page/index.php?id=113l&lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الجبل",
+        "value": "٢٠٢٧-٠٨-١١",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-08-11",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم احترام المسنين",
+        "value": "٢٠٢٧-٠٩-٢٠",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-09-20",
+        "impact": "يفتح متحف طوكيو الوطني (Tokyo National Museum) في الاثنين إذا كان عطلة، ويغلق في اليوم التالي.",
+        "impactSource": "https://www.tnm.jp/modules/r_free_page/index.php?id=113l&lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الاعتدال الخريفي",
+        "value": "٢٠٢٧-٠٩-٢٣",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-09-23",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الرياضة",
+        "value": "٢٠٢٧-١٠-١١",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-10-11",
+        "impact": "يفتح متحف طوكيو الوطني (Tokyo National Museum) في الاثنين إذا كان عطلة، ويغلق في اليوم التالي.",
+        "impactSource": "https://www.tnm.jp/modules/r_free_page/index.php?id=113l&lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الثقافة",
+        "value": "٢٠٢٧-١١-٠٣",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-11-03",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الشكر للعمل",
+        "value": "٢٠٢٧-١١-٢٣",
+        "source": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+        "checked": "2026-11-27",
+        "date": "2027-11-23",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "في نموذج الوزارة تبدأ الإجازة الصيفية أواخر يوليو وتنتهي أواخر أغسطس، مع اختلاف المدرسة والمنطقة.",
+        "source": "https://www.mext.go.jp/content/20220506-mxt_kouhou02-000022321_1.pdf",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم والوقت الأهدأ",
+        "value": "منتصف أغسطس يشهد تنقلات العائلات في عطلة أوبون، كما تزدحم المواصلات في الأسبوع الذهبي أواخر أبريل وأوائل مايو.",
+        "source": "https://www.japan.travel/en/faq/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان غيون ماتسوري",
+        "value": "كيوتو (Kyoto)، يوليو.",
+        "source": "https://www.japan.travel/en/spot/83/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

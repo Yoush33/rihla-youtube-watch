@@ -1,0 +1,522 @@
+{
+  "code": "TR",
+  "sections": {
+    "entry": [
+      {
+        "label": "تأشيرة الجواز السعودي والمدة",
+        "value": "الجواز السعودي العادي معفى من تأشيرة السياحة حتى ٩٠ يومًا خلال ١٨٠ يومًا.",
+        "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa.en.mfa",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسوم",
+        "value": "لا رسم لطلب تأشيرة ضمن الإعفاء.",
+        "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa.en.mfa",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الليرة التركية (TRY).",
+        "source": "https://www.budgetyourtrip.com/Turkey",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع والإكرامية",
+        "value": "تُستخدم البطاقات والنقد. إذا قدّمت إكرامية ادفعها بالليرة نقدًا وتحقق من وجود رسوم خدمة في الفاتورة.",
+        "source": "https://turkishrepublic.org/practical/money-and-costs",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميزانية الفرد اليومية بالريال",
+        "value": "اقتصادي نحو ١٧٣ ريالًا ومتوسط نحو ٤٣١ ريالًا للفرد. هذا تحويل لمتوسط إنفاق المسافرين ويتغير مع الصرف.",
+        "source": "https://www.budgetyourtrip.com/Turkey",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "عرض تركسل للسياح، ٢٠ غيغابايت صالحة ٢٨ يومًا بنحو ١٨٠٠ ليرة حتى ٣١ ديسمبر ٢٠٢٦ بحسب الدليل.",
+        "source": "https://www.helloroam.com/en-GB/internet-abroad/internet-in-turkey",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "تطبيق إسطنبول كارت لإدارة بطاقة النقل في إسطنبول (Istanbul).",
+        "source": "https://www.istanbulkart.istanbul/mobil/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "المطار إلى المدينة",
+        "value": "حافلات المطار العامة وحافلات هافايست تصل مطار إسطنبول (Istanbul Airport) بعدة أحياء. اختر الخط حسب موقع الفندق.",
+        "source": "https://www.iett.istanbul/icerik/Access-to-Airports",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "يجمع المسار المنشور بين الطيران الداخلي والقطار للوصول إلى أنطاليا (Antalya) وإزمير (Izmir).",
+        "source": "https://theturkiyeguide.com/itineraries/2-weeks-turkey/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال",
+        "value": "توجد مطاعم في إسطنبول (Istanbul) تنشر سياسة حلال خاصة بها. تحقق من المطعم والفرع عند اختيار اللحوم.",
+        "source": "https://halalrihla.com/en/cities/istanbul/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "الجامع الأزرق في السلطان أحمد (Sultanahmet) بإسطنبول (Istanbul).",
+        "source": "https://istanbul.goturkiye.com/mosaic-museum-of-the-grand-palace",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "شيش كباب، ودولما محشوة، وكباب أضنة. تحقّق من المكونات عند الطلب.",
+        "source": "https://www.goc.gov.tr/kurumlar/goc.gov.tr/Yayinlar/Brosurler/2023/Turkiye-Yasam-Brosurleri/07_TurkKulturuVeSosyalYasam.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والسلوك",
+        "value": "احتشم عند زيارة المساجد واحترم العلم والرموز الوطنية، فتسري قوانين على إهانتها.",
+        "source": "https://www.gov.uk/foreign-travel-advice/turkey/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "المتاجر غالبًا ٩ صباحًا–٧:٣٠ مساءً من الاثنين للسبت، والمراكز الكبيرة قرابة ١٠ صباحًا–١٠ مساءً يوميًا.",
+        "source": "https://www.bankofscotlandtrade.co.uk/en/market-potential/turkiye/opening-hours?vider_sticky=oui",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة والإطفاء والإسعاف ١١٢.",
+        "source": "https://www.gov.uk/foreign-travel-advice/turkey/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "السرقة والاحتيال",
+        "value": "ترد حالات مبالغة شديدة في فواتير أماكن ترفيه بعد استدراج الزائر من الشارع. افحص الأسعار قبل الطلب.",
+        "source": "https://www.gov.uk/foreign-travel-advice/turkey/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأماكن التي تستدعي الحذر",
+        "value": "تحذيرات منفصلة تخص الشريط الحدودي مع سوريا. راجع الخريطة قبل السفر إلى جنوب شرق البلاد.",
+        "source": "https://www.gov.uk/foreign-travel-advice/turkey?linkId=201327838",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "مناطق السكن وأسباب الاختيار",
+        "value": "في إسطنبول (Istanbul)، السلطان أحمد (Sultanahmet) للمعالم التاريخية، وكراكوي (Karaköy) للميناء والفنون، وكاديكوي (Kadıköy) لأسواق الجانب الآسيوي والعبّارة.",
+        "source": "https://www.addirgo.com/en/where-to-stay/istanbul/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار الزيارة ومدة كل محطة",
+        "value": "برنامج منشور يخصص ثلاثة أيام لإسطنبول (Istanbul)، ويومين لأنطاليا (Antalya)، ويومًا لإزمير (Izmir).",
+        "source": "https://theturkiyeguide.com/itineraries/2-weeks-turkey/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر، اليوم الأول",
+        "value": "٢٠٢٦-٠٣-٢٠ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "impact": "يغلق قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) في أول يوم من عيد الفطر.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الفطر، اليوم الثاني",
+        "value": "٢٠٢٦-٠٣-٢١ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-21",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الفطر، اليوم الثالث",
+        "value": "٢٠٢٦-٠٣-٢٢ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-22",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد السيادة الوطنية والطفل",
+        "value": "٢٠٢٦-٠٤-٢٣",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-23",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى أتاتورك وعيد الشباب والرياضة",
+        "value": "٢٠٢٦-٠٥-١٩",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-19",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى، اليوم الأول",
+        "value": "٢٠٢٦-٠٥-٢٧ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى، اليوم الثاني",
+        "value": "٢٠٢٦-٠٥-٢٨ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-28",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى، اليوم الثالث",
+        "value": "٢٠٢٦-٠٥-٢٩ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-29",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى، اليوم الرابع",
+        "value": "٢٠٢٦-٠٥-٣٠ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-30",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الديمقراطية والوحدة الوطنية",
+        "value": "٢٠٢٦-٠٧-١٥",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-07-15",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النصر",
+        "value": "٢٠٢٦-٠٨-٣٠",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-30",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الجمهورية",
+        "value": "٢٠٢٦-١٠-٢٩",
+        "source": "https://date.nager.at/Calendar/2026/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-29",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر، اليوم الأول",
+        "value": "٢٠٢٧-٠٣-١٠ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-10",
+        "impact": "يغلق قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) في أول يوم من عيد الفطر.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الفطر، اليوم الثاني",
+        "value": "٢٠٢٧-٠٣-١١ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-11",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الفطر، اليوم الثالث",
+        "value": "٢٠٢٧-٠٣-١٢ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-12",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد السيادة الوطنية والطفل",
+        "value": "٢٠٢٧-٠٤-٢٣",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-23",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى، اليوم الأول",
+        "value": "٢٠٢٧-٠٥-١٦ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى، اليوم الثاني",
+        "value": "٢٠٢٧-٠٥-١٧ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى، اليوم الثالث",
+        "value": "٢٠٢٧-٠٥-١٨ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-18",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "ذكرى أتاتورك وعيد الشباب والرياضة",
+        "value": "٢٠٢٧-٠٥-١٩",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-19",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى، اليوم الرابع",
+        "value": "٢٠٢٧-٠٥-١٩ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-19",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الديمقراطية والوحدة الوطنية",
+        "value": "٢٠٢٧-٠٧-١٥",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-15",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النصر",
+        "value": "٢٠٢٧-٠٨-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-30",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الجمهورية",
+        "value": "٢٠٢٧-١٠-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/TR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-29",
+        "impact": "يدرج قصر توبكابي (Topkapı Palace) في إسطنبول (Istanbul) هذه المناسبة ضمن أيام الزيارة؛ راجع الإغلاق الأسبوعي يوم الثلاثاء.",
+        "impactSource": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "تعرض وزارة التعليم مواعيد الفصول والعطلة النصفية للسنة الدراسية ٢٠٢٦–٢٠٢٧.",
+        "source": "https://www.meb.gov.tr/2026-2027-egitim-ogretim-yili-takvimi-aciklandi/haber/41057/tr",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الذروة والفترة الأهدأ",
+        "value": "تبدأ المدن الساحلية وكابادوكيا (Cappadocia) بالهدوء في سبتمبر وأكتوبر بعد عودة المدارس.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-turkey",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة نصف السنة",
+        "value": "إجازة مدارس التعليم العام التركية بين الفصلين.",
+        "source": "https://www.meb.gov.tr/2026-2027-egitim-ogretim-yili-takvimi-aciklandi/haber/41057/tr",
+        "checked": "2026-11-27",
+        "date": "2027-01-25",
+        "end": "2027-02-05",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      },
+      {
+        "label": "هدوء ما بعد الإجازة",
+        "value": "يقل الإقبال في البلدات الساحلية وكابادوكيا (Cappadocia) بعد إجازات المدارس.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-turkey",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": false,
+        "impact": "ازدحام أقل في هذه الوجهات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "هدوء ما بعد الإجازة",
+        "value": "يقل الإقبال في البلدات الساحلية وكابادوكيا (Cappadocia) بعد إجازات المدارس.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-turkey",
+        "checked": "2026-11-27",
+        "month": 10,
+        "peak": false,
+        "impact": "ازدحام أقل في هذه الوجهات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الساحل التركي",
+        "value": "تصل أسعار السفر والإقامة على الساحل إلى ذروة الصيف في يوليو وأغسطس.",
+        "source": "https://www.gottagoturkey.com/guides/best-time-to-visit-turkey/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "أسعار أعلى على الساحل",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الساحل التركي",
+        "value": "تصل أسعار السفر والإقامة على الساحل إلى ذروة الصيف في يوليو وأغسطس.",
+        "source": "https://www.gottagoturkey.com/guides/best-time-to-visit-turkey/",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "أسعار أعلى على الساحل",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "الفعالية السنوية",
+        "value": "مهرجان إسطنبول السينمائي، إسطنبول (Istanbul)، في أبريل. أعلن المنظم دورة ٨–١٨ أبريل ٢٠٢٧.",
+        "source": "https://film.iksv.org/en/",
+        "checked": "2026-11-27",
+        "month": 4,
+        "date": "2027-04-08",
+        "end": "2027-04-18",
+        "status": "confirmed"
+      }
+    ]
+  }
+}

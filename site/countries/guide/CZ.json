@@ -1,0 +1,534 @@
+{
+  "code": "CZ",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "تلزم تأشيرة شنغن قصيرة الإقامة للسائح حامل الجواز العادي.",
+        "source": "https://home-affairs.ec.europa.eu/document/download/a2378226-f392-42d0-9984-e023db53d140_en?filename=regulation-2018-1806.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "حتى 90 يوماً في أي 180 يوماً ضمن دول شنغن مجتمعة، وبحدود الأيام في التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم طلب البالغ",
+        "value": "90 يورو، وقد تضاف رسوم مركز الخدمة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الكورونا التشيكية",
+        "source": "https://www.visitczechia.com/en-us/travel-info/currency-payments-prices-and-tips",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "ادفع بالكورونا وتحقق من قبول البطاقات في المحلات الصغيرة.",
+        "source": "https://www.ace.aaa.com/travel/destinations/europe/czech-republic.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "تُترك إكرامية عند الرضا في المطاعم التي تقدم خدمة الطاولة.",
+        "source": "https://www.ace.aaa.com/travel/destinations/europe/czech-republic.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 214 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/czech-republic",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 518 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/czech-republic",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريالاً، ويختلف السعر بحسب السعة والمدة.",
+        "source": "https://www.airalo.com/czech-republic-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«بي آي دي ليتاتشكا» للبحث عن المسار وشراء التذاكر في براغ (Prague).",
+        "source": "https://pid.cz/en/travel-information/pid-mobile-app/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "من مطار براغ (Prague Airport) خذ حافلة الترولي 59 إلى نادراجي فيليسلافين (Nádraží Veleslavín)، ثم المترو «إيه».",
+        "source": "https://www.prg.aero/en/how-can-i-travel-city-centre",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تتوفر قطارات وحافلات بين المدن. راجع وقت الرحلة من محطة الانطلاق المقصودة.",
+        "source": "https://www.visitczechia.com/en-us/travel-info/transport-in-the-czech-republic",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "الخيارات محدودة نسبياً في براغ (Prague). خطط للمطعم مسبقاً واسأل عن مكونات المرق.",
+        "source": "https://www.travelhalal.com/cities/prague/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "المركز الإسلامي براغ (Islamic Centre Prague).",
+        "source": "https://www.islamweb.cz/english.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "سفيتشكوفا، غولاش، وكنيدليكي. تحقق من مصدر اللحم والمرق.",
+        "source": "https://clevertourists.com/guides/food-czech",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "داخل الكنائس يُفضَّل تغطية الكتفين وتجنب الملابس القصيرة.",
+        "source": "https://fieldsupport.dliflc.edu/products/czech/cx_co/czech.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "انتبه للقيود المحلية على الشرب في الشوارع وعلى الضجيج ليلاً.",
+        "source": "https://www.gov.uk/foreign-travel-advice/czechia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "في وسط براغ (Prague) تفتح متاجر سياحية ساعات أطول من المتاجر الواقعة خارجه.",
+        "source": "https://www.europe-consommateurs.eu/en/topics/shopping/prices/sales/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "انتبه في ترام وسط براغ (Prague) والمواقع السياحية المزدحمة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/czechia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "احذر النشل وراجع سعر الصرف والرسوم قبل تغيير العملة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/czechia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 112.",
+        "source": "https://www.gov.uk/foreign-travel-advice/czechia/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "البلدة القديمة (Staré Město)",
+        "value": "للمعالم والساحات سيراً.",
+        "source": "https://visit-czechia.com/travel-guides/accommodation/where-to-stay-in-prague",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "مالا سترانا (Malá Strana)",
+        "value": "لقرب القلعة والضفة الغربية للنهر.",
+        "source": "https://visit-czechia.com/travel-guides/accommodation/where-to-stay-in-prague",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "فينوهرادي (Vinohrady)",
+        "value": "للحدائق والمقاهي بعيداً عن ساحات الحشود.",
+        "source": "https://visit-czechia.com/travel-guides/accommodation/where-to-stay-in-prague",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "براغ (Prague)",
+        "value": "توزيع مقترح للزيارة: 3 أيام.",
+        "source": "https://uphone.com/travel/7-day-czech-republic-itinerary",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "تشيسكي كروملوف (Český Krumlov)",
+        "value": "توزيع مقترح للزيارة: يوم إلى يومين.",
+        "source": "https://uphone.com/travel/7-day-czech-republic-itinerary",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "برنو (Brno)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://uphone.com/travel/7-day-czech-republic-itinerary",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "ذكرى استعادة الدولة التشيكية ورأس السنة",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "يورد المصرف الوطني هذه المناسبة في تقويم العطلات المصرفية؛ أنجز المعاملة المصرفية قبلها.",
+        "impactSource": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يورد المصرف الوطني هذه المناسبة في تقويم العطلات المصرفية؛ أنجز المعاملة المصرفية قبلها.",
+        "impactSource": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر",
+        "value": "٢٠٢٦-٠٥-٠٨",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-05-08",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديسين كيرلس وميثوديوس",
+        "value": "٢٠٢٦-٠٧-٠٥",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-07-05",
+        "impact": "يورد المصرف الوطني هذه المناسبة في تقويم العطلات المصرفية؛ أنجز المعاملة المصرفية قبلها.",
+        "impactSource": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى إعدام يان هوس",
+        "value": "٢٠٢٦-٠٧-٠٦",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-07-06",
+        "impact": "يورد المصرف الوطني هذه المناسبة في تقويم العطلات المصرفية؛ أنجز المعاملة المصرفية قبلها.",
+        "impactSource": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدولة التشيكية",
+        "value": "٢٠٢٦-٠٩-٢٨",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-09-28",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى تأسيس تشيكوسلوفاكيا المستقلة",
+        "value": "٢٠٢٦-١٠-٢٨",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-10-28",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النضال من أجل الحرية والديمقراطية ويوم الطلاب العالمي",
+        "value": "٢٠٢٦-١١-١٧",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-11-17",
+        "impact": "يورد المصرف الوطني هذه المناسبة في تقويم العطلات المصرفية؛ أنجز المعاملة المصرفية قبلها.",
+        "impactSource": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٤",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "يبدأ حظر البيع في المتاجر الأكبر من ٢٠٠ م² عند الظهر؛ توجد استثناءات للصيدليات ومحطات النقل والوقود.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى استعادة الدولة التشيكية ورأس السنة",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "يورد المصرف الوطني هذه المناسبة في تقويم العطلات المصرفية؛ أنجز المعاملة المصرفية قبلها.",
+        "impactSource": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "يورد المصرف الوطني هذه المناسبة في تقويم العطلات المصرفية؛ أنجز المعاملة المصرفية قبلها.",
+        "impactSource": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر",
+        "value": "٢٠٢٧-٠٥-٠٨",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-05-08",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديسين كيرلس وميثوديوس",
+        "value": "٢٠٢٧-٠٧-٠٥",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-07-05",
+        "impact": "يورد المصرف الوطني هذه المناسبة في تقويم العطلات المصرفية؛ أنجز المعاملة المصرفية قبلها.",
+        "impactSource": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى إعدام يان هوس",
+        "value": "٢٠٢٧-٠٧-٠٦",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-07-06",
+        "impact": "يورد المصرف الوطني هذه المناسبة في تقويم العطلات المصرفية؛ أنجز المعاملة المصرفية قبلها.",
+        "impactSource": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدولة التشيكية",
+        "value": "٢٠٢٧-٠٩-٢٨",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-09-28",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى تأسيس تشيكوسلوفاكيا المستقلة",
+        "value": "٢٠٢٧-١٠-٢٨",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-10-28",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النضال من أجل الحرية والديمقراطية ويوم الطلاب العالمي",
+        "value": "٢٠٢٧-١١-١٧",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-11-17",
+        "impact": "يورد المصرف الوطني هذه المناسبة في تقويم العطلات المصرفية؛ أنجز المعاملة المصرفية قبلها.",
+        "impactSource": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٤",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "يبدأ حظر البيع في المتاجر الأكبر من ٢٠٠ م² عند الظهر؛ توجد استثناءات للصيدليات ومحطات النقل والوقود.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://www.cnb.cz/en/public/media-service/schedules-and-other-info/bank-holidays-in-the-czech-republic/index.html",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تغلق المتاجر الأكبر من ٢٠٠ م². يستثني القانون الصيدليات ومحطات الوقود وبعض متاجر محطات النقل.",
+        "impactSource": "https://e-sbirka.gov.cz/sb/2016/223",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الميلاد المدرسية",
+        "value": "إجازة مدرسية من 2026-12-23 إلى 2027-01-03 شاملة الطرفين.",
+        "source": "https://msmt.gov.cz/uploads/O201/Organizace_skolniho_roku_2026_2027.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-23",
+        "end": "2027-01-03",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تزدحم براغ (Prague) في الصيف، خصوصاً في البلدة القديمة.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-czechia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "الربيع أو سبتمبر وأكتوبر خارج العطل المدرسية.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-czechia",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم براغ الصيفي في يوليو",
+        "value": "يزداد الزحام في معالم براغ (Prague).",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-czechia",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "يزداد الزحام في معالم براغ (Prague).",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم براغ الصيفي في أغسطس",
+        "value": "يزداد الزحام في معالم براغ (Prague).",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-czechia",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "يزداد الزحام في معالم براغ (Prague).",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان ربيع براغ",
+        "value": "براغ (Prague)، مايو ويونيو، حفلات موسيقى كلاسيكية.",
+        "source": "https://festival.cz/en/program-prazskeho-jara-2026-byl-zverejnen/",
+        "checked": "2026-11-27",
+        "month": 5,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

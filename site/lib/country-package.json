@@ -1,0 +1,2119 @@
+[
+  {
+    "iso2": "TR",
+    "name_ar": "تركيا",
+    "name_en": "Türkiye",
+    "updated": "2026-11-24",
+    "static": {
+      "capital": {
+        "value": [
+          "Ankara"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "currencies": {
+        "value": [
+          "TRY (Turkish lira ₺)"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "languages": {
+        "value": [
+          "Turkish"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "calling_code": {
+        "value": "+90",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "region": {
+        "value": "Asia / Western Asia",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "timezones": {
+        "value": [
+          "Europe/Istanbul"
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24"
+      }
+    },
+    "semi_static": {
+      "visa_saudi_passport": {
+        "value": "بدون تأشيرة حتى 90 يوم",
+        "source": "passport-index-dataset على GitHub (ilyankou)",
+        "checked": "2026-11-24",
+        "code": "visa_free",
+        "days": 90,
+        "raw": "90",
+        "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+        "official": null
+      },
+      "public_holidays": {
+        "value": [
+          {
+            "date": "2026-01-01",
+            "name": "Yılbaşı"
+          },
+          {
+            "date": "2026-03-20",
+            "name": "Ramazan Bayramı"
+          },
+          {
+            "date": "2026-04-23",
+            "name": "Ulusal Egemenlik ve Çocuk Bayramı"
+          },
+          {
+            "date": "2026-05-01",
+            "name": "Emek ve Dayanışma Günü"
+          },
+          {
+            "date": "2026-05-19",
+            "name": "Atatürk'ü Anma Gençlik ve Spor Bayramı"
+          },
+          {
+            "date": "2026-05-27",
+            "name": "Kurban Bayramı"
+          },
+          {
+            "date": "2026-07-15",
+            "name": "Demokrasi ve Millî Birlik Günü"
+          },
+          {
+            "date": "2026-08-30",
+            "name": "Zafer Bayramı"
+          },
+          {
+            "date": "2026-10-29",
+            "name": "Cumhuriyet Bayramı"
+          },
+          {
+            "date": "2027-01-01",
+            "name": "Yılbaşı"
+          },
+          {
+            "date": "2027-03-09",
+            "name": "Ramazan Bayramı"
+          },
+          {
+            "date": "2027-04-23",
+            "name": "Ulusal Egemenlik ve Çocuk Bayramı"
+          },
+          {
+            "date": "2027-05-01",
+            "name": "Emek ve Dayanışma Günü"
+          },
+          {
+            "date": "2027-05-16",
+            "name": "Kurban Bayramı"
+          },
+          {
+            "date": "2027-05-19",
+            "name": "Atatürk'ü Anma Gençlik ve Spor Bayramı"
+          },
+          {
+            "date": "2027-07-15",
+            "name": "Demokrasi ve Millî Birlik Günü"
+          },
+          {
+            "date": "2027-08-30",
+            "name": "Zafer Bayramı"
+          },
+          {
+            "date": "2027-10-29",
+            "name": "Cumhuriyet Bayramı"
+          }
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24",
+        "note": "الإجازات الإسلامية تقريبية وتعتمد على رؤية الهلال"
+      }
+    },
+    "manual": [
+      {
+        "topic": "المساج",
+        "value": "حمام كيليتش علي باشا في كاراكوي: المساج يوصل إلى 5,500 ليرة",
+        "source": "kilicalipasahamami.com",
+        "checked": "2026-11-23",
+        "status": "مفحوص"
+      }
+    ]
+  },
+  {
+    "iso2": "GE",
+    "name_ar": "جورجيا",
+    "name_en": "Georgia",
+    "updated": "2026-11-24",
+    "static": {
+      "capital": {
+        "value": [
+          "Tbilisi"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "currencies": {
+        "value": [
+          "GEL (lari ₾)"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "languages": {
+        "value": [
+          "Georgian"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "calling_code": {
+        "value": "+995",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "region": {
+        "value": "Asia / Western Asia",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "timezones": {
+        "value": [
+          "Asia/Tbilisi"
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24"
+      }
+    },
+    "semi_static": {
+      "visa_saudi_passport": {
+        "value": "بدون تأشيرة حتى 360 يوم",
+        "source": "passport-index-dataset على GitHub (ilyankou)",
+        "checked": "2026-11-24",
+        "code": "visa_free",
+        "days": 360,
+        "raw": "360",
+        "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+        "official": null
+      },
+      "public_holidays": {
+        "value": [
+          {
+            "date": "2026-01-01",
+            "name": "ახალი წელი"
+          },
+          {
+            "date": "2026-01-02",
+            "name": "ბედობა"
+          },
+          {
+            "date": "2026-01-07",
+            "name": "შობა"
+          },
+          {
+            "date": "2026-01-19",
+            "name": "ნათლისღება"
+          },
+          {
+            "date": "2026-03-03",
+            "name": "დედის დღე"
+          },
+          {
+            "date": "2026-03-08",
+            "name": "ქალთა საერთაშორისო დღე"
+          },
+          {
+            "date": "2026-04-09",
+            "name": "ეროვნული ერთიანობის დღე"
+          },
+          {
+            "date": "2026-04-10",
+            "name": "წითელი პარასკევი"
+          },
+          {
+            "date": "2026-04-11",
+            "name": "დიდი შაბათი"
+          },
+          {
+            "date": "2026-04-12",
+            "name": "აღდგომა"
+          },
+          {
+            "date": "2026-04-13",
+            "name": "აღდგომის ორშაბათი"
+          },
+          {
+            "date": "2026-05-09",
+            "name": "ფაშიზმზე გამარჯვების დღე"
+          },
+          {
+            "date": "2026-05-12",
+            "name": "წმინდა ანდრია პირველწოდებულის ხსენების დღე"
+          },
+          {
+            "date": "2026-05-26",
+            "name": "დამოუკიდებლობის დღე"
+          },
+          {
+            "date": "2026-08-28",
+            "name": "მარიამობა"
+          },
+          {
+            "date": "2026-10-14",
+            "name": "სვეტიცხოვლობა"
+          },
+          {
+            "date": "2026-11-23",
+            "name": "გიორგობა"
+          },
+          {
+            "date": "2027-01-01",
+            "name": "ახალი წელი"
+          },
+          {
+            "date": "2027-01-02",
+            "name": "ბედობა"
+          },
+          {
+            "date": "2027-01-07",
+            "name": "შობა"
+          },
+          {
+            "date": "2027-01-19",
+            "name": "ნათლისღება"
+          },
+          {
+            "date": "2027-03-03",
+            "name": "დედის დღე"
+          },
+          {
+            "date": "2027-03-08",
+            "name": "ქალთა საერთაშორისო დღე"
+          },
+          {
+            "date": "2027-04-09",
+            "name": "ეროვნული ერთიანობის დღე"
+          },
+          {
+            "date": "2027-04-30",
+            "name": "წითელი პარასკევი"
+          },
+          {
+            "date": "2027-05-01",
+            "name": "დიდი შაბათი"
+          },
+          {
+            "date": "2027-05-02",
+            "name": "აღდგომა"
+          },
+          {
+            "date": "2027-05-03",
+            "name": "აღდგომის ორშაბათი"
+          },
+          {
+            "date": "2027-05-09",
+            "name": "ფაშიზმზე გამარჯვების დღე"
+          },
+          {
+            "date": "2027-05-12",
+            "name": "წმინდა ანდრია პირველწოდებულის ხსენების დღე"
+          },
+          {
+            "date": "2027-05-26",
+            "name": "დამოუკიდებლობის დღე"
+          },
+          {
+            "date": "2027-08-28",
+            "name": "მარიამობა"
+          },
+          {
+            "date": "2027-10-14",
+            "name": "სვეტიცხოვლობა"
+          },
+          {
+            "date": "2027-11-23",
+            "name": "გიორგობა"
+          }
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24",
+        "note": "الإجازات الإسلامية تقريبية وتعتمد على رؤية الهلال"
+      }
+    },
+    "manual": [
+      {
+        "topic": "التأمين",
+        "value": "مصدر واحد يقول إن تأمين السفر إلزامي لدخول جورجيا من 2026",
+        "source": "sakhva-travel.com",
+        "checked": "2026-11-23",
+        "status": "يحتاج تحقق من مصدر رسمي"
+      },
+      {
+        "topic": "المساج",
+        "value": "حمامات الكبريت في أبانوتوباني: غرفة خاصة 40–80 لاري للساعة، والفاخرة مع مساج 120–200",
+        "source": "sakhva-travel.com (أسعار أبريل 2026)",
+        "checked": "2026-11-23",
+        "status": "مفحوص"
+      }
+    ]
+  },
+  {
+    "iso2": "IN",
+    "name_ar": "الهند",
+    "name_en": "India",
+    "updated": "2026-11-24",
+    "static": {
+      "capital": {
+        "value": [
+          "New Delhi"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "currencies": {
+        "value": [
+          "INR (Indian rupee ₹)"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "languages": {
+        "value": [
+          "English",
+          "Hindi",
+          "Tamil"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "calling_code": {
+        "value": "+91",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "region": {
+        "value": "Asia / Southern Asia",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "timezones": {
+        "value": [
+          "Asia/Kolkata"
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24"
+      }
+    },
+    "semi_static": {
+      "visa_saudi_passport": {
+        "value": "تأشيرة إلكترونية قبل السفر",
+        "source": "passport-index-dataset على GitHub (ilyankou)",
+        "checked": "2026-11-24",
+        "code": "e_visa",
+        "days": null,
+        "raw": "e-visa",
+        "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+        "official": "https://indianvisaonline.gov.in/evisa/tvoa.html"
+      },
+      "public_holidays": {
+        "value": [
+          {
+            "date": "2026-01-26",
+            "name": "Republic Day"
+          },
+          {
+            "date": "2026-04-03",
+            "name": "Good Friday"
+          },
+          {
+            "date": "2026-04-14",
+            "name": "Ambedkar Jayanti"
+          },
+          {
+            "date": "2026-08-15",
+            "name": "Independence Day"
+          },
+          {
+            "date": "2026-10-02",
+            "name": "Gandhi Jayanti"
+          },
+          {
+            "date": "2026-12-25",
+            "name": "Christmas Day"
+          },
+          {
+            "date": "2027-01-26",
+            "name": "Republic Day"
+          },
+          {
+            "date": "2027-03-26",
+            "name": "Good Friday"
+          },
+          {
+            "date": "2027-04-14",
+            "name": "Ambedkar Jayanti"
+          },
+          {
+            "date": "2027-08-15",
+            "name": "Independence Day"
+          },
+          {
+            "date": "2027-10-02",
+            "name": "Gandhi Jayanti"
+          },
+          {
+            "date": "2027-12-25",
+            "name": "Christmas Day"
+          }
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24",
+        "note": "الإجازات الإسلامية تقريبية وتعتمد على رؤية الهلال"
+      }
+    },
+    "manual": [
+      {
+        "topic": "التأشيرة",
+        "value": "تأشيرة سياحية إلكترونية 30 يوم بـ 25 دولار + رسوم بنكية، وتقدّم قبل 4 أيام على الأقل",
+        "source": "visa-requirements.io و Arab News",
+        "checked": "2026-11-23",
+        "status": "مفحوص"
+      },
+      {
+        "topic": "السلامة",
+        "value": "بحر فاركالا فيه موجات مفاجئة وتيارات سحب قوية",
+        "source": "Tripadvisor",
+        "checked": "2026-11-23",
+        "status": "مفحوص"
+      },
+      {
+        "topic": "فعاليات",
+        "value": "مهرجان Serendipity للفنون في بنجيم، غوا: 13–20 ديسمبر 2026، دخول مجاني",
+        "source": "caleidoscope.in و abirpothi.com",
+        "checked": "2026-11-23",
+        "status": "مفحوص"
+      }
+    ]
+  },
+  {
+    "iso2": "AZ",
+    "name_ar": "أذربيجان",
+    "name_en": "Azerbaijan",
+    "updated": "2026-11-24",
+    "static": {
+      "capital": {
+        "value": [
+          "Baku"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "currencies": {
+        "value": [
+          "AZN (Azerbaijani manat ₼)"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "languages": {
+        "value": [
+          "Azerbaijani",
+          "Russian"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "calling_code": {
+        "value": "+994",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "region": {
+        "value": "Asia / Western Asia",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "timezones": {
+        "value": [
+          "Asia/Baku"
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24"
+      }
+    },
+    "semi_static": {
+      "visa_saudi_passport": {
+        "value": "تأشيرة عند الوصول",
+        "source": "passport-index-dataset على GitHub (ilyankou)",
+        "checked": "2026-11-24",
+        "code": "on_arrival",
+        "days": null,
+        "raw": "visa on arrival",
+        "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+        "official": null
+      },
+      "public_holidays": {
+        "value": [
+          {
+            "date": "2026-01-01",
+            "name": "Yeni il"
+          },
+          {
+            "date": "2026-01-02",
+            "name": "Yeni il"
+          },
+          {
+            "date": "2026-03-08",
+            "name": "Qadınlar günü"
+          },
+          {
+            "date": "2026-03-09",
+            "name": "Qadınlar günü (əvəz gün)"
+          },
+          {
+            "date": "2026-03-20",
+            "name": "Ramazan Bayramı"
+          },
+          {
+            "date": "2026-03-20",
+            "name": "Novruz"
+          },
+          {
+            "date": "2026-03-21",
+            "name": "Ramazan Bayramı"
+          },
+          {
+            "date": "2026-03-23",
+            "name": "Ramazan Bayramı (əvəz gün)"
+          },
+          {
+            "date": "2026-05-09",
+            "name": "Faşizm üzərində qələbə günü"
+          },
+          {
+            "date": "2026-05-11",
+            "name": "Faşizm üzərində qələbə günü (əvəz gün)"
+          },
+          {
+            "date": "2026-05-27",
+            "name": "Qurban Bayramı"
+          },
+          {
+            "date": "2026-05-28",
+            "name": "Qurban Bayramı"
+          },
+          {
+            "date": "2026-05-28",
+            "name": "Respublika günü"
+          },
+          {
+            "date": "2026-06-15",
+            "name": "Azərbaycan xalqının Milli Qurtuluş günü"
+          },
+          {
+            "date": "2026-06-26",
+            "name": "Azərbaycan Respublikasının Silahlı Qüvvələri günü"
+          },
+          {
+            "date": "2026-10-18",
+            "name": "Dövlət Müstəqilliyi günü"
+          },
+          {
+            "date": "2026-10-19",
+            "name": "Dövlət Müstəqilliyi günü (əvəz gün)"
+          },
+          {
+            "date": "2026-11-09",
+            "name": "Dövlət Bayrağı günü"
+          },
+          {
+            "date": "2026-11-12",
+            "name": "Konstitusiya günü"
+          },
+          {
+            "date": "2026-11-17",
+            "name": "Milli Dirçəliş günü"
+          },
+          {
+            "date": "2026-12-31",
+            "name": "Dünya azərbaycanlıların həmrəyliyi günü"
+          },
+          {
+            "date": "2027-01-01",
+            "name": "Yeni il"
+          },
+          {
+            "date": "2027-01-02",
+            "name": "Yeni il"
+          },
+          {
+            "date": "2027-01-04",
+            "name": "Yeni il (əvəz gün)"
+          },
+          {
+            "date": "2027-03-08",
+            "name": "Qadınlar günü"
+          },
+          {
+            "date": "2027-03-09",
+            "name": "Ramazan Bayramı"
+          },
+          {
+            "date": "2027-03-10",
+            "name": "Ramazan Bayramı"
+          },
+          {
+            "date": "2027-03-20",
+            "name": "Novruz"
+          },
+          {
+            "date": "2027-05-09",
+            "name": "Faşizm üzərində qələbə günü"
+          },
+          {
+            "date": "2027-05-10",
+            "name": "Faşizm üzərində qələbə günü (əvəz gün)"
+          },
+          {
+            "date": "2027-05-16",
+            "name": "Qurban Bayramı"
+          },
+          {
+            "date": "2027-05-17",
+            "name": "Qurban Bayramı"
+          },
+          {
+            "date": "2027-05-18",
+            "name": "Qurban Bayramı (əvəz gün)"
+          },
+          {
+            "date": "2027-05-28",
+            "name": "Respublika günü"
+          },
+          {
+            "date": "2027-06-15",
+            "name": "Azərbaycan xalqının Milli Qurtuluş günü"
+          },
+          {
+            "date": "2027-06-26",
+            "name": "Azərbaycan Respublikasının Silahlı Qüvvələri günü"
+          },
+          {
+            "date": "2027-06-28",
+            "name": "Azərbaycan Respublikasının Silahlı Qüvvələri günü (əvəz gün)"
+          },
+          {
+            "date": "2027-10-18",
+            "name": "Dövlət Müstəqilliyi günü"
+          },
+          {
+            "date": "2027-11-09",
+            "name": "Dövlət Bayrağı günü"
+          },
+          {
+            "date": "2027-11-12",
+            "name": "Konstitusiya günü"
+          },
+          {
+            "date": "2027-11-17",
+            "name": "Milli Dirçəliş günü"
+          },
+          {
+            "date": "2027-12-31",
+            "name": "Dünya azərbaycanlıların həmrəyliyi günü"
+          }
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24",
+        "note": "الإجازات الإسلامية تقريبية وتعتمد على رؤية الهلال"
+      }
+    },
+    "manual": []
+  },
+  {
+    "iso2": "BA",
+    "name_ar": "البوسنة والهرسك",
+    "name_en": "Bosnia and Herzegovina",
+    "updated": "2026-11-24",
+    "static": {
+      "capital": {
+        "value": [
+          "Sarajevo"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "currencies": {
+        "value": [
+          "BAM (Bosnia and Herzegovina convertible mark KM)"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "languages": {
+        "value": [
+          "Bosnian",
+          "Croatian",
+          "Serbian"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "calling_code": {
+        "value": "+387",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "region": {
+        "value": "Europe / Southeast Europe",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "timezones": {
+        "value": [
+          "Europe/Belgrade"
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24"
+      }
+    },
+    "semi_static": {
+      "visa_saudi_passport": {
+        "value": "تأشيرة مسبقة من السفارة",
+        "source": "passport-index-dataset على GitHub (ilyankou)",
+        "checked": "2026-11-24",
+        "code": "required",
+        "days": null,
+        "raw": "visa required",
+        "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+        "official": "https://www.fipa.gov.ba/informacije/raditi_zivjeti_bih/vize/?id=98"
+      },
+      "public_holidays": {
+        "value": [
+          {
+            "date": "2026-01-01",
+            "name": "Novogodisnji dan"
+          },
+          {
+            "date": "2026-01-02",
+            "name": "Drugi dan Nove Godine"
+          },
+          {
+            "date": "2026-01-06",
+            "name": "Bogojavljenje ili Sveta tri kralja"
+          },
+          {
+            "date": "2026-01-07",
+            "name": "Pravoslavni Božić"
+          },
+          {
+            "date": "2026-01-14",
+            "name": "Pravoslavni novogodišnji dan"
+          },
+          {
+            "date": "2026-03-20",
+            "name": "Ramazanski bajram"
+          },
+          {
+            "date": "2026-04-05",
+            "name": "Vaskrs"
+          },
+          {
+            "date": "2026-04-06",
+            "name": "Uskrsni ponedjeljak"
+          },
+          {
+            "date": "2026-04-12",
+            "name": "Pravoslavni Vaskrs"
+          },
+          {
+            "date": "2026-05-01",
+            "name": "Radni dan"
+          },
+          {
+            "date": "2026-05-02",
+            "name": "Drugi dan Dana rada"
+          },
+          {
+            "date": "2026-05-27",
+            "name": "Kurbanski bajram"
+          },
+          {
+            "date": "2026-06-04",
+            "name": "Tijelovo"
+          },
+          {
+            "date": "2026-06-16",
+            "name": "Nova hidžretska godina"
+          },
+          {
+            "date": "2026-08-15",
+            "name": "Velika Gospa"
+          },
+          {
+            "date": "2026-08-25",
+            "name": "Mevlud"
+          },
+          {
+            "date": "2026-08-28",
+            "name": "Velika Gospa"
+          },
+          {
+            "date": "2026-11-01",
+            "name": "Dita e të gjithë Shenjtorëve"
+          },
+          {
+            "date": "2026-11-02",
+            "name": "Dušni dan"
+          },
+          {
+            "date": "2026-12-25",
+            "name": "Božić"
+          },
+          {
+            "date": "2026-12-26",
+            "name": "Sveti Stjepan"
+          },
+          {
+            "date": "2027-01-01",
+            "name": "Novogodisnji dan"
+          },
+          {
+            "date": "2027-01-02",
+            "name": "Drugi dan Nove Godine"
+          },
+          {
+            "date": "2027-01-06",
+            "name": "Bogojavljenje ili Sveta tri kralja"
+          },
+          {
+            "date": "2027-01-07",
+            "name": "Pravoslavni Božić"
+          },
+          {
+            "date": "2027-01-14",
+            "name": "Pravoslavni novogodišnji dan"
+          },
+          {
+            "date": "2027-03-09",
+            "name": "Ramazanski bajram"
+          },
+          {
+            "date": "2027-03-28",
+            "name": "Vaskrs"
+          },
+          {
+            "date": "2027-03-29",
+            "name": "Uskrsni ponedjeljak"
+          },
+          {
+            "date": "2027-05-01",
+            "name": "Radni dan"
+          },
+          {
+            "date": "2027-05-02",
+            "name": "Pravoslavni Vaskrs"
+          },
+          {
+            "date": "2027-05-02",
+            "name": "Drugi dan Dana rada"
+          },
+          {
+            "date": "2027-05-03",
+            "name": "Drugi dan Dana rada (zamjena dan)"
+          },
+          {
+            "date": "2027-05-16",
+            "name": "Kurbanski bajram"
+          },
+          {
+            "date": "2027-05-27",
+            "name": "Tijelovo"
+          },
+          {
+            "date": "2027-06-06",
+            "name": "Nova hidžretska godina"
+          },
+          {
+            "date": "2027-08-14",
+            "name": "Mevlud"
+          },
+          {
+            "date": "2027-08-15",
+            "name": "Velika Gospa"
+          },
+          {
+            "date": "2027-08-28",
+            "name": "Velika Gospa"
+          },
+          {
+            "date": "2027-11-01",
+            "name": "Dita e të gjithë Shenjtorëve"
+          },
+          {
+            "date": "2027-11-02",
+            "name": "Dušni dan"
+          },
+          {
+            "date": "2027-12-25",
+            "name": "Božić"
+          },
+          {
+            "date": "2027-12-26",
+            "name": "Sveti Stjepan"
+          }
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24",
+        "note": "الإجازات الإسلامية تقريبية وتعتمد على رؤية الهلال"
+      }
+    },
+    "manual": [
+      {
+        "topic": "التأشيرة",
+        "value": "إعفاء صيفي للسعوديين (من 1 يونيو إلى 30 سبتمبر تقريبًا)، وأقصى إقامة 30 يوم. خارج الموسم التأشيرة مطلوبة، إلا لحاملي تأشيرة شنغن سارية",
+        "source": "fipa.gov.ba (رسمي)، Wego أبريل 2026، Argaam",
+        "checked": "2026-11-24",
+        "status": "مفحوص، والإعفاء يتجدد كل سنة بقرار"
+      }
+    ]
+  },
+  {
+    "iso2": "MY",
+    "name_ar": "ماليزيا",
+    "name_en": "Malaysia",
+    "updated": "2026-11-24",
+    "static": {
+      "capital": {
+        "value": [
+          "Kuala Lumpur"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "currencies": {
+        "value": [
+          "MYR (Malaysian ringgit RM)"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "languages": {
+        "value": [
+          "English",
+          "Malay"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "calling_code": {
+        "value": "+60",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "region": {
+        "value": "Asia / South-Eastern Asia",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "timezones": {
+        "value": [
+          "Asia/Kuala_Lumpur",
+          "Asia/Kuching"
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24"
+      }
+    },
+    "semi_static": {
+      "visa_saudi_passport": {
+        "value": "بدون تأشيرة حتى 90 يوم",
+        "source": "passport-index-dataset على GitHub (ilyankou)",
+        "checked": "2026-11-24",
+        "code": "visa_free",
+        "days": 90,
+        "raw": "90",
+        "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+        "official": null
+      },
+      "public_holidays": {
+        "value": [
+          {
+            "date": "2026-01-01",
+            "name": "Hari Tahun Baru"
+          },
+          {
+            "date": "2026-02-17",
+            "name": "Tahun Baru Cina"
+          },
+          {
+            "date": "2026-02-18",
+            "name": "Tahun Baru Cina"
+          },
+          {
+            "date": "2026-03-07",
+            "name": "Hari Nuzul Al-Quran"
+          },
+          {
+            "date": "2026-03-21",
+            "name": "Hari Raya Aidil Fitri"
+          },
+          {
+            "date": "2026-03-22",
+            "name": "Hari Raya Aidil Fitri"
+          },
+          {
+            "date": "2026-05-01",
+            "name": "Hari Pekerja"
+          },
+          {
+            "date": "2026-05-27",
+            "name": "Hari Raya Haji"
+          },
+          {
+            "date": "2026-05-31",
+            "name": "Vesak Day"
+          },
+          {
+            "date": "2026-06-01",
+            "name": "Hari Keputeraan Yang di-Pertuan Agong"
+          },
+          {
+            "date": "2026-06-17",
+            "name": "Awal Muharram"
+          },
+          {
+            "date": "2026-08-25",
+            "name": "Hari Keputeraan Nabi Muhammad S.A.W."
+          },
+          {
+            "date": "2026-08-31",
+            "name": "Hari Kebangsaan"
+          },
+          {
+            "date": "2026-09-16",
+            "name": "Hari Malaysia"
+          },
+          {
+            "date": "2026-11-08",
+            "name": "Deepavali"
+          },
+          {
+            "date": "2026-11-09",
+            "name": "Deepavali"
+          },
+          {
+            "date": "2026-12-25",
+            "name": "Hari Krismas"
+          },
+          {
+            "date": "2027-01-01",
+            "name": "Hari Tahun Baru"
+          },
+          {
+            "date": "2027-02-06",
+            "name": "Tahun Baru Cina"
+          },
+          {
+            "date": "2027-02-07",
+            "name": "Tahun Baru Cina"
+          },
+          {
+            "date": "2027-02-08",
+            "name": "Tahun Baru Cina (substitute day)"
+          },
+          {
+            "date": "2027-02-24",
+            "name": "Hari Nuzul Al-Quran"
+          },
+          {
+            "date": "2027-03-09",
+            "name": "Hari Raya Aidil Fitri"
+          },
+          {
+            "date": "2027-03-10",
+            "name": "Hari Raya Aidil Fitri"
+          },
+          {
+            "date": "2027-05-01",
+            "name": "Hari Pekerja"
+          },
+          {
+            "date": "2027-05-16",
+            "name": "Hari Raya Haji"
+          },
+          {
+            "date": "2027-06-06",
+            "name": "Awal Muharram"
+          },
+          {
+            "date": "2027-06-07",
+            "name": "Hari Keputeraan Yang di-Pertuan Agong"
+          },
+          {
+            "date": "2027-08-14",
+            "name": "Hari Keputeraan Nabi Muhammad S.A.W."
+          },
+          {
+            "date": "2027-08-31",
+            "name": "Hari Kebangsaan"
+          },
+          {
+            "date": "2027-09-16",
+            "name": "Hari Malaysia"
+          },
+          {
+            "date": "2027-10-28",
+            "name": "Deepavali"
+          },
+          {
+            "date": "2027-12-25",
+            "name": "Hari Krismas"
+          }
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24",
+        "note": "الإجازات الإسلامية تقريبية وتعتمد على رؤية الهلال"
+      }
+    },
+    "manual": []
+  },
+  {
+    "iso2": "ME",
+    "name_ar": "الجبل الاسود",
+    "name_en": "Montenegro",
+    "updated": "2026-11-24",
+    "static": {
+      "capital": {
+        "value": [
+          "Podgorica"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "currencies": {
+        "value": [
+          "EUR (Euro €)"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "languages": {
+        "value": [
+          "Montenegrin"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "calling_code": {
+        "value": "+382",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "region": {
+        "value": "Europe / Southeast Europe",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "timezones": {
+        "value": [
+          "Europe/Belgrade"
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24"
+      }
+    },
+    "semi_static": {
+      "visa_saudi_passport": {
+        "value": "تأشيرة مسبقة من السفارة",
+        "source": "passport-index-dataset على GitHub (ilyankou)",
+        "checked": "2026-11-24",
+        "code": "required",
+        "days": null,
+        "raw": "visa required",
+        "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+        "official": null
+      },
+      "public_holidays": {
+        "value": [
+          {
+            "date": "2026-01-01",
+            "name": "Nova godina"
+          },
+          {
+            "date": "2026-01-02",
+            "name": "Nova godina"
+          },
+          {
+            "date": "2026-01-06",
+            "name": "Badnji dan"
+          },
+          {
+            "date": "2026-01-07",
+            "name": "Božić"
+          },
+          {
+            "date": "2026-01-08",
+            "name": "Sveti Stjepan"
+          },
+          {
+            "date": "2026-03-20",
+            "name": "Ramazanski bajram"
+          },
+          {
+            "date": "2026-04-02",
+            "name": "Pesač"
+          },
+          {
+            "date": "2026-04-03",
+            "name": "Veliki petak"
+          },
+          {
+            "date": "2026-04-05",
+            "name": "Uskrs"
+          },
+          {
+            "date": "2026-04-06",
+            "name": "Uskrs"
+          },
+          {
+            "date": "2026-04-10",
+            "name": "Veliki petak"
+          },
+          {
+            "date": "2026-04-12",
+            "name": "Uskrs"
+          },
+          {
+            "date": "2026-05-01",
+            "name": "Praznik rada"
+          },
+          {
+            "date": "2026-05-02",
+            "name": "Praznik rada"
+          },
+          {
+            "date": "2026-05-21",
+            "name": "Dan neovisnosti"
+          },
+          {
+            "date": "2026-05-22",
+            "name": "Dan neovisnosti"
+          },
+          {
+            "date": "2026-05-27",
+            "name": "Kurban-bajram"
+          },
+          {
+            "date": "2026-07-13",
+            "name": "Dan državnosti"
+          },
+          {
+            "date": "2026-07-14",
+            "name": "Dan državnosti"
+          },
+          {
+            "date": "2026-09-21",
+            "name": "Jom Kipur"
+          },
+          {
+            "date": "2026-11-01",
+            "name": "Svi sveti"
+          },
+          {
+            "date": "2026-12-24",
+            "name": "Badnji dan"
+          },
+          {
+            "date": "2026-12-25",
+            "name": "Božić"
+          },
+          {
+            "date": "2026-12-26",
+            "name": "Božić"
+          },
+          {
+            "date": "2027-01-01",
+            "name": "Nova godina"
+          },
+          {
+            "date": "2027-01-02",
+            "name": "Nova godina"
+          },
+          {
+            "date": "2027-01-06",
+            "name": "Badnji dan"
+          },
+          {
+            "date": "2027-01-07",
+            "name": "Božić"
+          },
+          {
+            "date": "2027-01-08",
+            "name": "Sveti Stjepan"
+          },
+          {
+            "date": "2027-03-09",
+            "name": "Ramazanski bajram"
+          },
+          {
+            "date": "2027-03-26",
+            "name": "Veliki petak"
+          },
+          {
+            "date": "2027-03-28",
+            "name": "Uskrs"
+          },
+          {
+            "date": "2027-03-29",
+            "name": "Uskrs"
+          },
+          {
+            "date": "2027-04-22",
+            "name": "Pesač"
+          },
+          {
+            "date": "2027-04-30",
+            "name": "Veliki petak"
+          },
+          {
+            "date": "2027-05-01",
+            "name": "Praznik rada"
+          },
+          {
+            "date": "2027-05-02",
+            "name": "Uskrs"
+          },
+          {
+            "date": "2027-05-02",
+            "name": "Praznik rada"
+          },
+          {
+            "date": "2027-05-03",
+            "name": "Praznik rada (zamjena dan)"
+          },
+          {
+            "date": "2027-05-16",
+            "name": "Kurban-bajram"
+          },
+          {
+            "date": "2027-05-21",
+            "name": "Dan neovisnosti"
+          },
+          {
+            "date": "2027-05-22",
+            "name": "Dan neovisnosti"
+          },
+          {
+            "date": "2027-07-13",
+            "name": "Dan državnosti"
+          },
+          {
+            "date": "2027-07-14",
+            "name": "Dan državnosti"
+          },
+          {
+            "date": "2027-10-11",
+            "name": "Jom Kipur"
+          },
+          {
+            "date": "2027-11-01",
+            "name": "Svi sveti"
+          },
+          {
+            "date": "2027-12-24",
+            "name": "Badnji dan"
+          },
+          {
+            "date": "2027-12-25",
+            "name": "Božić"
+          },
+          {
+            "date": "2027-12-26",
+            "name": "Božić"
+          }
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24",
+        "note": "الإجازات الإسلامية تقريبية وتعتمد على رؤية الهلال"
+      }
+    },
+    "manual": [
+      {
+        "topic": "الطيران",
+        "value": "سائح تيوب ذكر رحلة طيران ناس مباشرة من الرياض بـ 4 ساعات",
+        "source": "ثريد سائح تيوب (rattibha)",
+        "checked": "2026-11-24",
+        "status": "يحتاج تحقق: الخط موسمي؟"
+      },
+      {
+        "topic": "التأشيرة",
+        "value": "البيانات المفتوحة تقول تأشيرة مسبقة. ما تحققت من وجود إعفاء موسمي أو لحاملي شنغن",
+        "source": "passport-index-dataset",
+        "checked": "2026-11-24",
+        "status": "يحتاج تحقق من مصدر رسمي"
+      }
+    ]
+  },
+  {
+    "iso2": "TH",
+    "name_ar": "تايلند",
+    "name_en": "Thailand",
+    "updated": "2026-11-24",
+    "static": {
+      "capital": {
+        "value": [
+          "Bangkok"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "currencies": {
+        "value": [
+          "THB (Thai baht ฿)"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "languages": {
+        "value": [
+          "Thai"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "calling_code": {
+        "value": "+66",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "region": {
+        "value": "Asia / South-Eastern Asia",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "timezones": {
+        "value": [
+          "Asia/Bangkok"
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24"
+      }
+    },
+    "semi_static": {
+      "visa_saudi_passport": {
+        "value": "بدون تأشيرة حتى 60 يوم",
+        "source": "passport-index-dataset على GitHub (ilyankou)",
+        "checked": "2026-11-24",
+        "code": "visa_free",
+        "days": 60,
+        "raw": "60",
+        "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+        "official": null
+      },
+      "public_holidays": {
+        "value": [
+          {
+            "date": "2026-01-01",
+            "name": "New Year’s Day"
+          },
+          {
+            "date": "2026-03-03",
+            "name": "Makha Bucha"
+          },
+          {
+            "date": "2026-04-06",
+            "name": "Chakri Memorial Day"
+          },
+          {
+            "date": "2026-04-13",
+            "name": "Songkran Festival"
+          },
+          {
+            "date": "2026-04-14",
+            "name": "Songkran Festival"
+          },
+          {
+            "date": "2026-04-15",
+            "name": "Songkran Festival"
+          },
+          {
+            "date": "2026-05-04",
+            "name": "Coronation Day"
+          },
+          {
+            "date": "2026-05-31",
+            "name": "Vesak Day"
+          },
+          {
+            "date": "2026-06-03",
+            "name": "Queen Suthida’s Birthday"
+          },
+          {
+            "date": "2026-07-28",
+            "name": "King’s Birthday"
+          },
+          {
+            "date": "2026-07-29",
+            "name": "Asalha Puja"
+          },
+          {
+            "date": "2026-07-30",
+            "name": "Buddhist Lent"
+          },
+          {
+            "date": "2026-08-12",
+            "name": "The Queen Mother’s Birthday"
+          },
+          {
+            "date": "2026-10-13",
+            "name": "King Bhumibol Adulyadej Memorial Day"
+          },
+          {
+            "date": "2026-10-23",
+            "name": "King Chulalongkorn Day"
+          },
+          {
+            "date": "2026-12-05",
+            "name": "King Bhumibol Adulyadej’s Birthday"
+          },
+          {
+            "date": "2026-12-10",
+            "name": "Constitution Day"
+          },
+          {
+            "date": "2026-12-31",
+            "name": "New Year’s Eve"
+          },
+          {
+            "date": "2027-01-01",
+            "name": "New Year’s Day"
+          },
+          {
+            "date": "2027-04-06",
+            "name": "Chakri Memorial Day"
+          },
+          {
+            "date": "2027-04-13",
+            "name": "Songkran Festival"
+          },
+          {
+            "date": "2027-04-14",
+            "name": "Songkran Festival"
+          },
+          {
+            "date": "2027-04-15",
+            "name": "Songkran Festival"
+          },
+          {
+            "date": "2027-05-04",
+            "name": "Coronation Day"
+          },
+          {
+            "date": "2027-06-03",
+            "name": "Queen Suthida’s Birthday"
+          },
+          {
+            "date": "2027-07-28",
+            "name": "King’s Birthday"
+          },
+          {
+            "date": "2027-08-12",
+            "name": "The Queen Mother’s Birthday"
+          },
+          {
+            "date": "2027-10-13",
+            "name": "King Bhumibol Adulyadej Memorial Day"
+          },
+          {
+            "date": "2027-10-23",
+            "name": "King Chulalongkorn Day"
+          },
+          {
+            "date": "2027-12-05",
+            "name": "King Bhumibol Adulyadej’s Birthday"
+          },
+          {
+            "date": "2027-12-10",
+            "name": "Constitution Day"
+          },
+          {
+            "date": "2027-12-31",
+            "name": "New Year’s Eve"
+          }
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24",
+        "note": "الإجازات الإسلامية تقريبية وتعتمد على رؤية الهلال"
+      }
+    },
+    "manual": []
+  },
+  {
+    "iso2": "LK",
+    "name_ar": "سريلانكا",
+    "name_en": "Sri Lanka",
+    "updated": "2026-11-24",
+    "static": {
+      "capital": {
+        "value": [
+          "Colombo"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "currencies": {
+        "value": [
+          "LKR (Sri Lankan rupee Rs  රු)"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "languages": {
+        "value": [
+          "Sinhala",
+          "Tamil"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "calling_code": {
+        "value": "+94",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "region": {
+        "value": "Asia / Southern Asia",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "timezones": {
+        "value": [
+          "Asia/Colombo"
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24"
+      }
+    },
+    "semi_static": {
+      "visa_saudi_passport": {
+        "value": "تأشيرة عند الوصول",
+        "source": "passport-index-dataset على GitHub (ilyankou)",
+        "checked": "2026-11-24",
+        "code": "on_arrival",
+        "days": null,
+        "raw": "visa on arrival",
+        "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+        "official": null
+      },
+      "public_holidays": {
+        "value": [
+          {
+            "date": "2026-01-01",
+            "name": "නව වසර"
+          },
+          {
+            "date": "2026-01-03",
+            "name": "දුරුතු පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-01-15",
+            "name": "දෙමළ තෛ පොංගල් දිනය"
+          },
+          {
+            "date": "2026-02-01",
+            "name": "නවම් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-02-04",
+            "name": "ජාතික දිනය"
+          },
+          {
+            "date": "2026-02-15",
+            "name": "මහා ශිවරාත්‍රී දිනය"
+          },
+          {
+            "date": "2026-03-02",
+            "name": "මැදින් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-03-21",
+            "name": "ඊදුල් ෆිතර් (රාමසාන් උත්සව දිනය)"
+          },
+          {
+            "date": "2026-04-01",
+            "name": "බක් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-04-03",
+            "name": "මහ සිකුරාදා"
+          },
+          {
+            "date": "2026-04-13",
+            "name": "සිංහල හා දෙමළ අලුත් අවුරුදු පූර්ව දිනය"
+          },
+          {
+            "date": "2026-04-14",
+            "name": "සිංහල හා දෙමළ අලුත් අවුරුද්ද"
+          },
+          {
+            "date": "2026-05-01",
+            "name": "කම්කරු දිනය සහ වෙසක් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-05-02",
+            "name": "වෙසක් පෝය දිනට පසු දිනය"
+          },
+          {
+            "date": "2026-05-28",
+            "name": "ඊදුල් අල්හා (හජ්ජි උත්සව දිනය)"
+          },
+          {
+            "date": "2026-05-30",
+            "name": "අධි පොසොන් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-06-29",
+            "name": "පොසොන් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-07-29",
+            "name": "ඇසළ පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-08-26",
+            "name": "මිලාද්-උන්-නබි (නබි නායකතුමාගේ උපන් දිනය)"
+          },
+          {
+            "date": "2026-08-27",
+            "name": "නිකිණි පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-09-26",
+            "name": "බිනර පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-10-25",
+            "name": "වප් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-11-08",
+            "name": "දීපවාලි උත්සව දිනය"
+          },
+          {
+            "date": "2026-11-24",
+            "name": "ඉල් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-12-23",
+            "name": "උඳුවප් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2026-12-25",
+            "name": "නත්තල් දිනය"
+          },
+          {
+            "date": "2027-01-01",
+            "name": "නව වසර"
+          },
+          {
+            "date": "2027-01-03",
+            "name": "දුරුතු පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-01-15",
+            "name": "දෙමළ තෛ පොංගල් දිනය"
+          },
+          {
+            "date": "2027-02-01",
+            "name": "නවම් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-02-04",
+            "name": "ජාතික දිනය"
+          },
+          {
+            "date": "2027-02-15",
+            "name": "මහා ශිවරාත්‍රී දිනය"
+          },
+          {
+            "date": "2027-03-02",
+            "name": "මැදින් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-03-21",
+            "name": "ඊදුල් ෆිතර් (රාමසාන් උත්සව දිනය)"
+          },
+          {
+            "date": "2027-03-26",
+            "name": "මහ සිකුරාදා"
+          },
+          {
+            "date": "2027-04-01",
+            "name": "බක් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-04-13",
+            "name": "සිංහල හා දෙමළ අලුත් අවුරුදු පූර්ව දිනය"
+          },
+          {
+            "date": "2027-04-14",
+            "name": "සිංහල හා දෙමළ අලුත් අවුරුද්ද"
+          },
+          {
+            "date": "2027-05-01",
+            "name": "කම්කරු දිනය සහ වෙසක් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-05-02",
+            "name": "වෙසක් පෝය දිනට පසු දිනය"
+          },
+          {
+            "date": "2027-05-28",
+            "name": "ඊදුල් අල්හා (හජ්ජි උත්සව දිනය)"
+          },
+          {
+            "date": "2027-05-30",
+            "name": "අධි පොසොන් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-06-29",
+            "name": "පොසොන් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-07-29",
+            "name": "ඇසළ පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-08-26",
+            "name": "මිලාද්-උන්-නබි (නබි නායකතුමාගේ උපන් දිනය)"
+          },
+          {
+            "date": "2027-08-27",
+            "name": "නිකිණි පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-09-26",
+            "name": "බිනර පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-10-25",
+            "name": "වප් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-11-08",
+            "name": "දීපවාලි උත්සව දිනය"
+          },
+          {
+            "date": "2027-11-24",
+            "name": "ඉල් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-12-23",
+            "name": "උඳුවප් පුර පසළොස්වක පෝය දිනය"
+          },
+          {
+            "date": "2027-12-25",
+            "name": "නත්තල් දිනය"
+          }
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24",
+        "note": "الإجازات الإسلامية تقريبية وتعتمد على رؤية الهلال"
+      }
+    },
+    "manual": []
+  },
+  {
+    "iso2": "MA",
+    "name_ar": "المغرب",
+    "name_en": "Morocco",
+    "updated": "2026-11-24",
+    "static": {
+      "capital": {
+        "value": [
+          "Rabat"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "currencies": {
+        "value": [
+          "MAD (Moroccan dirham د.م.)"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "languages": {
+        "value": [
+          "Arabic",
+          "Berber"
+        ],
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "calling_code": {
+        "value": "+212",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "region": {
+        "value": "Africa / Northern Africa",
+        "source": "world-countries (npm، مبني على mledoze/countries)",
+        "checked": "2026-11-24"
+      },
+      "timezones": {
+        "value": [
+          "Africa/Casablanca"
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24"
+      }
+    },
+    "semi_static": {
+      "visa_saudi_passport": {
+        "value": "بدون تأشيرة حتى 90 يوم",
+        "source": "passport-index-dataset على GitHub (ilyankou)",
+        "checked": "2026-11-24",
+        "code": "visa_free",
+        "days": 90,
+        "raw": "90",
+        "status": "مؤشر — تحقق من الموقع الرسمي قبل الحجز",
+        "official": null
+      },
+      "public_holidays": {
+        "value": [
+          {
+            "date": "2026-01-01",
+            "name": "رأس السنة الميلادية"
+          },
+          {
+            "date": "2026-01-11",
+            "name": "ذكرى تقديم وثيقة الاستقلال"
+          },
+          {
+            "date": "2026-01-14",
+            "name": "رأس السنة الأمازيغية"
+          },
+          {
+            "date": "2026-03-20",
+            "name": "عيد الفطر"
+          },
+          {
+            "date": "2026-05-01",
+            "name": "عيد الشغل"
+          },
+          {
+            "date": "2026-05-27",
+            "name": "عيد الأضحى"
+          },
+          {
+            "date": "2026-06-17",
+            "name": "فاتح محرم"
+          },
+          {
+            "date": "2026-07-30",
+            "name": "عيد العرش"
+          },
+          {
+            "date": "2026-08-14",
+            "name": "ذكرى استرجاع إقليم وادي الذهب"
+          },
+          {
+            "date": "2026-08-20",
+            "name": "ذكرى ثورة الملك والشعب"
+          },
+          {
+            "date": "2026-08-21",
+            "name": "عيد الشباب"
+          },
+          {
+            "date": "2026-08-25",
+            "name": "عيد المولد النبوي"
+          },
+          {
+            "date": "2026-10-31",
+            "name": "عيد الوحدة"
+          },
+          {
+            "date": "2026-11-06",
+            "name": "ذكرى المسيرة الخضراء"
+          },
+          {
+            "date": "2026-11-18",
+            "name": "عيد الاستقلال"
+          },
+          {
+            "date": "2027-01-01",
+            "name": "رأس السنة الميلادية"
+          },
+          {
+            "date": "2027-01-11",
+            "name": "ذكرى تقديم وثيقة الاستقلال"
+          },
+          {
+            "date": "2027-01-14",
+            "name": "رأس السنة الأمازيغية"
+          },
+          {
+            "date": "2027-03-09",
+            "name": "عيد الفطر"
+          },
+          {
+            "date": "2027-05-01",
+            "name": "عيد الشغل"
+          },
+          {
+            "date": "2027-05-16",
+            "name": "عيد الأضحى"
+          },
+          {
+            "date": "2027-06-06",
+            "name": "فاتح محرم"
+          },
+          {
+            "date": "2027-07-30",
+            "name": "عيد العرش"
+          },
+          {
+            "date": "2027-08-14",
+            "name": "عيد المولد النبوي"
+          },
+          {
+            "date": "2027-08-14",
+            "name": "ذكرى استرجاع إقليم وادي الذهب"
+          },
+          {
+            "date": "2027-08-20",
+            "name": "ذكرى ثورة الملك والشعب"
+          },
+          {
+            "date": "2027-08-21",
+            "name": "عيد الشباب"
+          },
+          {
+            "date": "2027-10-31",
+            "name": "عيد الوحدة"
+          },
+          {
+            "date": "2027-11-06",
+            "name": "ذكرى المسيرة الخضراء"
+          },
+          {
+            "date": "2027-11-18",
+            "name": "عيد الاستقلال"
+          }
+        ],
+        "source": "date-holidays (npm)",
+        "checked": "2026-11-24",
+        "note": "الإجازات الإسلامية تقريبية وتعتمد على رؤية الهلال"
+      }
+    },
+    "manual": []
+  }
+]

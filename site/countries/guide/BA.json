@@ -1,0 +1,620 @@
+{
+  "code": "BA",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "انتهى الإعفاء الموسمي للجواز العادي في 30 سبتمبر 2026. تشترط الخارجية تأشيرة خارج الإعفاءات المطبقة على المسافر.",
+        "source": "https://www.mvp.gov.ba/en/org_cmd57sdlc000nn43u2rk8pgsd_639274788685078781",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "تسمح تأشيرة الزيارة القصيرة بالبقاء في حدود المدة الممنوحة، وبحد أقصى 90 يوماً في أي 180 يوماً.",
+        "source": "https://mvp.gov.ba/en/org_cmd57sdlc000nn43u2rk8pgsd_639131368292498394",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "رسم إصدار تأشيرة الإقامة القصيرة «سي» هو 60 يورو وفق التعرفة القنصلية المنشورة في الجريدة الرسمية في فبراير 2026.",
+        "source": "https://www.sluzbenilist.ba/page/PdfDownload?BrojIzdanja=8&GodinaIzdanja=2026&NivoIzdavanja_FK=1",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإعفاء الموسمي في 2027",
+        "value": "غير مؤكد",
+        "source": "https://www.mvp.gov.ba/en/org_cmd57sdlc000nn43u2rk8pgsd_639274788685078781",
+        "checked": "2026-11-27",
+        "status": "uncertain"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "المارك القابل للتحويل",
+        "source": "https://szarajevo.mfa.gov.hu/en/basic-informations-about-bih",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "الكاش عملي في المقاهي والأسواق الصغيرة.",
+        "source": "https://visitbosniaandherzegovina.ba/plan/tipping/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "يمكن تقريب الفاتورة عند الرضا بالخدمة.",
+        "source": "https://visitbosniaandherzegovina.ba/plan/tipping/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 142 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/bosnia-and-herzegowina",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 360 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/bosnia-and-herzegowina",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 45 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/bs/bosnia-and-herzegovina-esim/bosher-in-30days-20gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«يافني بريفوز» لمتابعة النقل العام في كانتون سراييفو (Sarajevo).",
+        "source": "https://play.google.com/store/apps/details?hl=en&id=org.msks.ticketsMobileApp",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "تصل حافلة «سنتروترانس» المطار بوسط سراييفو (Sarajevo) والبلدة القديمة.",
+        "source": "https://www.sarajevonavigator.ba/en/news/getting-to-the-center-of-sarajevo-from-the-sarajevo-international-airport-555",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "الحافلات بين المدن تغطي وجهات أكثر من القطارات. تحقق من محطة الانطلاق ووقت العودة.",
+        "source": "https://visitbosniaandherzegovina.ba/move/intercity/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "تتوفر مطاعم تقدم الأكل الحلال في البلدة القديمة بسراييفو (Sarajevo).",
+        "source": "https://riverwalk.ba/guide/halal-food-and-mosques-in-sarajevo/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد غازي خسرو بك (Gazi Husrev-beg Mosque).",
+        "source": "https://riverwalk.ba/guide/halal-food-and-mosques-in-sarajevo/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "تشيفابي، بوريك، وحساء البيك «بيغوفا تشوربا».",
+        "source": "https://bosnaheritage.com/en/restaurants-food-guide",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "غطِّ الكتفين والساقين داخل المساجد والكنائس والأديرة.",
+        "source": "https://www.safaribosna.ba/en/travel-guide/culture-heritage/religious-heritage-and-visitor-etiquette",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "التزم الطرق المعبدة في مناطق القتال السابقة بسبب الألغام.",
+        "source": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "في اتحاد البوسنة والهرسك تغلق متاجر كثيرة الأحد، بينما تختلف الأحكام في الكيانات الأخرى.",
+        "source": "https://bosniaessentials.com/are-shops-open-on-sunday-in-bosnia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "لا تخرج عن الطرق المعبدة قرب خطوط المواجهة السابقة والمباني المهجورة بسبب الألغام.",
+        "source": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "انتبه للنشل في النقل العام والأماكن السياحية المزدحمة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة 122، والإسعاف 124.",
+        "source": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "باش تشارشيا (Baščaršija)",
+        "value": "للسوق القديم والمطاعم التقليدية.",
+        "source": "https://www.safaribosna.ba/en/travel-guide/accommodation/where-to-stay-in-sarajevo",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "فرهاديا (Ferhadija)",
+        "value": "للتنزه على شارع المشاة وقرب المركز.",
+        "source": "https://www.safaribosna.ba/en/travel-guide/accommodation/where-to-stay-in-sarajevo",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "إليجا (Ilidža)",
+        "value": "للحدائق وأجواء أهدأ خارج وسط سراييفو.",
+        "source": "https://www.safaribosna.ba/en/travel-guide/accommodation/where-to-stay-in-sarajevo",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "سراييفو (Sarajevo)",
+        "value": "توزيع مقترح للزيارة: 2–3 أيام.",
+        "source": "https://visitbosniaandherzegovina.ba/explore/itineraries/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "موستار (Mostar)",
+        "value": "توزيع مقترح للزيارة: يوم إلى يومين.",
+        "source": "https://visitbosniaandherzegovina.ba/explore/itineraries/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ترافنيك (Travnik)",
+        "value": "توزيع مقترح للزيارة: يوم.",
+        "source": "https://visitbosniaandherzegovina.ba/explore/itineraries/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يتوقف نظام تسوية المدفوعات لدى المصرف المركزي في هذه الإجازة.",
+        "impactSource": "https://www.cbbh.ba/content/DownloadAttachment/?id=51d770b8-7536-4591-9c1c-83a6339f7bd5&langTag=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "يتوقف نظام تسوية المدفوعات لدى المصرف المركزي في هذه الإجازة.",
+        "impactSource": "https://www.cbbh.ba/content/DownloadAttachment/?id=51d770b8-7536-4591-9c1c-83a6339f7bd5&langTag=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الأرثوذكسي",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الأرثوذكسي",
+        "value": "٢٠٢٦-٠١-٠٧",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-07",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٣-٠١",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-01",
+        "impact": "غير مؤكد",
+        "scope": "كيان اتحاد البوسنة والهرسك (Federation of Bosnia and Herzegovina)",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-١٠",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-10",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٦-٠٤-١٢",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-12",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-١٣",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-13",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يتوقف نظام تسوية المدفوعات لدى المصرف المركزي في هذه الإجازة.",
+        "impactSource": "https://www.cbbh.ba/content/DownloadAttachment/?id=51d770b8-7536-4591-9c1c-83a6339f7bd5&langTag=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر على الفاشية",
+        "value": "٢٠٢٦-٠٥-٠٩",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-09",
+        "impact": "غير مؤكد",
+        "scope": "كيان جمهورية صرب البوسنة (Republika Srpska)",
+        "scopeSource": "https://www.sluzbenilist.ba/page/akt/FWB7ZnXZnYo%3D",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى اتفاق السلام في البوسنة والهرسك",
+        "value": "٢٠٢٦-١١-٢١",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-21",
+        "impact": "غير مؤكد",
+        "scope": "كيان جمهورية صرب البوسنة (Republika Srpska)",
+        "scopeSource": "https://www.sluzbenilist.ba/page/akt/FWB7ZnXZnYo%3D",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدولة",
+        "value": "٢٠٢٦-١١-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-25",
+        "impact": "غير مؤكد",
+        "scope": "كيان اتحاد البوسنة والهرسك (Federation of Bosnia and Herzegovina)",
+        "scopeSource": "https://fbihvlada.gov.ba/bs/fmrsp-informacija-o-obiljezavanju-dana-drzavnosti-bih-24057",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الكاثوليكي",
+        "value": "٢٠٢٦-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الكاثوليكي",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الأرثوذكسي",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الأرثوذكسي",
+        "value": "٢٠٢٧-٠١-٠٧",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-07",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٣-٠١",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-01",
+        "impact": "غير مؤكد",
+        "scope": "كيان اتحاد البوسنة والهرسك (Federation of Bosnia and Herzegovina)",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٤-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-30",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٧-٠٥-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر على الفاشية",
+        "value": "٢٠٢٧-٠٥-٠٩",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-09",
+        "impact": "غير مؤكد",
+        "scope": "كيان جمهورية صرب البوسنة (Republika Srpska)",
+        "scopeSource": "https://www.sluzbenilist.ba/page/akt/FWB7ZnXZnYo%3D",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى اتفاق السلام في البوسنة والهرسك",
+        "value": "٢٠٢٧-١١-٢١",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-21",
+        "impact": "غير مؤكد",
+        "scope": "كيان جمهورية صرب البوسنة (Republika Srpska)",
+        "scopeSource": "https://www.sluzbenilist.ba/page/akt/FWB7ZnXZnYo%3D",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدولة",
+        "value": "٢٠٢٧-١١-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-25",
+        "impact": "غير مؤكد",
+        "scope": "كيان اتحاد البوسنة والهرسك (Federation of Bosnia and Herzegovina)",
+        "scopeSource": "https://fbihvlada.gov.ba/bs/fmrsp-informacija-o-obiljezavanju-dana-drzavnosti-bih-24057",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الكاثوليكي",
+        "value": "٢٠٢٧-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الكاثوليكي",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/BA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "غير مؤكد",
+        "scope": "تختلف الإجازة الدينية حسب الكيان والطائفة.",
+        "scopeSource": "https://gido.in.rs/en/guide/bosnia-and-herzegovina/holidays/",
+        "regional": true,
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "العطلة الشتوية لمدارس كانتون سراييفو (Sarajevo)",
+        "value": "إجازة مدرسية من 2027-01-01 إلى 2027-01-31 شاملة الطرفين.",
+        "source": "https://mo.ks.gov.ba/aktuelno/novosti/pocinje-skolska-20262027-godina-nastava-od-1-septembra-u-prvi-razred-srednjih",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2027-01-01",
+        "end": "2027-01-31",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "يوليو وأغسطس الأكثر ازدحاماً في الوجهات الرئيسية.",
+        "source": "https://www.bosnia-spirit.com/guides/best-time-to-visit-bosnia/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "مايو ويونيو أو سبتمبر خارج ذروة الصيف.",
+        "source": "https://www.bosnia-spirit.com/guides/best-time-to-visit-bosnia/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة الصيف في يوليو",
+        "value": "يزداد ازدحام المعالم والفنادق.",
+        "source": "https://www.bosnia-spirit.com/guides/best-time-to-visit-bosnia/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "يزداد ازدحام المعالم والفنادق.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة الصيف في أغسطس",
+        "value": "يزداد ازدحام المعالم والفنادق.",
+        "source": "https://www.bosnia-spirit.com/guides/best-time-to-visit-bosnia/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "يزداد ازدحام المعالم والفنادق.",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان سراييفو السينمائي",
+        "value": "سراييفو (Sarajevo)، أغسطس، عروض ومسابقات سينمائية.",
+        "source": "https://www.sff.ba/stranica/film-submission-rules-and-regulations",
+        "checked": "2026-11-27",
+        "month": 8,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

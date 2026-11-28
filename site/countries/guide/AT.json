@@ -1,0 +1,713 @@
+{
+  "code": "AT",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "تلزم تأشيرة شنغن قصيرة الإقامة للسائح حامل الجواز العادي.",
+        "source": "https://home-affairs.ec.europa.eu/document/download/a2378226-f392-42d0-9984-e023db53d140_en?filename=regulation-2018-1806.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "حتى 90 يوماً في أي 180 يوماً ضمن دول شنغن مجتمعة، وبحدود الأيام المكتوبة في التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم طلب البالغ",
+        "value": "90 يورو، وقد تضاف رسوم مركز الخدمة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "اليورو",
+        "source": "https://www.wien.info/en/travel-info/tourist-info/general-information-346750?set_language=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "تقبل متاجر عديدة البطاقات. اسأل قبل طلب وجبتك إذا كان الدفع بالبطاقة ضرورياً لك.",
+        "source": "https://www.wien.info/en/travel-info/tourist-info/money-needs-352200",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "من الشائع إضافة نحو 5–10٪ للخدمة الجيدة.",
+        "source": "https://www.wien.info/en/travel-info/tourist-info/money-needs-352200",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 292 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/austria",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 735 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/austria",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/austria-esim/servus-austria-plus-3days-1gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«فين موبيل» لتخطيط الرحلة داخل فيينا (Vienna).",
+        "source": "https://www.wien.info/en/travel-info/transport/wienmobil-365934",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "تنقل حافلات مطار فيينا (Vienna Airport Bus) الركاب إلى وسط فيينا (Vienna).",
+        "source": "https://www.wien.info/en/travel-info/arrival-departure/airport-to-center/bus-connections-341992",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "قطارات السكك النمساوية تربط فيينا (Vienna) وسالزبورغ (Salzburg) ومدناً أخرى.",
+        "source": "https://www.wien.info/en/travel-info/transport/tickets-361360?set_language=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "تضم فيينا (Vienna) مطاعم لبنانية وتركية تقدم خيارات حلال. اسأل عن مصدر اللحم.",
+        "source": "https://b2b.wien.info/en/traveltrade-salestools/accommodation-restaurants/halal-restaurants-347470",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "المركز الإسلامي في فيينا (Vienna Islamic Centre) قرب نهر الدانوب.",
+        "source": "https://www.wien.info/en/see-do/sights-from-a-to-z/islamic-center-349172",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "شنيتسل فيينا، فطيرة التفاح، وفطيرة كايزرشمارن. تحقّق من نوع اللحم ومكونات الحلوى.",
+        "source": "https://www.austria.info/en-us/inspiration/food-and-drink/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "في الكنائس غطِّ الكتفين والركبتين.",
+        "source": "https://www.iaeste.at/students/internships/incoming-trainee/about-austria/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "احمل إثبات الهوية عند التنقل.",
+        "source": "https://www.gov.uk/foreign-travel-advice/austria/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "في فيينا (Vienna) تغلق متاجر كثيرة نحو 6:30 مساءً في أيام العمل. الأحد خيارات التسوق محدودة خارج المحطات والمطار.",
+        "source": "https://www.wien.info/en/travel-info/tourist-info/opening-times-354624?set_language=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "انتبه للمقتنيات في وسائل النقل ومحطات القطارات والأسواق المزدحمة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/austria/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "النشل وسرقة الحقائب من المخاطر الشائعة في الزحام.",
+        "source": "https://www.gov.uk/foreign-travel-advice/austria/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 112.",
+        "source": "https://www.gov.uk/foreign-travel-advice/austria/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "إنره شتات (Innere Stadt)",
+        "value": "لقرب المعالم التاريخية سيراً.",
+        "source": "https://viennafrontier.com/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "نويباو (Neubau)",
+        "value": "لقرب المتاحف والمقاهي المستقلة.",
+        "source": "https://viennafrontier.com/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "مارياهيلف (Mariahilf)",
+        "value": "للتسوق والوصول السهل بالمترو.",
+        "source": "https://viennafrontier.com/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "فيينا (Vienna)",
+        "value": "توزيع مقترح للزيارة: 3 أيام.",
+        "source": "https://austriaguide.at/en/blog/austria-in-7-days-with-a-guide",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "سالزبورغ (Salzburg)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://austriaguide.at/en/blog/austria-in-7-days-with-a-guide",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "إنسبروك (Innsbruck)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://austriaguide.at/en/blog/austria-in-7-days-with-a-guide",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس يوسف",
+        "value": "٢٠٢٦-٠٣-١٩",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-19",
+        "impact": "غير مؤكد",
+        "scope": "العطلة المدرسية في كارينثيا (Carinthia)، شتايرمارك (Styria)، تيرول (Tyrol)، فورآرلبرغ (Vorarlberg)",
+        "scopeSource": "https://www.bmb.gv.at/Themen/schule/schulpraxis/termine/feiertage.html",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الدولة",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس فلوريان",
+        "value": "٢٠٢٦-٠٥-٠٤",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-04",
+        "impact": "غير مؤكد",
+        "scope": "العطلة المدرسية في النمسا العليا (Upper Austria)",
+        "scopeSource": "https://www.bmb.gv.at/Themen/schule/schulpraxis/termine/feiertage.html",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٦-٠٥-١٤",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-14",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٦-٠٦-٠٤",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-04",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس روبرت",
+        "value": "٢٠٢٦-٠٩-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-24",
+        "impact": "غير مؤكد",
+        "scope": "العطلة المدرسية في سالزبورغ (Salzburg)",
+        "scopeSource": "https://www.bmb.gv.at/Themen/schule/schulpraxis/termine/feiertage.html",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني",
+        "value": "٢٠٢٦-١٠-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-26",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس مارتن",
+        "value": "٢٠٢٦-١١-١١",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-11",
+        "impact": "غير مؤكد",
+        "scope": "العطلة المدرسية في بورغنلاند (Burgenland)",
+        "scopeSource": "https://www.bmb.gv.at/Themen/schule/schulpraxis/termine/feiertage.html",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ليوبولد",
+        "value": "٢٠٢٦-١١-١٥",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-15",
+        "impact": "غير مؤكد",
+        "scope": "العطلة المدرسية في النمسا السفلى (Lower Austria) وفيينا (Vienna)",
+        "scopeSource": "https://www.bmb.gv.at/Themen/schule/schulpraxis/termine/feiertage.html",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٦-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-08",
+        "impact": "يمكن للمتاجر اختيار الفتح من العاشرة صباحًا إلى السادسة مساءً.",
+        "impactSource": "https://www.wko.at/ktn/handel/oeffnungszeiten-8.-dezember-2026",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس يوسف",
+        "value": "٢٠٢٧-٠٣-١٩",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-19",
+        "impact": "غير مؤكد",
+        "scope": "العطلة المدرسية في كارينثيا (Carinthia)، شتايرمارك (Styria)، تيرول (Tyrol)، فورآرلبرغ (Vorarlberg)",
+        "scopeSource": "https://www.bmb.gv.at/Themen/schule/schulpraxis/termine/feiertage.html",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الدولة",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس فلوريان",
+        "value": "٢٠٢٧-٠٥-٠٤",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-04",
+        "impact": "غير مؤكد",
+        "scope": "العطلة المدرسية في النمسا العليا (Upper Austria)",
+        "scopeSource": "https://www.bmb.gv.at/Themen/schule/schulpraxis/termine/feiertage.html",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٧-٠٥-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٧-٠٥-١٦",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٧-٠٥-٢٧",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-27",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس روبرت",
+        "value": "٢٠٢٧-٠٩-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-24",
+        "impact": "غير مؤكد",
+        "scope": "العطلة المدرسية في سالزبورغ (Salzburg)",
+        "scopeSource": "https://www.bmb.gv.at/Themen/schule/schulpraxis/termine/feiertage.html",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني",
+        "value": "٢٠٢٧-١٠-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-26",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس مارتن",
+        "value": "٢٠٢٧-١١-١١",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-11",
+        "impact": "غير مؤكد",
+        "scope": "العطلة المدرسية في بورغنلاند (Burgenland)",
+        "scopeSource": "https://www.bmb.gv.at/Themen/schule/schulpraxis/termine/feiertage.html",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ليوبولد",
+        "value": "٢٠٢٧-١١-١٥",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-15",
+        "impact": "غير مؤكد",
+        "scope": "العطلة المدرسية في النمسا السفلى (Lower Austria) وفيينا (Vienna)",
+        "scopeSource": "https://www.bmb.gv.at/Themen/schule/schulpraxis/termine/feiertage.html",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٧-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/AT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تغلق المتاجر في العطلات الرسمية والأحد؛ توجد استثناءات محلية ولقطاعات معيّنة.",
+        "impactSource": "https://www.bmwet.gv.at/en/Topics/Enterprise/Trades/Businesshours.html",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الميلاد المدرسية في الولايات كافة",
+        "value": "إجازة مدرسية من 2026-12-24 إلى 2027-01-06 شاملة الطرفين.",
+        "source": "https://www.bmb.gv.at/Themen/schule/schulpraxis/termine/ferientermine_26_27.html",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-24",
+        "end": "2027-01-06",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "الصيف وموسم التزلج يجذبان الزوار بحسب الوجهة.",
+        "source": "https://www.travelandleisure.com/best-times-to-visit-austria-7571210",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "الربيع والخريف خارج العطل أقل ازدحاماً.",
+        "source": "https://www.travelandleisure.com/best-times-to-visit-austria-7571210",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة السفر الصيفي في أغسطس",
+        "value": "يزيد الإقبال صيفاً؛ يختلف مستوى الزحام بين المدن والمنتجعات.",
+        "source": "https://visitoffpeak.com/en/best-time-to-visit-austria/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "يزيد الإقبال صيفاً؛ يختلف مستوى الزحام بين المدن والمنتجعات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة الإقامة الشتوية",
+        "value": "يسجل فبراير عادة أكبر عدد من ليالي المبيت في موسم الشتاء بالنمسا، بحسب هيئة الإحصاء النمساوية.",
+        "source": "https://www.statistik.at/fileadmin/announcement/2026/03/20260326AnkuenfteNaechtigungenFebruar2026EN.pdf",
+        "checked": "2026-11-27",
+        "month": 2,
+        "peak": true,
+        "impact": "ارتفاع الطلب على الإقامة الشتوية",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم السياحي الصيفي",
+        "value": "تتعامل الأدلة السياحية مع الفترة من أواخر مايو حتى أغسطس بوصفها موسم الإقبال الصيفي في النمسا، وتشير إلى قلة الزحام في الأشهر الانتقالية.",
+        "source": "https://www.travelandleisure.com/best-times-to-visit-austria-7571210",
+        "checked": "2026-11-27",
+        "month": 6,
+        "peak": true,
+        "impact": "إقبال أعلى خلال الصيف",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم السياحي الصيفي",
+        "value": "تتعامل الأدلة السياحية مع الفترة من أواخر مايو حتى أغسطس بوصفها موسم الإقبال الصيفي في النمسا، وتشير إلى قلة الزحام في الأشهر الانتقالية.",
+        "source": "https://www.travelandleisure.com/best-times-to-visit-austria-7571210",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "إقبال أعلى خلال الصيف",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان فيينا للفنون",
+        "value": "فيينا (Vienna)، مايو ويونيو، للمسرح والموسيقى وفنون الأداء.",
+        "source": "https://at-festwochen.s3.eu-central-1.amazonaws.com/2026/Facts-und-Figures_ENG-2026.dotx.pdf",
+        "checked": "2026-11-27",
+        "month": 5,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

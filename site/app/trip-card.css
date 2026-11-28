@@ -1,0 +1,296 @@
+.trip-card-workspace {
+  display: grid;
+  gap: 18px;
+  min-width: 0;
+  margin-bottom: 32px;
+}
+
+#trip-card-title { margin: 0; color: var(--teal); font-size: 40px; line-height: 1.3; }
+.trip-card-lead,
+.trip-card-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr);
+  align-items: start;
+  gap: 18px;
+}
+.trip-card-hero {
+  overflow: hidden;
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-radius: var(--card-radius);
+  background: white;
+}
+.trip-card-hero .trip-card-photo { margin: 0; border-radius: 0; height: clamp(170px, 23vw, 245px); }
+.trip-card-photo-title h2,
+.trip-card-photo-title span { margin: 0; color: white; }
+.trip-card-photo-title h2 { font-size: clamp(24px, 3vw, 34px); line-height: 1.2; }
+.trip-card-photo-title span { display: flex; align-items: center; gap: 5px; font-size: .9rem; }
+.trip-card-photo-title svg { flex-shrink: 0; }
+.trip-card-hero-content { display: grid; gap: 16px; padding: 17px 20px; }
+.trip-card-overview,
+.trip-card-hero-actions { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px 12px; }
+.trip-card-overview > div { display: grid; gap: 2px; }
+.trip-card-overview > div > span { color: var(--muted); font-size: .875rem; }
+.trip-card-overview strong,
+.trip-card-total strong { color: var(--teal); font-size: 34px; font-weight: 700; line-height: 1.25; white-space: nowrap; }
+.trip-card-balance { color: var(--remaining); font-weight: 600; }
+.trip-card-balance[data-over="true"] { color: var(--over-budget); }
+.trip-card-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.trip-card-checklist-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-height: 44px;
+  padding: 6px 12px;
+  border: 1px solid var(--teal);
+  border-radius: 10px;
+  font-size: .875rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+.trip-card-checklist-link:hover { background: var(--neutral-surface); }
+#trip-card-checklist { scroll-margin-block-start: 88px; }
+
+.trip-card-cap { display: grid; gap: 4px; min-width: 0; }
+.trip-card-cap > span:first-child,
+.trip-card-dates,
+.trip-card-flight > span,
+.trip-card-place-head a {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+.trip-card-group.panel {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, .65fr) minmax(0, 1.5fr);
+  align-items: end;
+  gap: 14px 20px;
+  padding: 16px 20px;
+  border-radius: var(--card-radius);
+}
+.trip-card-group.panel > label { margin: 0; }
+.trip-card-group input, .trip-card-group select { display: block; width: 100%; min-height: 44px; }
+.trip-card-dates { min-height: 44px; color: var(--muted); font-size: .9rem; }
+.trip-card-dates svg, .trip-card-cap svg { flex-shrink: 0; color: var(--teal); }
+
+.trip-card-choices,
+.trip-card-comparison {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+.trip-card-choices button {
+  justify-content: space-between;
+  align-items: start;
+  gap: 8px;
+  padding: 12px 14px;
+  text-align: start;
+  color: var(--ink);
+  border: 1px solid var(--line);
+  border-radius: var(--card-radius);
+  background: white;
+}
+.trip-card-choices button[aria-pressed="true"],
+.trip-card-workspace button.secondary[aria-pressed="true"],
+.trip-navigation .trip-navigation-shortcuts [aria-current] {
+  background: var(--teal);
+  color: white;
+  border-color: var(--teal);
+}
+.trip-card-workspace button.negative[aria-pressed="true"] {
+  background: var(--warning-surface);
+  color: var(--over-budget);
+  border-color: var(--over-budget);
+}
+.trip-card-choices small,
+.trip-card-comparison small,
+.trip-card-walk small {
+  display: block;
+  color: var(--muted);
+  font-size: .875rem;
+}
+.trip-card-choices button[aria-pressed="true"] small { color: inherit; }
+.trip-card-choices button > span + span { text-align: end; }
+.trip-card-choices b { white-space: nowrap; }
+.trip-card-workspace button, .trip-navigation button { min-height: 44px; }
+.trip-navigation label select { min-height: 44px; }
+
+.trip-card-stack { display: grid; align-content: start; gap: 18px; min-width: 0; }
+.trip-card-workspace .trip-card-section { min-width: 0; border-radius: var(--card-radius); }
+.trip-card-section h3 { margin: 0 0 10px; color: var(--teal); font-size: 24px; line-height: 1.4; }
+.trip-card-section p { margin: 4px 0; }
+.trip-card-section-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: start;
+  justify-content: space-between;
+  gap: 4px 12px;
+}
+.trip-card-section-head h3 { margin-bottom: 4px; }
+.trip-card-costs .trip-card-section-head p { color: var(--muted); font-size: .9rem; }
+
+.trip-card-total {
+  display: grid;
+  gap: 8px;
+  padding: 14px 16px;
+  margin: 14px 0;
+  border-radius: 12px;
+  background: var(--neutral-surface);
+}
+.trip-card-total > div:not(.trip-card-meter) { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 8px; }
+.trip-card-total small { color: var(--muted); }
+.trip-card-meter { height: 8px; overflow: hidden; border-radius: 999px; background: var(--line); }
+.trip-card-meter span { display: block; height: 100%; border-radius: inherit; background: var(--teal); }
+
+.trip-card-flight,
+.trip-card-post-amount {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 12px;
+}
+.trip-card-route { color: var(--muted); font-size: .875rem; }
+.trip-card-buttons, .trip-card-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.trip-card-buttons button { font-size: .875rem; }
+.trip-card-actions { margin-top: 12px; }
+
+.trip-card-cost-row {
+  border-top: 1px solid var(--line);
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(95px, .55fr);
+  align-items: start;
+  gap: 8px 14px;
+  padding: 12px 0;
+}
+.trip-card-cost-row:last-child { padding-bottom: 0; }
+.trip-card-cost-row input,
+.trip-card-section input:not([type="checkbox"]),
+.trip-card-section textarea { width: 100%; min-width: 0; min-height: 44px; }
+.trip-card-cost-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 8px;
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: .875rem;
+  overflow-wrap: anywhere;
+}
+.trip-card-rate-line { color: var(--muted); font-size: .875rem; }
+.trip-card-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  border-radius: 999px;
+  padding: 3px 10px;
+  background: var(--neutral-surface, #F1ECE3);
+  color: var(--neutral-text, #3B4A4F);
+  font-size: .875rem;
+  line-height: 1.65;
+}
+.trip-card-tag.warning { background: var(--warning-surface, #FBEBD7); color: var(--warning-text, #8A4A12); }
+.trip-card-tag.complete { background: var(--positive-surface); color: var(--positive-text); }
+
+.trip-card-workspace summary { color: var(--teal); cursor: pointer; font-size: .875rem; }
+.trip-card-stay { margin: 8px 0; }
+.trip-card-stay > div, .trip-card-source[open], .trip-card-edit-place[open] { display: grid; gap: 6px; }
+.trip-card-source input:not([type="checkbox"]), .trip-card-stay input, .trip-card-edit-place input:not([type="checkbox"]) { display: block; }
+.trip-card-source summary { margin-top: 4px; }
+.trip-card-source label, .trip-card-stay label, .trip-card-edit-place label { font-size: .875rem; }
+.trip-card-source button { font-size: .875rem; padding-inline: 8px; justify-self: start; }
+.trip-card-amount small { display: block; color: var(--over-budget); }
+
+.trip-card-checklist,
+.trip-card-walk { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.trip-card-workspace .trip-card-check {
+  display: flex;
+  min-height: 44px;
+  align-items: center;
+  gap: 9px;
+  margin-bottom: 0;
+  line-height: 1.6;
+  padding-block: 4px;
+  cursor: pointer;
+}
+.trip-card-check input[type="checkbox"] { width: 16px; height: 16px; flex-shrink: 0; accent-color: var(--teal); }
+.trip-card-workspace .trip-card-check input[type="checkbox"] { margin: 0; }
+#trip-card-checklist .trip-card-checklist { gap: 0; margin-top: 6px; }
+#trip-card-checklist li + li { border-top: 1px solid var(--line); }
+.trip-card-walk li {
+  display: grid;
+  gap: 5px;
+  padding: 11px 12px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  overflow-wrap: anywhere;
+}
+.trip-card-walk li.by-car { background: var(--warning-surface); }
+.trip-card-place-head { display: flex; align-items: center; flex-wrap: wrap; gap: 4px 8px; }
+.trip-card-place-head a { min-height: 44px; margin-inline-start: auto; font-size: .875rem; }
+
+.trip-card-copy-form {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: end;
+  gap: 10px;
+}
+.trip-card-copy-form button { grid-column: 1/-1; justify-self: start; }
+.trip-card-copy-form label { font-size: .875rem; }
+.trip-card-copy-form input { display: block; }
+.trip-card-post-amount .trip-card-amount { max-width: 170px; }
+.trip-card-post .trip-card-buttons { margin-top: 12px; }
+
+.trip-card-comparison article {
+  overflow: hidden;
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-radius: var(--card-radius);
+}
+.trip-card-comparison article[data-selected="true"] { border-color: var(--teal); }
+.trip-card-comparison .trip-card-comparison-photo { height: 132px; border-radius: 0; margin: 0; }
+.trip-card-comparison-content { display: grid; align-content: start; gap: 8px; padding: 12px; }
+.trip-card-comparison button { justify-self: start; }
+.trip-card-comparison-content > div:not(.trip-card-meter) { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0 8px; }
+.trip-card-comparison-content > div > span { color: var(--muted); font-size: .875rem; }
+.trip-card-comparison-content .trip-card-balance { color: var(--remaining); }
+.trip-card-comparison-content .trip-card-balance[data-over="true"] { color: var(--over-budget); }
+.trip-card-saved { margin-bottom: 16px; }
+.trip-card-saved pre { font: inherit; white-space: pre-wrap; overflow-wrap: anywhere; }
+
+@media (max-width: 860px) {
+  .trip-card-lead, .trip-card-layout { grid-template-columns: minmax(0, 1fr); }
+  .trip-card-layout .trip-card-stack { display: contents; }
+  .trip-card-group.panel { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .trip-card-dates { grid-column: 1/-1; }
+}
+@media (max-width: 760px) {
+  #trip-card-title { font-size: 28px; }
+  .trip-card-hero .trip-card-photo { height: 170px; }
+  .trip-card-hero-content { padding: 14px; }
+  .trip-card-overview strong, .trip-card-total strong { font-size: 30px; }
+  .trip-card-choices, .trip-card-comparison, .trip-card-group.panel { grid-template-columns: minmax(0, 1fr); }
+  .trip-card-cost-row { grid-template-columns: minmax(0, 1fr) minmax(85px, .55fr); }
+}
+
+.country-data { display: grid; gap: 14px; margin-block: 18px; }
+.country-data-block h2 { margin: 0 0 8px; font-size: clamp(1.15rem, 2vw, 1.4rem); }
+.country-data-block p { margin: 5px 0 9px; }
+.country-data-source { display: block; color: var(--muted); font-size: .875rem; overflow-wrap: anywhere; }
+.country-data-block details { margin-top: 10px; }
+.country-data-block summary { color: var(--teal); cursor: pointer; }
+.country-data-links { display: flex; gap: 8px 18px; flex-wrap: wrap; }
+.country-data-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr)); gap: 10px; }
+.country-data-grid div, .country-data-holidays li { padding: 8px 10px; border-radius: 9px; background: var(--bg); }
+.country-data-grid dt { font-weight: 700; }
+.country-data-grid dd { margin: 0; overflow-wrap: anywhere; }
+.country-data-holidays, .country-data-notes { list-style: none; padding: 0; margin: 8px 0 0; display: grid; gap: 6px; }
+.country-data-holidays { grid-template-columns: repeat(auto-fit, minmax(min(100%, 210px), 1fr)); }
+.country-data-holidays li { display: grid; gap: 3px; }
+.country-data-holidays time { color: var(--muted); font-size: .875rem; }
+.country-data-block select { width: auto; min-width: 100px; margin-inline-start: 8px; }
+.country-data-notes li, .country-data-prep li + li { border-top: 1px solid var(--line); padding-top: 7px; }
+.country-data-notes strong { margin-inline-end: 9px; }
+.country-data-prep a, .country-data-notes a { font-size: .875rem; }
+.country-data-prep + .secondary { margin-top: 10px; }

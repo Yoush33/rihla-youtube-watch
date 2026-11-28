@@ -1,0 +1,543 @@
+{
+  "code": "PT",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي العادي",
+        "value": "تحتاج تأشيرة شنغن قصيرة للسياحة قبل السفر.",
+        "source": "https://www.vfsglobal.com/one-pager/portugal/saudiarabia/english/index.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة شنغن",
+        "value": "حتى 90 يومًا مجتمعة في دول شنغن خلال أي 180 يومًا، بحسب ما تسمح به التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسم الأساسي للبالغ",
+        "value": "90 يورو. قد يضيف مركز الطلب رسوم خدمة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "اليورو. تُقبل البطاقات في معظم لشبونة (Lisbon)، وقد تطلب المتاجر الصغيرة كاشًا.",
+        "source": "https://lisbonauthority.com/en/articles/lisbon-currency",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية؛ يحدد الزبون المبلغ لقاء الخدمة.",
+        "source": "https://areadocomerciante.dgae.gov.pt/documentacao1/documentos/20231002-guia-e-regras-de-boas-praticas-na-restauracao-pdf.aspx",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — اقتصادي",
+        "value": "حوالي 289 ريالًا سعوديًا في البرتغال للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/portugal",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — متوسط",
+        "value": "حوالي 705 ريالًا سعوديًا في البرتغال للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/portugal",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة للزائر وسعر تقريبي",
+        "value": "شريحة نوس الإلكترونية بنحو 19.99 يورو لمدة 15 يومًا، ببيانات محلية غير محدودة.",
+        "source": "https://visitlisbonguide.com/staying-connected/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق نقل",
+        "value": "بولت (Bolt) لطلب مركبة في المدن التي يغطيها.",
+        "source": "https://bolt.eu/en-pt/rides/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "محطة مترو مطار لشبونة (Lisbon) على الخط الأحمر. بدّل الخط وفق محطة سكنك.",
+        "source": "https://www.lisbonairport.pt/en/lis/access-parking/getting-to-and-from-the-airport/public-transportation?language=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "تدير شركة قطارات البرتغال خدمات بين المدن، ومنها خط لشبونة (Lisbon) وبورتو (Porto).",
+        "source": "https://www.lisboa.pt/en/themes/mobility/transport-modes/public-transportation",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "في لشبونة (Lisbon) توجد خيارات حلال قرب الجامع المركزي (Central Mosque of Lisbon).",
+        "source": "https://halaleuropeguide.com/lisbon/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "سمك القد باكالاو، والسردين المشوي، وفطائر الكاسترد باستيل دي ناتا.",
+        "source": "https://www.visitportugal.com/en/destinos/lisboa-regi%C3%A3o/196876",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرف في الأماكن العامة",
+        "value": "غطِّ الكتفين والركبتين عند دخول الكنائس والأديرة.",
+        "source": "https://www.portugaltourism.org/portugal-travel-tips/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "في لشبونة (Lisbon) يغلق كثير من المحلات يوم الأحد، مع استثناء المتاجر الكبرى والمراكز التجارية.",
+        "source": "https://www.lisbonhaven.com/blog/sunday-shopping-in-lisbon-what-opens-what-closes-and-where-to-go/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستدعي الانتباه وأساليب السرقة",
+        "value": "يعمل بعض اللصوص في مجموعات لتشتيت الانتباه قرب الترام والحافلات. احفظ هاتفك ومحفظتك أثناء الصعود.",
+        "source": "https://www.gov.uk/foreign-travel-advice/portugal/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للشرطة والإسعاف والإطفاء.",
+        "source": "https://www.gov.uk/foreign-travel-advice/portugal/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ثلاثة أحياء أو مناطق لإقامة أولى",
+        "value": "بايشا (Baixa) للميادين والمواصلات، وألفاما (Alfama) للأزقة التاريخية، وبايرو ألتو (Bairro Alto) للمطاعم والحياة المسائية.",
+        "source": "https://www.portugaltourism.org/lisbon-neighborhoods/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مدن ومدد مقترحة لزيارة أولى",
+        "value": "لشبونة (Lisbon) 3 ليالٍ تشمل يومًا في سينترا (Sintra)، وبورتو (Porto) 3 ليالٍ تشمل يومًا في وادي دورو (Douro Valley).",
+        "source": "https://ultimateportugal.com/guides/portugal-itinerary-7-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يغلق قصر أجودا الوطني (Ajuda National Palace) في لشبونة (Lisbon).",
+        "impactSource": "https://www.pnajuda.gov.pt/en/pages/118103a3",
+        "status": "confirmed"
+      },
+      {
+        "label": "الكرنفال",
+        "value": "٢٠٢٦-٠٢-١٧",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-17",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "يغلق قصر أجودا الوطني (Ajuda National Palace) في لشبونة (Lisbon).",
+        "impactSource": "https://www.pnajuda.gov.pt/en/pages/118103a3",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الحرية",
+        "value": "٢٠٢٦-٠٤-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يغلق قصر أجودا الوطني (Ajuda National Palace) في لشبونة (Lisbon).",
+        "impactSource": "https://www.pnajuda.gov.pt/en/pages/118103a3",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم جزر الأزور",
+        "value": "٢٠٢٦-٠٦-٠١",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "غير مؤكد",
+        "scope": "جزر الأزور (Azores)",
+        "scopeSource": "https://documentacaoearquivo.financas.azores.gov.pt/Feriados.html",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٦-٠٦-٠٤",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-04",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم البرتغال وكامويش والجاليات البرتغالية",
+        "value": "٢٠٢٦-٠٦-١٠",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-10",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ماديرا",
+        "value": "٢٠٢٦-٠٧-٠١",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-07-01",
+        "impact": "غير مؤكد",
+        "scope": "ماديرا (Madeira)",
+        "scopeSource": "https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2009-493011",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى إعلان الجمهورية",
+        "value": "٢٠٢٦-١٠-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-05",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد استعادة الاستقلال",
+        "value": "٢٠٢٦-١٢-٠١",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٦-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "يغلق قصر أجودا الوطني (Ajuda National Palace) في لشبونة (Lisbon).",
+        "impactSource": "https://www.pnajuda.gov.pt/en/pages/118103a3",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد في ماديرا",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "غير مؤكد",
+        "scope": "ماديرا (Madeira)",
+        "scopeSource": "https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2009-493011",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يغلق قصر أجودا الوطني (Ajuda National Palace) في لشبونة (Lisbon).",
+        "impactSource": "https://www.pnajuda.gov.pt/en/pages/118103a3",
+        "status": "confirmed"
+      },
+      {
+        "label": "الكرنفال",
+        "value": "٢٠٢٧-٠٢-٠٩",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-09",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "يغلق قصر أجودا الوطني (Ajuda National Palace) في لشبونة (Lisbon).",
+        "impactSource": "https://www.pnajuda.gov.pt/en/pages/118103a3",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الحرية",
+        "value": "٢٠٢٧-٠٤-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "يغلق قصر أجودا الوطني (Ajuda National Palace) في لشبونة (Lisbon).",
+        "impactSource": "https://www.pnajuda.gov.pt/en/pages/118103a3",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٧-٠٥-٢٧",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-27",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم جزر الأزور",
+        "value": "٢٠٢٧-٠٦-٠١",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-01",
+        "impact": "غير مؤكد",
+        "scope": "جزر الأزور (Azores)",
+        "scopeSource": "https://documentacaoearquivo.financas.azores.gov.pt/Feriados.html",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم البرتغال وكامويش والجاليات البرتغالية",
+        "value": "٢٠٢٧-٠٦-١٠",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-10",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ماديرا",
+        "value": "٢٠٢٧-٠٧-٠١",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-01",
+        "impact": "غير مؤكد",
+        "scope": "ماديرا (Madeira)",
+        "scopeSource": "https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2009-493011",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى إعلان الجمهورية",
+        "value": "٢٠٢٧-١٠-٠٥",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-05",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد استعادة الاستقلال",
+        "value": "٢٠٢٧-١٢-٠١",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٧-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "يغلق قصر أجودا الوطني (Ajuda National Palace) في لشبونة (Lisbon).",
+        "impactSource": "https://www.pnajuda.gov.pt/en/pages/118103a3",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد في ماديرا",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/PT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "غير مؤكد",
+        "scope": "ماديرا (Madeira)",
+        "scopeSource": "https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2009-493011",
+        "regional": true,
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم مرتفع",
+        "value": "أغسطس ذروة الصيف خصوصًا على السواحل.",
+        "source": "https://www.portugaltourism.org/best-time-to-visit-portugal/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "زحمة وأسعار أعلى",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "سبتمبر وأكتوبر يخف الازدحام عن أغسطس، وتنخفض الأسعار عن الذروة.",
+        "source": "https://www.portugaltourism.org/best-time-to-visit-portugal/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 9,
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "سبتمبر وأكتوبر يخف الازدحام عن أغسطس، وتنخفض الأسعار عن الذروة.",
+        "source": "https://www.portugaltourism.org/best-time-to-visit-portugal/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 10,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدرسية",
+        "value": "عطلة الميلاد المدرسية في ماديرا (Madeira) وفق تقويم الإقليم.",
+        "source": "https://place.madeira.gov.pt/api/public/Organismo/77/Documento/8",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-16",
+        "end": "2027-01-04",
+        "impact": "عطلة مدرسية",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "احتفالات لشبونة",
+        "value": "لشبونة (Lisbon)، طوال يونيو مع الاحتفالات الشعبية.",
+        "source": "https://www.visitlisboa.com/en/events/lisbon-festivities-1",
+        "checked": "2026-11-27",
+        "month": 6,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

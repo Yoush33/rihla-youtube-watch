@@ -1,0 +1,522 @@
+{
+  "code": "MT",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي",
+        "value": "تأشيرة شنغن قصيرة للسياحة. تُقدّم لدى دولة الوجهة الرئيسية في الرحلة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة",
+        "value": "حتى 90 يوماً في أي فترة من 180 يوماً داخل منطقة شنغن، وفق صلاحية التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "90 يورو للبالغ، و45 يورو للطفل من 6 إلى أقل من 12 سنة. قد تُضاف رسوم مركز الطلبات.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "اليورو. البطاقات شائعة، والنقد مفيد للأكشاك والمشتريات الصغيرة.",
+        "source": "https://sliemavillamalta.com/malta-currency-money-guide/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية. افحص وجود رسوم خدمة في الفاتورة.",
+        "source": "https://sliemavillamalta.com/malta-currency-money-guide/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يومي اقتصادي",
+        "value": "نحو 251 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/malta/trip-cost-MT",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يومي متوسط",
+        "value": "نحو 578 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/malta/trip-cost-MT",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "الشريحة المحلية لدى إيبيك متاحة بتكلفة تفعيل تقارب 10 يورو، وتُحسب البيانات وفق الباقة.",
+        "source": "https://veritaset.com/en/mt/mobile/epic/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "تالينيا لتخطيط الرحلة ومعرفة وقت وصول الحافلة.",
+        "source": "https://apps.apple.com/mt/app/tallinja-plan-your-bus-trip/id1074287322",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "حافلات المطار المباشرة تربط مطار مالطا (Malta International Airport) بمراكز الإقامة الرئيسية ومنها فاليتا (Valletta).",
+        "source": "https://www.publictransport.com.mt/other-services/airport-direct/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "شبكة الحافلات تغطي البلدات. تشمل بعض تذاكر الزوار رحلات بحرية محددة، وتختلف التغطية بحسب فئة التذكرة.",
+        "source": "https://www.publictransport.com.mt/rates-offers-local/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "يوجد مسجد مريم البتول في باولا (Paola). تأكّد من وضع اللحوم في المطاعم التي لا تعرض اعتماداً.",
+        "source": "https://halalmalta.com/where-to-pray-in-malta-a-muslims-guide/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "باستيتسي بالجبن أو البازلاء، خبز فتيرة المالطي، ويخنة الأرنب. استفسر عن الذبح ومكونات الصلصة.",
+        "source": "https://www2.visitmalta.com/en/delicacies/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "توفّر الحلال",
+        "value": "توجد مطاعم تقدم الحلال، خاصة في المناطق السياحية. راجع المورد أو الشهادة عند الطلب.",
+        "source": "https://maltapathway.com/arabic-community-malta/halal-food",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "اختر لباساً ملائماً للكنائس ودور العبادة واحترم الممتلكات الخاصة أثناء التصوير.",
+        "source": "https://eltcouncil.gov.mt/wp-content/uploads/2023/06/HELPFUL-INFORMATION-FOR-STUDENTS-VISITING-MALTA-GOZO-TO-STUDY-ENGLISH.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "تقل ساعات الخدمة في فاليتا (Valletta) يوم الأحد وتختلف بين المحال.",
+        "source": "https://discovervalletta.com/blog/valletta-on-a-sunday/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "مخاطر تهم الزائر",
+        "value": "انتبه للنشل في الحافلات والمناطق السياحية ومناطق السهر، وراقب مشروبك.",
+        "source": "https://www.gov.uk/foreign-travel-advice/malta/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للطوارئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/malta/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "احتيال أُبلغ عنه",
+        "value": "ينتحل محتالون صفة البنوك أو الشرطة هاتفياً. لا تعطِ رمز التحقق أو بيانات البطاقة للمتصل.",
+        "source": "https://pulizija.gov.mt/en/appeal-on-misleading-telephone-calls/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن السهر",
+        "value": "تذكر إرشادات السفر منطقة باتشفيل (Paceville) عند الحديث عن مخاطر السهر. انتبه لمشروبك ومقتنياتك.",
+        "source": "https://www.gov.uk/foreign-travel-advice/malta/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "فاليتا (Valletta)",
+        "value": "مناسبة للمعالم التاريخية ومحطة الحافلات.",
+        "source": "https://www.visitmalta.co.uk/where-to-stay-in-malta",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "سليما (Sliema)",
+        "value": "للممشى البحري والعبّارة إلى العاصمة.",
+        "source": "https://www.visitmalta.co.uk/where-to-stay-in-malta",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "سانت جوليانز (St Julian’s)",
+        "value": "مطاعم كثيرة وسهر، وقد ترتفع الضوضاء ليلاً.",
+        "source": "https://www.visitmalta.co.uk/where-to-stay-in-malta",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار مقترح ومدة كل محطة",
+        "value": "فاليتا (Valletta) يومان مع المدن الثلاث، مدينا (Mdina) يوم مع دينغلي (Dingli)، وفيكتوريا (Victoria) ضمن يومين في جزيرة غوزو (Gozo).",
+        "source": "https://www.travpa.com/malta/itineraries/7-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق المتاحف والمواقع التابعة لهيئة تراث مالطا (Heritage Malta) ما لم تعلن الهيئة استثناءً.",
+        "impactSource": "https://legislation.mt/getpdf/607ffebddf724c17c886d263",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى غرق سفينة القديس بولس",
+        "value": "٢٠٢٦-٠٢-١٠",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-02-10",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس يوسف",
+        "value": "٢٠٢٦-٠٣-١٩",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-03-19",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الحرية",
+        "value": "٢٠٢٦-٠٣-٣١",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-03-31",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "تغلق المتاحف والمواقع التابعة لهيئة تراث مالطا (Heritage Malta) ما لم تعلن الهيئة استثناءً.",
+        "impactSource": "https://legislation.mt/getpdf/607ffebddf724c17c886d263",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى السابع من يونيو",
+        "value": "٢٠٢٦-٠٦-٠٧",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-06-07",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديسين بطرس وبولس",
+        "value": "٢٠٢٦-٠٦-٢٩",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-06-29",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر",
+        "value": "٢٠٢٦-٠٩-٠٨",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-09-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٩-٢١",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-09-21",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٦-١٢-٠٨",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-12-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الجمهورية",
+        "value": "٢٠٢٦-١٢-١٣",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-12-13",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تغلق المتاحف والمواقع التابعة لهيئة تراث مالطا (Heritage Malta) ما لم تعلن الهيئة استثناءً.",
+        "impactSource": "https://legislation.mt/getpdf/607ffebddf724c17c886d263",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق المتاحف والمواقع التابعة لهيئة تراث مالطا (Heritage Malta) ما لم تعلن الهيئة استثناءً.",
+        "impactSource": "https://legislation.mt/getpdf/607ffebddf724c17c886d263",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى غرق سفينة القديس بولس",
+        "value": "٢٠٢٧-٠٢-١٠",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-02-10",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس يوسف",
+        "value": "٢٠٢٧-٠٣-١٩",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-03-19",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "تغلق المتاحف والمواقع التابعة لهيئة تراث مالطا (Heritage Malta) ما لم تعلن الهيئة استثناءً.",
+        "impactSource": "https://legislation.mt/getpdf/607ffebddf724c17c886d263",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الحرية",
+        "value": "٢٠٢٧-٠٣-٣١",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-03-31",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى السابع من يونيو",
+        "value": "٢٠٢٧-٠٦-٠٧",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-06-07",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديسين بطرس وبولس",
+        "value": "٢٠٢٧-٠٦-٢٩",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-06-29",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر",
+        "value": "٢٠٢٧-٠٩-٠٨",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-09-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٩-٢١",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-09-21",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٧-١٢-٠٨",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-12-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الجمهورية",
+        "value": "٢٠٢٧-١٢-١٣",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-12-13",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://dier.gov.mt/en/services/employment-conditions/national-and-public-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق المتاحف والمواقع التابعة لهيئة تراث مالطا (Heritage Malta) ما لم تعلن الهيئة استثناءً.",
+        "impactSource": "https://legislation.mt/getpdf/607ffebddf724c17c886d263",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "وقت أهدأ",
+        "value": "يُصنّف هذا الشهر ضمن المنخفض موسمياً في بيانات السياحة المالطية.",
+        "source": "https://www.mta.com.mt/en/file.aspx?f=34398",
+        "checked": "2026-11-27",
+        "month": 1,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "يُصنّف هذا الشهر ضمن المنخفض موسمياً في بيانات السياحة المالطية.",
+        "source": "https://www.mta.com.mt/en/file.aspx?f=34398",
+        "checked": "2026-11-27",
+        "month": 2,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "يُصنّف هذا الشهر ضمن المنخفض موسمياً في بيانات السياحة المالطية.",
+        "source": "https://www.mta.com.mt/en/file.aspx?f=34398",
+        "checked": "2026-11-27",
+        "month": 11,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس الشتوية",
+        "value": "المدارس الحكومية في إجازة بين نهاية الفصل الأول وبداية الثاني.",
+        "source": "https://lostinmalta.com/school-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-12-23",
+        "end": "2027-01-06",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة الربيع المدرسية",
+        "value": "فترة توقف الدراسة بين الفصلين.",
+        "source": "https://lostinmalta.com/school-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-03-24",
+        "end": "2027-04-04",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "سجّل الإحصاء الوطني أعلى ضغط سياحي في أغسطس، خصوصاً سانت جوليانز (St Julian’s).",
+        "source": "https://nso.gov.mt/tourism-intensity-2025/",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "كرنفال مالطا",
+        "value": "كرنفال سنوي في فاليتا (Valletta) خلال موسم الكرنفال، وغالباً في فبراير.",
+        "source": "https://www.festivals.mt/",
+        "checked": "2026-11-27",
+        "month": 2,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

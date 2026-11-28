@@ -1,0 +1,563 @@
+{
+  "code": "BG",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "تلزم تأشيرة شنغن قصيرة الإقامة للسائح حامل الجواز العادي.",
+        "source": "https://home-affairs.ec.europa.eu/document/download/a2378226-f392-42d0-9984-e023db53d140_en?filename=regulation-2018-1806.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "حتى 90 يوماً في أي 180 يوماً ضمن شنغن مجتمعة، وبحدود التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم طلب البالغ",
+        "value": "90 يورو، وقد تضاف رسوم مركز الخدمة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "اليورو",
+        "source": "https://visitsofia.bg/en/useful-info/banks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "ادفع باليورو، وخذ فئات صغيرة للأسواق والأماكن الريفية.",
+        "source": "https://visit-sofia.org/money-in-bulgaria/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "نحو 10٪ في المطعم عند الرضا عن الخدمة.",
+        "source": "https://visit-sofia.org/money-in-bulgaria/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 128 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/bulgaria",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 311 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/bulgaria",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/bulgaria-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«صوفيا تو غو» لمواعيد النقل وإدارة التذاكر في صوفيا (Sofia).",
+        "source": "https://play.google.com/store/apps/details?id=com.sofiatraffic.sofiago",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "يخدم المترو مطار صوفيا (Sofia Airport) وينطلق من مبنى الركاب 2.",
+        "source": "https://visitsofia.bg/en/how-to-travel/air-transport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "يمكن متابعة خدمات القطارات أو الحافلات المنطلقة من المحطة المركزية في صوفيا (Sofia).",
+        "source": "https://www.visitsofia.bg/en/how-to-travel/public-transport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "تتوفر خيارات قرب وسط صوفيا (Sofia). تحقق من الحلال عند شراء اللحم.",
+        "source": "https://www.gohalaltravel.com/destinations/sofia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد بانيا باشي (Banya Bashi Mosque).",
+        "source": "https://www.gohalaltravel.com/destinations/sofia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "بانيستا بالجبن، سلطة شوبسكا، وحساء تاراتور البارد.",
+        "source": "https://www.esnbg.org/node/28",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "داخل الكنائس والأديرة يُفضَّل تغطية الكتفين والركبتين.",
+        "source": "https://visit-sofia.org/bulgarian-etiquette/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "ركّب سيارة أجرة مرخصة وراجع السعر المعروض قبل الانطلاق.",
+        "source": "https://www.gov.uk/foreign-travel-advice/bulgaria/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "متاجر «صوفيا رينغ مول» (Sofia Ring Mall) من 10 صباحاً إلى 10 مساءً يومياً.",
+        "source": "https://sofiaring.bg/stores?lang=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "انتبه لفواتير الملاهي في صوفيا (Sofia) ومنتجعات مثل صني بيتش (Sunny Beach).",
+        "source": "https://www.gov.uk/foreign-travel-advice/bulgaria/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "وثقت الخارجية مبالغات كبيرة في الفواتير. راجع المبلغ أمامك قبل إدخال الرقم السري.",
+        "source": "https://www.gov.uk/foreign-travel-advice/bulgaria/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 112.",
+        "source": "https://www.gov.uk/foreign-travel-advice/bulgaria/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "سيرديكا (Serdika)",
+        "value": "لقرب المترو والآثار القديمة.",
+        "source": "https://visit-sofia.org/where-to-stay-in-sofia/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "شارع فيتوشا (Vitosha Boulevard)",
+        "value": "للتسوق والمطاعم ومناطق المشاة.",
+        "source": "https://visit-sofia.org/where-to-stay-in-sofia/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "أوبوريشته (Oborishte)",
+        "value": "للحدائق وسكن أهدأ شرق المركز.",
+        "source": "https://visit-sofia.org/where-to-stay-in-sofia/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "صوفيا (Sofia)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://visit-sofia.org/bulgaria-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "بلوفديف (Plovdiv)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://visit-sofia.org/bulgaria-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "فيليكو ترنوفو (Veliko Tarnovo)",
+        "value": "توزيع مقترح للزيارة: يوم إلى يومين.",
+        "source": "https://visit-sofia.org/bulgaria-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم تغيير العملة",
+        "value": "٢٠٢٦-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/BG/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التحرير البلغاري",
+        "value": "٢٠٢٦-٠٣-٠٣",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-03-03",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-١٠",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-10",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "سبت النور",
+        "value": "٢٠٢٦-٠٤-١١",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-11",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٦-٠٤-١٢",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-12",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-١٣",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-13",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس جورج ويوم الشجاعة والجيش",
+        "value": "٢٠٢٦-٠٥-٠٦",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-05-06",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التعليم والثقافة البلغارية والأبجدية السلافية",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التوحيد",
+        "value": "٢٠٢٦-٠٩-٠٧",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-09-07",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٩-٢٢",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-09-22",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٤",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التحرير البلغاري",
+        "value": "٢٠٢٧-٠٣-٠٣",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-03",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٤-٣٠",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-04-30",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "سبت النور",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٧-٠٥-٠٢",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس جورج ويوم الشجاعة والجيش",
+        "value": "٢٠٢٧-٠٥-٠٦",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التعليم والثقافة البلغارية والأبجدية السلافية",
+        "value": "٢٠٢٧-٠٥-٢٤",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-24",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التوحيد",
+        "value": "٢٠٢٧-٠٩-٠٦",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-09-06",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٩-٢٢",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-09-22",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٤",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٧",
+        "source": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-12-27",
+        "impact": "عطلة رسمية عن العمل. راجع مواعيد الدوام، خاصة إذا صادفت المناسبة عطلة نهاية الأسبوع.",
+        "impactSource": "https://government.bg/en/About-Bulgaria/BULGARIAN-PUBLIC-HOLIDAYS/Bulgarian-public-holidays",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الميلاد للمدارس",
+        "value": "إجازة مدرسية من 2026-12-24 إلى 2027-01-03 شاملة الطرفين.",
+        "source": "https://www.mon.bg/dyasno-menyu/vakantsii/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-24",
+        "end": "2027-01-03",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "يشتد الطلب على شاطئ البحر الأسود خلال الصيف.",
+        "source": "https://www.lonelyplanet.com/articles/when-to-visit-bulgaria",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "الربيع أو أوائل الخريف قبل موسم التزلج.",
+        "source": "https://www.lonelyplanet.com/articles/when-to-visit-bulgaria",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة الصيف على الساحل في أغسطس",
+        "value": "يزداد إشغال وجهات الصيف.",
+        "source": "https://traveloffsy.com/off-season-bulgaria",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "يزداد إشغال وجهات الصيف.",
+        "status": "confirmed"
+      },
+      {
+        "label": "شواطئ بريمورسكو (Primorsko)",
+        "value": "يشهد شاطئ بريمورسكو على البحر الأسود (Black Sea) ازدحام الزوار في يوليو وأغسطس.",
+        "source": "https://www.lonelyplanet.com/articles/when-to-visit-bulgaria",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "زحمة على الشاطئ",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان الورد",
+        "value": "كازانلاك (Kazanlak)، أول عطلة نهاية أسبوع في يونيو عادةً، بالتزامن مع إزهار الورد.",
+        "source": "https://www.tourism.government.bg/en/tourist-destinations/2800/5743",
+        "checked": "2026-11-27",
+        "month": 6,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "code": "GE",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "الجواز السعودي العادي معفى من التأشيرة.",
+        "source": "https://matsne.gov.ge/en/document/view/2867361?impose=translateEn",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "سنة كاملة.",
+        "source": "https://matsne.gov.ge/en/document/view/2867361?impose=translateEn",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "من دون رسوم تأشيرة.",
+        "source": "https://matsne.gov.ge/en/document/view/2867361?impose=translateEn",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "استخدم البطاقة في المدن واحمل نقدًا للأسواق ودور الضيافة الصغيرة.",
+        "source": "https://www.tourismcenter.ge/en/info/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "اللاري الجورجي",
+        "source": "https://www.tourismcenter.ge/en/info/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية، وافحص الحساب فقد تكون الخدمة مضافة.",
+        "source": "https://www.tourismcenter.ge/en/info/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 56 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/georgia",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 146 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/georgia",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 17 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/georgia-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "تطبيق شركة نقل تبليسي (Tbilisi Transport Company) للمواصلات المحلية.",
+        "source": "https://apps.apple.com/us/app/tbilisi-transport-company/id927903973",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "الحافلة 337 تصل مطار تبليسي (Tbilisi) بالمدينة.",
+        "source": "https://mytbilisi.ge/travel-info",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "تربط قطارات الركاب تبليسي (Tbilisi) بباتومي (Batumi).",
+        "source": "https://www.railway.ge/app/uploads/sites/5/2025/11/ANNUALREPORT2024_.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "توجد مطاعم حلال في تبليسي (Tbilisi). افحص اعتماد المطعم أو اسأل عن اللحوم والمرق.",
+        "source": "https://www.tourismcenter.ge/en/family/halal-kosher/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "مسجد الجمعة (Jumah Mosque) قرب قلعة ناريكالا (Narikala) في تبليسي القديمة (Old Tbilisi).",
+        "source": "https://georgia.travel/jumah-mosque",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "خاتشابوري بالجبن، لوبياني بالفاصوليا، وخينكالي بحشوة بطاطس أو فطر.",
+        "source": "https://thegeorgianguide.com/food-wine/street-food-guide/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "البس باحتشام خصوصًا في دور العبادة وراعِ حساسية إظهار المودة في الأماكن العامة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "أسواق تبليسي (Tbilisi) غالبًا حتى الخامسة مساءً، وتعمل بعض المراكز التجارية حتى العاشرة أو الحادية عشرة.",
+        "source": "https://georgia.travel/coming-to-georgia/opening-hours-in-georgia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للشرطة والإسعاف والإطفاء.",
+        "source": "https://www.gov.uk/foreign-travel-advice/georgia/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "ابتعد عن المظاهرات والتجمعات السياسية.",
+        "source": "https://travel.gc.ca/destinations/georgia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "انتبه لخطف الحقائب والنشل في التجمعات.",
+        "source": "https://travel.gc.ca/destinations/georgia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "البلدة القديمة (Old Tbilisi)",
+        "value": "للمعالم والحمامات",
+        "source": "https://gtour.ge/best-tbilisi-neighbourhoods-where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "سولولاكي (Sololaki)",
+        "value": "للعمارة والشوارع التاريخية",
+        "source": "https://gtour.ge/best-tbilisi-neighbourhoods-where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "فيرا (Vera)",
+        "value": "للمقاهي والحياة المحلية",
+        "source": "https://gtour.ge/best-tbilisi-neighbourhoods-where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "تبليسي (Tbilisi)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://travelguide.ge/en/articles/7-day-georgia-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كوتايسي (Kutaisi)",
+        "value": "نقترح يومًا واحدًا عند توزيع وقت الرحلة.",
+        "source": "https://travelguide.ge/en/articles/7-day-georgia-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "باتومي (Batumi)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://travelguide.ge/en/articles/7-day-georgia-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الأرثوذكسي",
+        "value": "٢٠٢٦-٠١-٠٧",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-07",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-١٩",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-19",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأم",
+        "value": "٢٠٢٦-٠٣-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-03",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للمرأة",
+        "value": "٢٠٢٦-٠٣-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-08",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الوحدة الوطنية",
+        "value": "٢٠٢٦-٠٤-٠٩",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-09",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-١٠",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-10",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "سبت النور",
+        "value": "٢٠٢٦-٠٤-١١",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-11",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح الأرثوذكسي",
+        "value": "٢٠٢٦-٠٤-١٢",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-12",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح الأرثوذكسي",
+        "value": "٢٠٢٦-٠٤-١٣",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-13",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر على الفاشية",
+        "value": "٢٠٢٦-٠٥-٠٩",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-09",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى قدوم القديس أندراوس إلى جورجيا",
+        "value": "٢٠٢٦-٠٥-١٢",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-12",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم قدسية الأسرة وتكريم الوالدين",
+        "value": "٢٠٢٦-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-17",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٥-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-26",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد رقاد السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-٢٨",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-28",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد سفيتيتسخوفلوبا",
+        "value": "٢٠٢٦-١٠-١٤",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-14",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس جورج",
+        "value": "٢٠٢٦-١١-٢٣",
+        "source": "https://date.nager.at/Calendar/2026/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-23",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-02",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الأرثوذكسي",
+        "value": "٢٠٢٧-٠١-٠٧",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-07",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-١٩",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-19",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأم",
+        "value": "٢٠٢٧-٠٣-٠٣",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-03",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للمرأة",
+        "value": "٢٠٢٧-٠٣-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الوحدة الوطنية",
+        "value": "٢٠٢٧-٠٤-٠٩",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-09",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٤-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-30",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "سبت النور",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح الأرثوذكسي",
+        "value": "٢٠٢٧-٠٥-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح الأرثوذكسي",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر على الفاشية",
+        "value": "٢٠٢٧-٠٥-٠٩",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-09",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى قدوم القديس أندراوس إلى جورجيا",
+        "value": "٢٠٢٧-٠٥-١٢",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-12",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم قدسية الأسرة وتكريم الوالدين",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٥-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-26",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد رقاد السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-28",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد سفيتيتسخوفلوبا",
+        "value": "٢٠٢٧-١٠-١٤",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-14",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس جورج",
+        "value": "٢٠٢٧-١١-٢٣",
+        "source": "https://date.nager.at/Calendar/2027/GE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-23",
+        "impact": "تغلق الدوائر الحكومية والمصارف عادة في العطلات الرسمية.",
+        "impactSource": "https://georgia.travel/coming-to-georgia/holidays-and-days-off",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "تبدأ الدراسة عادة في 15 سبتمبر، أو يوم العمل التالي إذا صادف عطلة.",
+        "source": "https://www.matsne.gov.ge/en/document/download/29248/116/en/pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم والوقت الأهدأ",
+        "value": "مايو وسبتمبر مناسبان للمدن، والصيف للمسارات الجبلية المفتوحة.",
+        "source": "https://www.lonelyplanet.com/articles/first-time-guide-to-georgia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الفنادق في تبليسي (Tbilisi)",
+        "value": "يبيّن تقرير سوق الضيافة أن حركة السياحة الفندقية تشتد من يوليو إلى سبتمبر.",
+        "source": "https://cushwake.ge/storage/files/doc/Tbilisi%20Hospitality%20English_21.11.23.pdf",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "ارتفاع الطلب على الإقامة في العاصمة",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الفنادق في تبليسي (Tbilisi)",
+        "value": "يبيّن تقرير سوق الضيافة أن حركة السياحة الفندقية تشتد من يوليو إلى سبتمبر.",
+        "source": "https://cushwake.ge/storage/files/doc/Tbilisi%20Hospitality%20English_21.11.23.pdf",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "ارتفاع الطلب على الإقامة في العاصمة",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الفنادق في تبليسي (Tbilisi)",
+        "value": "يبيّن تقرير سوق الضيافة أن حركة السياحة الفندقية تشتد من يوليو إلى سبتمبر.",
+        "source": "https://cushwake.ge/storage/files/doc/Tbilisi%20Hospitality%20English_21.11.23.pdf",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": true,
+        "impact": "ارتفاع الطلب على الإقامة في العاصمة",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان تبليسوبا",
+        "value": "تبليسي (Tbilisi)، في أكتوبر. تقام أنشطة احتفالية في حديقة ريكي (Rike Park).",
+        "source": "https://georgia.travel/family-attractions/rike-park",
+        "checked": "2026-11-27",
+        "month": 10,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

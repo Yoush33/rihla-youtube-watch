@@ -1,0 +1,490 @@
+{
+  "code": "NL",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي",
+        "value": "تأشيرة شنغن قصيرة للسياحة. تُقدّم لدى دولة الوجهة الرئيسية في الرحلة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة",
+        "value": "حتى 90 يوماً في أي فترة من 180 يوماً داخل منطقة شنغن، وفق صلاحية التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "90 يورو للبالغ، و45 يورو للطفل من 6 إلى أقل من 12 سنة. قد تُضاف رسوم مركز الطلبات.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "اليورو. الدفع بالبطاقة واسع الاستخدام، وبعض المحال تقبل الدفع الإلكتروني حصراً.",
+        "source": "https://discovernetherlands.travel/essentials/money",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية، ويمكن تقريب الفاتورة.",
+        "source": "https://www.dutch-guide.com/blog/netherlands-currency-and-payments",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يومي اقتصادي",
+        "value": "نحو 360 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/netherlands/trip-cost-NL",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يومي متوسط",
+        "value": "نحو 881 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/netherlands/trip-cost-NL",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "باقة كي بي إن الإلكترونية للبيانات بسعة 5 غيغابايت تقارب 19.99 يورو.",
+        "source": "https://travel.kpn.com/kpn/europe/pdp",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "تطبيق 9292 يجمع القطارات والمترو والترام والحافلات.",
+        "source": "https://play.google.com/store/apps/details?hl=en&id=nl.negentwee",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "محطة القطار أسفل مطار سخيبول (Schiphol). اختر رحلة القطار إلى أمستردام (Amsterdam) حسب موعد الهبوط.",
+        "source": "https://www.schiphol.nl/en/from-to-schiphol/by-public-transport/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "ترتبط أمستردام (Amsterdam) ودلفت (Delft) وروتردام (Rotterdam) ولاهاي (The Hague) بالقطارات.",
+        "source": "https://www.discovernetherlands.travel/itineraries/7-day-randstad-delft-rotterdam-hague",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "في أمستردام (Amsterdam) خيارات متعددة للطعام الحلال والإفطار، خاصة في الأحياء ذات الجاليات المسلمة.",
+        "source": "https://www.iamsterdam.com/en/whats-on/festivals-and-events/best-iftar-spots-during-ramadan",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "ستامبوت بالبطاطس، فطائر البانكيك الهولندية، والرنجة. اسأل عن اللحوم في الستامبوت.",
+        "source": "https://www.workinnl.nl/en/living-in-nl/culture/cuisine/default.aspx",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مسجد للصلاة",
+        "value": "مسجد الغرب في أمستردام (Amsterdam Westermoskee)، وعنوانه منشور في موقع المسجد.",
+        "source": "https://mgwestermoskee.nl/contact/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "انتبه لمسارات الدراجات عند المشي أو اجتياز الشارع في أمستردام (Amsterdam).",
+        "source": "https://www.discovernetherlands.travel/essentials/etiquette",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "تسمح القواعد العامة بالفتح بين السادسة صباحاً والعاشرة مساءً في أيام الأسبوع والسبت. الأحد والأعياد بقرار البلدية.",
+        "source": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "مخاطر تهم الزائر",
+        "value": "ينشط النشالون خصوصاً في وسط أمستردام (Amsterdam) ووسائل النقل العامة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/netherlands/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للطوارئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/netherlands/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "احتيال أُبلغ عنه",
+        "value": "تنبّه الشرطة إلى منتحلي صفتها الذين يفتشون محافظ السياح بدعوى البحث عن عملة مزورة.",
+        "source": "https://www.politie.nl/en/news/2026/june/24/romanian-fake-police-officers-scam-tourists.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "يوردان (Jordaan)",
+        "value": "قنوات ومقاهٍ وشوارع صغيرة.",
+        "source": "https://destination-amsterdam.com/where-to-stay",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "حي المتاحف (Museum Quarter)",
+        "value": "قرب المتاحف الكبرى والحديقة.",
+        "source": "https://destination-amsterdam.com/where-to-stay",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "دي بايب (De Pijp)",
+        "value": "سوق ومطاعم في حي سكني.",
+        "source": "https://destination-amsterdam.com/where-to-stay",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار مقترح ومدة كل محطة",
+        "value": "أمستردام (Amsterdam) نحو 3 أيام، ودلفت (Delft) وروتردام (Rotterdam) ولاهاي (The Hague) نحو يوم لكل مدينة ضمن مسار أسبوع.",
+        "source": "https://www.discovernetherlands.travel/itineraries/7-day-randstad-delft-rotterdam-hague",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "تغلق المتاجر عادة بحلول السابعة مساءً، وقد تسمح البلدية بتمديد الدوام.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الملك",
+        "value": "٢٠٢٦-٠٤-٢٧",
+        "source": "https://date.nager.at/Calendar/2026/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-27",
+        "impact": "زحمة في قطارات أمستردام (Amsterdam) وتقييد خطوط النقل وسط المدينة.",
+        "impactSource": "https://www.iamsterdam.com/en/whats-on/getting-around-and-practical-info-on-kings-day",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التحرير",
+        "value": "٢٠٢٦-٠٥-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-05",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٦-٠٥-١٤",
+        "source": "https://date.nager.at/Calendar/2026/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-14",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "تغلق المتاجر عادة بحلول السابعة مساءً، وقد تسمح البلدية بتمديد الدوام.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الملك",
+        "value": "٢٠٢٧-٠٤-٢٧",
+        "source": "https://date.nager.at/Calendar/2027/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-27",
+        "impact": "زحمة في قطارات أمستردام (Amsterdam) وتقييد خطوط النقل وسط المدينة.",
+        "impactSource": "https://www.iamsterdam.com/en/whats-on/getting-around-and-practical-info-on-kings-day",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التحرير",
+        "value": "٢٠٢٧-٠٥-٠٥",
+        "source": "https://date.nager.at/Calendar/2027/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-05",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٧-٠٥-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٧-٠٥-١٦",
+        "source": "https://date.nager.at/Calendar/2027/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2027/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/NL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تقرر كل بلدية السماح بفتح المتاجر في العطلة أو الأحد. راجع ساعات متاجر المدينة.",
+        "impactSource": "https://www.government.nl/documents/question-and-answer/when-are-shops-open-in-the-netherlands",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم الذروة",
+        "value": "موسم أزهار التوليب ويوم الملك. يرتفع الطلب في أمستردام (Amsterdam).",
+        "source": "https://www.discovernetherlands.travel/when-to-go",
+        "checked": "2026-11-27",
+        "month": 4,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "يخف الضغط بعد موسم الصيف.",
+        "source": "https://www.discovernetherlands.travel/when-to-go",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس الشتوية",
+        "value": "موعد مشترك للمناطق التعليمية الثلاث.",
+        "source": "https://www.government.nl/themes/education/school-holidays/overview-of-school-holiday-dates-per-academic-year/school-holiday-dates-2026-2027",
+        "checked": "2026-11-27",
+        "date": "2026-12-19",
+        "end": "2027-01-03",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة الربيع المشتركة",
+        "value": "إجازة مايو للمدارس في المناطق الثلاث.",
+        "source": "https://www.government.nl/themes/education/school-holidays/overview-of-school-holiday-dates-per-academic-year/school-holiday-dates-2026-2027",
+        "checked": "2026-11-27",
+        "date": "2027-04-24",
+        "end": "2027-05-02",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصيف المدرسي في الشمال",
+        "value": "العطلة الصيفية في الإقليم التعليمي الشمالي.",
+        "source": "https://www.government.nl/themes/education/school-holidays/overview-of-school-holiday-dates-per-academic-year/school-holiday-dates-2026-2027",
+        "checked": "2026-11-27",
+        "date": "2027-07-10",
+        "end": "2027-08-22",
+        "peak": true,
+        "impact": "إجازة مدرسية إقليمية",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصيف المدرسي في الوسط",
+        "value": "العطلة الصيفية في الإقليم التعليمي الأوسط.",
+        "source": "https://www.government.nl/themes/education/school-holidays/overview-of-school-holiday-dates-per-academic-year/school-holiday-dates-2026-2027",
+        "checked": "2026-11-27",
+        "date": "2027-07-17",
+        "end": "2027-08-29",
+        "peak": true,
+        "impact": "إجازة مدرسية إقليمية",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصيف المدرسي في الجنوب",
+        "value": "العطلة الصيفية في الإقليم التعليمي الجنوبي.",
+        "source": "https://www.government.nl/themes/education/school-holidays/overview-of-school-holiday-dates-per-academic-year/school-holiday-dates-2026-2027",
+        "checked": "2026-11-27",
+        "date": "2027-07-24",
+        "end": "2027-09-05",
+        "peak": true,
+        "impact": "إجازة مدرسية إقليمية",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "يوم الملك",
+        "value": "احتفالات الشوارع والقنوات في أمستردام (Amsterdam) في أبريل.",
+        "source": "https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/kings-day",
+        "checked": "2026-11-27",
+        "month": 4,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

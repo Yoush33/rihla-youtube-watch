@@ -1,0 +1,552 @@
+{
+  "code": "KZ",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "إعفاء من التأشيرة للجواز السعودي العادي.",
+        "source": "https://www.gov.kz/org/mfa/activities/34747?lang=en&parentId=96",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 30 يومًا للجواز العادي.",
+        "source": "https://www.gov.kz/org/mfa/activities/34747?lang=en&parentId=96",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "من دون رسم تأشيرة ضمن الإعفاء.",
+        "source": "https://www.gov.kz/org/mfa/activities/34747?lang=en&parentId=96",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "تقبل معظم المنشآت البطاقات وقد تطلب رقمها السري.",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/destination.kaz.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "التنغي الكازاخستاني",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/destination.kaz.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "كثير من المطاعم تضيف الخدمة إلى الفاتورة.",
+        "source": "https://www.icao.int/Meetings/TRIP-Kazakhstan-2023/Documents/INFORMATION%20BULLETIN.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 41 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/Kazakhstan",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 98 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/Kazakhstan",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 15 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/kazakhstan-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "أوناي (ONAY!) للنقل العام في ألماتي (Almaty).",
+        "source": "https://apps.apple.com/kz/app/onay-your-city-companion/id1267862149",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "الحافلة 92 تصل مطار ألماتي (Almaty) بالمدينة، وتوجد خدمة أجرة رسمية.",
+        "source": "https://tildes.silt.kz/en/guide/first-time/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "تتوفر قطارات وحافلات للمسافات بين المدن.",
+        "source": "https://welcometokazakhstan.com/practical/transportation",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "توجد مطاعم تقدم أكلًا حلالًا في ألماتي (Almaty).",
+        "source": "https://arcadia-tour.com/en/halal-restaurants-almaty-guide/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "مسجد ألماتي المركزي (Central Mosque of Almaty) في شارع بوشكين (Pushkin Street).",
+        "source": "https://kazakhstan.travel/en/attractions/415",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "بشبرمق، كويرداك (لحم وأحشاء)، وباورساق (عجين مقلي).",
+        "source": "https://www.kazakhstantourism.org/traditional-kazakh-dishes/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "في المساجد غطّ الكتفين والساقين وراعِ تعليمات غطاء الرأس.",
+        "source": "https://www.kazakhstantourism.org/what-to-pack-for-kazakhstan/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "مثلًا، تعمل متاجر دوستيك بلازا (Dostyk Plaza) في ألماتي (Almaty) من 10 صباحًا حتى 10 مساءً بحسب نظام المركز.",
+        "source": "https://dostykplaza.kz/upload/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A2%D0%A0%D0%A6_Dostyk_Plaza_%D0%B4%D0%BB%D1%8F_%D0%BF%D0%BE%D1%81%D0%B5%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%BA%D0%B0%D0%B7.%D1%80%D1%83%D1%81.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للإنقاذ والطوارئ، و102 للشرطة و103 للإسعاف.",
+        "source": "https://www.gov.uk/foreign-travel-advice/kazakhstan/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "انتبه للنشل حول السوق الأخضر (Green Market) في ألماتي (Almaty).",
+        "source": "https://www.smartraveller.gov.au/destinations/asia/kazakhstan",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "النشل وخطف الحقائب في الأسواق المفتوحة ومواقع التسوق.",
+        "source": "https://www.smartraveller.gov.au/destinations/asia/kazakhstan",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ألمالي (Almaly)",
+        "value": "للمعالم المركزية",
+        "source": "https://www.kazakh.org/travel-guide/best-areas-to-stay-in-almaty-neighborhood-guide-for-travelers/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "دوستيك (Dostyk)",
+        "value": "للتسوق والمطاعم",
+        "source": "https://www.kazakh.org/travel-guide/best-areas-to-stay-in-almaty-neighborhood-guide-for-travelers/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "سامال (Samal)",
+        "value": "لسكن محلي قرب وسط المدينة",
+        "source": "https://www.kazakh.org/travel-guide/best-areas-to-stay-in-almaty-neighborhood-guide-for-travelers/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "ألماتي (Almaty)",
+        "value": "نقترح أربعة أيام عند توزيع وقت الرحلة.",
+        "source": "https://charyn.kz/eng/itineraries/kazakhstan-14-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "شيمكنت (Shymkent)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://charyn.kz/eng/itineraries/kazakhstan-14-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "أستانا (Astana)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://charyn.kz/eng/itineraries/kazakhstan-14-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠٢",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الأرثوذكسي",
+        "value": "٢٠٢٦-٠١-٠٧ · يوم إجازة",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-01-07",
+        "impact": "إجازة عن العمل لهذا اليوم، من دون يوم تعويضي إضافي.",
+        "impactSource": "https://www.gov.kz/article/33969?lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للمرأة",
+        "value": "٢٠٢٦-٠٣-٠٨",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-03-08",
+        "impact": "عندما تصادف العطلة الوطنية نهاية الأسبوع تمتد الإجازة. راجع اليوم البديل قبل المعاملات.",
+        "impactSource": "https://www.gov.kz/article/33969?lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النوروز",
+        "value": "٢٠٢٦-٠٣-٢١",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-03-21",
+        "impact": "عندما تصادف العطلة الوطنية نهاية الأسبوع تمتد الإجازة. راجع اليوم البديل قبل المعاملات.",
+        "impactSource": "https://www.gov.kz/article/33969?lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النوروز",
+        "value": "٢٠٢٦-٠٣-٢٢",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-03-22",
+        "impact": "عندما تصادف العطلة الوطنية نهاية الأسبوع تمتد الإجازة. راجع اليوم البديل قبل المعاملات.",
+        "impactSource": "https://www.gov.kz/article/33969?lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النوروز",
+        "value": "٢٠٢٦-٠٣-٢٣",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-03-23",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم وحدة شعب كازاخستان",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المدافعين عن الوطن",
+        "value": "٢٠٢٦-٠٥-٠٧",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-05-07",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النصر",
+        "value": "٢٠٢٦-٠٥-٠٩",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-05-09",
+        "impact": "عندما تصادف العطلة الوطنية نهاية الأسبوع تمتد الإجازة. راجع اليوم البديل قبل المعاملات.",
+        "impactSource": "https://www.gov.kz/article/33969?lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٦-٠٥-٢٧ · يوم إجازة تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "impact": "إجازة عن العمل لهذا اليوم، من دون يوم تعويضي إضافي.",
+        "impactSource": "https://www.gov.kz/article/33969?lang=en",
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم العاصمة",
+        "value": "٢٠٢٦-٠٧-٠٦",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-07-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور · تاريخ أغسطس في اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://www.gov.kz/article/64578?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-08-30",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الجمهورية",
+        "value": "٢٠٢٦-١٠-٢٥",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-10-25",
+        "impact": "عندما تصادف العطلة الوطنية نهاية الأسبوع تمتد الإجازة. راجع اليوم البديل قبل المعاملات.",
+        "impactSource": "https://www.gov.kz/article/33969?lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-١٢-١٦",
+        "source": "https://www.gov.kz/article/33969?lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-12-16",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/KZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/KZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-02",
+        "impact": "عندما تصادف العطلة الوطنية نهاية الأسبوع تمتد الإجازة. راجع اليوم البديل قبل المعاملات.",
+        "impactSource": "https://www.gov.kz/article/33969?lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للمرأة",
+        "value": "٢٠٢٧-٠٣-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/KZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٧-٠٣-١٥ · التقويم بعد اعتماد الدستور الجديد",
+        "source": "https://www.gov.kz/article/64578?lang=en",
+        "checked": "2026-11-27",
+        "date": "2027-03-15",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النوروز",
+        "value": "٢٠٢٧-٠٣-٢١",
+        "source": "https://date.nager.at/Calendar/2027/KZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-21",
+        "impact": "عندما تصادف العطلة الوطنية نهاية الأسبوع تمتد الإجازة. راجع اليوم البديل قبل المعاملات.",
+        "impactSource": "https://www.gov.kz/article/33969?lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النوروز",
+        "value": "٢٠٢٧-٠٣-٢٢",
+        "source": "https://date.nager.at/Calendar/2027/KZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-22",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النوروز",
+        "value": "٢٠٢٧-٠٣-٢٣",
+        "source": "https://date.nager.at/Calendar/2027/KZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-23",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم وحدة شعب كازاخستان",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/KZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "عندما تصادف العطلة الوطنية نهاية الأسبوع تمتد الإجازة. راجع اليوم البديل قبل المعاملات.",
+        "impactSource": "https://www.gov.kz/article/33969?lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المدافعين عن الوطن",
+        "value": "٢٠٢٧-٠٥-٠٧",
+        "source": "https://date.nager.at/Calendar/2027/KZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-07",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النصر",
+        "value": "٢٠٢٧-٠٥-٠٩",
+        "source": "https://date.nager.at/Calendar/2027/KZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-09",
+        "impact": "عندما تصادف العطلة الوطنية نهاية الأسبوع تمتد الإجازة. راجع اليوم البديل قبل المعاملات.",
+        "impactSource": "https://www.gov.kz/article/33969?lang=en",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم العاصمة",
+        "value": "٢٠٢٧-٠٧-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/KZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور · تاريخ أغسطس في اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://www.gov.kz/article/64578?lang=en",
+        "checked": "2026-11-27",
+        "date": "2027-08-30",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الجمهورية",
+        "value": "٢٠٢٧-١٠-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/KZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-١٢-١٦",
+        "source": "https://date.nager.at/Calendar/2027/KZ/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-16",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الخريف للمدارس",
+        "value": "من 2026-10-26 إلى 2026-11-01 حسب التقويم المدرسي.",
+        "source": "https://www.gov.kz/org/edu/press/news/details/1266458?lang=ru",
+        "checked": "2026-11-27",
+        "date": "2026-10-26",
+        "end": "2026-11-01",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم والوقت الأهدأ",
+        "value": "أسعار السكن مستقرة نسبيًا على مدار العام، لكن توافره قد يقل شتاءً.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-kazakhstan",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "منتجعات الجبال المحيطة بألماتي (Almaty)",
+        "value": "من ديسمبر إلى مارس تبلغ أسعار غرف منتجعات التزلج مثل شيمبولاك (Shymbulak) أعلى مستوياتها السنوية بحسب دليل المنطقة.",
+        "source": "https://www.kazakhstantourism.org/almaty-mountain-resorts/",
+        "checked": "2026-11-27",
+        "month": 12,
+        "peak": true,
+        "impact": "أسعار أعلى في منتجعات التزلج",
+        "status": "confirmed"
+      },
+      {
+        "label": "منتجعات الجبال المحيطة بألماتي (Almaty)",
+        "value": "من ديسمبر إلى مارس تبلغ أسعار غرف منتجعات التزلج مثل شيمبولاك (Shymbulak) أعلى مستوياتها السنوية بحسب دليل المنطقة.",
+        "source": "https://www.kazakhstantourism.org/almaty-mountain-resorts/",
+        "checked": "2026-11-27",
+        "month": 1,
+        "peak": true,
+        "impact": "أسعار أعلى في منتجعات التزلج",
+        "status": "confirmed"
+      },
+      {
+        "label": "منتجعات الجبال المحيطة بألماتي (Almaty)",
+        "value": "من ديسمبر إلى مارس تبلغ أسعار غرف منتجعات التزلج مثل شيمبولاك (Shymbulak) أعلى مستوياتها السنوية بحسب دليل المنطقة.",
+        "source": "https://www.kazakhstantourism.org/almaty-mountain-resorts/",
+        "checked": "2026-11-27",
+        "month": 2,
+        "peak": true,
+        "impact": "أسعار أعلى في منتجعات التزلج",
+        "status": "confirmed"
+      },
+      {
+        "label": "منتجعات الجبال المحيطة بألماتي (Almaty)",
+        "value": "من ديسمبر إلى مارس تبلغ أسعار غرف منتجعات التزلج مثل شيمبولاك (Shymbulak) أعلى مستوياتها السنوية بحسب دليل المنطقة.",
+        "source": "https://www.kazakhstantourism.org/almaty-mountain-resorts/",
+        "checked": "2026-11-27",
+        "month": 3,
+        "peak": true,
+        "impact": "أسعار أعلى في منتجعات التزلج",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "احتفالات نوروز",
+        "value": "ألماتي (Almaty)، مارس.",
+        "source": "https://www.gov.kz/org/almaty/press/news/details/1183943?lang=ru",
+        "checked": "2026-11-27",
+        "month": 3,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

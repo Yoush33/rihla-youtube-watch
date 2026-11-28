@@ -1,0 +1,600 @@
+{
+  "code": "GB",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "تصريح سفر إلكتروني قبل السفر (ETA).",
+        "source": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-eta-national-list",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 6 أشهر في الزيارة السياحية المعتادة.",
+        "source": "https://www.gov.uk/eta/what-you-can-cannot-do",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "20 جنيهًا إسترلينيًا.",
+        "source": "https://www.gov.uk/eta/apply",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "تقبل منافذ لندن (London) الدفع بالبطاقة وبدون لمس، وتتوفر الصرافات للسحب النقدي.",
+        "source": "https://www.visitlondon.com/traveller-information/essential-information/money/british-money",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "الجنيه الإسترليني.",
+        "source": "https://www.visitlondon.com/traveller-information/essential-information/money/british-money",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية. إذا خلا الحساب من رسوم الخدمة، يشيع ترك 10–15٪ في المطاعم.",
+        "source": "https://www.visitlondon.com/traveller-information/essential-information/money/tipping",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "لإنجلترا (England) نحو 281–375 ريالًا باليوم، مع سكن اقتصادي وطعام بسيط ونقل عام.",
+        "source": "https://www.roughguides.com/england/travel-tips/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 896 ريالًا للفرد يوميًا، متوسط إنفاق المسافرين على السكن والطعام والتنقل المحلي.",
+        "source": "https://www.budgetyourtrip.com/united-kingdom",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 15 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/united-kingdom-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "تي إف إل غو (TfL Go) من هيئة النقل في لندن (London).",
+        "source": "https://tfl.gov.uk/plan-a-journey/tfl-go?cid=email_FINAL_TFL1104_Tram_closures_extention-TfL+Go+app",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "مترو خط بيكاديللي يصل هيثرو (Heathrow) بوسط لندن (London).",
+        "source": "https://tfl.gov.uk/help-with-travel/ways-to-travel/london-airports",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "القطار خيار مباشر بين مدن بريطانية كثيرة. قارن الجدول قبل الحجز.",
+        "source": "https://www.visitbritain.org/travelling-around-britain",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "خيارات متعددة في لندن (London)، ومنها منطقة ماربل آرتش (Marble Arch).",
+        "source": "https://halalrihla.com/en/vacations/london-week/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "مسجد لندن المركزي (London Central Mosque) ومسجد شرق لندن (East London Mosque) في العاصمة.",
+        "source": "https://halalrihla.com/en/vacations/london-week/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "السمك والبطاطس، فطيرة الراعي، والمشوي البريطاني. اختر لحومًا حلالًا للطبقين الأخيرين.",
+        "source": "https://www.nationalgeographic.com/travel/article/best-british-pub-dishes",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "عند زيارة دور العبادة اتبع تعليمات المكان بشأن خلع الحذاء وتغطية الرأس.",
+        "source": "https://www.whoisallah.org.uk/common/visit",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "توجد ساعات تسوق مسائية لبعض المتاجر الكبرى في لندن (London)، ويختلف الإغلاق حسب الفرع.",
+        "source": "https://www.visitlondon.com/things-to-do/shopping/late-night-shopping",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "999 للطوارئ.",
+        "source": "https://www.gov.uk/contact-police",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "انتبه لهاتفك في المناطق السياحية في لندن (London).",
+        "source": "https://travel.gc.ca/destinations/united-kingdom?hootPostID=9b8449719f85f6fce8de5706d7eebf2b&wbdisable=true",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "قد ينتحل محتال صفة شرطي ويطلب غرامة فورية، كما تتكرر سرقة الهواتف من اليد.",
+        "source": "https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/united-kingdom/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ويست إند (West End)",
+        "value": "للمسارح",
+        "source": "https://londontouristinformation.com/hotels/where-to-stay-in-london-first-time/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ساوث بانك (South Bank)",
+        "value": "للمشي على النهر",
+        "source": "https://londontouristinformation.com/hotels/where-to-stay-in-london-first-time/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "بادينغتون (Paddington)",
+        "value": "لوصلة المطار",
+        "source": "https://londontouristinformation.com/hotels/where-to-stay-in-london-first-time/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "لندن (London)",
+        "value": "نقترح ثلاثة أيام عند توزيع وقت الرحلة.",
+        "source": "https://www.visbytravel.com/itineraries/london-york-edinburgh-8-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "يورك (York)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.visbytravel.com/itineraries/london-york-edinburgh-8-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "إدنبرة (Edinburgh)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.visbytravel.com/itineraries/london-york-edinburgh-8-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "في لندن (London) قد تغلق بعض المعالم والمنشآت أو تختصر مواعيدها.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة الثاني من يناير",
+        "value": "٢٠٢٦-٠١-٠٢ · إسكتلندا (Scotland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "غير مؤكد",
+        "scope": "إسكتلندا (Scotland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس باتريك",
+        "value": "٢٠٢٦-٠٣-١٧ · أيرلندا الشمالية (Northern Ireland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-03-17",
+        "impact": "غير مؤكد",
+        "scope": "أيرلندا الشمالية (Northern Ireland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "في لندن (London) قد تغلق بعض المعالم والمنشآت أو تختصر مواعيدها.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦ · إنجلترا (England) وويلز (Wales) وأيرلندا الشمالية (Northern Ireland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "في لندن (London) قد تغلق بعض المعالم والمنشآت أو تختصر مواعيدها.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "scope": "إنجلترا (England) وويلز (Wales) وأيرلندا الشمالية (Northern Ireland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة البنوك في أول مايو",
+        "value": "٢٠٢٦-٠٥-٠٤",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-05-04",
+        "impact": "في لندن (London) قد تغلق بعض المعالم والمنشآت أو تختصر مواعيدها.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة البنوك الربيعية",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "في لندن (London) قد تغلق بعض المعالم والمنشآت أو تختصر مواعيدها.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة البنوك بمناسبة كأس العالم",
+        "value": "٢٠٢٦-٠٦-١٥ · إسكتلندا (Scotland)",
+        "source": "https://www.gov.scot/news/world-cup-bank-holiday-confirmed/",
+        "checked": "2026-11-27",
+        "date": "2026-06-15",
+        "impact": "غير مؤكد",
+        "scope": "إسكتلندا (Scotland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى معركة بوين",
+        "value": "٢٠٢٦-٠٧-١٣ · أيرلندا الشمالية (Northern Ireland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-07-13",
+        "impact": "غير مؤكد",
+        "scope": "أيرلندا الشمالية (Northern Ireland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة البنوك الصيفية",
+        "value": "٢٠٢٦-٠٨-٠٣ · إسكتلندا (Scotland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-08-03",
+        "impact": "غير مؤكد",
+        "scope": "إسكتلندا (Scotland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة البنوك الصيفية",
+        "value": "٢٠٢٦-٠٨-٣١ · إنجلترا (England) وويلز (Wales) وأيرلندا الشمالية (Northern Ireland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-08-31",
+        "impact": "في لندن (London) قد تغلق بعض المعالم والمنشآت أو تختصر مواعيدها.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "scope": "إنجلترا (England) وويلز (Wales) وأيرلندا الشمالية (Northern Ireland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس أندرو",
+        "value": "٢٠٢٦-١١-٣٠ · إسكتلندا (Scotland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-11-30",
+        "impact": "غير مؤكد",
+        "scope": "إسكتلندا (Scotland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "يتوقف النقل العام في لندن (London) يوم ٢٥ ديسمبر، وتغلق معظم المحلات والمعالم.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٨ · إجازة بديلة عن ٢٦ ديسمبر",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-12-28",
+        "impact": "يعمل النقل العام في لندن (London) بخدمة مخفّضة في ٢٦ ديسمبر. تحقّق من جدول يوم الإجازة البديلة إن اختلف.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "في لندن (London) قد تغلق بعض المعالم والمنشآت أو تختصر مواعيدها.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "مناسبة الثاني من يناير",
+        "value": "٢٠٢٧-٠١-٠٢ · إسكتلندا (Scotland) · يوم السبت. إجازة البنوك التعويضية في ٤ يناير",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-01-02",
+        "impact": "غير مؤكد",
+        "scope": "إسكتلندا (Scotland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة البنوك التعويضية عن الثاني من يناير",
+        "date": "2027-01-04",
+        "value": "٢٠٢٧-٠١-٠٤",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "scope": "إسكتلندا (Scotland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس باتريك",
+        "value": "٢٠٢٧-٠٣-١٧ · أيرلندا الشمالية (Northern Ireland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-17",
+        "impact": "غير مؤكد",
+        "scope": "أيرلندا الشمالية (Northern Ireland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "في لندن (London) قد تغلق بعض المعالم والمنشآت أو تختصر مواعيدها.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩ · إنجلترا (England) وويلز (Wales) وأيرلندا الشمالية (Northern Ireland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "في لندن (London) قد تغلق بعض المعالم والمنشآت أو تختصر مواعيدها.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "scope": "إنجلترا (England) وويلز (Wales) وأيرلندا الشمالية (Northern Ireland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة البنوك في أول مايو",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "في لندن (London) قد تغلق بعض المعالم والمنشآت أو تختصر مواعيدها.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة البنوك الربيعية",
+        "value": "٢٠٢٧-٠٥-٣١",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-31",
+        "impact": "في لندن (London) قد تغلق بعض المعالم والمنشآت أو تختصر مواعيدها.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى معركة بوين",
+        "value": "٢٠٢٧-٠٧-١٢ · أيرلندا الشمالية (Northern Ireland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-07-12",
+        "impact": "غير مؤكد",
+        "scope": "أيرلندا الشمالية (Northern Ireland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة البنوك الصيفية",
+        "value": "٢٠٢٧-٠٨-٠٢ · إسكتلندا (Scotland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-08-02",
+        "impact": "غير مؤكد",
+        "scope": "إسكتلندا (Scotland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة البنوك الصيفية",
+        "value": "٢٠٢٧-٠٨-٣٠ · إنجلترا (England) وويلز (Wales) وأيرلندا الشمالية (Northern Ireland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-08-30",
+        "impact": "في لندن (London) قد تغلق بعض المعالم والمنشآت أو تختصر مواعيدها.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "scope": "إنجلترا (England) وويلز (Wales) وأيرلندا الشمالية (Northern Ireland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس أندرو",
+        "value": "٢٠٢٧-١١-٣٠ · إسكتلندا (Scotland)",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-11-30",
+        "impact": "غير مؤكد",
+        "scope": "إسكتلندا (Scotland)",
+        "scopeSource": "https://www.gov.uk/bank-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٧ · إجازة بديلة عن ٢٥ ديسمبر",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-12-27",
+        "impact": "قد يعمل النقل في لندن (London) بجدول مخفّض في عطلات الميلاد البديلة؛ تحقّق من الرحلة.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٨ · إجازة بديلة عن ٢٦ ديسمبر",
+        "source": "https://www.gov.uk/bank-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-12-28",
+        "impact": "يعمل النقل العام في لندن (London) بخدمة مخفّضة في ٢٦ ديسمبر. تحقّق من جدول يوم الإجازة البديلة إن اختلف.",
+        "impactSource": "https://www.visitlondon.com/traveller-information/essential-information/public-holidays",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الميلاد في مدارس مانشستر (Manchester)، وقد تختلف الأكاديميات",
+        "value": "من 2026-12-19 إلى 2027-01-03 حسب التقويم المدرسي.",
+        "source": "https://www.manchester.gov.uk/schools-education-and-childcare/school-holidays-and-term-dates",
+        "checked": "2026-11-27",
+        "date": "2026-12-19",
+        "end": "2027-01-03",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "الصيف أكثر ازدحامًا، وسبتمبر وأكتوبر أهدأ وأقل كلفة.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-the-uk",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زيادة الزحام"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "الصيف أكثر ازدحامًا، وسبتمبر وأكتوبر أهدأ وأقل كلفة.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-the-uk",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زيادة الزحام"
+      },
+      {
+        "label": "إجازة المدارس · الميلاد · وستمنستر وكنسينغتون وتشيلسي (Westminster and Kensington & Chelsea)",
+        "value": "تغلق المدارس المشمولة بهذا التقويم خلال الفترة المذكورة.",
+        "date": "2026-12-21",
+        "end": "2027-01-01",
+        "peak": true,
+        "impact": "تتوقف الدراسة. أثر الإجازة على أسعار السفر غير مؤكد.",
+        "source": "https://www.westminster.gov.uk/media/document/bi-borough-determined-term-and-holiday-dates-2026-27",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس · منتصف الفصل · وستمنستر وكنسينغتون وتشيلسي (Westminster and Kensington & Chelsea)",
+        "value": "تغلق المدارس المشمولة بهذا التقويم خلال الفترة المذكورة.",
+        "date": "2027-02-15",
+        "end": "2027-02-19",
+        "peak": true,
+        "impact": "تتوقف الدراسة. أثر الإجازة على أسعار السفر غير مؤكد.",
+        "source": "https://www.westminster.gov.uk/media/document/bi-borough-determined-term-and-holiday-dates-2026-27",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس · الربيع · وستمنستر وكنسينغتون وتشيلسي (Westminster and Kensington & Chelsea)",
+        "value": "تغلق المدارس المشمولة بهذا التقويم خلال الفترة المذكورة.",
+        "date": "2027-03-26",
+        "end": "2027-04-09",
+        "peak": true,
+        "impact": "تتوقف الدراسة. أثر الإجازة على أسعار السفر غير مؤكد.",
+        "source": "https://www.westminster.gov.uk/media/document/bi-borough-determined-term-and-holiday-dates-2026-27",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "كرنفال نوتينغ هيل",
+        "value": "لندن (London)، أغسطس.",
+        "source": "https://www.westminster.gov.uk/notting-hill-carnival",
+        "checked": "2026-11-27",
+        "month": 8,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

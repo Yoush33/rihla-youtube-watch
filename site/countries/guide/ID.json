@@ -1,0 +1,584 @@
+{
+  "code": "ID",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "مؤهل لتأشيرة الزيارة عند الوصول أو نسختها الإلكترونية.",
+        "source": "https://manado.imigrasi.go.id/pages/visa-on-arrival-voa.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "30 يومًا للزيارة الأولى.",
+        "source": "https://jakartapusat.imigrasi.go.id/layanan/warga-negara-asing-wna/visa-republik-indonesia/b1-visa-saat-kedatangan-wisata",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "500,000 روبية إندونيسية.",
+        "source": "https://manado.imigrasi.go.id/pages/visa-on-arrival-voa.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "البطاقات شائعة في المدن الكبرى.",
+        "source": "https://www.indonesia.travel/id/en/general-information/payment-system/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "الروبية الإندونيسية",
+        "source": "https://www.indonesia.travel/id/en/general-information/payment-system/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "الإكرامية اختيارية، وقد تضيف المطاعم رسم خدمة إلى الفاتورة.",
+        "source": "https://newsletter.destination-asia.com/media/factsheets/2025/02/Country_Fact_Sheet_-_Indonesia_1.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 86 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/indonesia",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 240 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/indonesia",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 17 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/Indonesia-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "ترانس جاكرتا (Transjakarta) لمتابعة الحافلات في جاكرتا (Jakarta).",
+        "source": "https://apps.apple.com/sa/app/tj-transjakarta/id6502437836",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "قطار المطار أو حافلات دامري من سوكارنو هاتا (Soekarno-Hatta) إلى جاكرتا (Jakarta).",
+        "source": "https://storage.jakarta-tourism.go.id/public/documents/RH8Ryc5jlzV6OM0ume4wlpcAo1kg8t-metaVEhFIE9GRklDSUFMIEpBS0FSVEEgVE9VUklTTSBHVUlERUJPT0sgLSBFTkdMSVNILnBkZg%3D%3D-.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "يمكن حجز القطارات بين مدن جاوة (Java) لدى شركة السكك الحديدية.",
+        "source": "https://www.kai.id/en/layanan/angkutan-penumpang",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "ينشر دليل السياحة الإندونيسي خيارات الطعام الحلال. تحقق من علامة الحلال على المطعم أو العبوة.",
+        "source": "https://www.indonesia.travel/sa/en/muslim-friendly-travel",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "مسجد الاستقلال (Istiqlal Mosque) في جاكرتا (Jakarta).",
+        "source": "https://www.indonesia.travel/id/id/travel-ideas/pilgrimage/masjid-istiqlal",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "رندانغ، ناسي غورينغ، وساتيه.",
+        "source": "https://www.indonesia.travel/id/en/travel-ideas/gastronomy/the-ultimate-guide-to-must-try-indonesian-food",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "غطّ الركبتين والكتفين في المعابد والمساجد والكنائس.",
+        "source": "https://www.mea.gov.in/images/pdf/country-manual-indonesia.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "يفتح مركز غراند إندونيسيا (Grand Indonesia) في جاكرتا (Jakarta) من 10 صباحًا إلى 10 مساءً حسب جدول المركز.",
+        "source": "https://www.grand-indonesia.com/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "110 للشرطة، و118 أو 119 للإسعاف.",
+        "source": "https://www.indonesia.travel/id/en/general-information/staying-safe-in-indonesia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "تجنب مناطق المظاهرات وتابع التحذير الإقليمي قبل زيارة مناطق نائية.",
+        "source": "https://travel.gc.ca/destinations/indonesia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "قد تتعرض للمغالاة في أجرة سيارة غير مرخصة. اطلب سيارة بعدّاد من موقف رسمي.",
+        "source": "https://www.smartraveller.gov.au/destinations/asia/indonesia?trk=article-ssr-frontend-pulse_little-text-block",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "تامرين (Thamrin)",
+        "value": "للمراكز التجارية",
+        "source": "https://www.theindonesiaguide.com/hotels/where-to-stay-in-jakarta/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "مينتنغ (Menteng)",
+        "value": "للسكن الأهدأ",
+        "source": "https://www.theindonesiaguide.com/hotels/where-to-stay-in-jakarta/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "سوديرمان (Sudirman)",
+        "value": "للفنادق ومحور الأعمال",
+        "source": "https://www.theindonesiaguide.com/hotels/where-to-stay-in-jakarta/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "جاكرتا (Jakarta)",
+        "value": "نقترح يومًا واحدًا عند توزيع وقت الرحلة.",
+        "source": "https://www.travpa.com/indonesia/itineraries/10-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "يوغياكارتا (Yogyakarta)",
+        "value": "نقترح ثلاثة أيام عند توزيع وقت الرحلة.",
+        "source": "https://www.travpa.com/indonesia/itineraries/10-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "أوبود (Ubud)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.travpa.com/indonesia/itineraries/10-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإسراء والمعراج",
+        "value": "٢٠٢٦-٠١-١٦ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-01-16",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "uncertain"
+      },
+      {
+        "label": "رأس السنة الصينية",
+        "value": "٢٠٢٦-٠٢-١٧",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-02-17",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الصمت البالي (Nyepi)",
+        "value": "٢٠٢٦-٠٣-١٩",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-03-19",
+        "impact": "في بالي (Bali) تتوقف الرحلات الجوية ٢٤ ساعة، ويقضي الزائر يوم الصمت داخل مقر السكن.",
+        "impactSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/planning-to-spend-nyepi-in-bali-read-these-frequently-asked-questions",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "٢٠٢٦-٠٣-٢١ إلى ٢٠٢٦-٠٣-٢٢ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-03-21",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "end": "2026-03-22",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "uncertain"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٦-٠٥-١٤",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-05-14",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٦-٠٥-٢٧ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد فيساك",
+        "value": "٢٠٢٦-٠٥-٣١",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-05-31",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى ميلاد البانتشاسيلا",
+        "value": "٢٠٢٦-٠٦-٠١",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "٢٠٢٦-٠٦-١٦ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-06-16",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٨-١٧",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-08-17",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "٢٠٢٦-٠٨-٢٥ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-08-25",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://kemnaker.go.id/news/detail/pemerintah-umumkan-hari-libur-nasional-dan-cuti-bersama-2026-wamenaker-semoga-berjalan-lancar",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإسراء والمعراج",
+        "value": "٢٠٢٧-٠١-٠٥ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-05",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "رأس السنة الصينية",
+        "value": "٢٠٢٧-٠٢-٠٦",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-06",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الصمت البالي (Nyepi)",
+        "value": "٢٠٢٧-٠٣-٠٨",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "في بالي (Bali) تتوقف الرحلات الجوية ٢٤ ساعة، ويقضي الزائر يوم الصمت داخل مقر السكن.",
+        "impactSource": "https://www.indonesia.travel/id/id/travel-ideas/culture/planning-to-spend-nyepi-in-bali-read-these-frequently-asked-questions",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "٢٠٢٧-٠٣-١٠ إلى ٢٠٢٧-٠٣-١١ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-10",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "end": "2027-03-11",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٧-٠٥-٠٦",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٧-٠٥-١٧ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد فيساك",
+        "value": "٢٠٢٧-٠٥-٢٠",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-20",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى ميلاد البانتشاسيلا",
+        "value": "٢٠٢٧-٠٦-٠١",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-06-01",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "٢٠٢٧-٠٦-٠٦ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-06-06",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "٢٠٢٧-٠٨-١٥ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٨-١٧",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-08-17",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإسراء والمعراج",
+        "value": "٢٠٢٧-١٢-٢٦ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www2.kemenkopmk.go.id/sites/default/files/pengumuman/2026-09/SKB%20Libur%20Nasional%20dan%20Cuti%20Bersama%20Tahun%202027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "يغلق المتحف الوطني الإندونيسي (National Museum of Indonesia) في جاكرتا (Jakarta) في العطلات الوطنية.",
+        "impactSource": "https://www.museumnasional.or.id/layanan-blu/",
+        "provisional": true,
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "يصدر تقويم جاكرتا (Jakarta) عن المقاطعة ويغطي يوليو 2026 إلى يوليو 2027.",
+        "source": "https://edu.jakarta.go.id/cdn/files/photos/cms/safe_1782283147614067495_2026-06-24_13%3A39%3A06_3a0f329e_pdf_001.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "يوليو وأغسطس مزدحمان وترتفع الأسعار في بالي (Bali) ولومبوك (Lombok).",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-indonesia",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زحام وأسعار أعلى"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "يوليو وأغسطس مزدحمان وترتفع الأسعار في بالي (Bali) ولومبوك (Lombok).",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-indonesia",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زحام وأسعار أعلى"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان بالي للفنون",
+        "value": "دينباسار (Denpasar)، يونيو ويوليو.",
+        "source": "https://www.indonesia.travel/us/en/events/event-detail/pesta-kesenian-bali-pkb-2026",
+        "checked": "2026-11-27",
+        "month": 6,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

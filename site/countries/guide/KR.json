@@ -1,0 +1,574 @@
+{
+  "code": "KR",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "السعودي معفى من تأشيرة الزيارة القصيرة. تطلب القنصلية تصريح السفر الإلكتروني (K-ETA) للفئات الخاضعة له.",
+        "source": "https://overseas.mofa.go.kr/sa-jeddah-en/brd/m_23229/view.do?page=1&seq=12",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 30 يومًا.",
+        "source": "https://overseas.mofa.go.kr/sa-ar/brd/m_10976/view.do?page=1&seq=16",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "لا رسم تأشيرة ضمن الإعفاء. عند الحاجة إلى تصريح K-ETA تبلغ رسومه 10,000 وون قبل الرسوم الإضافية.",
+        "source": "https://k-eta.go.kr/portal/guide/viewetaapplication.do?locale=EN",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "ابحث عن صراف يحمل علامة قبول البطاقات الدولية.",
+        "source": "https://english.visitseoul.net/Money/Money",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "الوون الكوري الجنوبي",
+        "source": "https://english.visitseoul.net/Money/Money",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "لا تُتوقع عادة.",
+        "source": "https://english.visitseoul.net/Money/Money",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 191 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/south-korea",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 491 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/south-korea",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 15 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/south-korea-esim-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "سيول صبواي (Seoul Subway) لمترو سيول (Seoul).",
+        "source": "https://play.google.com/store/apps/details?hl=en-KR&id=com.seoulmetro.safety_keeper",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "من إنتشون (Incheon) استخدم قطار المطار أو حافلة المطار إلى سيول (Seoul).",
+        "source": "https://english.visitseoul.net/airport-to-seoul/1078",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "تربط قطارات كي تي إكس السريعة مدنًا منها سيول (Seoul) وبوسان (Busan).",
+        "source": "https://english1.visitkorea.or.kr/enu/TRP/TP_ENG_4.jsp",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "يميّز دليل السياحة بين المطاعم المعتمدة حلالًا والخيارات المناسبة للمسلمين؛ افحص فئة المطعم.",
+        "source": "https://english1.visitkorea.or.kr/enu/ATR/muslim_intro.jsp",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "جامع سيول المركزي (Seoul Central Mosque) في هانّام دونغ (Hannam-dong)، وبجواره مطاعم حلال.",
+        "source": "https://english.visitseoul.net/attractions/Seoul-Central-Mosque/ENP004863",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "بيبيمباب (أرز مخلوط)، بولغوغي (لحم متبّل)، وكيمتشي. تحقق من اللحم والتتبيلة.",
+        "source": "https://english1.visitkorea.or.kr/enu/AKR/AK_ENG_2_3.jsp",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "اخفض صوت الهاتف والبس باحتشام في دور العبادة.",
+        "source": "https://www.tripcatholic.com/articles/church-etiquette-and-dress-in-korea",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "يغلق سوق سيول المركزي (Seoul Central Market) في الأحد الثالث من الشهر.",
+        "source": "https://english.visitseoul.net/shopping/Seoul-Central-Market_/38231",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للشرطة و119 للإسعاف.",
+        "source": "https://www.gov.uk/foreign-travel-advice/south-korea/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "ابتعد عن أماكن المظاهرات والتجمعات الكبيرة.",
+        "source": "https://travel.gc.ca/destinations/south-korea?pubDate=20250522",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "يمكن الاعتراض على المبالغة في أجرة التاكسي أو سعر متجر عبر مركز شكاوى السياح في سيول (Seoul). احتفظ بالإيصال.",
+        "source": "https://english.visitseoul.net/business-partners-article/Seoul-Tourist-Complaints-en_/179",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ميونغ دونغ (Myeongdong)",
+        "value": "للتسوق",
+        "source": "https://www.roamerplanner.com/blog/where-to-stay-in-seoul-myeongdong-hongdae-insadong-gangnam",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "هونغديه (Hongdae)",
+        "value": "للنشاط المسائي",
+        "source": "https://www.roamerplanner.com/blog/where-to-stay-in-seoul-myeongdong-hongdae-insadong-gangnam",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "إنسا دونغ (Insadong)",
+        "value": "للحرف والأحياء التراثية",
+        "source": "https://www.roamerplanner.com/blog/where-to-stay-in-seoul-myeongdong-hongdae-insadong-gangnam",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "سيول (Seoul)",
+        "value": "نقترح ثلاثة أيام عند توزيع وقت الرحلة.",
+        "source": "https://koreatravelatlas.com/itineraries/korea-7-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "غيونغجو (Gyeongju)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://koreatravelatlas.com/itineraries/korea-7-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "بوسان (Busan)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://koreatravelatlas.com/itineraries/korea-7-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يغلق المتحف الوطني الكوري (National Museum of Korea) في سيول (Seoul) أول يناير.",
+        "impactSource": "https://www.museum.go.kr/ENG/contents/E0101000000.do",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد سولّال القمري",
+        "value": "٢٠٢٦-٠٢-١٦",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-16",
+        "impact": "زحمة في السفر الداخلي ونفاد مبكر لتذاكر القطارات والحافلات بين المدن.",
+        "impactSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1567033",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد سولّال القمري",
+        "value": "٢٠٢٦-٠٢-١٧",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-17",
+        "impact": "زحمة في السفر الداخلي ونفاد مبكر لتذاكر القطارات والحافلات بين المدن.",
+        "impactSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1567033",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد سولّال القمري",
+        "value": "٢٠٢٦-٠٢-١٨",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-18",
+        "impact": "زحمة في السفر الداخلي ونفاد مبكر لتذاكر القطارات والحافلات بين المدن.",
+        "impactSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1567033",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى حركة الأول من مارس",
+        "value": "٢٠٢٦-٠٣-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الطفل",
+        "value": "٢٠٢٦-٠٥-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-05",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد بوذا",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الانتخابات المحلية",
+        "value": "٢٠٢٦-٠٦-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-03",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الذكرى",
+        "value": "٢٠٢٦-٠٦-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٦-٠٧-١٧",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-07-17",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التحرير",
+        "value": "٢٠٢٦-٠٨-١٧",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-17",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد تشوسوك للحصاد",
+        "value": "٢٠٢٦-٠٩-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-24",
+        "impact": "زحمة في السفر بين المدن ونفاد سريع لتذاكر القطارات والحافلات.",
+        "impactSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593350",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد تشوسوك للحصاد",
+        "value": "٢٠٢٦-٠٩-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-25",
+        "impact": "زحمة في السفر بين المدن ونفاد سريع لتذاكر القطارات والحافلات.",
+        "impactSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593350",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد تشوسوك للحصاد",
+        "value": "٢٠٢٦-٠٩-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-26",
+        "impact": "زحمة في السفر بين المدن ونفاد سريع لتذاكر القطارات والحافلات.",
+        "impactSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593350",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم تأسيس الأمة",
+        "value": "٢٠٢٦-١٠-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-05",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأبجدية الكورية",
+        "value": "٢٠٢٦-١٠-٠٩",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-09",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يغلق المتحف الوطني الكوري (National Museum of Korea) في سيول (Seoul) أول يناير.",
+        "impactSource": "https://www.museum.go.kr/ENG/contents/E0101000000.do",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد سولّال القمري",
+        "value": "٢٠٢٧-٠٢-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-06",
+        "impact": "زحمة في السفر الداخلي ونفاد مبكر لتذاكر القطارات والحافلات بين المدن.",
+        "impactSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1567033",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد سولّال القمري",
+        "value": "٢٠٢٧-٠٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-08",
+        "impact": "زحمة في السفر الداخلي ونفاد مبكر لتذاكر القطارات والحافلات بين المدن.",
+        "impactSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1567033",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد سولّال القمري",
+        "value": "٢٠٢٧-٠٢-٠٩",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-09",
+        "impact": "زحمة في السفر الداخلي ونفاد مبكر لتذاكر القطارات والحافلات بين المدن.",
+        "impactSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1567033",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى حركة الأول من مارس",
+        "value": "٢٠٢٧-٠٣-٠١",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الطفل",
+        "value": "٢٠٢٧-٠٥-٠٥",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-05",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد بوذا",
+        "value": "٢٠٢٧-٠٥-١٣",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-13",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الذكرى",
+        "value": "٢٠٢٧-٠٦-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٧-٠٧-١٩",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-19",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التحرير",
+        "value": "٢٠٢٧-٠٨-١٦",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-16",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد تشوسوك للحصاد",
+        "value": "٢٠٢٧-٠٩-١٤",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-14",
+        "impact": "زحمة في السفر بين المدن ونفاد سريع لتذاكر القطارات والحافلات.",
+        "impactSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593350",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد تشوسوك للحصاد",
+        "value": "٢٠٢٧-٠٩-١٥",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-15",
+        "impact": "زحمة في السفر بين المدن ونفاد سريع لتذاكر القطارات والحافلات.",
+        "impactSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593350",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد تشوسوك للحصاد",
+        "value": "٢٠٢٧-٠٩-١٦",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-16",
+        "impact": "زحمة في السفر بين المدن ونفاد سريع لتذاكر القطارات والحافلات.",
+        "impactSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593350",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم تأسيس الأمة",
+        "value": "٢٠٢٧-١٠-٠٤",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-04",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأبجدية الكورية",
+        "value": "٢٠٢٧-١٠-١١",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-11",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/KR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "تحدد كل مدرسة أيامها. الإجازة الصيفية عادة بين يوليو وأغسطس، والشتوية بين ديسمبر وفبراير.",
+        "source": "https://english.moe.go.kr/sub/infoRenewal.do?m=0301&page=0301&s=english",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم والوقت الأهدأ",
+        "value": "الخريف مناسب للمدن وألوان أوراق الشجر. سبتمبر مناسب أيضًا للشواطئ.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-south-korea",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المسارات الجبلية الخريفية في سوراكسان (Seoraksan) وأوديسان (Odaesan)",
+        "value": "تتوافد أعداد كبيرة إلى الجبلين مع ألوان الخريف من أكتوبر إلى أوائل نوفمبر.",
+        "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&page=1&sContsTtl=&sort=regDt&vcontsId=230070",
+        "checked": "2026-11-27",
+        "month": 10,
+        "peak": true,
+        "impact": "زحمة في مسارات الجبلين",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان بوسان السينمائي الدولي",
+        "value": "بوسان (Busan)، عادة في الخريف، وأقيمت دورة 2026 في أكتوبر.",
+        "source": "https://www.biff.kr/pop/file/2026_Official_Submission_and_Selection_Rules_%26_Regulation_eng_final_as_of_2026-03-10.pdf",
+        "checked": "2026-11-27",
+        "month": 10,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

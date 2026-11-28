@@ -1,0 +1,678 @@
+{
+  "code": "NP",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي",
+        "value": "تأشيرة سياحية عند الوصول أو عن طريق السفارة. اختر المدة قبل سداد الرسم.",
+        "source": "https://sa.nepalembassy.gov.np/pages/visa-4/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة",
+        "value": "15 أو 30 أو 90 يوماً.",
+        "source": "https://sa.nepalembassy.gov.np/pages/visa-4/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "30 دولاراً أمريكياً لمدة 15 يوماً، و50 لمدة 30 يوماً، و125 لمدة 90 يوماً.",
+        "source": "https://sa.nepalembassy.gov.np/pages/visa-4/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الروبية النيبالية. خذ نقداً خارج المدن وعلى مسارات المشي، حيث تقل أجهزة الدفع والصرافات.",
+        "source": "https://visitnepal360.com/money-in-nepal/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "تحقق من رسوم الخدمة في المطعم. الإكرامية متوقعة للمرشدين والحمّالين في رحلات المشي.",
+        "source": "https://trade.ntb.gov.np/wp-content/uploads/2023/04/travel-tips-booklet-2020.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يومي اقتصادي",
+        "value": "نحو 94–150 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://thenepal.io/how-much-does-a-trip-to-nepal-cost/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يومي متوسط",
+        "value": "نحو 225–450 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://thenepal.io/how-much-does-a-trip-to-nepal-cost/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "باقة إن سِل السياحية لمدة 14 يوماً بنحو 995 روبية، بشريحة عادية أو إلكترونية.",
+        "source": "https://www.ncell.com.np/en/individual/tourist-sim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "باثاو لطلب مشوار في كاتماندو (Kathmandu).",
+        "source": "https://pathao.com/np/bike/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "خدمة التاكسي المدفوع مسبقاً في مطار تريبوفان (Tribhuvan Airport) توصلك إلى وسط كاتماندو (Kathmandu).",
+        "source": "https://trade.ntb.gov.np/faqs/from-the-airport-how-do-i-get-to-the-city-centre/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "الحافلات السياحية والطيران الداخلي يربطان كاتماندو (Kathmandu) وبوخارا (Pokhara) ووجهات أخرى.",
+        "source": "https://trade.ntb.gov.np/faqs/how-do-i-get-around-in-the-cities-and-to-other-destinations-2/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "تتركز خيارات الحلال في كاتماندو (Kathmandu) وتقل على مسارات الجبال. اسأل عن طريقة إعداد وجبة المشي.",
+        "source": "https://hsj.sg/blog/halal-food-in-nepal",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "دامبلنغ مومو، دال بات من الأرز والعدس، وخبز سِل روتي.",
+        "source": "https://pokharatourism.org.np/food-and-cuisine/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مساجد العاصمة",
+        "value": "تتوفر المساجد في كاتماندو (Kathmandu)، إلى جانب دور العبادة الأخرى في الوادي.",
+        "source": "https://trade.ntb.gov.np/tourist-destination/pilgrimage-sites-2/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "استأذن قبل تصوير الناس، واخلع الحذاء قبل دخول الأماكن الدينية التي تطلب ذلك.",
+        "source": "https://www.sita.in/wp-content/uploads/2025/08/Travel-Guidelines-for-Nepal.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "تغلق محلات مناطق الأعمال بعد انتهاء الدوام بقليل. قد تبقى المتاجر الصغيرة في الأحياء السياحية مفتوحة مساءً، حسب الفرع.",
+        "source": "https://www.sita.in/wp-content/uploads/2025/08/Travel-Guidelines-for-Nepal.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "مخاطر تهم الزائر",
+        "value": "احذر سرقة المقتنيات في الوجهات السياحية. للمشي في المناطق الجبلية راجع القيود المحلية ونشرة الطقس.",
+        "source": "https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "100 للشرطة و102 للإسعاف.",
+        "source": "https://www.gov.uk/foreign-travel-advice/nepal/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "احتيال أُبلغ عنه",
+        "value": "حققت الشرطة في بلاغات إنقاذ جبلي بفواتير وهمية. عند ترتيب الإجلاء تواصل مع شركة التأمين كلما أمكن.",
+        "source": "https://apnews.com/article/ca64426bfe3373d7840fdb1d95f93a0a",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "تاميل (Thamel)",
+        "value": "وكالات رحلات وفنادق ومطاعم قريبة من بعضها.",
+        "source": "https://nepal-tourism.com/blog/where-to-stay-in-kathmandu",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "بودها (Boudha)",
+        "value": "قرب الستوبا والأديرة.",
+        "source": "https://nepal-tourism.com/blog/where-to-stay-in-kathmandu",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "باتان (Patan)",
+        "value": "ساحات تاريخية وحرف تقليدية جنوب وادي كاتماندو (Kathmandu Valley).",
+        "source": "https://nepal-tourism.com/blog/where-to-stay-in-kathmandu",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار مقترح ومدة كل محطة",
+        "value": "كاتماندو (Kathmandu) 3 ليالٍ، بوخارا (Pokhara) 3 ليالٍ، شيتوان (Chitwan) ليلتان، وناغاركوت (Nagarkot) ليلة.",
+        "source": "https://www.basecamptours.com/guides/nepal-itineraries-booking/sample-10-day-kathmandu-pokhara-chitwan-nagarkot-by-flight-plan.html",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "ذكرى بريثفي",
+        "value": "عطلة رسمية.",
+        "source": "https://e-aip.caanepal.gov.np/_uploads/_pdf/00af4ba5c646f86ce5e667d3b13e4f62.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-11",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ماغي سانكرانتي",
+        "value": "عطلة رسمية.",
+        "source": "https://e-aip.caanepal.gov.np/_uploads/_pdf/00af4ba5c646f86ce5e667d3b13e4f62.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-15",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "سونام لوسار",
+        "value": "عطلة رسمية.",
+        "source": "https://e-aip.caanepal.gov.np/_uploads/_pdf/00af4ba5c646f86ce5e667d3b13e4f62.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-19",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الشهداء",
+        "value": "عطلة رسمية.",
+        "source": "https://e-aip.caanepal.gov.np/_uploads/_pdf/00af4ba5c646f86ce5e667d3b13e4f62.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-30",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "مها شيفاراتري",
+        "value": "عطلة رسمية.",
+        "source": "https://e-aip.caanepal.gov.np/_uploads/_pdf/00af4ba5c646f86ce5e667d3b13e4f62.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-15",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "غيالبو لوسار",
+        "value": "عطلة رسمية.",
+        "source": "https://e-aip.caanepal.gov.np/_uploads/_pdf/00af4ba5c646f86ce5e667d3b13e4f62.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-18",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الديمقراطية الوطني",
+        "value": "عطلة رسمية.",
+        "source": "https://e-aip.caanepal.gov.np/_uploads/_pdf/00af4ba5c646f86ce5e667d3b13e4f62.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-19",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "هولي",
+        "value": "إجازة في المناطق الجبلية.",
+        "source": "https://e-aip.caanepal.gov.np/_uploads/_pdf/00af4ba5c646f86ce5e667d3b13e4f62.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-02",
+        "impact": "إجازة في المناطق الجبلية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "هولي",
+        "value": "إجازة في سهول تيراي (Terai).",
+        "source": "https://e-aip.caanepal.gov.np/_uploads/_pdf/00af4ba5c646f86ce5e667d3b13e4f62.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-03",
+        "impact": "إجازة في سهول تيراي (Terai).",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للمرأة",
+        "value": "عطلة رسمية.",
+        "source": "https://e-aip.caanepal.gov.np/_uploads/_pdf/00af4ba5c646f86ce5e667d3b13e4f62.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-08",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "غودي جاترا",
+        "value": "إجازة في وادي كاتماندو (Kathmandu Valley).",
+        "source": "https://e-aip.caanepal.gov.np/_uploads/_pdf/00af4ba5c646f86ce5e667d3b13e4f62.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-18",
+        "impact": "إجازة في وادي كاتماندو (Kathmandu Valley).",
+        "status": "confirmed"
+      },
+      {
+        "label": "رام نافامي",
+        "value": "عطلة رسمية.",
+        "source": "https://e-aip.caanepal.gov.np/_uploads/_pdf/00af4ba5c646f86ce5e667d3b13e4f62.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-27",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة النيبالية",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-04-14",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال وميلاد بوذا وأوبهولي",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الجمهورية",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-29",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "راكشا باندان",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-08-28",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "غاي جاترا",
+        "value": "لوادي كاتماندو (Kathmandu Valley) ومجتمع نيوار في بقية البلاد.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-08-29",
+        "impact": "لوادي كاتماندو (Kathmandu Valley) ومجتمع نيوار في بقية البلاد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميلاد كريشنا وغورا",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-09-04",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "هاريتاليكا تيج",
+        "value": "إجازة للموظفات.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-09-14",
+        "impact": "إجازة للموظفات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-09-19",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إندرا جاترا",
+        "value": "محلي في وادي كاتماندو (Kathmandu Valley).",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-09-25",
+        "impact": "محلي في وادي كاتماندو (Kathmandu Valley).",
+        "status": "confirmed"
+      },
+      {
+        "label": "جيتيا",
+        "value": "إجازة للموظفات المحتفلات بالمناسبة.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-10-04",
+        "impact": "إجازة للموظفات المحتفلات بالمناسبة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "غاتاستابانا",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-10-11",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة داشين",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-10-17",
+        "end": "2026-10-23",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة تيهار",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-11-08",
+        "end": "2026-11-12",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميلاد فالغوناندا",
+        "value": "للموظفين من أتباع ديانة كيرات.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-11-11",
+        "impact": "للموظفين من أتباع ديانة كيرات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "تشات",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-11-15",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للأشخاص ذوي الإعاقة",
+        "value": "إجازة للموظفين من ذوي الإعاقة.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-03",
+        "impact": "إجازة للموظفين من ذوي الإعاقة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "دهانيا بورنيما وأودهولي ويوماري بونهي",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "تامو لوسار ودورا مهايبرو ناكوما",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-30",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى بريثفي",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-11",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ماغي سانكرانتي",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-15",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الشهداء",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-30",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "سونام لوسار",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-07",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الديمقراطية الوطني",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-19",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "مها شيفاراتري",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-06",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للمرأة",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "غيالبو لوسار",
+        "value": "عطلة رسمية.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-09",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "هولي",
+        "value": "إجازة في الأقاليم الجبلية والتلال.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-21",
+        "impact": "إجازة في الأقاليم الجبلية والتلال.",
+        "status": "confirmed"
+      },
+      {
+        "label": "هولي",
+        "value": "إجازة في أقاليم السهول المحددة في التقويم الرسمي.",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-22",
+        "impact": "إجازة في أقاليم السهول المحددة في التقويم الرسمي.",
+        "status": "confirmed"
+      },
+      {
+        "label": "غودي جاترا",
+        "value": "لوادي كاتماندو (Kathmandu Valley).",
+        "source": "https://www.nrb.org.np/contents/uploads/2026/03/Holiday-List-2083-English.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-04-06",
+        "impact": "لوادي كاتماندو (Kathmandu Valley).",
+        "status": "confirmed"
+      },
+      {
+        "label": "تواريخ السنة النيبالية التالية بعد 13 أبريل 2027",
+        "value": "غير مؤكد",
+        "source": "https://moha.gov.np/en/page/government-and-public-holidays-in-2083",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      },
+      {
+        "label": "موعد عيد الأضحى، يعتمد على رؤية الهلال",
+        "value": "غير مؤكد",
+        "source": "https://moha.gov.np/en/page/government-and-public-holidays-in-2083",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      },
+      {
+        "label": "موعد عيد الفطر، يعتمد على رؤية الهلال",
+        "value": "غير مؤكد",
+        "source": "https://moha.gov.np/en/page/government-and-public-holidays-in-2083",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم الذروة",
+        "value": "موسم ارتياد مسارات جبال إيفرست (Everest).",
+        "source": "https://snp.gov.np/uploads/download/1597001947.pdf",
+        "checked": "2026-11-27",
+        "month": 3,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "موسم ارتياد مسارات جبال إيفرست (Everest).",
+        "source": "https://snp.gov.np/uploads/download/1597001947.pdf",
+        "checked": "2026-11-27",
+        "month": 4,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "موسم ارتياد مسارات جبال إيفرست (Everest).",
+        "source": "https://snp.gov.np/uploads/download/1597001947.pdf",
+        "checked": "2026-11-27",
+        "month": 5,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "موسم ارتياد مسارات جبال إيفرست (Everest).",
+        "source": "https://snp.gov.np/uploads/download/1597001947.pdf",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "موسم ارتياد مسارات جبال إيفرست (Everest).",
+        "source": "https://snp.gov.np/uploads/download/1597001947.pdf",
+        "checked": "2026-11-27",
+        "month": 10,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "موسم ارتياد مسارات جبال إيفرست (Everest).",
+        "source": "https://snp.gov.np/uploads/download/1597001947.pdf",
+        "checked": "2026-11-27",
+        "month": 11,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد الإجازات المدرسية المحلية",
+        "value": "غير مؤكد",
+        "source": "https://en.himalpress.com/govt-instructs-local-units-schools-to-implement-five-day-academic-week/",
+        "checked": "2026-11-27",
+        "status": "uncertain"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "تسجّل منطقة ساغارماثا (Sagarmatha) بعض أدنى أعداد الزوار خلال الأمطار الموسمية.",
+        "source": "https://snp.gov.np/uploads/download/1597001947.pdf",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": false,
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "إندرا جاترا",
+        "value": "مواكب في الساحات التاريخية في كاتماندو (Kathmandu) في سبتمبر عادةً.",
+        "source": "https://ntb.gov.np/en/indra-jatra",
+        "checked": "2026-11-27",
+        "month": 9,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

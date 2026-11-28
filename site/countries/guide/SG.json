@@ -1,0 +1,420 @@
+{
+  "code": "SG",
+  "sections": {
+    "entry": [
+      {
+        "label": "تأشيرة الجواز السعودي والمدة",
+        "value": "الجواز السعودي معفى من تأشيرة الدخول منذ يونيو ٢٠٢٣.",
+        "source": "https://riyadh.mfa.gov.sg/consular-services/visa-information/entry-requirement-for-all-foreigners/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسوم",
+        "value": "لا توجد رسوم طلب تأشيرة للزيارة المعفاة.",
+        "source": "https://riyadh.mfa.gov.sg/consular-services/visa-information/entry-requirement-for-all-foreigners/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة كل زيارة",
+        "value": "يحدّد تصريح الزيارة الإلكتروني الصادر عند الوصول عدد الأيام وآخر يوم للإقامة.",
+        "source": "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/short-term-visit-pass/electronic-visit-pass-%28e-pass%29-retrieval-for-short-term-visitors",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الدولار السنغافوري (SGD).",
+        "source": "https://www.budgetyourtrip.com/Singapore",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع والإكرامية",
+        "value": "تُقبل البطاقات والمحافظ الإلكترونية على نطاق واسع. الإكرامية اختيارية، وراجع رسم الخدمة بالفاتورة.",
+        "source": "https://www.visitsingapore.com/content/visitsingapore/id_id/travel-tips/essential-travel-information/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميزانية الفرد اليومية بالريال",
+        "value": "اقتصادي نحو ٢٥٩ ريالًا، ومتوسط نحو ٦٧٩ ريالًا، استنادًا إلى مصروفات مسافرين تشمل السكن والطعام والتنقل المحلي.",
+        "source": "https://www.budgetyourtrip.com/Singapore",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "باقة مسبقة الدفع نحو ١٠–٣٠ دولارًا سنغافوريًا بحسب الحجم والمدة.",
+        "source": "https://www.pakahiki.com/asia/singapore/sim-cards-and-esims-in-singapore",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "غراب وغوجيك لحجز سيارة.",
+        "source": "https://www.visitsingapore.com/travel-tips/essential-travel-information/?cmp=SEM_LEISURE-TRAVELLERESSENTIAL-GEN_US_DC_ENG_singapore+for+tourists_NA_EM_SINGAPORE-TOURIST_NA_NA_TXT_NA_NA_NA",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "المطار إلى المدينة",
+        "value": "يرتبط مطار شانغي (Changi Airport) بالمدينة عبر المترو والحافلات العامة.",
+        "source": "https://www.changiairport.com/en/at-changi/transport-and-directions/getting-to-changi-airport.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "سنغافورة (Singapore) مدينة ودولة. يخدم المترو والحافلات التنقل بين أحيائها.",
+        "source": "https://www.visitsingapore.com/travel-tips/essential-travel-information/?cmp=SEM_LEISURE-TRAVELLERESSENTIAL-GEN_US_DC_ENG_singapore+for+tourists_NA_EM_SINGAPORE-TOURIST_NA_NA_TXT_NA_NA_NA",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال",
+        "value": "ابحث عن المطعم والفرع في سجل الاعتماد لدى المجلس الإسلامي السنغافوري.",
+        "source": "https://halal.muis.gov.sg/halal/establishments",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "جامع السلطان في كامبونغ غِلام (Kampong Gelam).",
+        "source": "https://www.visitsingapore.com/content/dam/desktop/global/tourism-editorials/mv2_main_en_compressed.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "أرز الدجاج، وخبز الكايا، وسرطان البحر بصلصة الفلفل. تحقق من اعتماد الفرع.",
+        "source": "https://www.visitsingapore.com/things-to-do/dining/local-food-and-drinks/?cmp=SEM_MTI-STB-2026-208_SG_MA_ENG_NA_NA_NONE_PM-LocalFoodPA-GN_NA_GOOG_SEA_AO_Cross_XTG&gclsrc=aw.ds",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والسلوك",
+        "value": "التدخين محصور في أماكن محددة، وتُفرض غرامات على رمي القمامة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/singapore/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "تختلف أوقات مراكز التسوق والأسواق. راجع وقت إغلاق المحل المقصود قبل المشوار.",
+        "source": "https://experience.sg/faq/shopping-souvenirs-and-gst-refund",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة ٩٩٩، والإسعاف والإطفاء ٩٩٥.",
+        "source": "https://www.gov.uk/foreign-travel-advice/singapore/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "السرقة والاحتيال",
+        "value": "احفظ المقتنيات في الأماكن المزدحمة ولا تتركها دون مراقبة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/singapore/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأماكن التي تستدعي الحذر",
+        "value": "يزيد احتمال النشل في مناطق الجذب السياحي والأماكن المزدحمة. أبق الحقائب مغلقة وقريبة من جسمك.",
+        "source": "https://travel.gc.ca/destinations/singapore",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "انتحال الصفة",
+        "value": "تُحذر الشرطة من متصلين ينتحلون صفة موظف حكومي ويطلبون تحويل أموال أو معلومات مصرفية.",
+        "source": "https://www.police.gov.sg/advisories/scams",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "مناطق السكن وأسباب الاختيار",
+        "value": "مارينا باي (Marina Bay) للواجهة البحرية، والحي الصيني (Chinatown) للطعام والتراث، وكامبونغ غِلام (Kampong Gelam) لجامع السلطان والتراث الملايوي.",
+        "source": "https://www.visitsingapore.com/content/dam/desktop/global/tourism-editorials/mv2_main_en_compressed.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار الزيارة ومدة كل محطة",
+        "value": "سنغافورة (Singapore) مدينة واحدة. مسار منشور من ثلاثة أيام يمر بالواجهة البحرية والحي الصيني والأحياء الثقافية.",
+        "source": "https://www.visitsingapura.com/plan",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2025/0616-public-holidays-for-2026",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الصينية",
+        "value": "٢٠٢٦-٠٢-١٧",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2025/0616-public-holidays-for-2026",
+        "checked": "2026-11-27",
+        "date": "2026-02-17",
+        "impact": "تقام احتفالات وأسواق موسمية بمناسبة السنة الصينية؛ راجع برنامج الحي الصيني (Chinatown).",
+        "impactSource": "https://www.visitsingapore.com/whats-happening/all-happenings/festivals/chinese-new-year/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الصينية",
+        "value": "٢٠٢٦-٠٢-١٨",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2025/0616-public-holidays-for-2026",
+        "checked": "2026-11-27",
+        "date": "2026-02-18",
+        "impact": "تقام احتفالات وأسواق موسمية بمناسبة السنة الصينية؛ راجع برنامج الحي الصيني (Chinatown).",
+        "impactSource": "https://www.visitsingapore.com/whats-happening/all-happenings/festivals/chinese-new-year/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "٢٠٢٦-٠٣-٢١ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2025/0616-public-holidays-for-2026",
+        "checked": "2026-11-27",
+        "date": "2026-03-21",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2025/0616-public-holidays-for-2026",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2025/0616-public-holidays-for-2026",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٦-٠٥-٢٧ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2025/0616-public-holidays-for-2026",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد فيساك",
+        "value": "٢٠٢٦-٠٦-٠١ · إجازة بديلة عن الأحد",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2025/0616-public-holidays-for-2026",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني",
+        "value": "٢٠٢٦-٠٨-١٠ · إجازة بديلة عن الأحد",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2025/0616-public-holidays-for-2026",
+        "checked": "2026-11-27",
+        "date": "2026-08-10",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ديوالي",
+        "value": "٢٠٢٦-١١-٠٩ · إجازة بديلة عن الأحد",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2025/0616-public-holidays-for-2026",
+        "checked": "2026-11-27",
+        "date": "2026-11-09",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2025/0616-public-holidays-for-2026",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الصينية",
+        "value": "٢٠٢٧-٠٢-٠٦",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027",
+        "checked": "2026-11-27",
+        "date": "2027-02-06",
+        "impact": "تقام احتفالات وأسواق موسمية بمناسبة السنة الصينية؛ راجع برنامج الحي الصيني (Chinatown).",
+        "impactSource": "https://www.visitsingapore.com/whats-happening/all-happenings/festivals/chinese-new-year/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الصينية",
+        "value": "٢٠٢٧-٠٢-٠٨ · إجازة بديلة عن الأحد",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027",
+        "checked": "2026-11-27",
+        "date": "2027-02-08",
+        "impact": "تقام احتفالات وأسواق موسمية بمناسبة السنة الصينية؛ راجع برنامج الحي الصيني (Chinatown).",
+        "impactSource": "https://www.visitsingapore.com/whats-happening/all-happenings/festivals/chinese-new-year/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "٢٠٢٧-٠٣-١٠ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027",
+        "checked": "2026-11-27",
+        "date": "2027-03-10",
+        "impact": "غير مؤكد",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٧-٠٥-١٧ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "غير مؤكد",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد فيساك",
+        "value": "٢٠٢٧-٠٥-٢٠",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027",
+        "checked": "2026-11-27",
+        "date": "2027-05-20",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني",
+        "value": "٢٠٢٧-٠٨-٠٩",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027",
+        "checked": "2026-11-27",
+        "date": "2027-08-09",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ديوالي",
+        "value": "٢٠٢٧-١٠-٢٨",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027",
+        "checked": "2026-11-27",
+        "date": "2027-10-28",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://www.mom.gov.sg/newsroom/press-releases/2026/0618-public-holidays-for-2027",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "ينتهي دوام مدارس المرحلة الابتدائية والثانوية في ٢٠ نوفمبر ٢٠٢٦.",
+        "source": "https://www.channelnewsasia.com/singapore/2026-school-term-year-holidays-moe-primary-secondary-5266891",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الذروة والفترة الأهدأ",
+        "value": "تستقطب الاحتفالات الموسمية زوّارًا في فبراير، ومنها رأس السنة الصينية وموكب تشينغاي.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-singapore",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة نهاية السنة الدراسية",
+        "value": "عطلة المدارس الابتدائية والثانوية في نهاية عام ٢٠٢٦.",
+        "source": "https://www.unitysec.moe.edu.sg/files/Student_eHandbook_2026__for_edits__updated_30_Jan.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-11-21",
+        "end": "2026-12-31",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ليالي سباق الجائزة الكبرى",
+        "value": "رصدت وسائل الإعلام المحلية ارتفاع أسعار الفنادق خلال أسبوع سباق الجائزة الكبرى في أكتوبر ٢٠٢٦. يتغير موعد السباق حسب النسخة.",
+        "source": "https://www.channelnewsasia.com/singapore/hotel-rates-soar-formula-1-mice-events-tourism-6438861?ct=t%28AGB%3A+%2302485+Friday%2C+09th+October%2C+2026%29&goal=0_51950b5d21-8352a21303-%5BLIST_EMAIL_ID%5D",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "الفعالية السنوية",
+        "value": "موكب تشينغاي، سنغافورة (Singapore)، في فبراير عادةً. عروض وعربات احتفالية من ثقافات متعددة.",
+        "source": "https://www.chingay.gov.sg/chingay-2026-programme-booklet/",
+        "checked": "2026-11-27",
+        "month": 2,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "code": "NO",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي",
+        "value": "تأشيرة شنغن قصيرة للسياحة. تُقدّم لدى دولة الوجهة الرئيسية في الرحلة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة",
+        "value": "حتى 90 يوماً في أي فترة من 180 يوماً داخل منطقة شنغن، وفق صلاحية التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "90 يورو للبالغ، و45 يورو للطفل من 6 إلى أقل من 12 سنة. قد تُضاف رسوم مركز الطلبات.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الكرونة النرويجية. البطاقات والدفع اللاتلامسي مقبولان على نطاق واسع.",
+        "source": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/currency-and-prices/?lang=primary",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية، ويقرر الزائر حسب الخدمة.",
+        "source": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/currency-and-prices/?lang=primary",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يومي اقتصادي",
+        "value": "نحو 218 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/Norway",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يومي متوسط",
+        "value": "نحو 518 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/Norway",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "تبدأ باقات نتكوم الإلكترونية للزائر من نحو 9.99 يورو.",
+        "source": "https://travel.netcommobile.com/en/plan/norway",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "إن تور يجمع خطط الرحلات ومواعيد وسائل النقل المحلية وبين المدن.",
+        "source": "https://www.visitnorway.com/plan-your-trip/getting-around/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "تصل القطارات مطار أوسلو (Oslo Airport) بوسط أوسلو (Oslo) في نحو 20 دقيقة.",
+        "source": "https://www.avinor.no/en/airport/oslo/info/public-transportation/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "تخدم القطارات والحافلات والعبّارات مدناً ومضائق مختلفة. قد تجمع الرحلة أكثر من وسيلة.",
+        "source": "https://www.visitnorway.com/plan-your-trip/getting-around/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "من خيارات الصلاة مسجد الجماعة المركزي في أوسلو (Central Jam-e-Mosque, Oslo).",
+        "source": "https://www.visitnorway.no/listings/central-jam-e-mosque/15936/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "سمك القد الشتوي، السلمون النرويجي، والوافل المحلي.",
+        "source": "https://www.visitnorway.com/things-to-do/food-and-drink/cuisine/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأكل الحلال",
+        "value": "تتوفر مطاعم تقدم لحوماً حلالاً في أوسلو (Oslo)، وتختلف طريقة التحقق بين المطاعم.",
+        "source": "https://bismi.app/halal-food/oslo/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "احترم إشارات المسارات في الطبيعة واتبع الإرشادات المحلية عند زيارة المضائق والجبال.",
+        "source": "https://www.gov.uk/foreign-travel-advice/norway/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "معظم المحلات تغلق الأحد، مع استثناءات للمتاجر الصغيرة وبعض متاجر السياحة.",
+        "source": "https://www.visitnorway.com/things-to-do/shopping/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "مخاطر تهم الزائر",
+        "value": "احترس من النشل في محطات النقل والمناطق المزدحمة. راجع أحوال الطقس قبل مسارات الجبال.",
+        "source": "https://www.gov.uk/foreign-travel-advice/norway/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للشرطة، و113 للإسعاف، و110 للإطفاء.",
+        "source": "https://www.gov.uk/foreign-travel-advice/norway/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "احتيال أُبلغ عنه",
+        "value": "توجد محاولات احتيال مالي عبر الإنترنت وانتحال جهات محلية تطلب المال.",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/destination.nor.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "بيورفيكا (Bjørvika)",
+        "value": "قرب الأوبرا والواجهة البحرية والمحطة.",
+        "source": "https://www.visitoslo.com/activities-and-attractions/boroughs",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "غرونرلوكا (Grünerløkka)",
+        "value": "مقاهٍ ومتاجر صغيرة وحياة محلية.",
+        "source": "https://www.visitoslo.com/activities-and-attractions/boroughs",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "فروغنر (Frogner)",
+        "value": "حدائق وشوارع سكنية أهدأ.",
+        "source": "https://www.visitoslo.com/activities-and-attractions/boroughs",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار مقترح ومدة كل محطة",
+        "value": "أوسلو (Oslo) يوم، فلام (Flåm) ليلة قرب المضيق، وبيرغن (Bergen) يومان إلى ثلاثة.",
+        "source": "https://norgeguide.com/en/faq/cities-and-regions/how-many-days-in-norway/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "خميس العهد",
+        "value": "٢٠٢٦-٠٤-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-02",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٦-٠٥-١٤",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-14",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور في السابع عشر من مايو",
+        "value": "٢٠٢٦-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-17",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "خميس العهد",
+        "value": "٢٠٢٧-٠٣-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-25",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٧-٠٥-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٧-٠٥-١٦",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور في السابع عشر من مايو",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/NO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تغلق معظم المتاجر وقد يقل تردد النقل العام أو سعته.",
+        "impactSource": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم الذروة",
+        "value": "ذروة زيارة المواقع الأشهر والمضائق صيفاً.",
+        "source": "https://www.visitnorway.com/places-to-go/destination-dupes/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "خارج ازدحام الصيف في المواقع الأشهر.",
+        "source": "https://www.visitnorway.com/places-to-go/destination-dupes/",
+        "checked": "2026-11-27",
+        "month": 5,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "خارج ازدحام الصيف في المواقع الأشهر.",
+        "source": "https://www.visitnorway.com/places-to-go/destination-dupes/",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة الشتاء المدرسية لأوسلو (Oslo)، أسبوع السنة الثامن",
+        "value": "إجازة مدرسية بحسب تقويم الجهة المذكورة.",
+        "source": "https://www.oslo.kommune.no/skole-og-utdanning/ferie-og-fridager-i-skolen/",
+        "checked": "2026-11-27",
+        "date": "2027-02-22",
+        "end": "2027-02-26",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس · الميلاد · أوسلو (Oslo)",
+        "value": "تغلق المدارس المشمولة بهذا التقويم خلال الفترة المذكورة.",
+        "date": "2026-12-21",
+        "end": "2027-01-01",
+        "peak": true,
+        "impact": "تتوقف الدراسة. أثر الإجازة على أسعار السفر غير مؤكد.",
+        "source": "https://www.oslo.kommune.no/skole-og-utdanning/ferie-og-fridager-i-skolen/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس · الفصح · أوسلو (Oslo)",
+        "value": "تغلق المدارس المشمولة بهذا التقويم خلال الفترة المذكورة.",
+        "date": "2027-03-22",
+        "end": "2027-03-30",
+        "peak": true,
+        "impact": "تتوقف الدراسة. أثر الإجازة على أسعار السفر غير مؤكد.",
+        "source": "https://www.oslo.kommune.no/skole-og-utdanning/ferie-og-fridager-i-skolen/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس · الخريف · أوسلو (Oslo)",
+        "value": "تغلق المدارس المشمولة بهذا التقويم خلال الفترة المذكورة.",
+        "date": "2027-10-04",
+        "end": "2027-10-08",
+        "peak": true,
+        "impact": "تتوقف الدراسة. أثر الإجازة على أسعار السفر غير مؤكد.",
+        "source": "https://www.oslo.kommune.no/skole-og-utdanning/ferie-og-fridager-i-skolen/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان بيرغن الدولي",
+        "value": "موسيقى ومسرح في بيرغن (Bergen) خلال مايو ويونيو.",
+        "source": "https://www.fib.no/en/about-the-festival",
+        "checked": "2026-11-27",
+        "month": 5,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

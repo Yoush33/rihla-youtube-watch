@@ -1,0 +1,575 @@
+{
+  "code": "US",
+  "sections": {
+    "entry": [
+      {
+        "label": "تأشيرة الجواز السعودي والمدة",
+        "value": "تأشيرة زائر سياحية من فئة بي-٢ أو بي-١/بي-٢. يدرج جدول المعاملة بالمثل للسعودي صلاحية متعددة الدخول حتى ١٢٠ شهرًا.",
+        "source": "https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/SaudiArabia.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسوم",
+        "value": "رسم طلب تأشيرة الزائر الأساسي ١٨٥ دولارًا أمريكيًا. تحقّق من جدول الرسوم قبل الدفع.",
+        "source": "https://travel.state.gov/en/newsroom/visas/2023/niv-fee-increases-to-take-effect-june-17-2023.html?os=android",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة كل زيارة",
+        "value": "يحدّد مسؤول الحدود مدة كل زيارة، وتظهر نهاية الإقامة المسموحة في سجل آي-٩٤.",
+        "source": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/frequently-asked-questions/about-basics.html?pubDate=20260814",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الدولار الأمريكي (USD).",
+        "source": "https://www.budgetyourtrip.com/united-states-of-america/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع والإكرامية",
+        "value": "الإكرامية متوقعة في مطاعم خدمة الطاولات. راجع الفاتورة أولًا لتعرف ما إذا أضيفت أجرة الخدمة، ويمكن دفع الإكرامية بالبطاقة.",
+        "source": "https://traveltrade.visittheusa.com/travel-trade/faq/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميزانية الفرد اليومية بالريال",
+        "value": "اقتصادي نحو ٤٥٤ ريالًا ومتوسط نحو ١٢١٥ ريالًا، وفق نفقات مسافرين على الإقامة والتنقل والطعام والأنشطة.",
+        "source": "https://www.budgetyourtrip.com/united-states-of-america/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "أساس التحويل إلى الريال",
+        "checked": "2026-11-27",
+        "value": "استُخدم ٣٫٧٥ ريالات للدولار في تحويل فئات الميزانية التقريبية.",
+        "source": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "confirmed"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "مثال من تي-موبايل، باقة إلكترونية لسبعة أيام بنحو ٢٥ دولارًا.",
+        "source": "https://buzzmobile.us/plans/prepaid-sim-card-usa",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "فنترا لوسائل النقل في شيكاغو (Chicago). نظام التذاكر يختلف بين المدن.",
+        "source": "https://www.transitchicago.com/visitors/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "المطار إلى المدينة",
+        "value": "من مطار أوهير (O’Hare) في شيكاغو (Chicago) يأخذك الخط الأزرق مباشرة إلى وسط المدينة.",
+        "source": "https://www.transitchicago.com/airports/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تربط قطارات أمتراك مدنًا عبر عشرات الخطوط. راجع المسافة وزمن الرحلة، خصوصًا في الرحلات العابرة للبلاد.",
+        "source": "https://www.amtrak.com/train-routes",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال",
+        "value": "يوثق دليل شيكاغو (Chicago) مطاعم تقدّم اللحوم الحلال، منها تندور تشار هاوس (Tandoor Char House).",
+        "source": "https://www.choosechicago.com/listing/tandoor-char-house/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "المركز الإسلامي في واشنطن (Washington, DC) يضم مسجدًا معروفًا في شارع ماساتشوستس (Massachusetts Avenue).",
+        "source": "https://www.spa.gov.sa/w1881689",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "حساء غامبو، ولفائف الكركند، وبيتزا شيكاغو العميقة. اسأل عن المرق واللحم في الأطباق المركبة.",
+        "source": "https://guide.michelin.com/us/en/article/dining-out/16-iconic-u.s.-dishes-to-try-for-the-nation-s-250th-birthday",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والسلوك",
+        "value": "تختلف الأنظمة بين الولايات، خصوصًا ما يتعلق بالكحول والأماكن العامة. راجع قواعد الولاية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/usa/safety-and-security?pubDate=20250808",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "قد تفتح المتاجر يوم الأحد لساعات أقصر. تختلف المواعيد حسب المدينة والفرع.",
+        "source": "https://participants.allianceabroad.com/wp-content/uploads/2023/05/Handbook_USA_2023.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة والإطفاء والإسعاف ٩١١.",
+        "source": "https://www.gov.uk/foreign-travel-advice/usa/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "السرقة والاحتيال",
+        "value": "تبلّغ هيئة التجارة الفدرالية عن قنوات للإبلاغ عن المتاجر والحجوزات الإلكترونية الاحتيالية.",
+        "source": "https://www.usa.gov/online-purchase-complaints",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأماكن التي تستدعي الحذر",
+        "value": "تختلف المخاطر محليًا. راجع نصيحة الفندق أو هيئة السياحة المحلية للمسار الليلي، خصوصًا خارج المناطق المزدحمة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/usa/safety-and-security?pubDate=20250808",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "مناطق السكن وأسباب الاختيار",
+        "value": "في شيكاغو (Chicago)، ذا لوب (The Loop) لوسط المدينة ومعالمه، وريفر نورث (River North) للواجهة النهرية، وويست لوب (West Loop) للمطاعم.",
+        "source": "https://cdn.choosechicago.com/uploads/2025/05/Map_Digital-Brochure_Neighborhoods-Near-the-Center-copy.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ريفر نورث (River North)",
+        "checked": "2026-11-27",
+        "value": "خيارات قريبة من المعارض الفنية والتصميم على ضفة نهر شيكاغو (Chicago River).",
+        "source": "https://www.choosechicago.com/neighborhoods/river-north/",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار الزيارة ومدة كل محطة",
+        "value": "مسارات مستقلة تقترح ثلاثة أيام لكل من نيويورك (New York)، وشيكاغو (Chicago)، وسان فرانسيسكو (San Francisco)، وواشنطن (Washington, DC).",
+        "source": "https://tripwoa.com/destinations/united-states",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم مارتن لوثر كينغ",
+        "value": "٢٠٢٦-٠١-١٩",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-01-19",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد لينكولن",
+        "value": "٢٠٢٦-٠٢-١٢",
+        "source": "https://date.nager.at/Calendar/2026/US/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-12",
+        "impact": "غير مؤكد",
+        "scope": "يختلف اعتماد المناسبة حسب الولاية.",
+        "scopeSource": "https://www.usa.gov/holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد واشنطن",
+        "value": "٢٠٢٦-٠٢-١٦",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-02-16",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/US/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "غير مؤكد",
+        "scope": "يختلف اعتماد المناسبة حسب الولاية.",
+        "scopeSource": "https://www.usa.gov/holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ترومان",
+        "value": "٢٠٢٦-٠٥-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/US/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-08",
+        "impact": "غير مؤكد",
+        "scope": "ولاية ميزوري (Missouri)",
+        "scopeSource": "https://oa.mo.gov/commissioner/state-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الذكرى",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم انتهاء العبودية في التاسع عشر من يونيو",
+        "value": "٢٠٢٦-٠٦-١٩",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-06-19",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٧-٠٣ · إجازة بديلة عن ٤ يوليو",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-07-03",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٩-٠٧",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-09-07",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كولومبوس",
+        "value": "٢٠٢٦-١٠-١٢",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-10-12",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الشعوب الأصلية",
+        "value": "٢٠٢٦-١٠-١٢",
+        "source": "https://date.nager.at/Calendar/2026/US/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-12",
+        "impact": "غير مؤكد",
+        "scope": "يختلف اعتماد المناسبة حسب الولاية.",
+        "scopeSource": "https://www.usa.gov/holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المحاربين القدامى",
+        "value": "٢٠٢٦-١١-١١",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-11-11",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الشكر",
+        "value": "٢٠٢٦-١١-٢٦",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-11-26",
+        "impact": "ضغط مرتفع على الرحلات الجوية في أسبوع عيد الشكر.",
+        "impactSource": "https://www.transportation.gov/briefing-room/trumps-transportation-department-announces-record-breaking-thanksgiving-air-travel",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم مارتن لوثر كينغ",
+        "value": "٢٠٢٧-٠١-١٨",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-01-18",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد لينكولن",
+        "value": "٢٠٢٧-٠٢-١٢",
+        "source": "https://date.nager.at/Calendar/2027/US/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-12",
+        "impact": "غير مؤكد",
+        "scope": "يختلف اعتماد المناسبة حسب الولاية.",
+        "scopeSource": "https://www.usa.gov/holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد واشنطن",
+        "value": "٢٠٢٧-٠٢-١٥",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-02-15",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/US/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "غير مؤكد",
+        "scope": "يختلف اعتماد المناسبة حسب الولاية.",
+        "scopeSource": "https://www.usa.gov/holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة تعويض يوم ترومان",
+        "date": "2027-05-07",
+        "value": "٢٠٢٧-٠٥-٠٧",
+        "source": "https://oa.mo.gov/commissioner/state-holidays",
+        "checked": "2026-11-27",
+        "impact": "تتعطل إدارات الولاية في يوم التعويض.",
+        "impactSource": "https://oa.mo.gov/commissioner/state-holidays",
+        "scope": "ولاية ميزوري (Missouri)",
+        "scopeSource": "https://oa.mo.gov/commissioner/state-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ترومان",
+        "value": "٢٠٢٧-٠٥-٠٨ · التاريخ التذكاري. إجازة الولاية في ٧ مايو",
+        "source": "https://date.nager.at/Calendar/2027/US/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-08",
+        "impact": "غير مؤكد",
+        "scope": "ولاية ميزوري (Missouri)",
+        "scopeSource": "https://oa.mo.gov/commissioner/state-holidays",
+        "regional": true,
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الذكرى",
+        "value": "٢٠٢٧-٠٥-٣١",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-05-31",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم انتهاء العبودية في التاسع عشر من يونيو",
+        "value": "٢٠٢٧-٠٦-١٨",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-06-18",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٧-٠٥ · إجازة بديلة عن ٤ يوليو",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-07-05",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٩-٠٦",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-09-06",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كولومبوس",
+        "value": "٢٠٢٧-١٠-١١",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-10-11",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الشعوب الأصلية",
+        "value": "٢٠٢٧-١٠-١١",
+        "source": "https://date.nager.at/Calendar/2027/US/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-11",
+        "impact": "غير مؤكد",
+        "scope": "يختلف اعتماد المناسبة حسب الولاية.",
+        "scopeSource": "https://www.usa.gov/holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المحاربين القدامى",
+        "value": "٢٠٢٧-١١-١١",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-11-11",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الشكر",
+        "value": "٢٠٢٧-١١-٢٥",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-11-25",
+        "impact": "ضغط مرتفع على الرحلات الجوية في أسبوع عيد الشكر.",
+        "impactSource": "https://www.transportation.gov/briefing-room/trumps-transportation-department-announces-record-breaking-thanksgiving-air-travel",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٤",
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "إجازة لموظفي الحكومة الفدرالية. راجع جدول الدائرة الحكومية إذا احتجت معاملتها.",
+        "impactSource": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "تحدد المناطق التعليمية العطل محليًا. في مدارس مدينة نيويورك (New York City) تبدأ عطلة الشتاء ٢٤ ديسمبر ٢٠٢٦.",
+        "source": "https://www.schools.nyc.gov/calendar",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الذروة والفترة الأهدأ",
+        "value": "بين موسم الصيف والشتاء يقل الزوار وتنخفض الأسعار في عدد من الوجهات، ويختلف التوقيت حسب الولاية والمناخ.",
+        "source": "https://www.lonelyplanet.com/articles/best-shoulder-season-destinations-usa",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة الشتاء في نيويورك",
+        "value": "مدارس مدينة نيويورك (New York City) فقط. للولايات والمناطق التعليمية جداول مستقلة.",
+        "source": "https://www.schools.nyc.gov/calendar",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "end": "2027-01-01",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      },
+      {
+        "label": "متنزه يلوستون الوطني (Yellowstone National Park)",
+        "value": "تستقبل إدارة المتنزه قرابة 60٪ من الزيارات السنوية خلال يونيو ويوليو وأغسطس.",
+        "source": "https://www.nps.gov/yell/getinvolved/summeruseplanning.htm",
+        "checked": "2026-11-27",
+        "month": 6,
+        "peak": true,
+        "impact": "زحمة داخل المتنزه",
+        "status": "confirmed"
+      },
+      {
+        "label": "متنزه يلوستون الوطني (Yellowstone National Park)",
+        "value": "تستقبل إدارة المتنزه قرابة 60٪ من الزيارات السنوية خلال يونيو ويوليو وأغسطس.",
+        "source": "https://www.nps.gov/yell/getinvolved/summeruseplanning.htm",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "زحمة داخل المتنزه",
+        "status": "confirmed"
+      },
+      {
+        "label": "متنزه يلوستون الوطني (Yellowstone National Park)",
+        "value": "تستقبل إدارة المتنزه قرابة 60٪ من الزيارات السنوية خلال يونيو ويوليو وأغسطس.",
+        "source": "https://www.nps.gov/yell/getinvolved/summeruseplanning.htm",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "زحمة داخل المتنزه",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "الفعالية السنوية",
+        "value": "مهرجان أزهار الكرز، واشنطن (Washington, DC)، في مارس وأبريل حول حوض تايدال بيسن (Tidal Basin).",
+        "source": "https://nationalcherryblossomfestival.org/event/2026-bloomfest-at-the-tidal-basin/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ]
+  }
+}

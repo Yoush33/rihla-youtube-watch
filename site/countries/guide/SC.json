@@ -1,0 +1,475 @@
+{
+  "code": "SC",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي العادي",
+        "value": "لا تأشيرة للسائح، ويلزم تصريح السفر الإلكتروني قبل الوصول. يصدر تصريح الزيارة عند الوصول بعد استيفاء الشروط.",
+        "source": "https://mfa.gov.sc/travelling-to-seychelles/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة الأولية",
+        "value": "تصل إلى ثلاثة أشهر وفق قرار الهجرة. من شروط التصريح حجز سكن مؤكد وتذكرة عودة أو متابعة وإثبات المقدرة المالية.",
+        "source": "https://www.ics.gov.sc/permits/visitors-permit",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التصريح الإلكتروني",
+        "value": "10.90 يورو للمعالجة العادية.",
+        "source": "https://mfa.gov.sc/travelling-to-seychelles/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الروبية السيشلية. تُقبل البطاقات في المنشآت الكبيرة ويفيد النقد للأسواق والمتاجر الصغيرة.",
+        "source": "https://seychelles.com/blog-details/2001/highlights/travel-tips-being-seychelles",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "غالبًا تتضمن الفاتورة رسم الخدمة. ترك 5–10٪ للخدمة المميزة سخي واختياري.",
+        "source": "https://www.expertafrica.com/seychelles/info/tipping-in-seychelles",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — اقتصادي",
+        "value": "حوالي 386 ريالًا سعوديًا في سيشل للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/seychelles",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — متوسط",
+        "value": "حوالي 881 ريالًا سعوديًا في سيشل للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/seychelles",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة للزائر وسعر تقريبي",
+        "value": "باقة زائر مقابل 588 روبية سيشلية تشمل 10 غيغابايت لمدة 21 يومًا بحسب عرض الناقل.",
+        "source": "https://www.airseychelles.com/portals/silhouette/2025/Silhouette_Oct-Dec-2025.pdf",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق نقل",
+        "value": "سي تاكسي (SeyTaxi) خيار محلي. تأكد من نطاق الخدمة في جزيرتك.",
+        "source": "https://www.agoda.com/travel-guides/seychelles/seychelles-transportation-guide-buses-ferries-taxis-and-car-rentals/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "من مطار سيشل الدولي في ماهيه (Mahé) توجد سيارات أجرة خارج صالة الوصول وحافلات على الطريق قرب المطار.",
+        "source": "https://seychellesairports.sc/travel-connections/transportation",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "تخدم حافلات النقل العام جزيرتي ماهيه (Mahé) وبرالين (Praslin). للتنقل بين الجزر تتوفر العبّارات.",
+        "source": "https://www.egov.sc/PressRoom/MyCitizen/PTransport.aspx",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "الخيار الحلال أسهل قرب مسجد فيكتوريا (Victoria Mosque). خارج العاصمة تحقق من مصدر اللحوم وطريقة إعداد المأكولات البحرية.",
+        "source": "https://www.rahhala.sa/en/country/seychelles",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "كاري السمك، والسمك المشوي، وحساء المحار تيك تيك.",
+        "source": "https://www.untourism.int/africa/african-gastronomy/seychelles",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرف في الأماكن العامة",
+        "value": "خصص ملابس البحر للشاطئ، وغطِّ جسمك في المتاجر والمطاعم والكنائس.",
+        "source": "https://bestinseychelles.com/customs-and-traditions/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "تغلق محلات تجزئة عديدة الأحد والإجازات الرسمية، ويعمل بعض متاجر الغذاء لساعات صباحية أقصر.",
+        "source": "https://seychelles.com/blog-details/2001/highlights/travel-tips-being-seychelles",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستدعي الانتباه وأساليب السرقة",
+        "value": "سُجلت سرقات من السيارات والشواطئ ومسارات المشي. لا تترك الحقيبة في سيارة مركونة أو على الشاطئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/seychelles/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "999 للطوارئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/seychelles/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ثلاثة أحياء أو مناطق لإقامة أولى",
+        "value": "بو فالون (Beau Vallon) للسكن على الشاطئ، وفيكتوريا (Victoria) للأسواق والمتاحف، وأنس رويال (Anse Royale) لشواطئ الساحل الجنوبي الشرقي.",
+        "source": "https://seychelles.com/blog-details/13554/highlights/seychelles-districts-complete-guide-visitors-and-locals",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مدن ومدد مقترحة لزيارة أولى",
+        "value": "فيكتوريا (Victoria) في ماهيه (Mahé)، ثم جزيرتا برالين (Praslin) ولا ديغ (La Digue). تقترح هيئة السياحة 10–14 يومًا للجزر الثلاث مجتمعة مع عدة أيام لكل جزيرة.",
+        "source": "https://www.seychelles.com/blog-details/1862/highlights/how-many-days-should-you-plan-seychelles-holiday",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "توزيع الأيام بين الجزر",
+        "value": "مثال لعشرة أيام: ثلاثة أيام في ماهيه (Mahé)، والأيام 4 إلى 6 في برالين (Praslin)، وثلاث ليالٍ في لا ديغ (La Digue) مع هامش للعودة.",
+        "source": "https://bestinseychelles.com/10-days-in-seychelles/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة رأس السنة",
+        "value": "٢٠٢٦-٠١-٠٢",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "سبت الفصح",
+        "value": "٢٠٢٦-٠٤-٠٤",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-04-04",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٦-٠٦-٠٤",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-06-04",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٦-٠٦-١٨",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-06-18",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٦-٢٩",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-06-29",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الثاني لعطلة الاستقلال",
+        "value": "٢٠٢٦-٠٦-٣٠",
+        "source": "https://statehouse.gov.sc/news/7056/30-june-declared-public-holiday-as-seychelles-marks-50-years-of-independence",
+        "checked": "2026-11-27",
+        "date": "2026-06-30",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "إذا وقعت العطلة يوم الأحد يكون اليوم التالي عطلة أيضًا بموجب قاعدة المصرف المركزي.",
+        "impactSource": "https://www.cbs.sc/PublicHolidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٦-١٢-٠٨",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-12-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://www.cbs.sc/PublicHolidays.html",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة رأس السنة",
+        "value": "٢٠٢٧-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "سبت الفصح",
+        "value": "٢٠٢٧-٠٣-٢٧",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-27",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٧-٠٥-٢٧",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-27",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٧-٠٦-١٨",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-18",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٦-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-29",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "إذا وقعت العطلة يوم الأحد يكون اليوم التالي عطلة أيضًا بموجب قاعدة المصرف المركزي.",
+        "impactSource": "https://www.cbs.sc/PublicHolidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٧-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/SC/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم أعياد نهاية السنة",
+        "value": "ترتفع أسعار الإقامة في فترة أعياد نهاية ديسمبر ورأس السنة.",
+        "source": "https://visitseychellesislands.com/plan-your-trip/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-25",
+        "end": "2027-01-01",
+        "impact": "أسعار أعلى",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم أعياد نهاية السنة",
+        "value": "ترتفع أسعار الإقامة في فترة أعياد نهاية ديسمبر ورأس السنة.",
+        "source": "https://visitseychellesislands.com/plan-your-trip/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2027-12-25",
+        "end": "2028-01-01",
+        "impact": "أسعار أعلى",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "أبريل وأكتوبر من فترات هدوء الرياح وقلة الزحام.",
+        "source": "https://visitseychellesislands.com/plan-your-trip/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 4,
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "أبريل وأكتوبر من فترات هدوء الرياح وقلة الزحام.",
+        "source": "https://visitseychellesislands.com/plan-your-trip/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 10,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدرسية",
+        "value": "عطلة نهاية الفصل الثالث في المدارس الحكومية الابتدائية والثانوية.",
+        "source": "https://staytrend.ai/events/mahe?kind=school",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-05",
+        "end": "2027-01-17",
+        "impact": "عطلة مدرسية",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان الكريول",
+        "value": "فيكتوريا (Victoria)، في أكتوبر للاحتفاء بالموسيقى والمطبخ والتراث.",
+        "source": "https://seychelles.com/blog-details/1902/highlights/embrace-seychelles-culture-festival-kreol",
+        "checked": "2026-11-27",
+        "month": 10,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

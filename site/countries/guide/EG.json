@@ -1,0 +1,545 @@
+{
+  "code": "EG",
+  "sections": {
+    "entry": [
+      {
+        "label": "تأشيرة الجواز السعودي العادي",
+        "value": "تُتاح التأشيرة السياحية عند الوصول إلى المنفذ أو إلكترونيًا قبل السفر. المملكة العربية السعودية مدرجة في جدول إدارة الجوازات المصرية.",
+        "source": "https://www.moi.gov.eg/passports/foreigners/index2/2",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "تسمح التأشيرة السياحية المفردة المعتادة بإقامة تصل إلى ٣٠ يومًا. راجع المدة المثبتة في إذن الدخول.",
+        "source": "https://egyptconsulate.co.uk/ar/visas/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة الإلكترونية ورابط الطلب",
+        "value": "٣٠ دولارًا أمريكيًا للدخول الواحد، و٦٥ دولارًا للدخول المتعدد. تقدّم من بوابة الحكومة المصرية.",
+        "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الجنيه المصري",
+        "source": "https://eeca.gov.eg/info2.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "الكاش مهم للمشاوير والمشتريات الصغيرة، والبطاقات أسهل في الفنادق الكبيرة.",
+        "source": "https://thisis-egypt.com/guides/egypt-money-tipping-guide",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "البقشيش شائع للخدمات. احتفظ بفئات صغيرة.",
+        "source": "https://thisis-egypt.com/guides/egypt-money-tipping-guide",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 82 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/egypt",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 229 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/egypt",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 21 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/egypt-esim/giza-mobile-3days-1gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«سكة» يساعد على تخطيط المسارات في القاهرة (Cairo)، و«أوبر» لحجز سيارة.",
+        "source": "https://play.google.com/store/apps/details?hl=en-US&id=com.sekka.transport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "حافلات وسيارات أجرة من مطار القاهرة الدولي (Cairo International Airport). حدد وجهتك وسعر الخدمة قبل المغادرة.",
+        "source": "https://www.airportsdata.net/airport-CAI-transportation/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تربط القطارات القاهرة (Cairo) بالأقصر (Luxor) وأسوان (Aswan). راجع حجز الزوار الأجانب وأسعارهم على السكك المصرية.",
+        "source": "https://english.ahram.org.eg/UI/Front/NewsContent/1/1235/574880/Egypt/Urban--Transport/Factbox-How-to-book-and-pay-for-train-tickets-in-E.aspx",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "الطعام الحلال متاح على نطاق واسع في القاهرة (Cairo) والمدن الرئيسية.",
+        "source": "https://www.sbb.gov.tr/wp-content/uploads/2018/11/Muslim_Friendly_Tourism_MFT_Developing_and_Marketing_MFT_Products_and_Services_in_the_OIC_Member_States%E2%80%8B.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مساجد القاهرة الإسلامية (Islamic Cairo)، ومنها الجامع الأزهر (Al-Azhar Mosque).",
+        "source": "https://nourbelletours.com/travel-guide/travel-tips/egypt-for-muslim-travelers",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "كشري، فول مدمس، وملوخية.",
+        "source": "https://affordegypt.com/cuisine-passport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "ارتدِ لباساً محتشماً في المواقع الدينية والبلدات بعيداً عن المنتجعات.",
+        "source": "https://www.nationalgeographic.com/travel/article/cairo-egypt-travel-guide",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "لا تصوّر المنشآت العسكرية أو الأمنية واسأل قبل تصوير الأشخاص.",
+        "source": "https://www.gov.uk/foreign-travel-advice/egypt/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "تخضع المحلات والمولات لمواعيد حكومية موسمية. راجع توقيت الوجهة في يوم الزيارة.",
+        "source": "https://www.cairo.gov.eg/en/news/2026/october/29/66ceceea297a4957a975e6765cc82787",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "راجع تحذيرات السفر إلى شمال سيناء (North Sinai) والمناطق الحدودية قبل وضعها في المسار.",
+        "source": "https://www.smartraveller.gov.au/destinations/africa/egypt",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "اتفق مسبقاً على ثمن الخدمة وبرنامج المشوار وانتبه للضغط على الزوار عند المعالم.",
+        "source": "https://www.gov.uk/foreign-travel-advice/egypt/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة 122، والإسعاف 123، وشرطة السياحة 126.",
+        "source": "https://www.gov.uk/foreign-travel-advice/egypt/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "وسط البلد (Downtown Cairo)",
+        "value": "لقرب المترو والمتحف المصري بالتحرير.",
+        "source": "https://www.cairotourism.org/where-to-stay-in-cairo/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الزمالك (Zamalek)",
+        "value": "لموقع جزيري ومطاعم قريبة من النيل.",
+        "source": "https://www.cairotourism.org/where-to-stay-in-cairo/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الجيزة (Giza)",
+        "value": "للقرب من الأهرامات عند تقديمها على معالم وسط القاهرة.",
+        "source": "https://www.cairotourism.org/where-to-stay-in-cairo/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "القاهرة (Cairo)",
+        "value": "توزيع مقترح للزيارة: 3 أيام.",
+        "source": "https://egyptdiscovery.co.uk/guides/how-to-plan-a-multi-day-tour-of-egypt/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الأقصر (Luxor)",
+        "value": "توزيع مقترح للزيارة: يومان إلى ثلاثة.",
+        "source": "https://egyptdiscovery.co.uk/guides/how-to-plan-a-multi-day-tour-of-egypt/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "أسوان (Aswan)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://egyptdiscovery.co.uk/guides/how-to-plan-a-multi-day-tour-of-egypt/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "عيد الميلاد المجيد",
+        "value": "٢٠٢٦-٠١-٠٧",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-01-07",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ثورة ٢٥ يناير",
+        "value": "٢٠٢٦-٠١-٢٩",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-01-29",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة عيد الفطر",
+        "value": "٢٠٢٦-٠٣-١٩ إلى ٢٠٢٦-٠٣-٢٣ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-03-19",
+        "impact": "غير مؤكد",
+        "end": "2026-03-23",
+        "status": "uncertain"
+      },
+      {
+        "label": "شم النسيم",
+        "value": "٢٠٢٦-٠٤-١٣",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-04-13",
+        "impact": "تزدحم حدائق القاهرة (Cairo) ومتنزهات الإسكندرية (Alexandria) خلال شم النسيم.",
+        "impactSource": "https://www.nile.eg/توافد-المواطنين-على-الحدائق-والمتنزه",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد تحرير سيناء",
+        "value": "٢٠٢٦-٠٤-٢٥",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-04-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠٧",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-05-07",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "وقفة عرفة",
+        "value": "٢٠٢٦-٠٥-٢٦ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-05-26",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٦-٠٥-٢٧ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "impact": "يزداد إقبال الزوار على المتاحف والمواقع الأثرية خلال عطلة عيد الأضحى.",
+        "impactSource": "https://mota.gov.eg/ar/الأخبار-2-1-1/توافد-كبير-من-الزائرين-على-المواقع-الأثرية-والمتاحف-خلال-الأيام-الأولي-من-عيد-الأضحي-المبارك/",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٦-٠٥-٢٨ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-05-28",
+        "impact": "يزداد إقبال الزوار على المتاحف والمواقع الأثرية خلال عطلة عيد الأضحى.",
+        "impactSource": "https://mota.gov.eg/ar/الأخبار-2-1-1/توافد-كبير-من-الزائرين-على-المواقع-الأثرية-والمتاحف-خلال-الأيام-الأولي-من-عيد-الأضحي-المبارك/",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٦-٠٥-٢٩ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-05-29",
+        "impact": "يزداد إقبال الزوار على المتاحف والمواقع الأثرية خلال عطلة عيد الأضحى.",
+        "impactSource": "https://mota.gov.eg/ar/الأخبار-2-1-1/توافد-كبير-من-الزائرين-على-المواقع-الأثرية-والمتاحف-خلال-الأيام-الأولي-من-عيد-الأضحي-المبارك/",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٦-٠٥-٣٠ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-05-30",
+        "impact": "يزداد إقبال الزوار على المتاحف والمواقع الأثرية خلال عطلة عيد الأضحى.",
+        "impactSource": "https://mota.gov.eg/ar/الأخبار-2-1-1/توافد-كبير-من-الزائرين-على-المواقع-الأثرية-والمتاحف-خلال-الأيام-الأولي-من-عيد-الأضحي-المبارك/",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٦-٠٥-٣١ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-05-31",
+        "impact": "يزداد إقبال الزوار على المتاحف والمواقع الأثرية خلال عطلة عيد الأضحى.",
+        "impactSource": "https://mota.gov.eg/ar/الأخبار-2-1-1/توافد-كبير-من-الزائرين-على-المواقع-الأثرية-والمتاحف-خلال-الأيام-الأولي-من-عيد-الأضحي-المبارك/",
+        "status": "uncertain"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "٢٠٢٦-٠٦-١٨ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-06-18",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      },
+      {
+        "label": "ثورة ٣٠ يونيو",
+        "value": "٢٠٢٦-٠٧-٠٢",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-07-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ثورة ٢٣ يوليو",
+        "value": "٢٠٢٦-٠٧-٢٣",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-07-23",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي · توقيت الإجازة في اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-08-26",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "إجازة المولد النبوي",
+        "value": "٢٠٢٦-٠٨-٢٧ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-08-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد القوات المسلحة",
+        "value": "٢٠٢٦-١٠-٠٦",
+        "source": "https://www.presidency.eg/AR/مصر/العطلات-الرسمية/",
+        "checked": "2026-11-27",
+        "date": "2026-10-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد المجيد",
+        "value": "٢٠٢٧-٠١-٠٧",
+        "source": "https://date.nager.at/Calendar/2027/EG/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-07",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ثورة ٢٥ يناير",
+        "value": "٢٠٢٧-٠١-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/EG/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد تحرير سيناء",
+        "value": "٢٠٢٧-٠٤-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/EG/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/EG/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "شم النسيم",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://date.nager.at/Calendar/2027/EG/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "تزدحم حدائق القاهرة (Cairo) ومتنزهات الإسكندرية (Alexandria) خلال شم النسيم.",
+        "impactSource": "https://www.nile.eg/توافد-المواطنين-على-الحدائق-والمتنزه",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "٢٠٢٧-٠٦-١٠ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2027/EG/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-10",
+        "impact": "غير مؤكد",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "ثورة ٣٠ يونيو",
+        "value": "٢٠٢٧-٠٧-٠١",
+        "source": "https://date.nager.at/Calendar/2027/EG/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ثورة ٢٣ يوليو",
+        "value": "٢٠٢٧-٠٧-٢٣",
+        "source": "https://date.nager.at/Calendar/2027/EG/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-23",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "٢٠٢٧-٠٨-١٤ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://date.nager.at/Calendar/2027/EG/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-14",
+        "impact": "غير مؤكد",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد القوات المسلحة",
+        "value": "٢٠٢٧-١٠-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/EG/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "إجازة نصف العام المدرسية",
+        "value": "إجازة مدرسية من 2027-01-23 إلى 2027-02-04 شاملة الطرفين.",
+        "source": "https://cairo.gov.eg/en/news/2026/septemper/17/c1808859bfd648c89b02acad0b97f77b",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2027-01-23",
+        "end": "2027-02-04",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "يزداد الإقبال في الشتاء المعتدل على وادي النيل والمعالم الأثرية.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-egypt",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "الربيع والخريف يوازنان بين الحرارة وانخفاض زحمة موسم الشتاء.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-egypt",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم وادي النيل في ديسمبر",
+        "value": "يزداد الطلب على الرحلات النيلية والأدلاء.",
+        "source": "https://traveljoyegypt.com/en/egypt-travel-guide/practical-tips/best-time-to-visit-egypt",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 12,
+        "impact": "يزداد الطلب على الرحلات النيلية والأدلاء.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم وادي النيل في يناير",
+        "value": "يزداد الطلب على الرحلات النيلية والأدلاء.",
+        "source": "https://traveljoyegypt.com/en/egypt-travel-guide/practical-tips/best-time-to-visit-egypt",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 1,
+        "impact": "يزداد الطلب على الرحلات النيلية والأدلاء.",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "تعامد الشمس على معبد أبي سمبل",
+        "value": "أبو سمبل (Abu Simbel)، في 22 فبراير و22 أكتوبر من كل عام بحسب وزارة السياحة والآثار.",
+        "source": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel",
+        "checked": "2026-11-27",
+        "month": 2,
+        "status": "confirmed"
+      },
+      {
+        "label": "تعامد الشمس على معبد أبي سمبل في أكتوبر",
+        "value": "أبو سمبل (Abu Simbel)، 22 أكتوبر من كل عام.",
+        "source": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel",
+        "checked": "2026-11-27",
+        "month": 10,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

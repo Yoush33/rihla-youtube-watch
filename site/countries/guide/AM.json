@@ -1,0 +1,554 @@
+{
+  "code": "AM",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "مددت أرمينيا الإعفاء المؤقت لحاملي الجنسية السعودية حتى 1 يوليو 2027.",
+        "source": "https://old.arlis.am/documentview.aspx?docid=227068",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة الفردية",
+        "value": "القاعدة العامة للدخول المعفى حتى 180 يوماً خلال سنة، ما لم ينص اتفاق على مدة أخرى.",
+        "source": "https://www.mfa.am/en/visa/?trk=public_post-text",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم التأشيرة خلال الإعفاء",
+        "value": "صفر.",
+        "source": "https://old.arlis.am/documentview.aspx?docid=227068",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الدرام الأرميني",
+        "source": "https://www.cba.am/en/banknotes-in-circulation/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "تقبل الفنادق والمتاجر الكبيرة البطاقات، واحتفظ بنقد للمحال الصغيرة.",
+        "source": "https://yerevannow.am/travel-guide/money",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية. يشيع نحو 10٪ لخدمة الطاولة في يريفان (Yerevan) إذا لم تُضَف خدمة مسبقاً.",
+        "source": "https://solotravel.am/tipping-in-armenia-restaurants-taxis-guides/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 64 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/armenia",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 154 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/armenia",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 19 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/armenia-esim?currency=USD",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«جي جي» أو «ياندكس غو» لحجز سيارة في يريفان (Yerevan).",
+        "source": "https://api.icarmenia.am/storage/ITIF-2025-Guidebook-2.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "الحافلة الصغيرة 201 تصل مطار زفارتنوتس (Zvartnots) بوسط يريفان (Yerevan).",
+        "source": "https://armenia.travel/plan-your-trip/getting-around-armenia/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "توجد قطارات بين يريفان (Yerevan) وغيومري (Gyumri) وحافلات بين المدن.",
+        "source": "https://armenia.t-armenia.com/en/faq",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "توجد مطاعم إيرانية تعلن تقديم الحلال في يريفان (Yerevan). تحقق من الفرع والصنف.",
+        "source": "https://masjid4all.com/businesses/armenia/yerevan/yerevan/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "المسجد الأزرق (Blue Mosque) في يريفان (Yerevan).",
+        "source": "https://masjid4all.com/businesses/armenia/yerevan/yerevan/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "خبز لافاش، دولما، مشاوي خوروفاتس. اطلب لحماً حلالاً عند اختيار المشاوي.",
+        "source": "https://www.iarmenia.org/whats-on-the-menu/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "الملابس معتادة في المدن. عند دخول الكنائس والأديرة راعِ الاحتشام.",
+        "source": "https://eurasia.travel/armenia/faq/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "تجنب تصوير المواقع العسكرية والمعابر الحساسة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/armenia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "تعمل محلات ومراكز تسوق كثيرة نحو 10 صباحاً إلى 9 مساءً.",
+        "source": "https://enjoyarmenia.am/en/useful-information/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "تجنب الشريط الحدودي مع أذربيجان ولا تقترب من مواقع عسكرية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/armenia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "احمِ حقيبتك في الأماكن المزدحمة وتجنب حمل مبالغ كبيرة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/armenia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 112.",
+        "source": "https://mia.gov.am/en/emergency-call-management",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "كنترون (Kentron)",
+        "value": "للوصول إلى معالم وسط يريفان سيراً.",
+        "source": "https://thearmeniaguides.com/where-to-stay-in-yerevan/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كاسكيد (Cascade)",
+        "value": "للفن والمقاهي قرب الدرج الشهير.",
+        "source": "https://thearmeniaguides.com/where-to-stay-in-yerevan/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "محيط ساحة الجمهورية (Republic Square)",
+        "value": "للمتاحف والمواصلات.",
+        "source": "https://thearmeniaguides.com/where-to-stay-in-yerevan/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "يريفان (Yerevan)",
+        "value": "توزيع مقترح للزيارة: 2–3 أيام.",
+        "source": "https://armeniaguidedtours.com/en/travel-guide/armenia-5-day-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "غيومري (Gyumri)",
+        "value": "توزيع مقترح للزيارة: يوم إلى يومين.",
+        "source": "https://armeniaguidedtours.com/en/travel-guide/armenia-5-day-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ديليجان (Dilijan)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://armeniaguidedtours.com/en/travel-guide/armenia-5-day-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠٢",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الأرمني · صفة ٥ يناير كعطلة رسمية",
+        "value": "غير مؤكد",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-01-05",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الميلاد الأرمني",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الجيش",
+        "value": "٢٠٢٦-٠١-٢٨",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-01-28",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المرأة",
+        "value": "٢٠٢٦-٠٣-٠٨",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-03-08",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة · تسمية غير متطابقة في اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "ذكرى ضحايا الإبادة الأرمنية",
+        "value": "٢٠٢٦-٠٤-٢٤",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-04-24",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النصر والسلام",
+        "value": "٢٠٢٦-٠٥-٠٩",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-05-09",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الجمهورية",
+        "value": "٢٠٢٦-٠٥-٢٨",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-05-28",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٦-٠٧-٠٥",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-07-05",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٩-٢١",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-09-21",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-١٢-٣١",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-12-31",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠٢",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-01-02",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الأرمني · صفة ٥ يناير كعطلة رسمية",
+        "value": "غير مؤكد",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-01-05",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الميلاد الأرمني",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الجيش",
+        "value": "٢٠٢٧-٠١-٢٨",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-01-28",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المرأة",
+        "value": "٢٠٢٧-٠٣-٠٨",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة · تسمية غير متطابقة في اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "ذكرى ضحايا الإبادة الأرمنية",
+        "value": "٢٠٢٧-٠٤-٢٤",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-04-24",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النصر والسلام",
+        "value": "٢٠٢٧-٠٥-٠٩",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-05-09",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الجمهورية",
+        "value": "٢٠٢٧-٠٥-٢٨",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-05-28",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٧-٠٧-٠٥",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-07-05",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٩-٢١",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-09-21",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-١٢-٣١",
+        "source": "https://english.hartak.am/holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-12-31",
+        "impact": "يغلق متحف المخطوطات ماتيناداران (Matenadaran) في يريفان (Yerevan) خلال العطلات وأيام الذكرى.",
+        "impactSource": "https://matenadaran.am/en/matenadaran/museum-and-gallery/working-hours-and-tickets/",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "إجازة الشتاء للصفوف 3–12 ذات أسبوع دراسي من خمسة أيام",
+        "value": "إجازة مدرسية من 2026-12-28 إلى 2027-01-08 شاملة الطرفين.",
+        "source": "https://www.armedu.am/index.php/am/news/view/13746",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-28",
+        "end": "2027-01-08",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تبلغ أسعار السكن ذروتها في يوليو وأغسطس.",
+        "source": "https://visityerevan.am/blog/details/130/en/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "مايو ويونيو، أو الخريف بعد أغسطس.",
+        "source": "https://visityerevan.am/blog/details/130/en/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة أسعار الإقامة في يوليو",
+        "value": "ترتفع أسعار السكن عادة في شهري يوليو وأغسطس.",
+        "source": "https://visityerevan.am/blog/details/130/en/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "ترتفع أسعار السكن عادة في شهري يوليو وأغسطس.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة أسعار الإقامة في أغسطس",
+        "value": "ترتفع أسعار السكن عادة في شهري يوليو وأغسطس.",
+        "source": "https://visityerevan.am/blog/details/130/en/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "ترتفع أسعار السكن عادة في شهري يوليو وأغسطس.",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "أيام يريفان",
+        "value": "يريفان (Yerevan)، يونيو. مهرجان في شوارع المركز يتضمن أكلاً وحفلات وعروضاً مرتبطة بصناعة النبيذ.",
+        "source": "https://www.yerewinedays.am/en/yerevan-wine-days/?doing_wp_cron=1782231308.0416779518127441406250",
+        "checked": "2026-11-27",
+        "month": 6,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

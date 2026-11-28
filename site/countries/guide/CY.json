@@ -1,0 +1,612 @@
+{
+  "code": "CY",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "تأشيرة زيارة قبرصية. تقبل الجمهورية أيضاً تأشيرة شنغن صالحة لدخولين أو متعددة الدخول وفق شروط السفارة.",
+        "source": "https://www.gov.cy/mfa-embassyriyadh/en/consular-services/visa-information/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "تأشيرة الإقامة القصيرة من يوم إلى 90 يوماً، بحسب قرار المنح.",
+        "source": "https://www.gov.cy/mfa-embassyriyadh/en/consular-services/visa-information/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم تأشيرة البالغ",
+        "value": "90 يورو، يُدفع بالريال وفق سعر القنصلية الشهري.",
+        "source": "https://www.gov.cy/mfa-embassyriyadh/en/consular-services/visa-information/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "اليورو في جمهورية قبرص",
+        "source": "https://www.visitcyprus.com/useful-info/money-currency/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "البطاقات منتشرة في المنتجعات، والكاش مفيد في القرى والأسواق.",
+        "source": "https://visit-cy.com/guides/money-cards-and-atms-in-cyprus",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "يمكن ترك مبلغ بسيط عند الرضا عن الخدمة.",
+        "source": "https://visit-cy.com/guides/money-cards-and-atms-in-cyprus",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 236 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/cyprus",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 548 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/cyprus",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/cyprus-esim?currency=USD",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "تطبيق «بامي» لخطوط الحافلات والمواقف ومتابعة الرحلات.",
+        "source": "https://publictransport.com.cy/Cms/page/mobile-app-information?__RequestVerificationToken=CfDJ8ErR28EEBQxFoy3lPRocNo5SAsQSdeDbNI3A8xlHexWmMcgeLiQfRf7OXZ2lHVRxCFKjNMmLAsh_P5foZHhZidxU3pdK0eoB4qOSvnKZmlCxv0syRxp8fpJJVdKmElLwhiioKi6yKm-WoJr9oEQNLF8",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "تنطلق حافلات من مطار لارنكا (Larnaca Airport) إلى وسط لارنكا. تحقق من جدول الوصول بحسب يومك.",
+        "source": "https://info.cy/larnaca-airport-transfers",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تربط الحافلات المدن الرئيسية في جمهورية قبرص. لا توجد سكك حديدية أو شبكة مترو.",
+        "source": "https://www.visitcyprus.com/useful-info/transportation/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "توجد خيارات حلال محددة في لارنكا (Larnaca). تحقق من المطعم قبل التوجه.",
+        "source": "https://www.zabihah.com/subregion/50468684-9f3a-11ef-956c-6045bdeb9f57/larnaca",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد هالة سلطان (Hala Sultan Tekke) قرب بحيرة لارنكا المالحة.",
+        "source": "https://www.larnakaregion.com/en/directory/product/hala-sultan-tekke-mosque",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "حلّوم مشوي، سوفلاكي، وكليفتيكو باللحم. اختر اللحم الحلال عند الطلب.",
+        "source": "https://www.visitcyprus.com/wp-content/uploads/2026/01/New-Guide-To-Cyprus-Booklet_EN_web.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "عند زيارة مسجد هالة سلطان (Hala Sultan Tekke)، غطِّ الكتفين والساقين والتزم تعليمات المسجد.",
+        "source": "https://www.halasultan.com/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "تجنب تصوير المواقع العسكرية أو الاقتراب من المنطقة العازلة دون تصريح.",
+        "source": "https://www.gov.uk/foreign-travel-advice/cyprus/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "تختلف أوقات الإغلاق بين المناطق السياحية والقرى والفصول. راجع المتجر في يوم الزيارة.",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "تعامل مع الخط الأخضر والمعابر الرسمية بحذر والتزم تعليمات القوة الموجودة في الموقع.",
+        "source": "https://www.gov.uk/foreign-travel-advice/cyprus/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "لا تترك مشروبك بلا مراقبة في الملاهي والمناطق السياحية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/cyprus/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 112.",
+        "source": "https://www.gov.uk/foreign-travel-advice/cyprus/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "فينيكودس (Finikoudes)",
+        "value": "للممشى والشاطئ والمطاعم.",
+        "source": "https://www.visitcyprus.com/wp-content/uploads/files/MAPS/maps_2024/Larnaka_Map.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ماكينزي (Mackenzie)",
+        "value": "لشاطئ قريب من المطار.",
+        "source": "https://www.visitcyprus.com/wp-content/uploads/files/MAPS/maps_2024/Larnaka_Map.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "المركز التاريخي (Historic Centre)",
+        "value": "للمقاهي والمعالم حول كنيسة القديس لعازر.",
+        "source": "https://www.visitcyprus.com/wp-content/uploads/files/MAPS/maps_2024/Larnaka_Map.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "لارنكا (Larnaca)",
+        "value": "توزيع مقترح للزيارة: يوم إلى يومين.",
+        "source": "https://intercity-buses.com/wp-content/uploads/2026/06/Summer-26.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ليماسول (Limassol)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://intercity-buses.com/wp-content/uploads/2026/06/Summer-26.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "بافوس (Paphos)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://intercity-buses.com/wp-content/uploads/2026/06/Summer-26.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاثنين النظيف",
+        "value": "٢٠٢٦-٠٢-٢٣",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-02-23",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى الاستقلال اليوناني",
+        "value": "٢٠٢٦-٠٣-٢٥",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-03-25",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني القبرصي",
+        "value": "٢٠٢٦-٠٤-٠١",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-04-01",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-١٠",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-04-10",
+        "impact": "تنتهي ساعات التسوق بحلول السادسة مساءً. تفتح المواقع الأثرية الرئيسية في أسبوع الآلام باستثناء أحد الفصح.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-١٣",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-04-13",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثاء الفصح",
+        "value": "٢٠٢٦-٠٤-١٤",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-04-14",
+        "impact": "تغلق المصارف في ثلاثاء الفصح.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الروح القدس",
+        "value": "٢٠٢٦-٠٥-٣١",
+        "source": "https://date.nager.at/Calendar/2026/CY/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-31",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٦-٠٦-٠١",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد رقاد السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد استقلال قبرص",
+        "value": "٢٠٢٦-١٠-٠١",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-10-01",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الرفض الوطني",
+        "value": "٢٠٢٦-١٠-٢٨",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-10-28",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٤",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "تقفل المتاجر بحلول السادسة مساءً، وتعمل المصارف في عشية الميلاد.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاثنين النظيف",
+        "value": "٢٠٢٧-٠٣-١٥",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-03-15",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى الاستقلال اليوناني",
+        "value": "٢٠٢٧-٠٣-٢٥",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-03-25",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني القبرصي",
+        "value": "٢٠٢٧-٠٤-٠١",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-04-01",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٤-٣٠",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-04-30",
+        "impact": "تنتهي ساعات التسوق بحلول السادسة مساءً. تفتح المواقع الأثرية الرئيسية في أسبوع الآلام باستثناء أحد الفصح.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثاء الفصح",
+        "value": "٢٠٢٧-٠٥-٠٤",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-05-04",
+        "impact": "تغلق المصارف في ثلاثاء الفصح.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الروح القدس",
+        "value": "٢٠٢٧-٠٦-٢٠",
+        "source": "https://date.nager.at/Calendar/2027/CY/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-20",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٧-٠٦-٢١",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-06-21",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد رقاد السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد استقلال قبرص",
+        "value": "٢٠٢٧-١٠-٠١",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-10-01",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الرفض الوطني",
+        "value": "٢٠٢٧-١٠-٢٨",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-10-28",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٤",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "تقفل المتاجر بحلول السادسة مساءً، وتعمل المصارف في عشية الميلاد.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تغلق جهات عامة ومصارف ومتاجر، وتظل بعض الخدمات والمتاجر مفتوحة في المنتجعات والمناطق الساحلية.",
+        "impactSource": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "إجازة الميلاد لمدارس التعليم الابتدائي",
+        "value": "إجازة مدرسية من 2026-12-23 إلى 2027-01-06 شاملة الطرفين.",
+        "source": "https://moec.gov.cy/dde/scholikes_argies.html",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-23",
+        "end": "2027-01-06",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تزدحم المنتجعات الساحلية في يوليو وأغسطس.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-cyprus",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "أواخر الربيع وسبتمبر وأكتوبر عادة أهدأ على الساحل.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-cyprus",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة المنتجعات الساحلية في يوليو",
+        "value": "تزاحم وأسعار صيفية أعلى في المنتجعات.",
+        "source": "https://visitcyprus365.com/travel-guides/best-time-to-visit-cyprus",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "تزاحم وأسعار صيفية أعلى في المنتجعات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة المنتجعات الساحلية في أغسطس",
+        "value": "تزاحم وأسعار صيفية أعلى في المنتجعات.",
+        "source": "https://visitcyprus365.com/travel-guides/best-time-to-visit-cyprus",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "تزاحم وأسعار صيفية أعلى في المنتجعات.",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان ليماسول للنبيذ",
+        "value": "ليماسول (Limassol)، أواخر سبتمبر وأوائل أكتوبر، وبرنامجه يتضمن عروضاً موسيقية وشعبية.",
+        "source": "https://www.limassoltourism.com/events/limassol-wine-festival-2026-4/",
+        "checked": "2026-11-27",
+        "month": 9,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "code": "KE",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "تصريح سفر إلكتروني قبل المغادرة وفق بوابة الهجرة الكينية.",
+        "source": "https://evisa.go.ke/how-to-apply",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "تحدد الهجرة مدة الإذن في المنفذ عند الوصول. تقبل طلب تمديد الإقامة إلى حد أقصاه ستة أشهر.",
+        "source": "https://immigration.go.ke/extension-of-visitors-pass-application/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "حددت البوابة نحو 30 دولارًا للتصريح السياحي العادي، وقد تُضاف رسوم الخدمة.",
+        "source": "https://etakenya.go.ke/faqs",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "يفيد الاحتفاظ بالشلنات للمشتريات الصغيرة والإكراميات.",
+        "source": "https://www.kenyaexperience.org/practical-information/money",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "الشلن الكيني",
+        "source": "https://www.kenyaexperience.org/practical-information/money",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "في المطاعم راجع رسوم الخدمة في الحساب قبل ترك مبلغ نقدي إضافي.",
+        "source": "https://www.allaboutnairobi.com/guides/tipping-in-kenya",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 221 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/Kenya",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 521 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/Kenya",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 30 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/kenya-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "باتا مات (Pata Mat) لخرائط حافلات الماتاتو.",
+        "source": "https://play.google.com/store/apps/details?id=com.kinyuanexus.patamat",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "من مطار جومو كينياتا (Jomo Kenyatta) تتوفر سيارات أجرة ونقل محجوز إلى نيروبي (Nairobi).",
+        "source": "https://www.visitnairobikenya.com/plan",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "قطار ماداراكا إكسبريس يصل نيروبي (Nairobi) بمومباسا (Mombasa).",
+        "source": "https://krc.co.ke/madaraka-express-passenger-service/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "ينشر مكتب اعتماد الحلال الكيني معلومات عن معايير الاعتماد المحلية.",
+        "source": "https://kbhc.info/about/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "الجامع الكبير (Jamia Mosque) في وسط نيروبي (Nairobi).",
+        "source": "https://jamiamosque.co.ke/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "نياما تشوما (لحم مشوي)، أوغالي مع خضار، وبيلاو على الساحل.",
+        "source": "https://kenyaauthority.com/en/articles/kenyan-dishes-to-try",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "في المناطق الساحلية ذات الأغلبية المسلمة مثل مومباسا (Mombasa) اختر لباسًا محتشمًا خارج المنتجعات.",
+        "source": "https://www.gov.uk/foreign-travel-advice/kenya/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "مثال من نيروبي (Nairobi)، سوق الماساي داخل مركز ثيكا رود (Thika Road Mall) من 9 صباحًا إلى 7:30 مساءً.",
+        "source": "https://www.trm.co.ke/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "999 للطوارئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/kenya/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "انتبه لجواز السفر ومقتنياتك داخل المطارات، وخصوصًا صالة المغادرة.",
+        "source": "https://travel.gc.ca/destinations/kenya?08997=d83p5",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "انتبه للاحتيال عند ترتيب الجولات واستخدم مقدمي خدمات موثوقين.",
+        "source": "https://tourkenya.go.ke/tourism-safety/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ويستلاندز (Westlands)",
+        "value": "للفنادق والمطاعم",
+        "source": "https://welcomenairobi.com/where-to-stay-in-nairobi/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كيليماني (Kilimani)",
+        "value": "للإقامة الطويلة",
+        "source": "https://welcomenairobi.com/where-to-stay-in-nairobi/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كارين (Karen)",
+        "value": "للمساحات الخضراء",
+        "source": "https://welcomenairobi.com/where-to-stay-in-nairobi/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "نيروبي (Nairobi)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.unbound.org/-/media/project/unbound/unbound/pdfs/travel/2026/kenya-2026-v2.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كيسومو (Kisumu)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.unbound.org/-/media/project/unbound/unbound/pdfs/travel/2026/kenya-2026-v2.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "مومباسا (Mombasa)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://krc.co.ke/madaraka-express-passenger-service/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الحكم الذاتي",
+        "value": "٢٠٢٦-٠٦-٠١",
+        "source": "https://date.nager.at/Calendar/2026/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم البيئة",
+        "value": "٢٠٢٦-١٠-١٠",
+        "source": "https://date.nager.at/Calendar/2026/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-10",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأبطال",
+        "value": "٢٠٢٦-١٠-٢٠",
+        "source": "https://date.nager.at/Calendar/2026/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-20",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الجمهورية",
+        "value": "٢٠٢٦-١٢-١٢",
+        "source": "https://date.nager.at/Calendar/2026/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-12",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الحكم الذاتي",
+        "value": "٢٠٢٧-٠٦-٠١",
+        "source": "https://date.nager.at/Calendar/2027/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-01",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم البيئة",
+        "value": "٢٠٢٧-١٠-١١",
+        "source": "https://date.nager.at/Calendar/2027/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-11",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأبطال",
+        "value": "٢٠٢٧-١٠-٢٠",
+        "source": "https://date.nager.at/Calendar/2027/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-20",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الجمهورية",
+        "value": "٢٠٢٧-١٢-١٣",
+        "source": "https://date.nager.at/Calendar/2027/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-13",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/KE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "يفتح متحف نيروبي الوطني (Nairobi National Museum) أبوابه للزوار حتى في العطلات الرسمية.",
+        "impactSource": "https://museums.or.ke/our-rates/",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "يناير وفبراير موسم مرتفع للسفاري، ويزداد الطلب على ماساي مارا (Maasai Mara) مع موسم الهجرة من يوليو.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-kenya",
+        "checked": "2026-11-27",
+        "month": 1,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زيادة الزحام"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "يناير وفبراير موسم مرتفع للسفاري، ويزداد الطلب على ماساي مارا (Maasai Mara) مع موسم الهجرة من يوليو.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-kenya",
+        "checked": "2026-11-27",
+        "month": 2,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زيادة الزحام"
+      },
+      {
+        "label": "عطلة المدارس الابتدائية والمتوسطة وما قبل الابتدائي",
+        "value": "من 2027-04-10 إلى 2027-05-02 حسب التقويم المدرسي.",
+        "source": "https://educationnews.co.ke/news/2027-school-calendar-term-dates-holidays-and-national-examination-window",
+        "checked": "2026-11-27",
+        "date": "2027-04-10",
+        "end": "2027-05-02",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة أغسطس المدرسية",
+        "value": "من 2027-07-31 إلى 2027-08-29 حسب التقويم المدرسي.",
+        "source": "https://educationnews.co.ke/news/2027-school-calendar-term-dates-holidays-and-national-examination-window",
+        "checked": "2026-11-27",
+        "date": "2027-07-31",
+        "end": "2027-08-29",
+        "peak": true,
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان لامو الثقافي",
+        "value": "لامو (Lamu)، نوفمبر.",
+        "source": "https://museums.or.ke/wp-content/uploads/2025/02/July-Dec-2024-Newsletter-NMK-HTI.pdf",
+        "checked": "2026-11-27",
+        "month": 11,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

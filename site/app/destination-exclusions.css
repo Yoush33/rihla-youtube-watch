@@ -1,0 +1,26 @@
+.destination-exclusions-list {
+  display: grid;
+  gap: 8px;
+  margin: 14px 0;
+  padding: 0;
+  list-style: none;
+}
+.destination-exclusions-list li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 4px 10px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+.destination-exclusions-list li > span { overflow-wrap: anywhere; }
+.destination-exclusions-list small { margin-inline-start: 4px; color: var(--muted); }
+.destination-exclusions-form { display: grid; grid-template-columns: 1fr 2fr auto; align-items: end; gap: 10px; }
+.destination-exclusions .destination-exclusions-form label { margin: 0; }
+.destination-exclusions-form :is(select,input,button), .destination-exclusions-list button { min-height: 44px; }
+.destination-exclusions-form button, .destination-exclusions-list button { white-space: nowrap; }
+@media (max-width: 560px) {
+  .destination-exclusions-form { grid-template-columns: 1fr; }
+  .destination-exclusions-form button { justify-self: start; }
+}

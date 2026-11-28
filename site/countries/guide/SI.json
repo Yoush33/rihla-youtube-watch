@@ -1,0 +1,773 @@
+{
+  "code": "SI",
+  "sections": {
+    "entry": [
+      {
+        "label": "تأشيرة الجواز السعودي والمدة",
+        "value": "تأشيرة شنغن مطلوبة للجواز العادي. الحد الأقصى للزيارة القصيرة ٩٠ يومًا خلال أي ١٨٠ يومًا في فضاء شنغن.",
+        "source": "https://www.gov.si/en/countries/saudi-arabia/for-saudi-arabian-citizens/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسوم",
+        "value": "الرسم الأساسي للبالغ ٩٠ يورو. قد يضاف رسم خدمة عند التقديم عبر وسيط.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "اليورو (EUR).",
+        "source": "https://www.budgetyourtrip.com/slovenia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع والإكرامية",
+        "value": "البطاقات مقبولة عادةً. خذ نقدًا للأسواق والريف. تقريب الفاتورة أو ترك نحو ١٠٪ شائع بالمطاعم.",
+        "source": "https://www.slovenia-tourism.si/travel-tips-for-slovenia-essential-dos-and-donts/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميزانية الفرد اليومية بالريال",
+        "value": "اقتصادي نحو ١٩١ ريالًا، ومتوسط نحو ٤٥٤ ريالًا. يشمل متوسط إنفاق المسافرين السكن والطعام والتنقل والزيارات.",
+        "source": "https://www.budgetyourtrip.com/slovenia/trip-cost-SI",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "مثال لبيانات إلكترونية فقط، ١ غيغابايت لسبعة أيام من ٢٫٦٨ يورو.",
+        "source": "https://balkanesim.app/esim/slovenia",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "أوربانا لدفع أجرة حافلات ليوبليانا (Ljubljana) وعرض المواعيد.",
+        "source": "https://www.visitljubljana.com/en/visitors/travel-information/useful-mobile-apps",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "المطار إلى المدينة",
+        "value": "تغادر الحافلات العامة من أمام مبنى مطار ليوبليانا (Ljubljana) إلى محطة الحافلات في المدينة.",
+        "source": "https://lju-airport.si/en/transport/bus/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "القطارات والحافلات تربط المدن. استخدم تطبيقات التنقل المدرجة في دليل العاصمة لتخطيط الرحلة.",
+        "source": "https://www.visitljubljana.com/en/visitors/travel-information/useful-mobile-apps",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال",
+        "value": "يسجل دليل المدينة مطعم شهرزاد (Šeherezada) خيارًا حلالًا في البلدة القديمة بليوبليانا (Ljubljana).",
+        "source": "https://www.visitljubljana.com/en/poi/seherezada",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "المركز الثقافي الإسلامي في ليوبليانا (Ljubljana) يضم مسجد العاصمة.",
+        "source": "https://www.visitljubljana.com/en/poi/ljubljana-mosque",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "بوتيتسا، ولفائف شتروكلي، وزليكروفي إدريا. اسأل عن حشوة اللحم ومكوّنات العجين.",
+        "source": "https://www.slovenia.info/uploads/publikacije/splosni_katalog_2022/2024_SLO_Slovenija_Moj_nacin_dozivljanja_sveta.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والسلوك",
+        "value": "احتشم عند زيارة المسجد واتبع اللوحات الخاصة بخلع الأحذية والوضوء.",
+        "source": "https://masjid.si/guides/masjid-etiquette",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "راجع مواعيد المتجر وخصوصًا أيام الأحد والعطلات، وقد تختلف ساعات الصيدليات والبنوك عن المتاجر.",
+        "source": "https://www.slovenia.info/en/plan-your-trip/practical-info/opening-hours",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة ١١٣. الإسعاف والإطفاء والإنقاذ الجبلي ١١٢.",
+        "source": "https://www.gov.uk/foreign-travel-advice/slovenia/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "السرقة والاحتيال",
+        "value": "انتبه للنشل قرب المواقع السياحية ولا تترك الأمتعة ظاهرة داخل السيارة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/slovenia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأماكن التي تستدعي الحذر",
+        "value": "انتبه للأحوال المحلية قبل المشي في الجبال، خصوصًا مع تساقط الثلوج.",
+        "source": "https://www.gov.uk/foreign-travel-advice/slovenia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "مناطق السكن وأسباب الاختيار",
+        "value": "في ليوبليانا (Ljubljana)، البلدة القديمة (Old Town) للمشي إلى المعالم، وترنوفو (Trnovo) لهدوء الضفة، وشيشكا (Šiška) للسكن خارج المركز.",
+        "source": "https://visitslovenia.com/slovenia/travel-guides/places-of-interest/what-are-the-best-neighborhoods-in-ljubljana",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار الزيارة ومدة كل محطة",
+        "value": "مسار من ثلاثة أيام، يوم في ليوبليانا (Ljubljana) للقلعة والسوق، ويوم في بليد (Bled) للبحيرة، ويوم في بوستوينا (Postojna) للكهف وقلعة بريدجاما (Predjama).",
+        "source": "https://visitslovenia.com/slovenia/travel-guides/places-of-interest/slovenia-in-3-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠٢",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم بريشيرن للثقافة السلوفينية",
+        "value": "٢٠٢٦-٠٢-٠٨",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-02-08",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح واثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح واثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المقاومة ضد الاحتلال",
+        "value": "٢٠٢٦-٠٤-٢٧",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-04-27",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠٢",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-05-02",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم بريموش تروبار · تاريخ اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-05-02",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٤",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم بريموش تروبار",
+        "value": "٢٠٢٦-٠٦-٠٨ · مناسبة في يوم عمل",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-06-08",
+        "impact": "مناسبة وطنية لا تمنح إجازة عن العمل.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدولة",
+        "value": "٢٠٢٦-٠٦-٢٥",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-06-25",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم جبل تريغلاف",
+        "value": "٢٠٢٦-٠٨-٠٧ · مناسبة في يوم عمل",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-08-07",
+        "impact": "مناسبة وطنية لا تمنح إجازة عن العمل.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم السيادة · تاريخ اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-08-14",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى اتحاد سلوفينيي بريكموريه مع الوطن · تاريخ اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "ذكرى اتحاد سلوفينيي بريكموريه مع الوطن",
+        "value": "٢٠٢٦-٠٨-١٧ · مناسبة في يوم عمل",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-08-17",
+        "impact": "مناسبة وطنية لا تمنح إجازة عن العمل.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى انضمام بريمورسكا إلى الوطن",
+        "value": "٢٠٢٦-٠٩-١٥",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-09-15",
+        "impact": "مناسبة وطنية خلال يوم عمل عادي؛ لا تفترض إغلاق المحلات بسبب المناسبة.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الرياضة السلوفينية",
+        "value": "٢٠٢٦-٠٩-٢٣",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-09-23",
+        "impact": "مناسبة وطنية خلال يوم عمل عادي؛ لا تفترض إغلاق المحلات بسبب المناسبة.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم السيادة",
+        "value": "٢٠٢٦-١٠-٢٥ · مناسبة في يوم عمل",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-10-25",
+        "impact": "مناسبة وطنية لا تمنح إجازة عن العمل.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الإصلاح الديني",
+        "value": "٢٠٢٦-١٠-٣١",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-10-31",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ذكرى الموتى",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم العلم السلوفيني",
+        "value": "٢٠٢٦-١١-١٠ · مناسبة في يوم عمل",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-11-10",
+        "impact": "مناسبة وطنية لا تمنح إجازة عن العمل.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم رودولف مايستر",
+        "value": "٢٠٢٦-١١-٢٣",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-11-23",
+        "impact": "مناسبة وطنية خلال يوم عمل عادي؛ لا تفترض إغلاق المحلات بسبب المناسبة.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال والوحدة",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠٢",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-01-02",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم بريشيرن للثقافة السلوفينية",
+        "value": "٢٠٢٧-٠٢-٠٨",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-02-08",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح واثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح واثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المقاومة ضد الاحتلال",
+        "value": "٢٠٢٧-٠٤-٢٧",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-04-27",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠٢",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم بريموش تروبار · تاريخ اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٧-٠٥-١٦",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم بريموش تروبار",
+        "value": "٢٠٢٧-٠٦-٠٨ · مناسبة في يوم عمل",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-06-08",
+        "impact": "مناسبة وطنية لا تمنح إجازة عن العمل.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدولة",
+        "value": "٢٠٢٧-٠٦-٢٥",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-06-25",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم جبل تريغلاف",
+        "value": "٢٠٢٧-٠٨-٠٧ · مناسبة في يوم عمل",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-08-07",
+        "impact": "مناسبة وطنية لا تمنح إجازة عن العمل.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم السيادة · تاريخ اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-08-14",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى اتحاد سلوفينيي بريكموريه مع الوطن · تاريخ اللقطة",
+        "value": "غير مؤكد",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "غير مؤكد",
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "ذكرى اتحاد سلوفينيي بريكموريه مع الوطن",
+        "value": "٢٠٢٧-٠٨-١٧ · مناسبة في يوم عمل",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-08-17",
+        "impact": "مناسبة وطنية لا تمنح إجازة عن العمل.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى انضمام بريمورسكا إلى الوطن",
+        "value": "٢٠٢٧-٠٩-١٥",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-09-15",
+        "impact": "مناسبة وطنية خلال يوم عمل عادي؛ لا تفترض إغلاق المحلات بسبب المناسبة.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الرياضة السلوفينية",
+        "value": "٢٠٢٧-٠٩-٢٣",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-09-23",
+        "impact": "مناسبة وطنية خلال يوم عمل عادي؛ لا تفترض إغلاق المحلات بسبب المناسبة.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم السيادة",
+        "value": "٢٠٢٧-١٠-٢٥ · مناسبة في يوم عمل",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-10-25",
+        "impact": "مناسبة وطنية لا تمنح إجازة عن العمل.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الإصلاح الديني",
+        "value": "٢٠٢٧-١٠-٣١",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-10-31",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ذكرى الموتى",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم العلم السلوفيني",
+        "value": "٢٠٢٧-١١-١٠ · مناسبة في يوم عمل",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-11-10",
+        "impact": "مناسبة وطنية لا تمنح إجازة عن العمل.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم رودولف مايستر",
+        "value": "٢٠٢٧-١١-٢٣",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-11-23",
+        "impact": "مناسبة وطنية خلال يوم عمل عادي؛ لا تفترض إغلاق المحلات بسبب المناسبة.",
+        "impactSource": "https://www.gov.si/en/topics/national-holidays/",
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال والوحدة",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://www.gov.si/en/topics/national-holidays/",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تغلق المتاجر في أيام العطلة عن العمل، مع استثناءات يحددها قانون التجارة.",
+        "impactSource": "https://www.gov.si/en/news/2022-11-11-44th-correspondence-meeting-of-the-government-of-the-republic-of-slovenia/",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "تنشر الوزارة روزنامة المدارس الابتدائية بحسب السنة والمنطقة.",
+        "source": "https://www.gov.si/teme/solski-koledar-za-osnovne-sole/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الذروة والفترة الأهدأ",
+        "value": "يقدّم الربيع والخريف مواسم زيارة خارج الذروة الصيفية، ويختلف الإقبال بين الساحل والجبال.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-slovenia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة الخريف",
+        "value": "تشمل مدارس المرحلة الابتدائية في سلوفينيا.",
+        "source": "https://www.gov.si/teme/solski-koledar-za-osnovne-sole/",
+        "checked": "2026-11-27",
+        "date": "2026-10-26",
+        "end": "2026-10-30",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة نهاية السنة",
+        "value": "عطلة رأس السنة في التقويم المدرسي الحكومي.",
+        "source": "https://www.gov.si/teme/solski-koledar-za-osnovne-sole/",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "end": "2027-01-02",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس · عطلة نهاية السنة · المدارس الثانوية",
+        "value": "تغلق المدارس المشمولة بهذا التقويم خلال الفترة المذكورة.",
+        "date": "2026-12-28",
+        "end": "2026-12-31",
+        "peak": true,
+        "impact": "تتوقف الدراسة. أثر الإجازة على أسعار السفر غير مؤكد.",
+        "source": "https://www.gov.si/assets/ministrstva/MVI/Dokumenti/Srednja-sola/Solski-koledar/Solski-koledar-2026-2027/Pocitnice-in-pouka-prosti-dnevi-izpitni-roki-okvirni-koledar-splosne-in-poklicne-mature-ter-zakljucnega-izpita-za-2026-2027.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة بحيرة بليد (Lake Bled)",
+        "value": "يوليو وأغسطس الشهران الأكثر ازدحامًا عند البحيرة، مع صعود أسعار الإقامة.",
+        "source": "https://visitslovenia.com/slovenia/travel-guides/slovenia-questions/best-lake-bled-day-trip-combos-from-ljubljana",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "زحمة وأسعار سكن أعلى بجوار البحيرة",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة بحيرة بليد (Lake Bled)",
+        "value": "يوليو وأغسطس الشهران الأكثر ازدحامًا عند البحيرة، مع صعود أسعار الإقامة.",
+        "source": "https://visitslovenia.com/slovenia/travel-guides/slovenia-questions/best-lake-bled-day-trip-combos-from-ljubljana",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "زحمة وأسعار سكن أعلى بجوار البحيرة",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "الفعالية السنوية",
+        "value": "كرنفال كورينتوفانيه، بتوي (Ptuj)، في فبراير قبل بدء الصوم، ويشتهر بالأقنعة التقليدية.",
+        "source": "https://culture.gov.si/en/Kurentovanje",
+        "checked": "2026-11-27",
+        "month": 2,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

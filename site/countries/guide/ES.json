@@ -1,0 +1,1126 @@
+{
+  "code": "ES",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "تلزم تأشيرة شنغن قصيرة الإقامة للسائح حامل الجواز العادي.",
+        "source": "https://home-affairs.ec.europa.eu/document/download/a2378226-f392-42d0-9984-e023db53d140_en?filename=regulation-2018-1806.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "حتى 90 يوماً في أي 180 يوماً ضمن دول شنغن مجتمعة، وبحدود الأيام في التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم طلب البالغ",
+        "value": "90 يورو، وقد تضاف رسوم مركز الخدمة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "اليورو",
+        "source": "https://european-union.europa.eu/principles-countries-history/eu-countries/spain_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "تقبل البطاقات الدولية في معظم الأماكن.",
+        "source": "https://www.spain.info/export/sites/segtur/.content/Folletos/folletos/Espana-General_Ingles_A4_Final_Web.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية. من المعتاد أحياناً ترك 5–10٪ في المطاعم عند الرضا.",
+        "source": "https://www.spain.info/export/sites/segtur/.content/Folletos/folletos/Espana-General_Ingles_A4_Final_Web.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 304 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/Spain",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 772 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/Spain",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/spain-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«تي إكس ماد» تطبيق رسمي لمعلومات سيارات الأجرة في مدريد (Madrid).",
+        "source": "https://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Taxi/?idCapitulo=10746958&vgnextchannel=220e31d3b28fe410VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=4813dc0bffa41110VgnVCM1000000b205a0aRCRD",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "تربط حافلة المطار السريعة مطار مدريد باراخاس (Madrid Barajas) بالمدينة، وتعمل يومياً بما فيها العطل.",
+        "source": "https://www.aena.es/en/adolfo-suarez-madrid-barajas/getting-there/bus.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تربط السكك السريعة مدناً رئيسية مثل مدريد (Madrid) وبرشلونة (Barcelona). احجز رحلة المسافات الطويلة بالمحطتين الصحيحتين.",
+        "source": "https://www.spain.info/gcc/en/how-to-travel-through-spain/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "يقدم مطعم الزهراء بالمركز الثقافي الإسلامي في مدريد (Madrid) مأكولات عربية.",
+        "source": "https://www.esmadrid.com/en/restaurants/alzahra",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد إم 30 (M-30 Mosque) في المركز الثقافي الإسلامي بمدريد.",
+        "source": "https://www.esmadrid.com/en/restaurants/alzahra",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "باييّا، تورتيّا البطاطس، وغاسباتشو. اسأل عن المرق واللحم في الباييّا.",
+        "source": "https://www.spain.info/en/about-spain/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "تطبق بعض البلديات الساحلية قيوداً على لباس السباحة خارج الشاطئ.",
+        "source": "https://www.lonelyplanet.com/articles/things-to-know-before-traveling-to-spain",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "احتفظ بمقتنياتك قريبة في الزحام وتجنب مَن يضغط عليك لتوقيع عريضة أو قبول هدية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "في وسط مدريد (Madrid) تفتح متاجر سياحية أيام الأحد والعطل. تختلف المواعيد في المدن الصغيرة.",
+        "source": "https://www.esmadrid.com/en/practical-information",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "انتبه في محطات المترو والمراكز السياحية في برشلونة (Barcelona) ومدريد (Madrid).",
+        "source": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "النشل شائع بالزحام. لا تترك الهاتف أو المحفظة على طاولة المقهى.",
+        "source": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 112.",
+        "source": "https://www.gov.uk/foreign-travel-advice/spain/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "سول (Sol)",
+        "value": "للمركز والمشي إلى الساحات.",
+        "source": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-madrid",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "حي الآداب (Barrio de las Letras)",
+        "value": "للمتاحف والمعارض.",
+        "source": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-madrid",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "مالاسانيا (Malasaña)",
+        "value": "للمقاهي والمتاجر المستقلة.",
+        "source": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-madrid",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مدريد (Madrid)",
+        "value": "توزيع مقترح للزيارة: 3 أيام.",
+        "source": "https://travelitinerarytemplate.app/tools/multi-city-days/madrid-barcelona-seville",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "إشبيلية (Seville)",
+        "value": "توزيع مقترح للزيارة: يومان إلى ثلاثة.",
+        "source": "https://travelitinerarytemplate.app/tools/multi-city-days/madrid-barcelona-seville",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "برشلونة (Barcelona)",
+        "value": "توزيع مقترح للزيارة: 3–4 أيام.",
+        "source": "https://travelitinerarytemplate.app/tools/multi-city-days/madrid-barcelona-seville",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأندلس",
+        "value": "٢٠٢٦-٠٢-٢٨",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-02-28",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "الأندلس (Andalusia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم جزر البليار",
+        "value": "٢٠٢٦-٠٣-٠١ · تاريخ المناسبة. التقويم الرسمي يضع الإجازة التعويضية في 2026-03-02",
+        "source": "https://date.nager.at/Calendar/2026/ES/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-01",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "جزر البليار (Balearic Islands)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة تعويض يوم جزر البليار",
+        "date": "2026-03-02",
+        "value": "٢٠٢٦-٠٣-٠٢",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "scope": "جزر البليار (Balearic Islands)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "خميس العهد",
+        "value": "٢٠٢٦-٠٤-٠٢",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-04-02",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "الأندلس (Andalusia)، أراغون (Aragon)، أستورياس (Asturias)، جزر البليار (Balearic Islands)، جزر الكناري (Canary Islands)، كانتابريا (Cantabria)، قشتالة لا مانتشا (Castilla-La Mancha)، قشتالة وليون (Castile and León)، إكستريمادورا (Extremadura)، غاليسيا (Galicia)، مدريد (Madrid)، مرسية (Murcia)، نافارا (Navarre)، إقليم الباسك (Basque Country)، لا ريوخا (La Rioja)، سبتة (Ceuta)، مليلية (Melilla)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "جزر البليار (Balearic Islands)، قشتالة لا مانتشا (Castilla-La Mancha)، كتالونيا (Catalonia)، نافارا (Navarre)، إقليم الباسك (Basque Country)، لا ريوخا (La Rioja)، فالنسيا (Valencia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم قشتالة وليون",
+        "value": "٢٠٢٦-٠٤-٢٣",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-04-23",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "قشتالة وليون (Castile and León)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس جورج ويوم أراغون",
+        "value": "٢٠٢٦-٠٤-٢٣",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-04-23",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "أراغون (Aragon)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم إقليم مدريد",
+        "value": "٢٠٢٦-٠٥-٠٢",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-05-02",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "scope": "مدريد (Madrid)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأدب الغاليسي",
+        "value": "٢٠٢٦-٠٥-١٧ · تاريخ المناسبة يوم الأحد. إجازة إضافية غير مؤكدة في تقويم العمل.",
+        "source": "https://date.nager.at/Calendar/2026/ES/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-17",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "غاليسيا (Galicia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم جزر الكناري",
+        "value": "٢٠٢٦-٠٥-٣٠",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-05-30",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "جزر الكناري (Canary Islands)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم إقليم قشتالة لا مانتشا",
+        "value": "٢٠٢٦-٠٥-٣١ · تاريخ المناسبة يوم الأحد. إجازة إضافية غير مؤكدة في تقويم العمل.",
+        "source": "https://date.nager.at/Calendar/2026/ES/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-31",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "قشتالة لا مانتشا (Castilla-La Mancha)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٦-٠٦-٠٤",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-06-04",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "قشتالة لا مانتشا (Castilla-La Mancha)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم لا ريوخا",
+        "value": "٢٠٢٦-٠٦-٠٩",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-06-09",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "لا ريوخا (La Rioja)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم إقليم مرسية",
+        "value": "٢٠٢٦-٠٦-٠٩",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-06-09",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "مرسية (Murcia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس يوحنا",
+        "value": "٢٠٢٦-٠٦-٢٤",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-06-24",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "كتالونيا (Catalonia)، غاليسيا (Galicia)، فالنسيا (Valencia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس يعقوب",
+        "value": "٢٠٢٦-٠٧-٢٥",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-07-25",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "غاليسيا (Galicia)، إقليم الباسك (Basque Country)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم مؤسسات كانتابريا",
+        "value": "٢٠٢٦-٠٧-٢٨",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-07-28",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "كانتابريا (Cantabria)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم أستورياس",
+        "value": "٢٠٢٦-٠٩-٠٨",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-09-08",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "أستورياس (Asturias)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم إكستريمادورا",
+        "value": "٢٠٢٦-٠٩-٠٨",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-09-08",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "إكستريمادورا (Extremadura)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كتالونيا الوطني",
+        "value": "٢٠٢٦-٠٩-١١",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-09-11",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "كتالونيا (Catalonia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد السيدة العذراء في بيين أباريسيدا",
+        "value": "٢٠٢٦-٠٩-١٥",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-09-15",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "كانتابريا (Cantabria)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم إقليم فالنسيا",
+        "value": "٢٠٢٦-١٠-٠٩",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-10-09",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "فالنسيا (Valencia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني الإسباني",
+        "value": "٢٠٢٦-١٠-١٢",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-10-12",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١ · تاريخ المناسبة. التقويم الرسمي يضع الإجازة التعويضية في 2026-11-02",
+        "source": "https://date.nager.at/Calendar/2026/ES/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "scope": "الأندلس (Andalusia)، أراغون (Aragon)، أستورياس (Asturias)، جزر الكناري (Canary Islands)، قشتالة لا مانتشا (Castilla-La Mancha)، قشتالة وليون (Castile and León)، إكستريمادورا (Extremadura)، مدريد (Madrid)، نافارا (Navarre)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة تعويض عيد جميع القديسين",
+        "date": "2026-11-02",
+        "value": "٢٠٢٦-١١-٠٢",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "scope": "الأندلس (Andalusia)، أراغون (Aragon)، أستورياس (Asturias)، جزر الكناري (Canary Islands)، قشتالة لا مانتشا (Castilla-La Mancha)، قشتالة وليون (Castile and León)، إكستريمادورا (Extremadura)، مدريد (Madrid)، نافارا (Navarre)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٦-١٢-٠٦ · تاريخ المناسبة. التقويم الرسمي يضع الإجازة التعويضية في 2026-12-07",
+        "source": "https://date.nager.at/Calendar/2026/ES/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-06",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "scope": "الأندلس (Andalusia)، أراغون (Aragon)، أستورياس (Asturias)، كانتابريا (Cantabria)، قشتالة وليون (Castile and León)، إكستريمادورا (Extremadura)، مدريد (Madrid)، مرسية (Murcia)، لا ريوخا (La Rioja)، مليلية (Melilla)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة تعويض يوم الدستور",
+        "date": "2026-12-07",
+        "value": "٢٠٢٦-١٢-٠٧",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "scope": "الأندلس (Andalusia)، أراغون (Aragon)، أستورياس (Asturias)، كانتابريا (Cantabria)، قشتالة وليون (Castile and León)، إكستريمادورا (Extremadura)، مدريد (Madrid)، مرسية (Murcia)، لا ريوخا (La Rioja)، مليلية (Melilla)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٦-١٢-٠٨",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-12-08",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "جزر البليار (Balearic Islands)، كتالونيا (Catalonia)؛ يستثنى وادي أران (Aran) في كتالونيا.",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأندلس",
+        "value": "٢٠٢٧-٠٢-٢٨ · تاريخ المناسبة. التقويم الرسمي يضع الإجازة التعويضية في 2027-03-01",
+        "source": "https://date.nager.at/Calendar/2027/ES/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-28",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "الأندلس (Andalusia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم جزر البليار",
+        "value": "٢٠٢٧-٠٣-٠١",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-03-01",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "جزر البليار (Balearic Islands)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة تعويض يوم الأندلس",
+        "date": "2027-03-01",
+        "value": "٢٠٢٧-٠٣-٠١",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "scope": "الأندلس (Andalusia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "خميس العهد",
+        "value": "٢٠٢٧-٠٣-٢٥",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-03-25",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "الأندلس (Andalusia)، أراغون (Aragon)، أستورياس (Asturias)، جزر البليار (Balearic Islands)، جزر الكناري (Canary Islands)، كانتابريا (Cantabria)، قشتالة لا مانتشا (Castilla-La Mancha)، قشتالة وليون (Castile and León)، إكستريمادورا (Extremadura)، غاليسيا (Galicia)، مدريد (Madrid)، مرسية (Murcia)، نافارا (Navarre)، إقليم الباسك (Basque Country)، لا ريوخا (La Rioja)، سبتة (Ceuta)، مليلية (Melilla)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "جزر البليار (Balearic Islands)، كتالونيا (Catalonia)، نافارا (Navarre)، إقليم الباسك (Basque Country)، لا ريوخا (La Rioja)، فالنسيا (Valencia)؛ يستثنى وادي أران (Aran) في كتالونيا.",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم قشتالة وليون",
+        "value": "٢٠٢٧-٠٤-٢٣",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-04-23",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "قشتالة وليون (Castile and León)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس جورج ويوم أراغون",
+        "value": "٢٠٢٧-٠٤-٢٣",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-04-23",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "أراغون (Aragon)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم إقليم مدريد",
+        "value": "٢٠٢٧-٠٥-٠٢ · تاريخ المناسبة يوم الأحد. إجازة إضافية غير مؤكدة في تقويم العمل.",
+        "source": "https://date.nager.at/Calendar/2027/ES/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "scope": "مدريد (Madrid)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الأدب الغاليسي",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "غاليسيا (Galicia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٧-٠٥-٢٧",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-05-27",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "قشتالة لا مانتشا (Castilla-La Mancha)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم جزر الكناري",
+        "value": "٢٠٢٧-٠٥-٣٠ · تاريخ المناسبة يوم الأحد. إجازة إضافية غير مؤكدة في تقويم العمل.",
+        "source": "https://date.nager.at/Calendar/2027/ES/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-30",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "جزر الكناري (Canary Islands)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم إقليم قشتالة لا مانتشا",
+        "value": "٢٠٢٧-٠٥-٣١",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-05-31",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "قشتالة لا مانتشا (Castilla-La Mancha)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم لا ريوخا",
+        "value": "٢٠٢٧-٠٦-٠٩",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-06-09",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "لا ريوخا (La Rioja)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم إقليم مرسية",
+        "value": "٢٠٢٧-٠٦-٠٩",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-06-09",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "مرسية (Murcia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس يوحنا",
+        "value": "٢٠٢٧-٠٦-٢٤",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-06-24",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "كتالونيا (Catalonia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس يعقوب",
+        "value": "٢٠٢٧-٠٧-٢٥ · تاريخ المناسبة يوم الأحد. إجازة إضافية غير مؤكدة في تقويم العمل.",
+        "source": "https://date.nager.at/Calendar/2027/ES/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-25",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "يختلف الاعتماد حسب الإقليم.",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم مؤسسات كانتابريا",
+        "value": "٢٠٢٧-٠٧-٢٨",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-07-28",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "كانتابريا (Cantabria)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥ · تاريخ المناسبة. التقويم الرسمي يضع الإجازة التعويضية في 2027-08-16",
+        "source": "https://date.nager.at/Calendar/2027/ES/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "scope": "الأندلس (Andalusia)، أراغون (Aragon)، أستورياس (Asturias)، جزر الكناري (Canary Islands)، قشتالة وليون (Castile and León)، مدريد (Madrid)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "alert": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة تعويض عيد انتقال السيدة العذراء",
+        "date": "2027-08-16",
+        "value": "٢٠٢٧-٠٨-١٦",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "scope": "الأندلس (Andalusia)، أراغون (Aragon)، أستورياس (Asturias)، جزر الكناري (Canary Islands)، قشتالة وليون (Castile and León)، مدريد (Madrid)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم أستورياس",
+        "value": "٢٠٢٧-٠٩-٠٨",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-09-08",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "أستورياس (Asturias)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم إكستريمادورا",
+        "value": "٢٠٢٧-٠٩-٠٨",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-09-08",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "إكستريمادورا (Extremadura)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كتالونيا الوطني",
+        "value": "٢٠٢٧-٠٩-١١",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-09-11",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "كتالونيا (Catalonia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد السيدة العذراء في بيين أباريسيدا",
+        "value": "٢٠٢٧-٠٩-١٥",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-09-15",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "كانتابريا (Cantabria)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم إقليم فالنسيا",
+        "value": "٢٠٢٧-١٠-٠٩",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-10-09",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "فالنسيا (Valencia)",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني الإسباني",
+        "value": "٢٠٢٧-١٠-١٢",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-10-12",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٧-١٢-٠٦",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-12-06",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٧-١٢-٠٨",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-12-08",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تختلف العطلات بين الأقاليم والبلديات. في مناطق التسوق السياحية بمدريد (Madrid) تفتح متاجر كثيرة حتى في العطلات.",
+        "impactSource": "https://www.esmadrid.com/en/practical-information",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٧-١٢-٢٦ · تاريخ المناسبة يوم الأحد. إجازة إضافية غير مؤكدة في تقويم العمل.",
+        "source": "https://date.nager.at/Calendar/2027/ES/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "يختلف اعتماد المناسبة بين أقاليم إسبانيا وبلدياتها. راجع تقويم المنطقة التي ستقيم فيها ومواعيد متاجرها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.spain.info/en/travel-tips/opening-times-public-holidays-spain/",
+        "scope": "يختلف الاعتماد حسب الإقليم.",
+        "scopeSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+        "regional": true,
+        "alert": false,
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "إجازة الميلاد المدرسية في منطقة مدريد (Madrid)",
+        "value": "إجازة مدرسية من 2026-12-23 إلى 2027-01-06 شاملة الطرفين.",
+        "source": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/06/04/BOCM-20260604-13.PDF",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-23",
+        "end": "2027-01-06",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "الصيف ذروة الشواطئ. يتغير الضغط داخل البلاد حسب الحرارة والمهرجانات.",
+        "source": "https://sustainability.spain.info/en/discover-spain/travel-slow-low-season/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "الربيع والخريف خارج الأعياد الرئيسية أهدأ في وجهات كثيرة.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-spain",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة السفر الصيفي في يوليو",
+        "value": "يتزامن الصيف مع موسم الذروة السياحية، خصوصاً على السواحل.",
+        "source": "https://sustainability.spain.info/en/discover-spain/travel-slow-low-season/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "زحمة موسمية في الوجهات الشاطئية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة السفر الصيفي في أغسطس",
+        "value": "يتزامن الصيف مع موسم الذروة السياحية، خصوصاً على السواحل.",
+        "source": "https://sustainability.spain.info/en/discover-spain/travel-slow-low-season/",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "زحمة موسمية في الوجهات الشاطئية.",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "احتفالات سان فيرمين",
+        "value": "بامبلونا (Pamplona)، يوليو، احتفالات شعبية في الشوارع.",
+        "source": "https://www.visitnavarra.es/es/sanfermines/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

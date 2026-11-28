@@ -1,0 +1,532 @@
+{
+  "code": "MK",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي",
+        "value": "الأصل طلب تأشيرة. توجد استثناءات لحاملي إقامة شنغن أو تأشيرة شنغن متعددة الدخول، منها إقامة قصيرة حتى 15 يوماً في كل دخول وفق شروط الخارجية.",
+        "source": "https://mfa.gov.mk/en-GB/konzularni-uslugi/dali-ti-e-potrebna-viza",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة",
+        "value": "تصل التأشيرة القصيرة إلى 90 يوماً. الإعفاء المشروط لحاملي التأشيرات المؤهلة يقتصر على 15 يوماً لكل زيارة.",
+        "source": "https://mfa.gov.mk/en-GB/konzularni-uslugi/dali-ti-e-potrebna-viza",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "60 يورو للكبار، و35 يورو للأطفال بين السادسة والثانية عشرة.",
+        "source": "https://mfa.gov.mk/mk-MK/konzularni-uslugi/vidovi-vizi-za-vlez-vo-rsm",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الدينار المقدوني. احتفظ بالنقد للأسواق والحافلات والمحال الصغيرة.",
+        "source": "https://backpack.travel/en/countries/north-macedonia/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "من المعتاد تقريب الفاتورة في المطاعم. في المطاعم الراقية تُقدّر إكرامية بين 10 و15 بالمئة.",
+        "source": "https://www.cia.gov/the-world-factbook/static/7becfdeb42778e5bb0c39bd8ff0a4c99/MK-travel-facts.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يومي اقتصادي",
+        "value": "نحو 199 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/north-macedonia",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يومي متوسط",
+        "value": "نحو 450 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/north-macedonia",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "شرائح مسبقة الدفع محلية بنحو 295–399 ديناراً مقدونياً بحسب المشغل والباقة.",
+        "source": "https://povnomad.com/en/north-macedonia-sim-card-for-tourists/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "سكوبيه باص لمواعيد حافلات سكوبيه (Skopje).",
+        "source": "https://skopjebus.mk/mk/go-mobile/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "حافلة المطار تربط مطار سكوبيه (Skopje Airport) بالمدينة، ويعرض المطار المحطات والمواعيد.",
+        "source": "https://skp.airports.com.mk/en-EN/passenger-guide/to-from-the-airport/page/bus",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "تعمل حافلات منتظمة بين المدن. راجع جدول محطة بيتولا (Bitola) أو المشغّل قبل شراء التذكرة.",
+        "source": "https://transkop.mk/en/time-table/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "في بازار سكوبيه (Skopje Old Bazaar) مطاعم حلال ومساجد يمكن الوصول إليها مشياً.",
+        "source": "https://www.gohalaltravel.com/destinations/skopje",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "تافتشه غرافتشه بالفاصوليا، أيفار بالفلفل المشوي، وسلطة شوبسكا.",
+        "source": "https://northmacedoniatourism.com/plan/food-guide",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "غطِّ الكتفين والركبتين في دور العبادة، واخلع الحذاء في المسجد.",
+        "source": "https://www.e-ucebnici.mon.gov.mk/pdf/Verski%20turizam%20IV%20-%20Web.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "قد تغلق متاجر وصيدليات يوم الأحد، وتفتح بعض المراكز التجارية.",
+        "source": "https://ticaret.gov.tr/data/5f06ddc313b87611d894cf93/K.Makedonya-Pazar-Bilgileri-2026.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "مخاطر تهم الزائر",
+        "value": "احمِ المقتنيات في المناطق المزدحمة. ابتعد عن المظاهرات والتجمعات السياسية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/north-macedonia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "192 للشرطة و194 للإسعاف.",
+        "source": "https://www.gov.uk/foreign-travel-advice/north-macedonia/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "احتيال أُبلغ عنه",
+        "value": "انتبه للاحتيال بالبطاقات، واستخدم أجهزة السحب في بنوك معروفة وغطِّ لوحة الأرقام.",
+        "source": "https://travel.gc.ca/destinations/north-macedonia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "وسط سكوبيه (Skopje City Centre)",
+        "value": "قرب الساحة والجسر الحجري.",
+        "source": "https://macedoniaguidebook.com/planning/where-to-stay-in-skopje/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ديبار مالو (Debar Maalo)",
+        "value": "مقاهٍ ومطاعم في حي سكني.",
+        "source": "https://macedoniaguidebook.com/planning/where-to-stay-in-skopje/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "البازار القديم (Old Bazaar)",
+        "value": "للأسواق والمساجد والآثار العثمانية.",
+        "source": "https://macedoniaguidebook.com/planning/where-to-stay-in-skopje/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار مقترح ومدة كل محطة",
+        "value": "سكوبيه (Skopje) يومان، أوهريد (Ohrid) يومان، وبيتولا (Bitola) يوم في طريق العودة.",
+        "source": "https://touristsinsider.com/europe/north-macedonia/5-days-in-north-macedonia-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام عيد الميلاد",
+        "value": "٢٠٢٦-٠١-٠٧",
+        "source": "https://date.nager.at/Calendar/2026/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-07",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "٢٠٢٦-٠٣-٢٠ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://marri-rc.org.mk/wp-content/uploads/2026/01/Programme-of-non-working-days-in-the-RSM-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "uncertain"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-١٠",
+        "source": "https://date.nager.at/Calendar/2026/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-10",
+        "impact": "غير مؤكد",
+        "scope": "إجازة للمسيحيين الأرثوذكس.",
+        "scopeSource": "https://marri-rc.org.mk/wp-content/uploads/2026/01/Programme-of-non-working-days-in-the-RSM-2026.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام الفصح",
+        "value": "٢٠٢٦-٠٤-١٢",
+        "source": "https://date.nager.at/Calendar/2026/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-12",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام الفصح",
+        "value": "٢٠٢٦-٠٤-١٣",
+        "source": "https://date.nager.at/Calendar/2026/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-13",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديسين كيرلس وميثوديوس",
+        "value": "٢٠٢٦-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة تعويض عيد كيرلس وميثوديوس",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://marri-rc.org.mk/wp-content/uploads/2026/01/Programme-of-non-working-days-in-the-RSM-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٦-٠٥-٢٧ · إجازة لأتباع الدين الإسلامي تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://marri-rc.org.mk/wp-content/uploads/2026/01/Programme-of-non-working-days-in-the-RSM-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "impact": "إجازة خاصة بالمسلمين. لا تعمّم الإغلاق على جميع المرافق.",
+        "impactSource": "https://marri-rc.org.mk/wp-content/uploads/2026/01/Programme-of-non-working-days-in-the-RSM-2026.pdf",
+        "scope": "إجازة للمسلمين.",
+        "scopeSource": "https://marri-rc.org.mk/wp-content/uploads/2026/01/Programme-of-non-working-days-in-the-RSM-2026.pdf",
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الجمهورية",
+        "value": "٢٠٢٦-٠٨-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-02",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة تعويض يوم الجمهورية",
+        "value": "٢٠٢٦-٠٨-٠٣",
+        "source": "https://marri-rc.org.mk/wp-content/uploads/2026/01/Programme-of-non-working-days-in-the-RSM-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-08-03",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٩-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-08",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الانتفاضة",
+        "value": "٢٠٢٦-١٠-١١",
+        "source": "https://date.nager.at/Calendar/2026/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-11",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة تعويض يوم الانتفاضة",
+        "value": "٢٠٢٦-١٠-١٢",
+        "source": "https://marri-rc.org.mk/wp-content/uploads/2026/01/Programme-of-non-working-days-in-the-RSM-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-10-12",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الكفاح الثوري المقدوني",
+        "value": "٢٠٢٦-١٠-٢٣",
+        "source": "https://date.nager.at/Calendar/2026/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-23",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس كليمنت الأوخريدي",
+        "value": "٢٠٢٦-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-08",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام عيد الميلاد",
+        "value": "٢٠٢٧-٠١-٠٧",
+        "source": "https://date.nager.at/Calendar/2027/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-07",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٤-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-30",
+        "impact": "غير مؤكد",
+        "scope": "إجازة للمسيحيين الأرثوذكس.",
+        "scopeSource": "https://date.nager.at/Calendar/2027/MK/L0",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام الفصح",
+        "value": "٢٠٢٧-٠٥-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام الفصح",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://date.nager.at/Calendar/2027/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديسين كيرلس وميثوديوس",
+        "value": "٢٠٢٧-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-24",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الجمهورية",
+        "value": "٢٠٢٧-٠٨-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-02",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٩-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-08",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الانتفاضة",
+        "value": "٢٠٢٧-١٠-١١",
+        "source": "https://date.nager.at/Calendar/2027/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-11",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الكفاح الثوري المقدوني",
+        "value": "٢٠٢٧-١٠-٢٣",
+        "source": "https://date.nager.at/Calendar/2027/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-23",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس كليمنت الأوخريدي",
+        "value": "٢٠٢٧-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/MK/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-08",
+        "impact": "يغلق متحف الكفاح المقدوني (Museum of the Macedonian Struggle) في سكوبيه (Skopje) في العطلات الرسمية.",
+        "impactSource": "https://mmb.org.mk/en/location-and-opening-hours/",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم الذروة",
+        "value": "موسم بحيرة أوهريد (Lake Ohrid) الصيفي والأكثر طلباً.",
+        "source": "https://northmacedoniatourism.com/plan/best-time-to-visit",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "موسم بحيرة أوهريد (Lake Ohrid) الصيفي والأكثر طلباً.",
+        "source": "https://northmacedoniatourism.com/plan/best-time-to-visit",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "فترة انتقالية أكثر هدوءاً من ذروة الصيف.",
+        "source": "https://northmacedoniatourism.com/plan/best-time-to-visit",
+        "checked": "2026-11-27",
+        "month": 5,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "فترة انتقالية أكثر هدوءاً من ذروة الصيف.",
+        "source": "https://northmacedoniatourism.com/plan/best-time-to-visit",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة الشتاء المدرسية",
+        "value": "إجازة مدرسية بحسب تقويم الجهة المذكورة.",
+        "source": "https://koha.mk/en/sot-rikthehen-238-mije-nxenes-ne-bankat-shkollore/",
+        "checked": "2026-11-27",
+        "date": "2026-12-31",
+        "end": "2027-01-21",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "صيف أوهريد",
+        "value": "موسيقى ومسرح في أوهريد (Ohrid) من يوليو إلى أغسطس.",
+        "source": "https://ohridskoleto.com.mk/en/mission-and-vision/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

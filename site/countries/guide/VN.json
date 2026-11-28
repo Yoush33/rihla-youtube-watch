@@ -1,0 +1,311 @@
+{
+  "code": "VN",
+  "sections": {
+    "entry": [
+      {
+        "label": "تأشيرة الجواز السعودي والمدة",
+        "value": "يمكن للسعودي التقديم إلكترونيًا لتأشيرة تصل صلاحيتها إلى ٩٠ يومًا، لدخول واحد أو متعدد.",
+        "source": "https://evisa.gov.vn/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسوم",
+        "value": "٢٥ دولارًا أمريكيًا للدخول الواحد و٥٠ للدخول المتعدد عبر بوابة الهجرة.",
+        "source": "https://immigration.gov.vn/en_US/web/guest/khai-thi-thuc-dien-tu/cap-thi-thuc-dien-tu?_khaithithucdientu_WAR_eVisaportlet_javax.portlet.action=submit",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الدونغ الفيتنامي (VND).",
+        "source": "https://www.budgetyourtrip.com/Vietnam",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع والإكرامية",
+        "value": "الإكرامية اختيارية في معظم المطاعم، ولا تُتوقع عادةً في أكشاك طعام الشارع. راجع رسوم الخدمة في الفنادق.",
+        "source": "https://www.vietnamtourism.com/en/tipping-in-vietnam-2026-when-it-s-insulting-when-it-s-expected",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميزانية الفرد اليومية بالريال",
+        "value": "اقتصادي نحو ٩٤ ريالًا ومتوسط نحو ٢٤٨ ريالًا، من عينة لمصروفات الإقامة والطعام والتنقل والأنشطة.",
+        "source": "https://www.budgetyourtrip.com/Vietnam",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "مثال باقة الزائر تي آر ١٠٩، نحو ١٠٩ آلاف دونغ مقابل ٤ غيغابايت يوميًا لمدة ٢٠ يومًا.",
+        "source": "https://vietnamonabudget.com/vietnam-sim-card-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "غراب تاكسي لحجز السيارة ورؤية تفاصيل المشوار.",
+        "source": "https://www.grab.com/vn/en/transport/taxi/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "المطار إلى المدينة",
+        "value": "ينشر مطار نوي باي (Noi Bai) في هانوي (Hanoi) مواقع الحافلات وسيارات الأجرة عند مباني الركاب.",
+        "source": "https://noibaiairport.vn/en/phuong-tien-van-chuyen-cong-cong-nid1.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "القطار والحافلات والطيران الداخلي خيارات للمسافات الطويلة. قارن زمن الرحلة خصوصًا بين الشمال والجنوب.",
+        "source": "https://www.vietnamtourism.com/en/transport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال",
+        "value": "تنشر هيئة السياحة مطاعم حلال في مدن منها هانوي (Hanoi)، ومدينة هو تشي منه (Ho Chi Minh City)، ودا نانغ (Da Nang).",
+        "source": "https://vietnam.travel/things-to-do/ultimate-recommendation-halal-food-vietnam/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "جامع النور في شارع هانغ لووك (Hang Luoc) في الحي القديم بهانوي (Hanoi).",
+        "source": "https://religion.vn/daily-news/the-muslim-mosque-in-hanoi-postY1RdXeORZQ.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "فو بالنودلز، وبان مي بالخبز، ولفائف الربيع. اسأل عن لحم الخنزير والمرق حتى لو بدت الحشوة نباتية.",
+        "source": "https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والسلوك",
+        "value": "احتشم في المعابد واخلع الحذاء حيث تطلب اللوحات. استأذن قبل تصوير الأشخاص.",
+        "source": "https://vietnam.travel/sites/default/files/2020-10/Beginner%27s%20Guide%20to%20Vietnam%20Now.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "كثير من متاجر المدن تفتح تقريبًا ٨:٣٠ صباحًا وتغلق ٩–١٠ مساءً، ويعمل عدد منها يوم الأحد.",
+        "source": "https://www.britishcouncil.vn/sites/default/files/vietnam_visitors_notes.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة ١١٣ والإطفاء ١١٤ والإسعاف ١١٥. الرد عادةً بالفيتنامية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/vietnam/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "السرقة والاحتيال",
+        "value": "خطف الهواتف والحقائب من دراجات نارية خطر معروف. ابتعد بالجوال عن حافة الطريق.",
+        "source": "https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأماكن التي تستدعي الحذر",
+        "value": "انتبه أكثر عند التقاط الصور أو استخدام الهاتف في الشوارع المزدحمة بالمدن السياحية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "مناطق السكن وأسباب الاختيار",
+        "value": "في هانوي (Hanoi)، الحي القديم (Old Quarter) للطعام والأسواق، والحي الفرنسي (French Quarter) لهدوء نسبي، وتاي هو (Tay Ho) للسكن قرب البحيرة والإقامات الأطول.",
+        "source": "https://www.vietnambyregion.com/north/where-to-stay-hanoi/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار الزيارة ومدة كل محطة",
+        "value": "ضمن مسار عشرة أيام، هانوي (Hanoi) يومان، وهوي آن (Hoi An) ثلاثة أيام، ومدينة هو تشي منه (Ho Chi Minh City) ثلاثة تشمل رحلة لدلتا الميكونغ (Mekong Delta).",
+        "source": "https://www.thevietnamguides.com/itineraries/10-days-vietnam/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/VN/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة عيد تِت القمري",
+        "value": "٢٠٢٦-٠٢-١٤ إلى ٢٠٢٦-٠٢-٢٢ · للموظفين العموميين",
+        "source": "https://en.baochinhphu.vn/ministry-of-home-affairs-announces-2026-holiday-schedule-111251017163421877.htm",
+        "checked": "2026-11-27",
+        "date": "2026-02-14",
+        "impact": "تعطّل الدوائر العامة تسعة أيام، خطّط للمعاملات قبل الإجازة.",
+        "end": "2026-02-22",
+        "impactSource": "https://en.baochinhphu.vn/ministry-of-home-affairs-announces-2026-holiday-schedule-111251017163421877.htm",
+        "scope": "القطاع العام",
+        "scopeSource": "https://en.baochinhphu.vn/ministry-of-home-affairs-announces-2026-holiday-schedule-111251017163421877.htm",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم تحرير الجنوب وإعادة توحيد البلاد",
+        "value": "٢٠٢٦-٠٤-٣٠",
+        "source": "https://date.nager.at/Calendar/2026/VN/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-30",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/VN/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة اليوم الوطني",
+        "value": "٢٠٢٦-٠٨-٢٩ إلى ٢٠٢٦-٠٩-٠٢ · للموظفين العموميين",
+        "source": "https://en.baochinhphu.vn/ministry-of-home-affairs-announces-2026-holiday-schedule-111251017163421877.htm",
+        "checked": "2026-11-27",
+        "date": "2026-08-29",
+        "impact": "إجازة الدوائر العامة خمسة أيام متصلة.",
+        "end": "2026-09-02",
+        "impactSource": "https://en.baochinhphu.vn/ministry-of-home-affairs-announces-2026-holiday-schedule-111251017163421877.htm",
+        "scope": "القطاع العام",
+        "scopeSource": "https://en.baochinhphu.vn/ministry-of-home-affairs-announces-2026-holiday-schedule-111251017163421877.htm",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني",
+        "value": "٢٠٢٦-٠٩-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/VN/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/VN/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم تحرير الجنوب وإعادة توحيد البلاد",
+        "value": "٢٠٢٧-٠٤-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/VN/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-30",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/VN/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني",
+        "value": "٢٠٢٧-٠٩-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/VN/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "وفق الإطار الوطني يُختتم العام الدراسي قبل ٣١ مايو، ويُقام افتتاح السنة يوم ٥ سبتمبر، وقد يعود الطلاب مبكرًا حسب الصف والمقاطعة.",
+        "source": "https://xaydungchinhsach.chinhphu.vn/khung-ke-hoach-thoi-gian-nam-hoc-toan-quoc-tu-nam-hoc-2026-2027-119260808104932719.htm",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الذروة والفترة الأهدأ",
+        "value": "ترتفع الأسعار والزحمة على شواطئ دا نانغ (Da Nang) ونها ترانغ (Nha Trang) في يوليو وأغسطس.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-vietnam",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة شواطئ وسط فيتنام",
+        "value": "ذروة الإقبال على شواطئ دا نانغ (Da Nang) ونها ترانغ (Nha Trang).",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-vietnam",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "زحمة وأسعار أعلى على الساحل.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة شواطئ وسط فيتنام",
+        "value": "ذروة الإقبال على شواطئ دا نانغ (Da Nang) ونها ترانغ (Nha Trang).",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-vietnam",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "زحمة وأسعار أعلى على الساحل.",
+        "status": "confirmed"
+      },
+      {
+        "label": "هدوء سبتمبر في وسط فيتنام",
+        "checked": "2026-11-27",
+        "value": "بعد انتهاء العطلة الصيفية يخف الإقبال على دا نانغ (Da Nang) وهوي آن (Hoi An)، مع بداية موسم الأمطار.",
+        "source": "https://www.vietnamtourism.com/en/vietnam-in-september-weather-crowds-and-where-to-go",
+        "peak": false,
+        "impact": "إقبال أقل في وسط البلاد.",
+        "month": 9,
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "الفعالية السنوية",
+        "value": "مهرجان منتصف الخريف، هوي آن (Hoi An)، بين سبتمبر وأكتوبر حسب التقويم القمري، مع مواكب فوانيس ورقصات الأسد.",
+        "source": "https://vietnam.travel/things-to-do/top-festivals-vietnam/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ]
+  }
+}

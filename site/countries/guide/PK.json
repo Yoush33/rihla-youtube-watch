@@ -1,0 +1,399 @@
+{
+  "code": "PK",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي العادي",
+        "value": "دخول بلا تأشيرة أو تصريح سفر إلكتروني للسياحة حتى 90 يومًا.",
+        "source": "https://mofa.gov.pk/press-releases/gcc-citizens-now-enjoy-visa-free-travel-to-pakistan-for-business-and-tourism?mission=Kuwait+Post",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "لا رسوم تأشيرة للمواطن السعودي المشمول بالإعفاء.",
+        "source": "https://mofa.gov.pk/press-releases/gcc-citizens-now-enjoy-visa-free-travel-to-pakistan-for-business-and-tourism?mission=Kuwait+Post",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الروبية الباكستانية. الكاش مهم خارج المدن الكبرى وفي الأسواق المحلية.",
+        "source": "https://visitpk.com/money-guide/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "أفاد أصحاب مطاعم بأن 10٪ شائعة مقابل خدمة الطاولة.",
+        "source": "https://images.dawn.com/news/1178376/8-essential-rules-for-eating-out-according-to-pakistani-restaurant-owners",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — اقتصادي",
+        "value": "حوالي 94 ريالًا سعوديًا في باكستان للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/pakistan",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — متوسط",
+        "value": "حوالي 229 ريالًا سعوديًا في باكستان للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/pakistan",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة للزائر وسعر تقريبي",
+        "value": "شريحة إلكترونية للبيانات فقط عبر شبكة جاز، تبدأ من 380 روبية مقابل غيغابايت واحدة لمدة 7 أيام.",
+        "source": "https://www.ejurs.com/en/guides/pakistan-esim-for-tourists",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق نقل",
+        "value": "إن درايف (inDrive) ويانغو (Yango) في المدن التي يغطيانها.",
+        "source": "https://idrive.pk/explore-pakistan/ride-hailing-apps-pakistan-switching/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "من مطار إسلام آباد (Islamabad) يخدم الخط البرتقالي لحافلات المترو طريق المطار.",
+        "source": "https://www.cda.gov.pk/Assets/pdf/Transit-Map-Islamabad-V-06.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "تخدم قطارات السكك الباكستانية عددًا من المدن، ويمكن مراجعة مواعيد الرحلات وإتاحة الحجز قبل التنقل.",
+        "source": "https://www.pakrail.gov.pk/Faq.aspx",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "المطاعم الحلال والمساجد متوفرة في إسلام آباد (Islamabad)، ومنها مسجد فيصل (Faisal Mosque).",
+        "source": "https://www.gohalaltravel.com/destinations/islamabad",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "البرياني، والنهاري، وكباب تشابلي.",
+        "source": "https://mofa.gov.pk/storage/gallery/Pakistan%20Tourism%20Guide.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرف في الأماكن العامة",
+        "value": "ارتدِ ملابس محتشمة وتجنب تصوير المنشآت العسكرية والمطارات دون إذن.",
+        "source": "https://www.gov.uk/foreign-travel-advice/pakistan/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "تضع إدارة إسلام آباد (Islamabad) مواعيد متفاوتة للأسواق والمطاعم، مع استثناءات للصيدليات وبعض الخدمات. راجع قرار المدينة قبل الخروج مساءً.",
+        "source": "https://www.dawn.com/news/1992705/capital-admin-readjusts-market-closure-timings-in-islamabad",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستدعي الانتباه وأساليب السرقة",
+        "value": "احتيال البطاقات شائع. أبقِ البطاقة معك وانتبه لمقتنياتك وسط الزحام وعند المشي ليلًا.",
+        "source": "https://www.gov.uk/foreign-travel-advice/pakistan/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "15 للشرطة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/pakistan/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مناطق عالية المخاطر",
+        "value": "تحذر الخارجية البريطانية من السفر ضمن 10 أميال (نحو 16 كم) من الحدود الأفغانية، ومن مناطق أخرى مبينة على خريطتها.",
+        "source": "https://www.gov.uk/foreign-travel-advice/pakistan/regional-risks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ثلاثة أحياء أو مناطق لإقامة أولى",
+        "value": "إف 6 (F-6) لقرب المقاهي والأسواق، وإف 7 (F-7) لخدمات سوق جناح (Jinnah Super Market)، والمنطقة الزرقاء (Blue Area) للتمركز على محور المدينة التجاري.",
+        "source": "https://www.hotelforesta.pk/blog/where-to-stay-in-islamabad-area-guide",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مدن ومدد مقترحة لزيارة أولى",
+        "value": "لاهور (Lahore) ليلتان، وإسلام آباد (Islamabad) ليلتان تشملان تاكسيلا (Taxila)، وسكردو (Skardu) 3 ليالٍ ضمن مسار يمتد للشمال.",
+        "source": "https://trek.pk/travel-info/pakistan-in-10-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "يوم التضامن مع كشمير",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://www.fccp.gov.pk/download/eyJpdiI6Ik5vMGoyZm5odWIrRWJuQ1FWdWNPR3c9PSIsInZhbHVlIjoiT0tGV2lWaGVmaFZJUk9hYklXNFpjUT09IiwibWFjIjoiYTFhN2U4YTc2Mzg2YWI0MGY3MjEyOGZiZjI3OThkMTg5OGY4MDAzMTc4OGY4ZGI4ZWE1NTYwMDExYWM2Y2JiYyIsInRhZyI6IiJ9",
+        "checked": "2026-11-27",
+        "date": "2026-02-05",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم باكستان",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://www.fccp.gov.pk/download/eyJpdiI6Ik5vMGoyZm5odWIrRWJuQ1FWdWNPR3c9PSIsInZhbHVlIjoiT0tGV2lWaGVmaFZJUk9hYklXNFpjUT09IiwibWFjIjoiYTFhN2U4YTc2Mzg2YWI0MGY3MjEyOGZiZjI3OThkMTg5OGY4MDAzMTc4OGY4ZGI4ZWE1NTYwMDExYWM2Y2JiYyIsInRhZyI6IiJ9",
+        "checked": "2026-11-27",
+        "date": "2026-03-23",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://www.fccp.gov.pk/download/eyJpdiI6Ik5vMGoyZm5odWIrRWJuQ1FWdWNPR3c9PSIsInZhbHVlIjoiT0tGV2lWaGVmaFZJUk9hYklXNFpjUT09IiwibWFjIjoiYTFhN2U4YTc2Mzg2YWI0MGY3MjEyOGZiZjI3OThkMTg5OGY4MDAzMTc4OGY4ZGI4ZWE1NTYwMDExYWM2Y2JiYyIsInRhZyI6IiJ9",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التكبير",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://www.fccp.gov.pk/download/eyJpdiI6Ik5vMGoyZm5odWIrRWJuQ1FWdWNPR3c9PSIsInZhbHVlIjoiT0tGV2lWaGVmaFZJUk9hYklXNFpjUT09IiwibWFjIjoiYTFhN2U4YTc2Mzg2YWI0MGY3MjEyOGZiZjI3OThkMTg5OGY4MDAzMTc4OGY4ZGI4ZWE1NTYwMDExYWM2Y2JiYyIsInRhZyI6IiJ9",
+        "checked": "2026-11-27",
+        "date": "2026-05-28",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://www.fccp.gov.pk/download/eyJpdiI6Ik5vMGoyZm5odWIrRWJuQ1FWdWNPR3c9PSIsInZhbHVlIjoiT0tGV2lWaGVmaFZJUk9hYklXNFpjUT09IiwibWFjIjoiYTFhN2U4YTc2Mzg2YWI0MGY3MjEyOGZiZjI3OThkMTg5OGY4MDAzMTc4OGY4ZGI4ZWE1NTYwMDExYWM2Y2JiYyIsInRhZyI6IiJ9",
+        "checked": "2026-11-27",
+        "date": "2026-08-14",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الشاعر محمد إقبال",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://cabinet.gov.pk/Detail/OTE2ODBiYmItZmI0MS00NDAwLWE5NGUtYmE1MGVjYzllMzAz",
+        "checked": "2026-11-27",
+        "date": "2026-11-09",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميلاد القائد الأعظم وعيد الميلاد",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://www.fccp.gov.pk/download/eyJpdiI6Ik5vMGoyZm5odWIrRWJuQ1FWdWNPR3c9PSIsInZhbHVlIjoiT0tGV2lWaGVmaFZJUk9hYklXNFpjUT09IiwibWFjIjoiYTFhN2U4YTc2Mzg2YWI0MGY3MjEyOGZiZjI3OThkMTg5OGY4MDAzMTc4OGY4ZGI4ZWE1NTYwMDExYWM2Y2JiYyIsInRhZyI6IiJ9",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم التالي لعيد الميلاد",
+        "value": "إجازة للمسيحيين فقط؛ يختلف دوام المنشآت بحسب العاملين.",
+        "source": "https://www.fccp.gov.pk/download/eyJpdiI6Ik5vMGoyZm5odWIrRWJuQ1FWdWNPR3c9PSIsInZhbHVlIjoiT0tGV2lWaGVmaFZJUk9hYklXNFpjUT09IiwibWFjIjoiYTFhN2U4YTc2Mzg2YWI0MGY3MjEyOGZiZjI3OThkMTg5OGY4MDAzMTc4OGY4ZGI4ZWE1NTYwMDExYWM2Y2JiYyIsInRhZyI6IiJ9",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "عطلة لفئة محددة",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر — المكاتب الاتحادية",
+        "value": "إجازة رسمية أُعلن موعدها بعد التقويم الهجري الذي يعتمد على رؤية الهلال؛ راجع ساعات العمل عند الزيارة.",
+        "source": "https://www.cabinet.gov.pk/SiteImage/Misc/files/Holidays/EidulFitr%202026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "end": "2026-03-21",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "إجازة رسمية أُعلن موعدها بعد التقويم الهجري الذي يعتمد على رؤية الهلال؛ راجع ساعات العمل عند الزيارة.",
+        "source": "https://www.radio.gov.pk/20-05-2026/federal-govt-announces-three-days-public-holidays-on-eid-ul-adha",
+        "checked": "2026-11-27",
+        "date": "2026-05-26",
+        "end": "2026-05-28",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "عاشوراء",
+        "value": "إجازة رسمية أُعلن موعدها بعد التقويم الهجري الذي يعتمد على رؤية الهلال؛ راجع ساعات العمل عند الزيارة.",
+        "source": "https://www.radio.gov.pk/22-06-2026/govt-announces-public-holidays-on-9th-10th-muharram",
+        "checked": "2026-11-27",
+        "date": "2026-06-25",
+        "end": "2026-06-26",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي الشريف",
+        "value": "إجازة رسمية أُعلن موعدها بعد التقويم الهجري الذي يعتمد على رؤية الهلال؛ راجع ساعات العمل عند الزيارة.",
+        "source": "https://cabinet.gov.pk/Detail/OTE2ODBiYmItZmI0MS00NDAwLWE5NGUtYmE1MGVjYzllMzAz",
+        "checked": "2026-11-27",
+        "date": "2026-08-26",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم باكستان — تاريخ المناسبة",
+        "value": "تاريخ المناسبة السنوية ثابت، ويصدر جدول أيام العطلة من مجلس الوزراء.",
+        "source": "https://cabinet.gov.pk/SiteImage/Policy/Flag%20Rules.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-23",
+        "impact": "تُراجع مواعيد الدوام؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال — تاريخ المناسبة",
+        "value": "تاريخ المناسبة السنوية ثابت، ويصدر جدول أيام العطلة من مجلس الوزراء.",
+        "source": "https://cabinet.gov.pk/SiteImage/Policy/Flag%20Rules.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-08-14",
+        "impact": "تُراجع مواعيد الدوام؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميلاد القائد الأعظم وعيد الميلاد — تاريخ المناسبة",
+        "value": "تاريخ المناسبة السنوية ثابت، ويصدر جدول أيام العطلة من مجلس الوزراء.",
+        "source": "https://cabinet.gov.pk/SiteImage/Policy/Flag%20Rules.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تُراجع مواعيد الدوام؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر — مارس 2027 (تقريبي)",
+        "value": "1 شوال، نحو 9 مارس. توقيت المناسبة تقريبي ويعتمد على رؤية الهلال. عدد أيام الإجازة الاتحادية ينتظر التعميم.",
+        "source": "https://cabinet.gov.pk/Detail/OTE2ODBiYmItZmI0MS00NDAwLWE5NGUtYmE1MGVjYzllMzAz",
+        "checked": "2026-11-27",
+        "date": "2027-03-09",
+        "impact": "موعد المناسبة تقريبي",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى — مايو 2027 (تقريبي)",
+        "value": "10 ذي الحجة، نحو 16 مايو. توقيت المناسبة تقريبي ويعتمد على رؤية الهلال. عدد أيام الإجازة الاتحادية ينتظر التعميم.",
+        "source": "https://cabinet.gov.pk/Detail/OTE2ODBiYmItZmI0MS00NDAwLWE5NGUtYmE1MGVjYzllMzAz",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "موعد المناسبة تقريبي",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عاشوراء — يونيو 2027 (تقريبي)",
+        "value": "9 و10 محرم، نحو 14 و15 يونيو. التوقيت تقريبي ويعتمد على رؤية الهلال. عدد أيام الإجازة الاتحادية ينتظر التعميم.",
+        "source": "https://cabinet.gov.pk/Detail/OTE2ODBiYmItZmI0MS00NDAwLWE5NGUtYmE1MGVjYzllMzAz",
+        "checked": "2026-11-27",
+        "date": "2027-06-14",
+        "end": "2027-06-15",
+        "impact": "موعد المناسبة تقريبي",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "المولد النبوي الشريف — أغسطس 2027 (تقريبي)",
+        "value": "12 ربيع الأول، نحو 14 أغسطس. توقيت المناسبة تقريبي ويعتمد على رؤية الهلال. إعلان الإجازة الاتحادية ينتظر التعميم.",
+        "source": "https://cabinet.gov.pk/Detail/OTE2ODBiYmItZmI0MS00NDAwLWE5NGUtYmE1MGVjYzllMzAz",
+        "checked": "2026-11-27",
+        "date": "2027-08-14",
+        "impact": "موعد المناسبة تقريبي",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "جدول العطل الاتحادية النهائي لعام 2027",
+        "value": "غير مؤكد",
+        "source": "https://cabinet.gov.pk/Detail/OTE2ODBiYmItZmI0MS00NDAwLWE5NGUtYmE1MGVjYzllMzAz",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "فترة أهدأ",
+        "value": "يقل الزحام في الخريف وفق بوابة السياحة الباكستانية.",
+        "source": "https://salampakistan.gov.pk/season/fall",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 10,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدرسية",
+        "value": "عطلة الصيف للمدارس والكليات الحكومية في إسلام آباد (Islamabad).",
+        "source": "https://www.dawn.com/news/2001863/summer-vacation-in-capital-schools-colleges-from-25th",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-05-25",
+        "end": "2026-07-31",
+        "impact": "عطلة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم سكردو الصيفي",
+        "value": "يوليو وأغسطس أكثر الشهور ازدحامًا في سكردو (Skardu) لقربهما من إجازات المدارس وإتاحة الطرق الجبلية.",
+        "source": "https://skardu.com.pk/best-time-to-visit-skardu",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "زحمة وأسعار أعلى في سكردو",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم سكردو الصيفي",
+        "value": "يوليو وأغسطس أكثر الشهور ازدحامًا في سكردو (Skardu) لقربهما من إجازات المدارس وإتاحة الطرق الجبلية.",
+        "source": "https://skardu.com.pk/best-time-to-visit-skardu",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "زحمة وأسعار أعلى في سكردو",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان لوك ميلا للحرف والتراث",
+        "value": "إسلام آباد (Islamabad)، ينطلق عادة في نوفمبر.",
+        "source": "https://eticketing.lokvirsa.org.pk/event/1/lokvirsa-mela",
+        "checked": "2026-11-27",
+        "month": 11,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

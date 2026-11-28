@@ -1,0 +1,414 @@
+{
+  "code": "TN",
+  "sections": {
+    "entry": [
+      {
+        "label": "تأشيرة الجواز السعودي والمدة",
+        "value": "دخول سياحي بالجواز السعودي العادي دون تأشيرة حتى ٩٠ يومًا بحسب دليل الدخول. للاستفسار الرسمي راجع الخارجية التونسية.",
+        "source": "https://visa-radar.com/en/visa/saudi-arabia/tunisia/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسوم",
+        "value": "لا رسم لطلب تأشيرة عند الدخول ضمن الإعفاء.",
+        "source": "https://rinadtravel.com/ar/from/saudi-arabia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجهة الحكومية",
+        "value": "للتحقق من حالة خاصة أو تغيير القواعد، راجع الخارجية التونسية وقائمة البعثات.",
+        "source": "https://www.diplomatie.gov.tn/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الدينار التونسي (TND).",
+        "source": "https://www.eda.admin.ch/content/dam/countries/countries-content/tunisia/en/business-travel-guide-tunisia_EN.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع والإكرامية",
+        "value": "احمل دنانير للمصاريف الصغيرة. الإكرامية اختيارية ومتوقعة عادةً في المطاعم، ولا ينتظرها سائق الأجرة عادةً.",
+        "source": "https://www.eda.admin.ch/content/dam/countries/countries-content/tunisia/en/business-travel-guide-tunisia_EN.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميزانية الفرد اليومية بالريال",
+        "value": "اقتصادي قرابة ١٠٩–١٨٨ ريالًا، ومتوسط قرابة ٣٢٣–٦٤٥ ريالًا يوميًا؛ تقدير تخطيطي يختلف باختيار السكن والموسم.",
+        "source": "https://www.voykit.com/tunisia",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "مثال أوريدو، ٣٫٥ غيغابايت لمدة ١٥ يومًا بنحو ١٥ دينارًا مع الشريحة. يلزم جواز السفر للتسجيل.",
+        "source": "https://povnomad.com/en/tunisia-sim-card-for-tourists/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "يسير لحجز سيارة داخل نطاق الخدمة في تونس.",
+        "source": "https://yassir.com/tunisia/ride-hailing/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "المطار إلى المدينة",
+        "value": "من مطار تونس قرطاج (Tunis-Carthage) إلى العاصمة حافلات عامة أو سيارات الأجرة خارج المحطة.",
+        "source": "https://www.oaca.nat.tn/web/aeroport-tunis-carthage/quitter-l-aeroport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تنشر السكك الحديدية التونسية مواعيد قطارات الخطوط البعيدة حسب المحطة.",
+        "source": "https://www.sncft.com.tn/voyageurs/horaires/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال",
+        "value": "تعلن مطاعم وفنادق عن خيارات حلال، ومنها دار سعاد (Dar Souad) في المرسى (La Marsa). تحقّق من نوع الطعام في المطعم المقصود.",
+        "source": "https://www.booking.com/hotel/tn/dar-souad.en-gb.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "جامع الزيتونة في تونس (Tunis) وجامع عقبة في القيروان (Kairouan) من المساجد التاريخية.",
+        "source": "https://www.discovertunisia.com/en/tunisie-culture/unmissable-sites",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "كسكسي بالسمك أو اللحم، وبريك بالبيض، وطاجين تونسي.",
+        "source": "https://booking.cte.tn/cr.resa/ui/business/destination-detail-Tunisia-1-707-18-2-popup%3D1.aspx",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والسلوك",
+        "value": "راعِ اللباس المحتشم في المواقع الدينية وعادات الأكل والشرب العلني في رمضان.",
+        "source": "https://www.gov.uk/foreign-travel-advice/tunisia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "تغلق متاجر خلال الأحد، وقد تختلف مواعيد المناطق السياحية والأسواق. راجع المتجر نفسه.",
+        "source": "https://www.lloydsbanktrade.com/en/market-potential/tunisia/opening-hours",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة ١٩٧ والإسعاف ١٩٠.",
+        "source": "https://www.gov.uk/foreign-travel-advice/tunisia/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "السرقة والاحتيال",
+        "value": "انتبه للنشل وخطف الحقائب في الأسواق ومحطات المواصلات.",
+        "source": "https://www.gov.uk/foreign-travel-advice/tunisia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأماكن التي تستدعي الحذر",
+        "value": "تغطي تحذيرات السفر مناطق على الحدود مع ليبيا والجزائر. راجع خريطة المناطق قبل التوجه إليها.",
+        "source": "https://www.gov.uk/foreign-travel-advice/tunisia?pg=2&ta=safetySecurity",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "مناطق السكن وأسباب الاختيار",
+        "value": "في تونس الكبرى، المدينة العتيقة (Medina of Tunis) للأسواق، والمرسى (La Marsa) للبحر، وسيدي بوسعيد (Sidi Bou Said) للعمارة والمشي.",
+        "source": "https://www.nexstay.tn/wp-content/uploads/2024/08/GUEST-GUIDE-2025-ENG.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار الزيارة ومدة كل محطة",
+        "value": "في برنامج أسبوع بالسيارة، يوم لتونس (Tunis)، ويوم لقرطاج (Carthage) مع سيدي بوسعيد (Sidi Bou Said)، ويوم للقيروان (Kairouan)، ويوم للجم (El Jem)، ثم يكمل البرنامج على الساحل.",
+        "source": "https://www.tunisia-explore.com/itineraries/essential-tunisia-7-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٣-٢٠",
+        "source": "https://date.nager.at/Calendar/2026/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الشهداء",
+        "value": "٢٠٢٦-٠٤-٠٩",
+        "source": "https://date.nager.at/Calendar/2026/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-09",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الشغل",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الجمهورية",
+        "value": "٢٠٢٦-٠٧-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2026-07-25",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد المرأة",
+        "value": "٢٠٢٦-٠٨-١٣",
+        "source": "https://date.nager.at/Calendar/2026/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-13",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الجلاء",
+        "value": "٢٠٢٦-١٠-١٥",
+        "source": "https://date.nager.at/Calendar/2026/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-15",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الثورة",
+        "value": "٢٠٢٦-١٢-١٧",
+        "source": "https://date.nager.at/Calendar/2026/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-17",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٣-٢٠",
+        "source": "https://date.nager.at/Calendar/2027/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-20",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الشهداء",
+        "value": "٢٠٢٧-٠٤-٠٩",
+        "source": "https://date.nager.at/Calendar/2027/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-09",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الشغل",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الجمهورية",
+        "value": "٢٠٢٧-٠٧-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-25",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد المرأة",
+        "value": "٢٠٢٧-٠٨-١٣",
+        "source": "https://date.nager.at/Calendar/2027/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-13",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الجلاء",
+        "value": "٢٠٢٧-١٠-١٥",
+        "source": "https://date.nager.at/Calendar/2027/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-15",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الثورة",
+        "value": "٢٠٢٧-١٢-١٧",
+        "source": "https://date.nager.at/Calendar/2027/TN/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-17",
+        "impact": "يغلق متحف العملة (Currency Museum) في تونس (Tunis) في العطلات الرسمية.",
+        "impactSource": "https://musee.bct.gov.tn/fr",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "تحدد وزارة التعليم العطلات للمدارس الابتدائية والإعدادية والثانوية في منشورها السنوي.",
+        "source": "https://www.lapresse.tn/2026/08/31/le-ministere-de-leducation-fixe-la-date-de-la-rentree-scolaire-et-annonce-le-calendrier-des-vacances/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الذروة والفترة الأهدأ",
+        "value": "تبلغ أسعار المنتجعات الساحلية ذروتها صيفًا في جربة (Djerba) والحمّامات (Hammamet). الربيع والخريف أهدأ للزيارة.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-tunisia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة الخريف",
+        "value": "عطلة في التقويم المدرسي التونسي.",
+        "source": "https://www.lapresse.tn/2026/08/31/le-ministere-de-leducation-fixe-la-date-de-la-rentree-scolaire-et-annonce-le-calendrier-des-vacances/",
+        "checked": "2026-11-27",
+        "date": "2026-10-26",
+        "end": "2026-11-01",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة الشتاء",
+        "value": "عطلة في التقويم المدرسي التونسي.",
+        "source": "https://www.lapresse.tn/2026/08/31/le-ministere-de-leducation-fixe-la-date-de-la-rentree-scolaire-et-annonce-le-calendrier-des-vacances/",
+        "checked": "2026-11-27",
+        "date": "2026-12-14",
+        "end": "2026-12-27",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة منتصف الفصل",
+        "value": "عطلة في التقويم المدرسي التونسي.",
+        "source": "https://www.lapresse.tn/2026/08/31/le-ministere-de-leducation-fixe-la-date-de-la-rentree-scolaire-et-annonce-le-calendrier-des-vacances/",
+        "checked": "2026-11-27",
+        "date": "2027-02-01",
+        "end": "2027-02-07",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة الربيع",
+        "value": "عطلة في التقويم المدرسي التونسي.",
+        "source": "https://www.lapresse.tn/2026/08/31/le-ministere-de-leducation-fixe-la-date-de-la-rentree-scolaire-et-annonce-le-calendrier-des-vacances/",
+        "checked": "2026-11-27",
+        "date": "2027-03-15",
+        "end": "2027-03-28",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة المنتجعات الساحلية",
+        "value": "يكثر الطلب على منتجعات جربة (Djerba) والحمّامات (Hammamet) في الصيف.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-tunisia",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "زحمة وأسعار إقامة أعلى على الساحل.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة المنتجعات الساحلية",
+        "value": "يكثر الطلب على منتجعات جربة (Djerba) والحمّامات (Hammamet) في الصيف.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-tunisia",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "زحمة وأسعار إقامة أعلى على الساحل.",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "الفعالية السنوية",
+        "value": "مهرجان قرطاج الدولي، قرطاج (Carthage)، صيفًا في يوليو وأغسطس. ينشر المنظّم البرنامج والتذاكر.",
+        "source": "https://festivaldecarthage.tn/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ]
+  }
+}

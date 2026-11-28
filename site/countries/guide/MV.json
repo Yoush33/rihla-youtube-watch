@@ -1,0 +1,663 @@
+{
+  "code": "MV",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي",
+        "value": "تمنح الهجرة تأشيرة سياحية عند الوصول بعد استيفاء متطلبات الدخول، ومنها الحجز المؤكد وتذكرة المغادرة وإقرار المسافر.",
+        "source": "https://mdvmission.gov.mv/ae/articles/tourist-visa-16",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة",
+        "value": "حتى 30 يوماً عند الوصول.",
+        "source": "https://mdvmission.gov.mv/ae/articles/tourist-visa-16",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "مجانية.",
+        "source": "https://mdvmission.gov.mv/ae/articles/tourist-visa-16",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الروفية المالديفية للجزر المحلية. الدولار والبطاقات شائعان في المنتجعات.",
+        "source": "https://handymaldives.com/money/money-cash-and-cards-for-visitors-maldives",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "تحقق من رسوم الخدمة المضافة إلى الفاتورة قبل إضافة إكرامية.",
+        "source": "https://www.maldivando.it/en/guides/money-in-the-maldives",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يومي اقتصادي",
+        "value": "نحو 529 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/maldives/trip-cost-MV",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يومي متوسط",
+        "value": "نحو 1316 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/maldives/trip-cost-MV",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "باقة أوريدو السياحية بنحو 40 دولاراً أمريكياً وتتوفر بشريحة إلكترونية.",
+        "source": "https://www.ooredoo.mv/webapps/shop/public/plan/tourist",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "تطبيق آر تي إل لجداول العبّارات والحافلات.",
+        "source": "https://www.rtl.mv/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "حافلة أو تاكسي من مطار فيلانا (Velana Airport) إلى ماليه (Malé) عبر الجسر.",
+        "source": "https://maldivesairport.com/transport/taxi-bus",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "حسب الجزيرة، يكون النقل بعبّارة محلية أو قارب سريع أو رحلة داخلية أو طائرة مائية. طابق النقل مع وقت الطيران.",
+        "source": "https://visitmaldives.s3.amazonaws.com/dYGn01wl/opj38r3v.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "المطبخ المحلي مناسب عموماً للمسافر المسلم، وتوجد مساجد في الجزر المأهولة. اسأل المنتجع عن المصلّى والمطعم.",
+        "source": "https://dhiffushi.org/guides/muslim-travellers-maldives/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "ماس هوني بالتونة وجوز الهند، مرق غارودِيا بالسمك، وفطائر التونة.",
+        "source": "https://visitmaldives.com/en/experience/maldivian-cuisine-a-myriad-of-rich-tastes-and-flavors",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "ارتدِ لباساً محتشماً في الجزر المحلية، واستعمل ملابس السباحة في الشواطئ المخصصة أو المنتجع.",
+        "source": "https://visitmaldives.s3.amazonaws.com/dYGn01wl/opj38r3v.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "تتغير أوقات الخدمة خلال رمضان وأوقات الصلاة في الجزر المحلية.",
+        "source": "https://visitmaldives.s3.amazonaws.com/dYGn01wl/opj38r3v.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "مخاطر تهم الزائر",
+        "value": "تفادَ التجمعات والمظاهرات في ماليه (Malé)، وانتبه لسرقة الأغراض على الشواطئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/maldives/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "119 للشرطة و102 للإسعاف و118 للإطفاء.",
+        "source": "https://www.gov.uk/foreign-travel-advice/maldives/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "احتيال أُبلغ عنه",
+        "value": "تحذر الهجرة من مواقع تفرض رسوماً على إقرار المسافر. النموذج الحكومي مجاني.",
+        "source": "https://imuga.immigration.gov.mv/traveller",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "هينفيرو (Henveiru)",
+        "value": "قريب من الواجهة البحرية في ماليه (Malé).",
+        "source": "https://www.raahzo.com/city/male/where-to-stay",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "مافانو (Maafannu)",
+        "value": "حي سكني غربي لاكتشاف الحياة اليومية.",
+        "source": "https://www.raahzo.com/city/male/where-to-stay",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "هولهوماليه (Hulhumalé)",
+        "value": "فنادق قريبة من المطار وشاطئ وممشى.",
+        "source": "https://www.raahzo.com/city/male/where-to-stay",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار مقترح ومدة كل محطة",
+        "value": "هولهوماليه (Hulhumalé) ليلة عند الوصول، مافوشي (Maafushi) 3 ليالٍ، وفوليدو (Fulidhoo) 3 ليالٍ قبل المنتجع أو العودة.",
+        "source": "https://holiday.com.mv/maldives-vacation/itinerary/island-hopping/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "افتتاح مجلس الشعب",
+        "value": "عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-02-05",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بداية رمضان",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-02-18",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "العشر الأواخر من رمضان",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة القطاع الحكومي، وتختلف مواعيد الخدمات.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-03-09",
+        "end": "2026-03-19",
+        "impact": "عطلة القطاع الحكومي، وتختلف مواعيد الخدمات.",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "end": "2026-03-22",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "إجازة حكومية بعد الانتخابات المحلية",
+        "value": "إغلاق الدوائر الحكومية بقرار رئاسي.",
+        "source": "https://presidency.gov.mv/Press/Article/36444?term=0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "end": "2026-04-06",
+        "impact": "إغلاق الدوائر الحكومية بقرار رئاسي.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة حكومية قبل عيد الأضحى",
+        "value": "إغلاق الدوائر الحكومية وفق الإعلان الرئاسي · يعتمد على رؤية الهلال.",
+        "source": "https://presidency.gov.mv/Press/Article/36667",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "end": "2026-05-25",
+        "impact": "إغلاق الدوائر الحكومية وفق الإعلان الرئاسي.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم عرفة",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-05-26",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى وأيامه التالية",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "end": "2026-05-30",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-06-16",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "الاستقلال واليوم التالي",
+        "value": "عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-07-26",
+        "end": "2026-07-27",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني المالديفي",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-08-14",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-08-25",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "ذكرى اعتناق الإسلام",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-09-13",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم النصر",
+        "value": "عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-11-03",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الجمهورية",
+        "value": "عطلة رسمية.",
+        "source": "https://education.gov.mv/en/academic-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-11-11",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة حكومية بعد يوم الجمهورية",
+        "value": "إغلاق الدوائر الحكومية وفق الإعلان الرئاسي.",
+        "source": "https://panel.presidency.mv/Press/Article/37624",
+        "checked": "2026-11-27",
+        "date": "2026-11-12",
+        "impact": "إغلاق الدوائر الحكومية وفق الإعلان الرئاسي.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "بداية رمضان",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-08",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "العشر الأواخر من رمضان",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. إجازة القطاع الحكومي بحسب التقويم المبدئي. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-26",
+        "end": "2027-03-07",
+        "impact": "إجازة القطاع الحكومي بحسب التقويم المبدئي.",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الفطر وأيامه التالية",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-09",
+        "end": "2027-03-11",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم عرفة",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى وأيامه التالية",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "end": "2027-05-20",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-06-06",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الاستقلال واليوم التالي",
+        "value": "عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-07-26",
+        "end": "2027-07-27",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "اليوم الوطني المالديفي",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-08-03",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-08-14",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "ذكرى اعتناق الإسلام",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-09-03",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم النصر",
+        "value": "عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-11-03",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الجمهورية",
+        "value": "عطلة رسمية. ورد في تقويم وزارة التعليم المبدئي الصادر في 1 أكتوبر 2026.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-11-11",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "tentative": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "موعد افتتاح مجلس الشعب 2027",
+        "value": "غير مؤكد",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم الذروة",
+        "value": "من موسم الطلب السياحي الأعلى على الإقامة.",
+        "source": "https://www.tourism.gov.mv/dms/document/86be229c1b0999ca5083e15ea4796546.pdf",
+        "checked": "2026-11-27",
+        "month": 11,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "من موسم الطلب السياحي الأعلى على الإقامة.",
+        "source": "https://www.tourism.gov.mv/dms/document/86be229c1b0999ca5083e15ea4796546.pdf",
+        "checked": "2026-11-27",
+        "month": 12,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "من موسم الطلب السياحي الأعلى على الإقامة.",
+        "source": "https://www.tourism.gov.mv/dms/document/86be229c1b0999ca5083e15ea4796546.pdf",
+        "checked": "2026-11-27",
+        "month": 1,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "من موسم الطلب السياحي الأعلى على الإقامة.",
+        "source": "https://www.tourism.gov.mv/dms/document/86be229c1b0999ca5083e15ea4796546.pdf",
+        "checked": "2026-11-27",
+        "month": 2,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "من موسم الطلب السياحي الأعلى على الإقامة.",
+        "source": "https://www.tourism.gov.mv/dms/document/86be229c1b0999ca5083e15ea4796546.pdf",
+        "checked": "2026-11-27",
+        "month": 3,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "من أشهر انخفاض الطلب السياحي.",
+        "source": "https://www.tourism.gov.mv/dms/document/86be229c1b0999ca5083e15ea4796546.pdf",
+        "checked": "2026-11-27",
+        "month": 5,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "من أشهر انخفاض الطلب السياحي.",
+        "source": "https://www.tourism.gov.mv/dms/document/86be229c1b0999ca5083e15ea4796546.pdf",
+        "checked": "2026-11-27",
+        "month": 6,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "من أشهر انخفاض الطلب السياحي.",
+        "source": "https://www.tourism.gov.mv/dms/document/86be229c1b0999ca5083e15ea4796546.pdf",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس",
+        "value": "الإجازة بين الفصول الدراسية.",
+        "source": "https://www.education.gov.mv/storage/files/downloads/calendars/1755007289237-Academic%20Calendar%20-%202026%20TENTATIVE_250812_151956.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-07-17",
+        "end": "2026-08-01",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة منتصف الفصل",
+        "value": "تتوقف الدراسة خلال هذه الفترة.",
+        "source": "https://www.education.gov.mv/storage/files/downloads/calendars/1755007289237-Academic%20Calendar%20-%202026%20TENTATIVE_250812_151956.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "end": "2026-05-30",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدارس في التقويم المبدئي لعام 2027",
+        "value": "إجازة مدرسية بحسب تقويم الجهة المذكورة.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "end": "2027-05-22",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدارس في التقويم المبدئي لعام 2027",
+        "value": "إجازة مدرسية بحسب تقويم الجهة المذكورة.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-07-16",
+        "end": "2027-07-31",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدارس في التقويم المبدئي لعام 2027",
+        "value": "إجازة مدرسية بحسب تقويم الجهة المذكورة.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-09-19",
+        "end": "2027-09-25",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدارس في التقويم المبدئي لعام 2027",
+        "value": "إجازة مدرسية بحسب تقويم الجهة المذكورة.",
+        "source": "https://moe.gov.mv/storage/files/downloads/calendars/1790855879847-Academic%20Calendar%20-%202027%20%28TENTATIVE%20-%2001OCT26%29.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-10",
+        "end": "2028-01-04",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "احتفالات الاستقلال",
+        "value": "مراسم رفع العلم في ماليه (Malé) في يوليو. تختلف البرامج العامة حسب السنة.",
+        "source": "https://presidency.gov.mv/Press/Article/37058?term=0",
+        "checked": "2026-11-27",
+        "month": 7,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

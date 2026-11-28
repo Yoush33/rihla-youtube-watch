@@ -1,0 +1,471 @@
+{
+  "code": "FR",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "تحتاج تأشيرة شنغن للزيارة بالجواز السعودي العادي.",
+        "source": "https://eur-lex.europa.eu/eli/reg/2018/1806/2025-02-03/eng",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 90 يومًا ضمن أي 180 يومًا في دول شنغن مجتمعة، وفق صلاحية التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/short-stay-calculator_en?prefLang=nl",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "90 يورو رسم الطلب العادي للبالغ، وقد تضاف أجرة مركز تقديم الطلبات.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "البطاقات واسعة القبول، وخذ مبلغًا نقديًا صغيرًا للمشتريات.",
+        "source": "https://visiting-france.com/plan-your-trip/money/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "اليورو",
+        "source": "https://visiting-france.com/plan-your-trip/money/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "الخدمة مشمولة في السعر المعلن بالمطعم، والزيادة اختيارية.",
+        "source": "https://parisjetaime.com/eng/article/prices-spending-tipping-a524",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 386 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/france",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 1099 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/france",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 15 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/france-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "بونجور راتب (Bonjour RATP) لتخطيط الرحلات في باريس (Paris).",
+        "source": "https://apps.apple.com/us/app/bonjour-ratp/id507107090",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "قطار الضواحي «آر إي آر بي» يصل شارل ديغول (Charles de Gaulle) بباريس (Paris).",
+        "source": "https://www.banque-france.fr/system/files/2026-03/BDF_access_map_and_information.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "قطارات بعيدة المدى وسريعة تربط المدن الكبرى.",
+        "source": "https://www.france.fr/en/article/Looking-to-travel-around-France-by-train/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "تتوفر مطاعم وجزارات حلال في باريس (Paris)، ومنها حي بلفيل (Belleville).",
+        "source": "https://viorvo.com/halal-travel/paris/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "جامع باريس الكبير (Grande Mosquée de Paris) في باريس (Paris).",
+        "source": "https://www.grandemosqueedeparis.fr/visites",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "شوربة البصل، صدر البط، وكروك مسيو. النسخة التقليدية من كروك مسيو بلحم الخنزير، فاطلب نسخة حلال.",
+        "source": "https://xperitas.org/sites/default/files/2024-08/France_Exploration_Pack.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "في كاتدرائية نوتردام (Notre-Dame) غطّ الكتفين والفخذين واحترم هدوء مكان العبادة.",
+        "source": "https://www.notredamedeparis.fr/en/visit/practical-information/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "الأحد والأعياد أيام إغلاق شائعة في باريس (Paris)، مع استثناءات في الأحياء السياحية.",
+        "source": "https://parisjetaime.com/eng/article/opening-times-in-paris-a534",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للطوارئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/france/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "انتبه للنشل حول المعالم والمحطات وفي القطارات الدولية.",
+        "source": "https://travel.gc.ca/destinations/france/1000?wbdisable=true",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "ينشط النشالون في الزحام. لا تضع الهاتف أو المحفظة في الجيب الخلفي.",
+        "source": "https://www.masecurite.interieur.gouv.fr/en/practical-sheets/security-for-tourists?hl=selling",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "الحي الأول (1st Arrondissement)",
+        "value": "لقرب متحف اللوفر",
+        "source": "https://www.louvreinsider.com/guides/where-to-stay-near-the-louvre",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الماريه (Le Marais)",
+        "value": "للتجول والمقاهي",
+        "source": "https://www.louvreinsider.com/guides/where-to-stay-near-the-louvre",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "سان جيرمان دي بريه (Saint-Germain-des-Prés)",
+        "value": "للمشي على الضفة اليسرى",
+        "source": "https://www.louvreinsider.com/guides/where-to-stay-near-the-louvre",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "باريس (Paris)",
+        "value": "نقترح أربعة أيام عند توزيع وقت الرحلة.",
+        "source": "https://www.visbytravel.com/itineraries/paris-lyon-nice-10-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ليون (Lyon)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.visbytravel.com/itineraries/paris-lyon-nice-10-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "نيس (Nice)",
+        "value": "نقترح ثلاثة أيام عند توزيع وقت الرحلة.",
+        "source": "https://www.visbytravel.com/itineraries/paris-lyon-nice-10-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تغلق غالبية المواقع الثقافية في باريس (Paris) يوم ١ مايو.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى النصر عام ١٩٤٥",
+        "value": "٢٠٢٦-٠٥-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-08",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٦-٠٥-١٤",
+        "source": "https://date.nager.at/Calendar/2026/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-14",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني",
+        "value": "٢٠٢٦-٠٧-١٤",
+        "source": "https://date.nager.at/Calendar/2026/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-07-14",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2026/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى هدنة ١٩١٨",
+        "value": "٢٠٢٦-١١-١١",
+        "source": "https://date.nager.at/Calendar/2026/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-11",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تغلق غالبية المواقع الثقافية في باريس (Paris) يوم ١ مايو.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٧-٠٥-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى النصر عام ١٩٤٥",
+        "value": "٢٠٢٧-٠٥-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-08",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2027/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني",
+        "value": "٢٠٢٧-٠٧-١٤",
+        "source": "https://date.nager.at/Calendar/2027/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-14",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2027/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى هدنة ١٩١٨",
+        "value": "٢٠٢٧-١١-١١",
+        "source": "https://date.nager.at/Calendar/2027/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-11",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/FR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "متاحف بلدية باريس (Paris) تغلق عادة في العطلات. تحقّق من المتحف الذي ستزوره.",
+        "impactSource": "https://parisjetaime.com/eng/article/french-public-holidays-a101",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الميلاد في فرنسا القارية",
+        "value": "من 2026-12-19 إلى 2027-01-03 حسب التقويم المدرسي.",
+        "source": "https://www.education.gouv.fr/calendrier-scolaire-toutes-les-dates-des-cours-et-des-vacances-100148?annee=8&zone=17",
+        "checked": "2026-11-27",
+        "date": "2026-12-19",
+        "end": "2027-01-03",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "تتركز الحركة السياحية في موسم الصيف، خصوصًا على الساحل الجنوبي.",
+        "source": "https://media.lonelyplanet.com/ebook/france.pdf",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زيادة الزحام"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "تتركز الحركة السياحية في موسم الصيف، خصوصًا على الساحل الجنوبي.",
+        "source": "https://media.lonelyplanet.com/ebook/france.pdf",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زيادة الزحام"
+      }
+    ],
+    "events": [
+      {
+        "label": "احتفالات اليوم الوطني",
+        "value": "باريس (Paris)، عروض واحتفالات يوليو.",
+        "source": "https://www.france.fr/en/event/bastille-day-14-july/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

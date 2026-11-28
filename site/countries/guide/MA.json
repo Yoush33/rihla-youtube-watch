@@ -1,0 +1,588 @@
+{
+  "code": "MA",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "معفى من تأشيرة الزيارة بالجواز السعودي.",
+        "source": "https://webunwto.s3.eu-west-1.amazonaws.com/s3fs-public/2022-10/CE117_Information_Note_Fr_rev1_1.pdf?VersionId=uNcvRxxJ3K0qY9bznhtitWP5ikTdNqwz",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 90 يومًا.",
+        "source": "https://diplomaticmonitor.org/c2c/MA-SA",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "من دون رسوم تأشيرة ضمن الإعفاء.",
+        "source": "https://webunwto.s3.eu-west-1.amazonaws.com/s3fs-public/2022-10/CE117_Information_Note_Fr_rev1_1.pdf?VersionId=uNcvRxxJ3K0qY9bznhtitWP5ikTdNqwz",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "تُقبل البطاقات الدولية، وتتيح الصرافات السحب بالدرهم.",
+        "source": "https://pre-webunwto.s3.eu-west-1.amazonaws.com/s3fs-public/2022-11/221123-CE117NoteInfo-rev-2-en.pdf?VersionId=Oykl2WQURNSaKaLprsQcqAT.2h2HuUm4",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "الدرهم المغربي",
+        "source": "https://pre-webunwto.s3.eu-west-1.amazonaws.com/s3fs-public/2022-11/221123-CE117NoteInfo-rev-2-en.pdf?VersionId=Oykl2WQURNSaKaLprsQcqAT.2h2HuUm4",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية، وغالبًا يدفع الزائر مبلغًا صغيرًا نقدًا.",
+        "source": "https://pre-webunwto.s3.eu-west-1.amazonaws.com/s3fs-public/2022-11/221123-CE117NoteInfo-rev-2-en.pdf?VersionId=Oykl2WQURNSaKaLprsQcqAT.2h2HuUm4",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 120 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/morocco",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 315 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/morocco",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "إيرالو، 1 غيغابايت لمدة 7 أيام بنحو 22 ريالًا.",
+        "source": "https://www.airalo.com/morocco-esim/choukran-7days-1gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "مسافر (Mosafir) للبحث عن وصلات الحافلات بين المدن.",
+        "source": "https://play.google.com/store/apps/details?id=com.appmosafir",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "تصل حافلة المطار مراكش المنارة (Marrakech Menara) بالمدينة.",
+        "source": "https://www.alsa.ma/en/bus-turistique",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "تربط القطارات مدنًا رئيسية، وتخدم الحافلات وجهات خارج شبكة السكك.",
+        "source": "https://www.visitmorocco.com/en/transport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "الطعام الحلال واسع التوفر في مراكش (Marrakech).",
+        "source": "https://www.marrakech-cityguide.com/fr/guides/voyage-halal-marrakech",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "جامع الكتبية (Koutoubia Mosque) في مراكش (Marrakech).",
+        "source": "https://marrakechauthority.com/en/articles/mosquees-et-lieux-de-culte-marrakech",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "الطاجين، الكسكس، والبسطيلة.",
+        "source": "https://www.visitmorocco.com/en/travel-info/food-drinks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "اختر لباسًا يغطي الكتفين والركبتين خصوصًا في المدينة القديمة ودور العبادة.",
+        "source": "https://marrakechauthority.com/en/articles/comment-s-habiller-a-marrakech",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "تختلف ساعات سوق مراكش (Marrakech) بحسب المحل واليوم والموسم.",
+        "source": "https://www.visit-marrakech-medina.com/en/what-time-souks-open",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "190 للشرطة و150 للإسعاف.",
+        "source": "https://www.gov.uk/foreign-travel-advice/morocco/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "انتبه للنشل في الأسواق المزدحمة والمواصلات العامة.",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/morocco.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "احذر النشل في الأسواق السياحية واحفظ المقتنيات بعيدًا عن الجيوب المكشوفة.",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/morocco.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "المدينة القديمة (Medina)",
+        "value": "للسكن في رياض والمشي",
+        "source": "https://www.lemarocouvresesportes.com/en/where-to-stay-marrakech-medina-gueliz-hivernage/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كيليز (Gueliz)",
+        "value": "للمقاهي والمتاجر الحديثة",
+        "source": "https://www.lemarocouvresesportes.com/en/where-to-stay-marrakech-medina-gueliz-hivernage/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الحي الشتوي (Hivernage)",
+        "value": "للفنادق الكبيرة والشوارع الأوسع",
+        "source": "https://www.lemarocouvresesportes.com/en/where-to-stay-marrakech-medina-gueliz-hivernage/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مراكش (Marrakech)",
+        "value": "نقترح ثلاثة أيام عند توزيع وقت الرحلة.",
+        "source": "https://karamatravel.ma/en/blog/circuit-maroc-10-jours-itineraire",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الصويرة (Essaouira)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://karamatravel.ma/en/blog/circuit-maroc-10-jours-itineraire",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "فاس (Fez)",
+        "value": "نقترح ثلاثة أيام عند توزيع وقت الرحلة.",
+        "source": "https://karamatravel.ma/en/blog/circuit-maroc-10-jours-itineraire",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى تقديم وثيقة الاستقلال",
+        "value": "٢٠٢٦-٠١-١١",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-01-11",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الأمازيغية",
+        "value": "٢٠٢٦-٠١-١٤",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-01-14",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "٢٠٢٦-٠٣-٢٠ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الشغل",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "٢٠٢٦-٠٥-٢٧ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "uncertain"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "٢٠٢٦-٠٦-١٧ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-06-17",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد العرش",
+        "value": "٢٠٢٦-٠٧-٣٠",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-07-30",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى استرجاع وادي الذهب",
+        "value": "٢٠٢٦-٠٨-١٤",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-08-14",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى ثورة الملك والشعب",
+        "value": "٢٠٢٦-٠٨-٢٠",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-08-20",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الشباب",
+        "value": "٢٠٢٦-٠٨-٢١",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-08-21",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "٢٠٢٦-٠٨-٢٦ تقريبًا، يعتمد على رؤية الهلال",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-08-26",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الوحدة",
+        "value": "٢٠٢٦-١٠-٣١",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-10-31",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى المسيرة الخضراء",
+        "value": "٢٠٢٦-١١-٠٦",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-11-06",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-١١-١٨",
+        "source": "https://www.visitmorocco.com/fr/informations-pratiques?id=modalformalites1096",
+        "checked": "2026-11-27",
+        "date": "2026-11-18",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/MA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى تقديم وثيقة الاستقلال",
+        "value": "٢٠٢٧-٠١-١١",
+        "source": "https://date.nager.at/Calendar/2027/MA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-11",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الأمازيغية",
+        "value": "٢٠٢٧-٠١-١٤",
+        "source": "https://date.nager.at/Calendar/2027/MA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-14",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الشغل",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/MA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العرش",
+        "value": "٢٠٢٧-٠٧-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/MA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-30",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى استرجاع وادي الذهب",
+        "value": "٢٠٢٧-٠٨-١٤",
+        "source": "https://date.nager.at/Calendar/2027/MA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-14",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى ثورة الملك والشعب",
+        "value": "٢٠٢٧-٠٨-٢٠",
+        "source": "https://date.nager.at/Calendar/2027/MA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-20",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الشباب",
+        "value": "٢٠٢٧-٠٨-٢١",
+        "source": "https://date.nager.at/Calendar/2027/MA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-21",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الوحدة",
+        "value": "٢٠٢٧-١٠-٣١",
+        "source": "https://date.nager.at/Calendar/2027/MA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-31",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى المسيرة الخضراء",
+        "value": "٢٠٢٧-١١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/MA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-06",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-١١-١٨",
+        "source": "https://date.nager.at/Calendar/2027/MA/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-18",
+        "impact": "تتعطل الإدارات العمومية والجماعات المحلية في الأعياد الرسمية، وتتولى بعض المصالح المناوبة عند الحاجة.",
+        "impactSource": "https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الموسم والوقت الأهدأ",
+        "value": "يزداد إقبال الزوار الدوليين بين أكتوبر وأبريل، والساحل يستقطب المسافرين المحليين في يوليو وأغسطس.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-morocco",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العطلة البينية الأولى للمدارس",
+        "value": "من 2026-10-18 إلى 2026-10-25 حسب التقويم المدرسي.",
+        "source": "https://pub-d12473bba5c648c182d2fcbcf4fdda08.r2.dev/decision-ministerielle-n-047-26-relative-a-l-organisation-de-l-annee-scolaire-20.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-10-18",
+        "end": "2026-10-25",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم المعتدل للزيارات الدولية",
+        "value": "تزداد أعداد الزوار القادمين من نصف الكرة الشمالي في أشهر الطقس المعتدل من أكتوبر إلى أبريل.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-morocco",
+        "checked": "2026-11-27",
+        "month": 10,
+        "peak": true,
+        "impact": "إقبال أعلى من الزوار الدوليين",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم المعتدل للزيارات الدولية",
+        "value": "تزداد أعداد الزوار القادمين من نصف الكرة الشمالي في أشهر الطقس المعتدل من أكتوبر إلى أبريل.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-morocco",
+        "checked": "2026-11-27",
+        "month": 11,
+        "peak": true,
+        "impact": "إقبال أعلى من الزوار الدوليين",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم المعتدل للزيارات الدولية",
+        "value": "تزداد أعداد الزوار القادمين من نصف الكرة الشمالي في أشهر الطقس المعتدل من أكتوبر إلى أبريل.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-morocco",
+        "checked": "2026-11-27",
+        "month": 12,
+        "peak": true,
+        "impact": "إقبال أعلى من الزوار الدوليين",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم المعتدل للزيارات الدولية",
+        "value": "تزداد أعداد الزوار القادمين من نصف الكرة الشمالي في أشهر الطقس المعتدل من أكتوبر إلى أبريل.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-morocco",
+        "checked": "2026-11-27",
+        "month": 1,
+        "peak": true,
+        "impact": "إقبال أعلى من الزوار الدوليين",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم المعتدل للزيارات الدولية",
+        "value": "تزداد أعداد الزوار القادمين من نصف الكرة الشمالي في أشهر الطقس المعتدل من أكتوبر إلى أبريل.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-morocco",
+        "checked": "2026-11-27",
+        "month": 2,
+        "peak": true,
+        "impact": "إقبال أعلى من الزوار الدوليين",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم المعتدل للزيارات الدولية",
+        "value": "تزداد أعداد الزوار القادمين من نصف الكرة الشمالي في أشهر الطقس المعتدل من أكتوبر إلى أبريل.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-morocco",
+        "checked": "2026-11-27",
+        "month": 3,
+        "peak": true,
+        "impact": "إقبال أعلى من الزوار الدوليين",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم المعتدل للزيارات الدولية",
+        "value": "تزداد أعداد الزوار القادمين من نصف الكرة الشمالي في أشهر الطقس المعتدل من أكتوبر إلى أبريل.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-morocco",
+        "checked": "2026-11-27",
+        "month": 4,
+        "peak": true,
+        "impact": "إقبال أعلى من الزوار الدوليين",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الاصطياف على الساحل المغربي",
+        "value": "يتجه المسافرون المحليون والدوليون إلى الساحل بأعداد كبيرة في يوليو وأغسطس.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-morocco",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "زحمة على الساحل",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الاصطياف على الساحل المغربي",
+        "value": "يتجه المسافرون المحليون والدوليون إلى الساحل بأعداد كبيرة في يوليو وأغسطس.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-morocco",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "زحمة على الساحل",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان كناوة وموسيقى العالم",
+        "value": "الصويرة (Essaouira)، يونيو.",
+        "source": "https://www.festival-gnaoua.net/wp-content/uploads/2026/05/CP-GNAOUA-FUSION-VUK-2026-2.pdf",
+        "checked": "2026-11-27",
+        "month": 6,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

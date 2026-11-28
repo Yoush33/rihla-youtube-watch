@@ -1,0 +1,564 @@
+{
+  "code": "BE",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "تلزم تأشيرة شنغن قصيرة الإقامة للسائح حامل الجواز العادي.",
+        "source": "https://home-affairs.ec.europa.eu/document/download/a2378226-f392-42d0-9984-e023db53d140_en?filename=regulation-2018-1806.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "حتى 90 يوماً في أي 180 يوماً ضمن شنغن مجتمعة، وبحدود التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم طلب البالغ",
+        "value": "90 يورو، وقد تضاف رسوم مركز الخدمة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "اليورو",
+        "source": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/money-currency-and-change",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "تقبل المتاجر الدفع الإلكتروني. استخدم النقد للمبالغ الصغيرة عند الحاجة.",
+        "source": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/money-currency-and-change",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية للخدمة الجيدة.",
+        "source": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/money-currency-and-change",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 289 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/belgium",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 709 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/belgium",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/belgium-esim?currency=USD",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«ستيـب» لخطوط النقل العام وتوقيت الوصول في بروكسل (Brussels).",
+        "source": "https://www.visit.brussels/en/visitors/what-to-do/practical-brussels-apps-that-make-the-city-easier",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "الحافلة رقم 12 تصل مطار بروكسل (Brussels Airport) بالحي الأوروبي في المدينة.",
+        "source": "https://www.stib-mivb.be/travel/other-mobility-solutions/airport-line",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تصل القطارات بروكسل (Brussels) وبروج (Bruges) وغنت (Ghent). استخدم جداول السكك البلجيكية.",
+        "source": "https://www.brussels.be/public-transport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "توجد خيارات حلال في وسط بروكسل (Brussels)، منها مطاعم الشاورما والكباب.",
+        "source": "https://www.zabihah.com/halal-restaurants/bruxelles-bruxelles-be",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد بروكسل الكبير (Great Mosque of Brussels) في حديقة السينكونتينير (Cinquantenaire Park).",
+        "source": "https://www.visit.brussels/en/visitors/venue-details.Grote-Moskee-van-Brussel.257719",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "وافل بلجيكي، بلح بحر مع البطاطس، وبطاطس مقلية. اسأل عن نبيذ الطبخ ودهن القلي.",
+        "source": "https://www.turismobelgica.com/en/food-in-belgium",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "تشمل القوانين قيوداً على تغطية الوجه في الأماكن العامة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "احمل هوية مقبولة للسلطات أثناء التنقل.",
+        "source": "https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "تغلق متاجر عديدة يوم الأحد والأعياد، مع استثناءات وسط بروكسل (Brussels).",
+        "source": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "انتبه قرب محطة بروكسل ميدي (Brussels Midi) خاصة في الليل.",
+        "source": "https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "تكثر سرقات الأمتعة والنشل في المحطات. أبقِ حقائبك في مرمى النظر.",
+        "source": "https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 112.",
+        "source": "https://www.gov.uk/foreign-travel-advice/belgium/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "المركز التاريخي (Historic Centre)",
+        "value": "لقرب الساحة الكبرى والمعالم.",
+        "source": "https://www.whereineurope.eu/where-to-stay/brussels/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "إيكسل (Ixelles)",
+        "value": "للمقاهي والأحياء السكنية.",
+        "source": "https://www.whereineurope.eu/where-to-stay/brussels/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "سابلون (Sablon)",
+        "value": "للمتاحف ومحلات الشوكولاتة.",
+        "source": "https://www.whereineurope.eu/where-to-stay/brussels/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "بروكسل (Brussels)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://www.earthtrekkers.com/ONE-DAY-IN-BRUGES-AND-GHENT-ITINERARY/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "بروج (Bruges)",
+        "value": "توزيع مقترح للزيارة: يوم إلى يومين.",
+        "source": "https://www.earthtrekkers.com/ONE-DAY-IN-BRUGES-AND-GHENT-ITINERARY/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "غنت (Ghent)",
+        "value": "توزيع مقترح للزيارة: يوم إلى يومين.",
+        "source": "https://www.earthtrekkers.com/ONE-DAY-IN-BRUGES-AND-GHENT-ITINERARY/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "تغلق فروع المصارف البلجيكية في هذا اليوم وفق تقويم القطاع المصرفي.",
+        "impactSource": "https://febelfin.be/en/themes/working-financial-sector/when-are-the-bank-branches-closed",
+        "scope": "إجازة فروع المصارف",
+        "scopeSource": "https://febelfin.be/en/themes/working-financial-sector/when-are-the-bank-branches-closed",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "غير مؤكد",
+        "scope": "المناسبة خارج قائمة عطلات العمل العشر السارية على مستوى البلاد.",
+        "scopeSource": "https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٦-٠٥-١٤",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-14",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم التالي لعيد الصعود",
+        "value": "٢٠٢٦-٠٥-١٥",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-15",
+        "impact": "تغلق فروع المصارف البلجيكية في هذا اليوم وفق تقويم القطاع المصرفي.",
+        "impactSource": "https://febelfin.be/en/themes/working-financial-sector/when-are-the-bank-branches-closed",
+        "scope": "إجازة فروع المصارف",
+        "scopeSource": "https://febelfin.be/en/themes/working-financial-sector/when-are-the-bank-branches-closed",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني",
+        "value": "٢٠٢٦-٠٧-٢١",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-07-21",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى الهدنة",
+        "value": "٢٠٢٦-١١-١١",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-11",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "غير مؤكد",
+        "scope": "المناسبة خارج قائمة عطلات العمل العشر السارية على مستوى البلاد.",
+        "scopeSource": "https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "غير مؤكد",
+        "scope": "المناسبة خارج قائمة عطلات العمل العشر السارية على مستوى البلاد.",
+        "scopeSource": "https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "غير مؤكد",
+        "scope": "المناسبة خارج قائمة عطلات العمل العشر السارية على مستوى البلاد.",
+        "scopeSource": "https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٧-٠٥-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم التالي لعيد الصعود",
+        "value": "٢٠٢٧-٠٥-٠٧",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-07",
+        "impact": "غير مؤكد",
+        "scope": "المناسبة خارج قائمة عطلات العمل العشر السارية على مستوى البلاد.",
+        "scopeSource": "https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني",
+        "value": "٢٠٢٧-٠٧-٢١",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-21",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى الهدنة",
+        "value": "٢٠٢٧-١١-١١",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-11",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "في بروكسل (Brussels) قد تغلق متاجر ومتاحف ويقلّ تردد بعض وسائل النقل.",
+        "impactSource": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/public-holidays-and-hours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/BE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "غير مؤكد",
+        "scope": "المناسبة خارج قائمة عطلات العمل العشر السارية على مستوى البلاد.",
+        "scopeSource": "https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/public-holidays",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الميلاد لمدارس المجتمع الفلمنكي",
+        "value": "إجازة مدرسية من 2026-12-21 إلى 2027-01-03 شاملة الطرفين.",
+        "source": "https://www.vlaanderen.be/onderwijs-en-vorming/wat-mag-en-moet-op-school/schoolvakanties-vrije-dagen-en-afwezigheden/schoolvakanties",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-21",
+        "end": "2027-01-03",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "يوليو وأغسطس موسم الزيارات الصيفية.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-belgium",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "الربيع والخريف خارج العطل أهدأ نسبياً.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-belgium",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم السفر الصيفي في يوليو",
+        "value": "زيادة الزوار في الوجهات التاريخية، خاصة بروج (Bruges).",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-belgium",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "زيادة الزوار في الوجهات التاريخية، خاصة بروج (Bruges).",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم السفر الصيفي في أغسطس",
+        "value": "زيادة الزوار في الوجهات التاريخية، خاصة بروج (Bruges).",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-belgium",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "زيادة الزوار في الوجهات التاريخية، خاصة بروج (Bruges).",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "موكب أوميغانغ",
+        "value": "بروكسل (Brussels)، يوليو، موكب تاريخي يمرّ بالساحة الكبرى.",
+        "source": "https://www.brussels.be/ommegang-listed-unescos-cultural-heritage-list",
+        "checked": "2026-11-27",
+        "month": 7,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

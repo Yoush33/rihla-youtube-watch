@@ -1,0 +1,549 @@
+{
+  "code": "RO",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي العادي",
+        "value": "تحتاج تأشيرة شنغن قصيرة للسياحة قبل السفر.",
+        "source": "https://eviza.mae.ro/ShortStayVisa",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة شنغن",
+        "value": "حتى 90 يومًا مجتمعة في دول شنغن خلال أي 180 يومًا، بحسب ما تسمح به التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسم الأساسي للبالغ",
+        "value": "90 يورو. قد يضيف مركز الطلب رسوم خدمة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الليو الروماني. تستخدم البطاقات في الفنادق والمراكز التجارية، ويفيد الكاش في البلدات الصغيرة.",
+        "source": "https://www.trade.gov/country-commercial-guides/romania-business-travel-and-etiquette",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "نحو 10٪ لخدمة الطاولة، وغالبًا تُعطى نقدًا.",
+        "source": "https://clevertourists.com/resources/tipping-in-romania-restaurants-bacsis-guide",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — اقتصادي",
+        "value": "نحو 103–144 ريالًا سعوديًا للفرد في بوخارست (Bucharest) مع الإقامة والأكل والتنقل، دون الرحلة الدولية. تقدير تخطيطي.",
+        "source": "https://salutbucuresti.ro/en/guides/bucharest-daily-budget/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — متوسط",
+        "value": "نحو 247–370 ريالًا سعوديًا للفرد في بوخارست (Bucharest) مع الإقامة والأكل والتنقل، دون الرحلة الدولية. تقدير تخطيطي.",
+        "source": "https://salutbucuresti.ro/en/guides/bucharest-daily-budget/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة للزائر وسعر تقريبي",
+        "value": "شريحة سفر إلكترونية من 15 إلى 20 يورو تقريبًا مقابل 10 غيغابايت لمدة 15 يومًا.",
+        "source": "https://www.visitromania.net/en/travel-tips/internet-phone-romania/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق نقل",
+        "value": "بولت (Bolt) في بوخارست (Bucharest).",
+        "source": "https://bolt.eu/en/cities/bucharest/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "قطار مطار هنري كواندا (Henri Coandă) يصل إلى محطة بوخارست الشمالية (Bucharest North).",
+        "source": "https://apply.upb.ro/assets/guide/2024/Practical_Guide_Non-EU.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "تتوفر قطارات بين مدن رومانيا عبر شركة سي إف آر. تحقّق من محطة الوصول ورقم القطار.",
+        "source": "https://www.cfrcalatori.ro/en/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "توجد مطاعم حلال في بوخارست (Bucharest) وأماكن للصلاة، منها مؤسسة الخدمات الإسلامية الرومانية (Islamic Services Foundation of Romania).",
+        "source": "https://www.gohalaltravel.com/destinations/bucarest",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "عصيدة الذرة ماماليغا، ولفائف الملفوف سارمالي، وحلوى باباناشي. اسأل عن الحشوة لأن بعض النسخ تحتوي لحم خنزير.",
+        "source": "https://www.euraxess.gov.ro/romania/information-assistance/daily-life/romanian-cuisine",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرف في الأماكن العامة",
+        "value": "في الكنائس والأديرة التزم بلباس محتشم وهدوء عند الدخول.",
+        "source": "https://salutbucuresti.ro/en/guides/cultural-etiquette-romania/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "في بوخارست (Bucharest) يفتح عدد من المحلات طوال الأسبوع، وتختلف ساعات السوبرماركت عن المتاجر الصغيرة.",
+        "source": "https://www.romania-travel-guide.com/en/discover/general-info.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستدعي الانتباه وأساليب السرقة",
+        "value": "تستهدف مجموعات النشل الركاب بإلهائهم قرب محطات القطار والصرافة ومواصلات المطار في بوخارست (Bucharest).",
+        "source": "https://www.gov.uk/foreign-travel-advice/romania/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للشرطة والإسعاف والإطفاء.",
+        "source": "https://www.gov.uk/foreign-travel-advice/romania/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ثلاثة أحياء أو مناطق لإقامة أولى",
+        "value": "ليبسكاني (Lipscani) للمشي في المركز التاريخي، وكوتروتشيني (Cotroceni) للمباني القديمة والشوارع الأهدأ، وهيراستراو (Herăstrău) للقرب من المنتزه والبحيرة.",
+        "source": "https://www.kiwi.com/stories/where-to-stay-in-bucharest/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مدن ومدد مقترحة لزيارة أولى",
+        "value": "بوخارست (Bucharest) يوم أول، وسينايا (Sinaia) يوم، وبراشوف (Brașov) يوم يشمل زارنيشت (Zărnești)، وسيغيشوارا (Sighișoara) يوم، ضمن مسار أسبوع.",
+        "source": "https://visitromania.ro/en/themed-routes/romania-7-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس يوحنا",
+        "value": "٢٠٢٦-٠١-٠٧",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-07",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم اتحاد الإمارات الرومانية",
+        "value": "٢٠٢٦-٠١-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-24",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-١٠",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-10",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٦-٠٤-١٢",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-12",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٦-٠٤-١٣",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-13",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العنصرة",
+        "value": "٢٠٢٦-٠٥-٣١",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-31",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الطفل",
+        "value": "٢٠٢٦-٠٦-٠١",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العنصرة",
+        "value": "٢٠٢٦-٠٦-٠١",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد رقاد السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس أندراوس",
+        "value": "٢٠٢٦-١١-٣٠",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-30",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني وذكرى الاتحاد الكبير",
+        "value": "٢٠٢٦-١٢-٠١",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-01",
+        "impact": "يفتح جناح القاعات التاريخية في المتحف الوطني للفنون (National Museum of Art of Romania) من الرابعة إلى الثامنة مساء، ويغلق باقي المتحف.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-02",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس يوحنا",
+        "value": "٢٠٢٧-٠١-٠٧",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-07",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم اتحاد الإمارات الرومانية",
+        "value": "٢٠٢٧-٠١-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-24",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٤-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-30",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٧-٠٥-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الطفل",
+        "value": "٢٠٢٧-٠٦-٠١",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-01",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العنصرة",
+        "value": "٢٠٢٧-٠٦-٢٠",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-20",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العنصرة",
+        "value": "٢٠٢٧-٠٦-٢١",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-21",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد رقاد السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس أندراوس",
+        "value": "٢٠٢٧-١١-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-30",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني وذكرى الاتحاد الكبير",
+        "value": "٢٠٢٧-١٢-٠١",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/RO/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تغلق صالات في المتحف الوطني للفنون الرومانية (National Museum of Art of Romania) في بوخارست (Bucharest). تحقّق من مواعيد الجناح المقصود.",
+        "impactSource": "https://mnar.arts.ro/viziteaza/1-program",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم مرتفع",
+        "value": "يتجمع الطلب بقوة في يوليو وأغسطس بالساحل الروماني، مقارنة بتوزع أوسع حول العاصمة.",
+        "source": "https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/111235.pdf?v=3675326240518733",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "زحمة على الساحل",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم مرتفع",
+        "value": "يتجمع الطلب بقوة في يوليو وأغسطس بالساحل الروماني، مقارنة بتوزع أوسع حول العاصمة.",
+        "source": "https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/111235.pdf?v=3675326240518733",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "زحمة على الساحل",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "يونيو أخف ازدحامًا من أغسطس عند كثير من الوجهات.",
+        "source": "https://romaniaatlas.com/guides/best-time-to-visit-romania/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 6,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدرسية",
+        "value": "عطلة الشتاء للمدارس في العام الدراسي 2026–2027.",
+        "source": "https://www.isj.tm.edu.ro/public/data_files/specializari/fisier-8034.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-23",
+        "end": "2027-01-10",
+        "impact": "عطلة مدرسية",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان سيبيو الدولي للمسرح",
+        "value": "سيبيو (Sibiu)، في يونيو.",
+        "source": "https://sibfest.ro/ro/intrebari-frecvente?info=faq",
+        "checked": "2026-11-27",
+        "month": 6,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

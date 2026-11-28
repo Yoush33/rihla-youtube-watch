@@ -1,0 +1,456 @@
+{
+  "code": "MX",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي",
+        "value": "تأشيرة مسبقة، مع إعفاءات منها بعض التأشيرات السارية للولايات المتحدة وكندا واليابان وبريطانيا ودول شنغن، أو الإقامة الدائمة المؤهلة. راجع شروط السفارة حسب وثيقتك.",
+        "source": "https://embamex.sre.gob.mx/arabiasaudita/index.php/es/visas",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة",
+        "value": "حتى 180 يوماً للسياحة. يحدد ضابط الهجرة المدة الفعلية المسموحة عند الدخول.",
+        "source": "https://www.mexico-impt.com/visa/saudi-arabia/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "56 دولاراً أمريكياً للتأشيرة العادية وفق جدول الرسوم القنصلية لعام 2026.",
+        "source": "https://consulmex.sre.gob.mx/kansascity/images/2026/ExtractoLFD2026.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "البيزو المكسيكي. ادفع بالبطاقة في المنشآت الكبيرة واحتفظ بالبيزو للأسواق.",
+        "source": "https://www.mexicotravelandleisure.com/blog/mexico-currency/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "الإكرامية معتادة في المطاعم التي تقدم خدمة على الطاولة.",
+        "source": "https://bluepassporttravel.com/mexico/money",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يومي اقتصادي",
+        "value": "نحو 180 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/mexico/trip-cost-MX",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يومي متوسط",
+        "value": "نحو 506 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/mexico/trip-cost-MX",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "تقدّم تلسيل شريحة إلكترونية مسبقة الدفع للسياح، وتُفوتر بالبيزو المكسيكي.",
+        "source": "https://www.telcel.com/travel-to-mexico/esim-english?hl=en-CA",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "تطبيق المدينة يضم خدمة مي تاكسي لطلب تاكسي مرخّص في مكسيكو سيتي (Mexico City).",
+        "source": "https://mexicocity.cdmx.gob.mx/e/getting-around/taxis-taxi-apps/?lang=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مثال لسعر باقة إلكترونية",
+        "value": "يورد منظّم الاتصالات باقة بيانات إلكترونية مسبقة الدفع بنحو 230 بيزو لمدة 30 يوماً.",
+        "source": "https://www.ift.org.mx/sites/default/files/contenidogeneral/estadisticas/omvs2025.pdf",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "سعر الشريحة الإلكترونية",
+        "value": "تبدأ باقات أيرالو من ٤ دولار أمريكي. يختلف السعر حسب حجم الباقة ومدتها.",
+        "source": "https://www.airalo.com/mexico-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "في مطار مكسيكو سيتي (Mexico City International Airport) اشتر تذكرة التاكسي المعتمد من المنضدة المخصصة.",
+        "source": "https://www.mexicocity.cdmx.gob.mx/e/getting-around/?lang=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "يمكن الانتقال بالحافلات بين المدن من محطات المسافات الطويلة في مكسيكو سيتي (Mexico City).",
+        "source": "https://www.aicm.com.mx/obligaciones/Archivos/MemoriaDocumentalAICM.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "توفر وزارة السياحة برنامج اعتماد للخدمات المناسبة للمسافرين المسلمين. اختر المنشآت المدرجة وتحقق من اللحوم.",
+        "source": "https://www.gob.mx/sectur/acciones-y-programas/14571",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "تاكو، تاماليس الملفوفة، ومولي بصلصة الفلفل. تختلف الحشوات والدهون بين المطابخ.",
+        "source": "https://embamex.sre.gob.mx/reinounido/images/stories/PDF/Meet_Mexico/15_meetmexico-mexicanfoodanddrink.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مسجد للصلاة",
+        "value": "يوجد مركز للجالية المسلمة في حي بولانكو (Polanco) في مكسيكو سيتي (Mexico City).",
+        "source": "https://ciesas.repositorioinstitucional.mx/jspui/bitstream/1015/1469/1/TE%20D.A.%202022%20Carlos%20Ariel%20Diaz%20Abad.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "اتبع تعليمات الأمن في المواقع السياحية والمباني الرسمية، وتجنّب المشاركة في المظاهرات السياسية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "تختلف المواعيد بين المتاجر المحلية والمراكز التجارية. تحقق من الفرع قبل الزيارة.",
+        "source": "https://www.mexperience.com/mexico-essentials/practical-information/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "مخاطر تهم الزائر",
+        "value": "تختلف المخاطر بين الولايات والطرق داخل الولاية. راجع الخريطة الرسمية لمسارك، خصوصاً في الولايات الحدودية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/mexico/regional-risks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "911 للطوارئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/mexico/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "احتيال أُبلغ عنه",
+        "value": "انتحل مجرمون صفة سائقي تاكسي لإجبار الزوار على سحب أموال. استخدم تاكسي المنضدة أو قناة حجز موثوقة.",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/mexico.html?pubDate=20250310",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "روما (Roma)",
+        "value": "مطاعم وشوارع قابلة للمشي.",
+        "source": "https://www.turismo.cdmx.gob.mx/storage/app/media/Estadisticas/Diagnosticos%20Turisticos%20Delegacionales/DELEGACION%20Gustavo%20A%20Madero%202015.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كونديسا (Condesa)",
+        "value": "حدائق ومقاهٍ وسكن وسط أحياء سكنية.",
+        "source": "https://www.turismo.cdmx.gob.mx/storage/app/media/Estadisticas/Diagnosticos%20Turisticos%20Delegacionales/DELEGACION%20Gustavo%20A%20Madero%202015.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "المركز التاريخي (Centro Histórico)",
+        "value": "للمتاحف والساحة المركزية في مكسيكو سيتي (Mexico City).",
+        "source": "https://www.turismo.cdmx.gob.mx/storage/app/media/Estadisticas/Diagnosticos%20Turisticos%20Delegacionales/DELEGACION%20Gustavo%20A%20Madero%202015.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار مقترح ومدة كل محطة",
+        "value": "مكسيكو سيتي (Mexico City) 4 أيام، أواخاكا (Oaxaca) 3 أيام، وبويرتو إسكونديدو (Puerto Escondido) 3 أيام.",
+        "source": "https://mexicotravelatlas.com/guides/mexico-10-day-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٦-٠٢-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-02",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "خميس العهد",
+        "value": "٢٠٢٦-٠٣-١٦",
+        "source": "https://date.nager.at/Calendar/2026/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-16",
+        "impact": "غير مؤكد",
+        "scope": "مناسبة دينية، ودوام المنشآت يختلف.",
+        "scopeSource": "https://www.gob.mx/profedet/articulos/la-semana-santa-tiene-dias-de-descanso-obligatorio",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد بينيتو خواريز",
+        "value": "٢٠٢٦-٠٤-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-02",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "غير مؤكد",
+        "scope": "مناسبة دينية، ودوام المنشآت يختلف.",
+        "scopeSource": "https://www.gob.mx/profedet/articulos/la-semana-santa-tiene-dias-de-descanso-obligatorio",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٩-١٦",
+        "source": "https://date.nager.at/Calendar/2026/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-16",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الثورة",
+        "value": "٢٠٢٦-١١-١٦",
+        "source": "https://date.nager.at/Calendar/2026/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-16",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "٢٠٢٧-٠٢-٠١",
+        "source": "https://date.nager.at/Calendar/2027/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-01",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "خميس العهد",
+        "value": "٢٠٢٧-٠٣-١٥",
+        "source": "https://date.nager.at/Calendar/2027/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-15",
+        "impact": "غير مؤكد",
+        "scope": "مناسبة دينية، ودوام المنشآت يختلف.",
+        "scopeSource": "https://www.gob.mx/profedet/articulos/la-semana-santa-tiene-dias-de-descanso-obligatorio",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد بينيتو خواريز",
+        "value": "٢٠٢٧-٠٣-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-25",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "غير مؤكد",
+        "scope": "مناسبة دينية، ودوام المنشآت يختلف.",
+        "scopeSource": "https://www.gob.mx/profedet/articulos/la-semana-santa-tiene-dias-de-descanso-obligatorio",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٤-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-30",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٩-١٦",
+        "source": "https://date.nager.at/Calendar/2027/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-16",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الثورة",
+        "value": "٢٠٢٧-١١-١٥",
+        "source": "https://date.nager.at/Calendar/2027/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-15",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/MX/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "يوم راحة إلزامية في قانون العمل المكسيكي. راجع مواعيد الخدمة إذا احتجت معاملة.",
+        "impactSource": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026?idiom=es",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم الذروة",
+        "value": "يكثر السفر العائلي الداخلي إلى المنتجعات الساحلية.",
+        "source": "https://www.frommers.com/destinations/mexico/planning-a-trip/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "يكثر السفر العائلي الداخلي إلى المنتجعات الساحلية.",
+        "source": "https://www.frommers.com/destinations/mexico/planning-a-trip/",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس الشتوية",
+        "value": "إجازة مدرسية بحسب تقويم الجهة المذكورة.",
+        "source": "https://www.gob.mx/sep/prensa/boletin-235-publica-sep-calendario-escolar-2026-2027-para-educacion-basica-y-normal?idiom=es-MX",
+        "checked": "2026-11-27",
+        "date": "2026-12-21",
+        "end": "2027-01-05",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس الربيعية",
+        "value": "إجازة مدرسية بحسب تقويم الجهة المذكورة.",
+        "source": "https://www.gob.mx/sep/prensa/boletin-235-publica-sep-calendario-escolar-2026-2027-para-educacion-basica-y-normal?idiom=es-MX",
+        "checked": "2026-11-27",
+        "date": "2027-03-22",
+        "end": "2027-04-02",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "خارج ذروة الشتاء والربيع، ويمكن أن تنخفض أسعار الإقامة في المنتجعات.",
+        "source": "https://www.frommers.com/destinations/mexico/planning-a-trip/",
+        "checked": "2026-11-27",
+        "month": 5,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "خارج ذروة الشتاء وعطلة الصيف الداخلية.",
+        "source": "https://www.frommers.com/destinations/mexico/planning-a-trip/",
+        "checked": "2026-11-27",
+        "month": 10,
+        "peak": false,
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "يوم الموتى",
+        "value": "عروض وموائد تذكارية في مكسيكو سيتي (Mexico City) أواخر أكتوبر وأوائل نوفمبر.",
+        "source": "https://mexicocity.cdmx.gob.mx/e/dia-de-muertos-en-la-ciudad-de-mexico/?lang=en",
+        "checked": "2026-11-27",
+        "month": 11,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

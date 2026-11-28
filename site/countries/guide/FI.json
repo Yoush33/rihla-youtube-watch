@@ -1,0 +1,584 @@
+{
+  "code": "FI",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "تلزم تأشيرة شنغن قصيرة الإقامة للسائح حامل الجواز العادي.",
+        "source": "https://home-affairs.ec.europa.eu/document/download/a2378226-f392-42d0-9984-e023db53d140_en?filename=regulation-2018-1806.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "حتى 90 يوماً في أي 180 يوماً ضمن دول شنغن مجتمعة، وبحدود الأيام في التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم طلب البالغ",
+        "value": "90 يورو، وقد تضاف رسوم مركز الخدمة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "اليورو",
+        "source": "https://um.fi/atcm45/practical-information",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "تقبل البطاقات والدفع اللاتلامسي على نطاق واسع.",
+        "source": "https://www.visitfinland.com/en/practical-tips/currency-tipping-and-paying-in-finland/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "لا يُتوقع بقشيش عادة؛ يمكن تركه اختيارياً.",
+        "source": "https://www.visitfinland.com/en/practical-tips/currency-tipping-and-paying-in-finland/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 322 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/Finland",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 772 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/Finland",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/finland-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "تطبيق «إتش إس إل» لشراء التذاكر وتخطيط مسارات هلسنكي (Helsinki) وضواحيها.",
+        "source": "https://www.hsl.fi/en/tickets-and-fares/hsl-app",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "يربط قطارا «آي» و«بي» مطار هلسنكي (Helsinki Airport) بوسط المدينة، وتتوفر الحافلة 600 أيضاً.",
+        "source": "https://www.hsl.fi/en/travelling/visitors/airport-train",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "يمكن الجمع بين قطارات المسافات الطويلة والحافلات للوصول إلى المدن والبلدات الأصغر.",
+        "source": "https://www.matkahuolto.fi/passengers/travel/travel-in-finland-with-public-transport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "توجد مطاعم تعلن الحلال في هلسنكي (Helsinki). تحقق من المكونات في المتاجر والمقاهي الأخرى.",
+        "source": "https://www.gohalaltravel.com/destinations/helsinki",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد دار الأمان (Darul Aaman Masjid) في هلسنكي (Helsinki).",
+        "source": "https://damic.fi/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "فطيرة كاريليا، شوربة السلمون، ولفافة القرفة كورفابوستي.",
+        "source": "https://www.turismofinlandia.com/en/food-in-finland",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "يطلب دير فالامو (Valamo Monastery) تغطية الكتفين والركبتين أثناء الزيارة.",
+        "source": "https://valamo.fi/en/visits/customs-and-dress",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "احترم قيود إشعال النار في الهواء الطلق عند إعلان تحذير من الحرائق.",
+        "source": "https://www.gov.uk/foreign-travel-advice/finland/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "تحدد المتاجر ساعات عملها، ويمكن التسوق الأحد. أوقات الأعياد أقصر في بعض الفروع.",
+        "source": "https://suomiguide.fi/en/faq/city-essentials/are-shops-open-on-sundays-in-finland/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "في الشمال راجع تنبيهات الطقس وظروف الجليد قبل التحرك بعيداً عن التجمعات.",
+        "source": "https://www.gov.uk/foreign-travel-advice/finland/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "احفظ المتعلقات في أماكن الزحام ومحطات النقل.",
+        "source": "https://www.gov.uk/foreign-travel-advice/finland/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 112.",
+        "source": "https://www.gov.uk/foreign-travel-advice/finland/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "كلووڤي (Kluuvi)",
+        "value": "لقرب محطة القطار والمعالم المركزية.",
+        "source": "https://www.reasonstay.com/en/helsinki/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كامبي (Kamppi)",
+        "value": "لمحطة الحافلات والتسوق.",
+        "source": "https://www.reasonstay.com/en/helsinki/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "بونافووري (Punavuori)",
+        "value": "للتصميم والمقاهي.",
+        "source": "https://www.reasonstay.com/en/helsinki/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "هلسنكي (Helsinki)",
+        "value": "توزيع مقترح للزيارة: 2–3 أيام.",
+        "source": "https://touristsinsider.com/europe/finland/7-days-in-finland-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "توركو (Turku)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://touristsinsider.com/europe/finland/7-days-in-finland-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "تامبيري (Tampere)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://touristsinsider.com/europe/finland/7-days-in-finland-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد فابو وعيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "مسيرات واحتفالات طلابية وخطب في الساحات الرئيسية بالمدن.",
+        "impactSource": "https://www.visitfinland.com/en/articles/traditional-finnish-celebrations-and-parties/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٦-٠٥-١٤",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-14",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية منتصف الصيف",
+        "value": "٢٠٢٦-٠٦-١٩",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-19",
+        "impact": "يتجه كثير من السكان إلى الأكواخ وتتباطأ الأنشطة في المدن؛ تحقّق من أوقات الخدمات.",
+        "impactSource": "https://www.visitfinland.com/en/articles/traditional-finnish-celebrations-and-parties/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم منتصف الصيف",
+        "value": "٢٠٢٦-٠٦-٢٠",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-20",
+        "impact": "يتجه كثير من السكان إلى الأكواخ وتتباطأ الأنشطة في المدن؛ تحقّق من أوقات الخدمات.",
+        "impactSource": "https://www.visitfinland.com/en/articles/traditional-finnish-celebrations-and-parties/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١٠-٣١",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-31",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-١٢-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-06",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد فابو وعيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "مسيرات واحتفالات طلابية وخطب في الساحات الرئيسية بالمدن.",
+        "impactSource": "https://www.visitfinland.com/en/articles/traditional-finnish-celebrations-and-parties/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٧-٠٥-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العنصرة",
+        "value": "٢٠٢٧-٠٥-١٦",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية منتصف الصيف",
+        "value": "٢٠٢٧-٠٦-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-25",
+        "impact": "يتجه كثير من السكان إلى الأكواخ وتتباطأ الأنشطة في المدن؛ تحقّق من أوقات الخدمات.",
+        "impactSource": "https://www.visitfinland.com/en/articles/traditional-finnish-celebrations-and-parties/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم منتصف الصيف",
+        "value": "٢٠٢٧-٠٦-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-26",
+        "impact": "يتجه كثير من السكان إلى الأكواخ وتتباطأ الأنشطة في المدن؛ تحقّق من أوقات الخدمات.",
+        "impactSource": "https://www.visitfinland.com/en/articles/traditional-finnish-celebrations-and-parties/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-06",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-١٢-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-06",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/FI/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "قد تتغير مواعيد الجهات العامة والمتاجر والخدمات في العطلة؛ يحدد كل متجر مواعيده.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-finland",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الميلاد في هلسنكي (Helsinki)",
+        "value": "إجازة مدرسية من 2026-12-21 إلى 2027-01-06 شاملة الطرفين.",
+        "source": "https://www.hel.fi/en/childhood-and-education/school-term-dates-and-holidays",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-21",
+        "end": "2027-01-06",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تجذب أعياد ديسمبر زوار لابلاند (Lapland)، ويزيد الإقبال على البحيرات والأنشطة الخارجية صيفاً.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-finland",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "خارج عطلة الميلاد وموسم الصيف يختلف الهدوء حسب المنطقة والطقس.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-finland",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم لابلاند في ديسمبر",
+        "value": "يزداد الإقبال على لابلاند (Lapland) حول الميلاد.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-finland",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 12,
+        "impact": "يزداد الإقبال على لابلاند (Lapland) حول الميلاد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأكواخ الصيفية المطلة على البحيرات",
+        "value": "يزداد الطلب على الأكواخ، ومنها أكواخ بحيرة سايما (Lake Saimaa)، خلال إجازات المدارس في يونيو ويوليو.",
+        "source": "https://www.visitfinland.com/en/articles/guide-to-a-cottage-holiday-in-finland/",
+        "checked": "2026-11-27",
+        "month": 6,
+        "peak": true,
+        "impact": "ارتفاع الطلب على الأكواخ",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأكواخ الصيفية المطلة على البحيرات",
+        "value": "يزداد الطلب على الأكواخ، ومنها أكواخ بحيرة سايما (Lake Saimaa)، خلال إجازات المدارس في يونيو ويوليو.",
+        "source": "https://www.visitfinland.com/en/articles/guide-to-a-cottage-holiday-in-finland/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "ارتفاع الطلب على الأكواخ",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان هلسنكي",
+        "value": "هلسنكي (Helsinki)، أغسطس، للفنون والموسيقى والعروض المسرحية.",
+        "source": "https://helsinkifestival.fi/en/",
+        "checked": "2026-11-27",
+        "month": 8,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

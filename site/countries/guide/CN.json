@@ -1,0 +1,423 @@
+{
+  "code": "CN",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "يسري الإعفاء المعلن لحامل الجواز العادي للسياحة حتى نهاية 31 ديسمبر 2026.",
+        "source": "https://sa.china-embassy.gov.cn/eng/gdxw/202511/t20251104_11746345.htm",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "حتى 30 يوماً للزيارة ضمن أغراض الإعفاء.",
+        "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم التأشيرة",
+        "value": "صفر للزيارة المشمولة بالإعفاء.",
+        "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "استمرار الإعفاء في 2027",
+        "value": "غير مؤكد",
+        "source": "https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/202611/t20261117_12061159.html",
+        "checked": "2026-11-27",
+        "status": "uncertain"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "اليوان الصيني «الرنمينبي»",
+        "source": "https://www.bundesbank.de/resource/blob/710190/2df8b7d11fede7eb7ec63b1fd9ee86ec/472B63F073F071307366337C94F8C870/metadaten-en-data.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "تقبل متاجر وفنادق البطاقات الدولية، وتفيد تطبيقات الدفع بالهاتف في المشتريات اليومية.",
+        "source": "https://files.sciconf.cn/medcon/2024/06/20240627/2024062709071748710362195.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "الإكرامية غير معتادة في معظم المطاعم.",
+        "source": "https://files.sciconf.cn/medcon/2024/06/20240627/2024062709071748710362195.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 150 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/china/",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 379 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/china/",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/china-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«ديدي» لحجز سيارة في بكين (Beijing)، وتتوفر واجهة باللغة الإنجليزية.",
+        "source": "https://english.beijing.gov.cn/latest/specials/essentialtipsfornewarrivals/transportation/202408/t20240830_3785706.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "من مطار بكين العاصمة (Beijing Capital) استخدم قطار المطار السريع أو الحافلة، وتحقق من رقم المطار عند الحجز.",
+        "source": "https://english.beijing.gov.cn/specials/beijingservice/pek/trafficsix/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "احجز عبر نظام السكك الصينية «12306» ببيانات جوازك كما هي عند شراء تذكرة القطار.",
+        "source": "https://english.www.gov.cn/AssetsZi/Foreign_Investment_Guide_of_the_People%27s_Republic_of_China_2024.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "تتوفر مطاعم للمسلمين حول شارع نيوجيه (Niujie). ابحث عن علامة «تشينغ تشن» واسأل عن المكونات.",
+        "source": "https://www.beijingtourism.org/beijing-for-muslim-travelers/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد نيوجيه (Niujie Mosque) في بكين (Beijing).",
+        "source": "https://www.beijingtourism.org/beijing-for-muslim-travelers/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "بط بكين، زلابية جياوزي، ونودلز محلية. اطلب النسخة الحلال وتحقق من الحشوة والمرق.",
+        "source": "https://english.beijing.gov.cn/beijinginfo/culture/202005/t20200525_1908295.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "في معابد بكين (Beijing) غطِّ الكتفين والركبتين.",
+        "source": "https://www.beijingtourism.org/temple-etiquette-beijing/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "تجنب تصوير المنشآت العسكرية والمناطق التي تمنع تصويرها اللافتات أو السلطات.",
+        "source": "https://www.gov.uk/foreign-travel-advice/china/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "تعمل متاجر في مراكز كبرى ببكين (Beijing) نحو 10 صباحاً إلى 10 مساءً يومياً. الساعات تختلف حسب الموقع.",
+        "source": "https://english.beijing.gov.cn/latest/news/202505/t20250504_4080348.html?v=jt",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "ابتعد عن التجمعات السياسية وتحقق من قيود الدخول إلى المناطق التي تتطلب تصريحاً.",
+        "source": "https://www.gov.uk/foreign-travel-advice/china/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "احذر دعوات الغرباء إلى بيوت شاي أو جلسات تذوق تنتهي بفواتير باهظة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/china/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة 110، والإسعاف 120.",
+        "source": "https://www.gov.uk/foreign-travel-advice/china/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "شيتشاهاي (Shichahai)",
+        "value": "لقنوات المياه والأزقة التاريخية.",
+        "source": "https://wherestayguide.com/beijing/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "وانغفوجينغ (Wangfujing)",
+        "value": "للتسوق وقرب المعالم المركزية.",
+        "source": "https://wherestayguide.com/beijing/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "تشينمن (Qianmen)",
+        "value": "لشوارع المشاة وقرب ساحة تيانانمن.",
+        "source": "https://wherestayguide.com/beijing/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "بكين (Beijing)",
+        "value": "توزيع مقترح للزيارة: 3–4 أيام.",
+        "source": "https://www.easytripinchina.com/itineraries/10-days-beijing-shanghai-xian",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "شنغهاي (Shanghai)",
+        "value": "توزيع مقترح للزيارة: 3 أيام.",
+        "source": "https://www.easytripinchina.com/itineraries/10-days-beijing-shanghai-xian",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "شيآن (Xi’an)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://www.easytripinchina.com/itineraries/10-days-beijing-shanghai-xian",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١ إلى ٢٠٢٦-٠١-٠٣",
+        "source": "https://en.bjhd.gov.cn/workinginhaidian/supportingservices/publicholidays/202512/t20251211_4797062.shtml",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "غير مؤكد",
+        "end": "2026-01-03",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة عيد الربيع ورأس السنة الصينية",
+        "value": "٢٠٢٦-٠٢-١٥ إلى ٢٠٢٦-٠٢-٢٣",
+        "source": "https://en.bjhd.gov.cn/workinginhaidian/supportingservices/publicholidays/202512/t20251211_4797062.shtml",
+        "checked": "2026-11-27",
+        "date": "2026-02-15",
+        "impact": "من مواسم الذروة في التنقلات الداخلية؛ يشتد الطلب على الرحلات.",
+        "end": "2026-02-23",
+        "impactSource": "https://english.www.gov.cn/news/202602/22/content_WS699a5258c6d00ca5f9a09330.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الربيع ورأس السنة الصينية",
+        "value": "٢٠٢٦-٠٢-١٧",
+        "source": "https://en.bjhd.gov.cn/workinginhaidian/supportingservices/publicholidays/202512/t20251211_4797062.shtml",
+        "checked": "2026-11-27",
+        "date": "2026-02-17",
+        "impact": "من مواسم الذروة في التنقلات الداخلية؛ يشتد الطلب على الرحلات.",
+        "impactSource": "https://english.www.gov.cn/news/202602/22/content_WS699a5258c6d00ca5f9a09330.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مهرجان تشينغمينغ لزيارة القبور",
+        "value": "٢٠٢٦-٠٤-٠٤ إلى ٢٠٢٦-٠٤-٠٦",
+        "source": "https://en.bjhd.gov.cn/workinginhaidian/supportingservices/publicholidays/202512/t20251211_4797062.shtml",
+        "checked": "2026-11-27",
+        "date": "2026-04-04",
+        "impact": "غير مؤكد",
+        "end": "2026-04-06",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١ إلى ٢٠٢٦-٠٥-٠٥",
+        "source": "https://en.bjhd.gov.cn/workinginhaidian/supportingservices/publicholidays/202512/t20251211_4797062.shtml",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "غير مؤكد",
+        "end": "2026-05-05",
+        "status": "confirmed"
+      },
+      {
+        "label": "مهرجان قوارب التنين",
+        "value": "٢٠٢٦-٠٦-١٩ إلى ٢٠٢٦-٠٦-٢١",
+        "source": "https://en.bjhd.gov.cn/workinginhaidian/supportingservices/publicholidays/202512/t20251211_4797062.shtml",
+        "checked": "2026-11-27",
+        "date": "2026-06-19",
+        "impact": "غير مؤكد",
+        "end": "2026-06-21",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد منتصف الخريف",
+        "value": "٢٠٢٦-٠٩-٢٥ إلى ٢٠٢٦-٠٩-٢٧",
+        "source": "https://en.bjhd.gov.cn/workinginhaidian/supportingservices/publicholidays/202512/t20251211_4797062.shtml",
+        "checked": "2026-11-27",
+        "date": "2026-09-25",
+        "impact": "غير مؤكد",
+        "end": "2026-09-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني",
+        "value": "٢٠٢٦-١٠-٠١ إلى ٢٠٢٦-١٠-٠٧",
+        "source": "https://en.bjhd.gov.cn/workinginhaidian/supportingservices/publicholidays/202512/t20251211_4797062.shtml",
+        "checked": "2026-11-27",
+        "date": "2026-10-01",
+        "impact": "زحمة سياحية في عطلة اليوم الوطني الممتدة عدة أيام؛ راجع توافر النقل والسكن.",
+        "impactSource": "https://english.www.gov.cn/archive/statistics/202610/05/content_WS6ac31222c6d00ca5f9a0d911.html",
+        "end": "2026-10-07",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١ إلى ٢٠٢٧-٠١-٠٣",
+        "source": "https://english.www.gov.cn/policies/latestreleases/202611/06/content_WS6aed74dcc6d00ca5f9a0e22e.html",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "غير مؤكد",
+        "end": "2027-01-03",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة عيد الربيع ورأس السنة الصينية",
+        "value": "٢٠٢٧-٠٢-٠٥ إلى ٢٠٢٧-٠٢-١٣",
+        "source": "https://english.www.gov.cn/policies/latestreleases/202611/06/content_WS6aed74dcc6d00ca5f9a0e22e.html",
+        "checked": "2026-11-27",
+        "date": "2027-02-05",
+        "impact": "يزداد الطلب على النقل الداخلي في موسم عيد الربيع.",
+        "end": "2027-02-13",
+        "impactSource": "https://english.www.gov.cn/news/202602/22/content_WS699a5258c6d00ca5f9a09330.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الربيع ورأس السنة الصينية",
+        "value": "٢٠٢٧-٠٢-٠٦",
+        "source": "https://english.www.gov.cn/policies/latestreleases/202611/06/content_WS6aed74dcc6d00ca5f9a0e22e.html",
+        "checked": "2026-11-27",
+        "date": "2027-02-06",
+        "impact": "من مواسم الذروة في التنقلات الداخلية؛ يشتد الطلب على الرحلات.",
+        "impactSource": "https://english.www.gov.cn/news/202602/22/content_WS699a5258c6d00ca5f9a09330.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مهرجان تشينغمينغ لزيارة القبور",
+        "value": "٢٠٢٧-٠٤-٠٣ إلى ٢٠٢٧-٠٤-٠٥",
+        "source": "https://english.www.gov.cn/policies/latestreleases/202611/06/content_WS6aed74dcc6d00ca5f9a0e22e.html",
+        "checked": "2026-11-27",
+        "date": "2027-04-03",
+        "impact": "غير مؤكد",
+        "end": "2027-04-05",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١ إلى ٢٠٢٧-٠٥-٠٥",
+        "source": "https://english.www.gov.cn/policies/latestreleases/202611/06/content_WS6aed74dcc6d00ca5f9a0e22e.html",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "غير مؤكد",
+        "end": "2027-05-05",
+        "status": "confirmed"
+      },
+      {
+        "label": "مهرجان قوارب التنين",
+        "value": "٢٠٢٧-٠٦-٠٩",
+        "source": "https://english.www.gov.cn/policies/latestreleases/202611/06/content_WS6aed74dcc6d00ca5f9a0e22e.html",
+        "checked": "2026-11-27",
+        "date": "2027-06-09",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد منتصف الخريف",
+        "value": "٢٠٢٧-٠٩-١٥",
+        "source": "https://english.www.gov.cn/policies/latestreleases/202611/06/content_WS6aed74dcc6d00ca5f9a0e22e.html",
+        "checked": "2026-11-27",
+        "date": "2027-09-15",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني",
+        "value": "٢٠٢٧-١٠-٠١ إلى ٢٠٢٧-١٠-٠٧",
+        "source": "https://english.www.gov.cn/policies/latestreleases/202611/06/content_WS6aed74dcc6d00ca5f9a0e22e.html",
+        "checked": "2026-11-27",
+        "date": "2027-10-01",
+        "impact": "زحمة سياحية في عطلة اليوم الوطني الممتدة عدة أيام؛ راجع توافر النقل والسكن.",
+        "impactSource": "https://english.www.gov.cn/archive/statistics/202610/05/content_WS6ac31222c6d00ca5f9a0d911.html",
+        "end": "2027-10-07",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الشتاء للتعليم الإلزامي في بكين (Beijing)",
+        "value": "إجازة مدرسية من 2027-01-18 إلى 2027-02-21 شاملة الطرفين.",
+        "source": "https://jw.beijing.gov.cn/xxgk/2024zcwj/2024qtwj/202604/t20260417_4588623.html",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2027-01-18",
+        "end": "2027-02-21",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تزداد حركة القطارات والزيارة الداخلية في عطلة السنة القمرية وعطلة العيد الوطني في أكتوبر.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-china",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "اختر أيام الأسبوع خارج العطل الوطنية للسفر بين المدن.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-china",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان هاربين الدولي للجليد والثلج",
+        "value": "هاربين (Harbin)، يناير، عروض منحوتات وفعاليات شتوية.",
+        "source": "https://english.www.gov.cn/news/videos/202301/06/content_WS63b7e0aac6d0a757729e52fb.html",
+        "checked": "2026-11-27",
+        "month": 1,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

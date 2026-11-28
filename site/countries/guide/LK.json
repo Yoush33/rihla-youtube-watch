@@ -1,0 +1,800 @@
+{
+  "code": "LK",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "يطلب السعودي تصريح السفر الإلكتروني السياحي قبل الوصول.",
+        "source": "https://www.emb-riyadh.gov.lk/en/tourist-visa",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "30 يومًا مع إمكانية دخولين خلال المدة.",
+        "source": "https://www.emb-riyadh.gov.lk/en/tourist-visa",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "مجاني للمواطن السعودي ضمن برنامج الجنسيات المشمولة.",
+        "source": "https://www.emb-riyadh.gov.lk/en/tourist-visa",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "تقبل الفنادق ومطاعم المدن البطاقات، وغالبًا تحتاج النقد للأسواق والتوك توك.",
+        "source": "https://travelguides.lk/essentials/news/2026-01-08-cash-cards",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "الروبية السريلانكية",
+        "source": "https://www.srilanka.travel/travel-tips",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "الإضافة فوق رسم الخدمة اختيارية.",
+        "source": "https://exploresrilanka.lk/visitors-information/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 75 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/sri-lanka",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 210 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/sri-lanka",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "إيرالو، 1 غيغابايت لمدة 7 أيام بنحو 17 ريالًا.",
+        "source": "https://www.airalo.com/sri-lanka-esim/ella-7days-1gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "إل إم تي غو (LMT-GO) لمتابعة الحافلات.",
+        "source": "https://apps.apple.com/us/app/lmt-go/id6761980523",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "من مطار باندارانايكا (Bandaranaike) تتوفر الحافلات وسيارات الأجرة إلى كولومبو (Colombo).",
+        "source": "https://lankan.lk/travel/essentials/colombo-airport-to-city",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "تتوفر قطارات بين مدن منها كولومبو (Colombo) وكاندي (Kandy).",
+        "source": "https://railway.gov.lk/web/images/pdf/railway_toursim_sri_lanka.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "توجد مطاعم حلال في كولومبو (Colombo).",
+        "source": "https://www.travelhalal.com/cities/colombo/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "مسجد جامع الألفر (Jami Ul-Alfar) في حي بيتّاه (Pettah) في كولومبو (Colombo).",
+        "source": "https://walksrilanka.com/travel-guide/pettah-market-and-red-mosque-colombo-guide/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "هوبرز (فطائر أرز)، كوتو روتي، وأرز بالحليب.",
+        "source": "https://srilankatour.travel/guides/sri-lanka-food",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "غطّ الركبتين والكتفين وانزع الحذاء قبل دخول المعابد.",
+        "source": "https://www.lonelyplanet.com/articles/things-to-know-before-traveling-to-sri-lanka",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "يغلق مركز ون غال فيس (One Galle Face Mall) في كولومبو (Colombo) الساعة 10 مساءً بحسب دليل المركز المحلي.",
+        "source": "https://galleface.org/things-to-do/one-galle-face-mall/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "119 للشرطة و1990 للإسعاف.",
+        "source": "https://www.gov.uk/foreign-travel-advice/sri-lanka/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "تجنب الأزقة والشواطئ غير المضاءة والمنعزلة ليلًا.",
+        "source": "https://www.smartraveller.gov.au/destinations/asia/sri-lanka",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "انتبه لخطف الحقائب والنشل في المناطق المزدحمة.",
+        "source": "https://www.smartraveller.gov.au/destinations/asia/sri-lanka",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "فورت (Fort)",
+        "value": "للعمارة ومحطة القطار",
+        "source": "https://srilankafrontier.com/destinations/colombo/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "غال فيس (Galle Face)",
+        "value": "للواجهة البحرية",
+        "source": "https://srilankafrontier.com/destinations/colombo/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ماونت لافينيا (Mount Lavinia)",
+        "value": "للشاطئ خارج المركز",
+        "source": "https://srilankafrontier.com/destinations/colombo/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "كولومبو (Colombo)",
+        "value": "نقترح يومًا واحدًا عند توزيع وقت الرحلة.",
+        "source": "https://lankan.lk/travel/itineraries/three-days-colombo-and-kandy",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كاندي (Kandy)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://lankan.lk/travel/itineraries/three-days-colombo-and-kandy",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "غالي (Galle)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.srilanka.travel/suggested-itineraries",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "بدر بويا • دوروثو",
+        "value": "2026-01-03. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-01-03",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد بونغال التاميلي",
+        "value": "2026-01-15. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-01-15",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • نافام",
+        "value": "2026-02-01. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-02-01",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "2026-02-04. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-02-04",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ليلة مها شيفاراتري",
+        "value": "2026-02-15. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-02-15",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • ميدين",
+        "value": "2026-03-02. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-03-02",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "2026-03-21 تقريبًا، يعتمد على رؤية الهلال. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-03-21",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "uncertain"
+      },
+      {
+        "label": "بدر بويا • باك",
+        "value": "2026-04-01. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-04-01",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "2026-04-03. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية السنة السنهالية والتاميلية",
+        "value": "2026-04-13. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-04-13",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة السنهالية والتاميلية",
+        "value": "2026-04-14. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-04-14",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • فيساك",
+        "value": "2026-05-01. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "2026-05-01. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم التالي لعيد فيساك",
+        "value": "2026-05-02. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-05-02",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "2026-05-28 تقريبًا، يعتمد على رؤية الهلال. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-05-28",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "uncertain"
+      },
+      {
+        "label": "بدر بويا • أدهي بوسون",
+        "value": "2026-05-30. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-05-30",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • بوسون",
+        "value": "2026-06-29. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-06-29",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • إيسالا",
+        "value": "2026-07-29. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-07-29",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "2026-08-26 تقريبًا، يعتمد على رؤية الهلال. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-08-26",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "uncertain"
+      },
+      {
+        "label": "بدر بويا • نيكيني",
+        "value": "2026-08-27. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-08-27",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • بينارا",
+        "value": "2026-09-26. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-09-26",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • فاب",
+        "value": "2026-10-25. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-10-25",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ديوالي",
+        "value": "2026-11-08. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-11-08",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • إيل",
+        "value": "2026-11-24. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-11-24",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • أوندوفاب",
+        "value": "2026-12-23. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-12-23",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "2026-12-25. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/node/19362",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد بونغال التاميلي",
+        "value": "2027-01-15. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-01-15",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • دوروثو",
+        "value": "2027-01-22. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-01-22",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "2027-02-04. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-02-04",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • نافام",
+        "value": "2027-02-20. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-02-20",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ليلة مها شيفاراتري",
+        "value": "2027-03-06. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-03-06",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "2027-03-10 تقريبًا، يعتمد على رؤية الهلال. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-03-10",
+        "impact": "عطلة عامة ومصرفية.",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "بدر بويا • ميدين",
+        "value": "2027-03-22. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-03-22",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "2027-03-26. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية السنة السنهالية والتاميلية",
+        "value": "2027-04-13. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-04-13",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة السنهالية والتاميلية",
+        "value": "2027-04-14. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-04-14",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • باك",
+        "value": "2027-04-20. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-04-20",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "2027-05-01. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "2027-05-17 تقريبًا، يعتمد على رؤية الهلال. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "عطلة عامة ومصرفية.",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "بدر بويا • فيساك",
+        "value": "2027-05-19. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-05-19",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم التالي لعيد فيساك",
+        "value": "2027-05-20. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-05-20",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • بوسون",
+        "value": "2027-06-18. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-06-18",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • إيسالا",
+        "value": "2027-07-18. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-07-18",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "2027-08-15 تقريبًا، يعتمد على رؤية الهلال. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "بدر بويا • نيكيني",
+        "value": "2027-08-16. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-08-16",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • بينارا",
+        "value": "2027-09-15. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-09-15",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • فاب",
+        "value": "2027-10-15. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-10-15",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ديوالي",
+        "value": "2027-10-28. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-10-28",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • إيل",
+        "value": "2027-11-13. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-11-13",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بدر بويا • أوندوفاب",
+        "value": "2027-12-13. عطلة عامة ومصرفية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-12-13",
+        "impact": "عطلة عامة ومصرفية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "2027-12-25. عطلة عامة ومصرفية وتجارية.",
+        "source": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "عطلة عامة ومصرفية وتجارية.",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الموسم والوقت الأهدأ",
+        "value": "مايو إلى أغسطس موسم أسعار أقل في بعض الوجهات. يختلف موسم الشواطئ بين الساحلين.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-sri-lanka",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة أبريل في المدارس السنهالية والتاميلية والإسلامية",
+        "value": "من 2026-04-11 إلى 2026-04-19 حسب التقويم المدرسي.",
+        "source": "https://adaderana.lk/news/112457?nid=112457",
+        "checked": "2026-11-27",
+        "date": "2026-04-11",
+        "end": "2026-04-19",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة المدارس السنهالية والتاميلية بين مرحلتي الفصل الثالث",
+        "value": "من 2026-08-08 إلى 2026-09-06 حسب التقويم المدرسي.",
+        "source": "https://adaderana.lk/news/112457?nid=112457",
+        "checked": "2026-11-27",
+        "date": "2026-08-08",
+        "end": "2026-09-06",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم فنادق الساحلين الجنوبي والغربي",
+        "value": "من ديسمبر إلى مارس يبلغ الإقبال على الفنادق في الجنوب والغرب ذروته، بالتناوب مع الساحل الشرقي.",
+        "source": "https://www.yatours.com/sri-lanka-hotel-booking",
+        "checked": "2026-11-27",
+        "month": 12,
+        "peak": true,
+        "impact": "ارتفاع الطلب على فنادق الجنوب والغرب",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم فنادق الساحلين الجنوبي والغربي",
+        "value": "من ديسمبر إلى مارس يبلغ الإقبال على الفنادق في الجنوب والغرب ذروته، بالتناوب مع الساحل الشرقي.",
+        "source": "https://www.yatours.com/sri-lanka-hotel-booking",
+        "checked": "2026-11-27",
+        "month": 1,
+        "peak": true,
+        "impact": "ارتفاع الطلب على فنادق الجنوب والغرب",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم فنادق الساحلين الجنوبي والغربي",
+        "value": "من ديسمبر إلى مارس يبلغ الإقبال على الفنادق في الجنوب والغرب ذروته، بالتناوب مع الساحل الشرقي.",
+        "source": "https://www.yatours.com/sri-lanka-hotel-booking",
+        "checked": "2026-11-27",
+        "month": 2,
+        "peak": true,
+        "impact": "ارتفاع الطلب على فنادق الجنوب والغرب",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم فنادق الساحلين الجنوبي والغربي",
+        "value": "من ديسمبر إلى مارس يبلغ الإقبال على الفنادق في الجنوب والغرب ذروته، بالتناوب مع الساحل الشرقي.",
+        "source": "https://www.yatours.com/sri-lanka-hotel-booking",
+        "checked": "2026-11-27",
+        "month": 3,
+        "peak": true,
+        "impact": "ارتفاع الطلب على فنادق الجنوب والغرب",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم فنادق الساحل الشرقي",
+        "value": "من مايو إلى سبتمبر يبلغ الإقبال على فنادق الساحل الشرقي ذروته.",
+        "source": "https://www.yatours.com/sri-lanka-hotel-booking",
+        "checked": "2026-11-27",
+        "month": 5,
+        "peak": true,
+        "impact": "ارتفاع الطلب على فنادق الشرق",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم فنادق الساحل الشرقي",
+        "value": "من مايو إلى سبتمبر يبلغ الإقبال على فنادق الساحل الشرقي ذروته.",
+        "source": "https://www.yatours.com/sri-lanka-hotel-booking",
+        "checked": "2026-11-27",
+        "month": 6,
+        "peak": true,
+        "impact": "ارتفاع الطلب على فنادق الشرق",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم فنادق الساحل الشرقي",
+        "value": "من مايو إلى سبتمبر يبلغ الإقبال على فنادق الساحل الشرقي ذروته.",
+        "source": "https://www.yatours.com/sri-lanka-hotel-booking",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "ارتفاع الطلب على فنادق الشرق",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم فنادق الساحل الشرقي",
+        "value": "من مايو إلى سبتمبر يبلغ الإقبال على فنادق الساحل الشرقي ذروته.",
+        "source": "https://www.yatours.com/sri-lanka-hotel-booking",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "ارتفاع الطلب على فنادق الشرق",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم فنادق الساحل الشرقي",
+        "value": "من مايو إلى سبتمبر يبلغ الإقبال على فنادق الساحل الشرقي ذروته.",
+        "source": "https://www.yatours.com/sri-lanka-hotel-booking",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": true,
+        "impact": "ارتفاع الطلب على فنادق الشرق",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "موكب إيسالا بيراهيرا",
+        "value": "كاندي (Kandy)، يوليو أو أغسطس حسب الدورة.",
+        "source": "https://tourism.cp.gov.lk/en/event/esala-festival",
+        "checked": "2026-11-27",
+        "month": 8,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

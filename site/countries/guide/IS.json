@@ -1,0 +1,588 @@
+{
+  "code": "IS",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "تحتاج تأشيرة شنغن للزيارة بالجواز السعودي العادي.",
+        "source": "https://eur-lex.europa.eu/eli/reg/2018/1806/2025-02-03/eng",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 90 يومًا ضمن أي 180 يومًا في دول شنغن مجتمعة، وفق صلاحية التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/short-stay-calculator_en?prefLang=nl",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "90 يورو رسم الطلب العادي للبالغ، وقد تضاف أجرة مركز تقديم الطلبات.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "الدفع بالبطاقة مقبول تقريبًا في كل مكان.",
+        "source": "https://visitreykjavik.is/currency-credit-cards-and-banks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "الكرونة الآيسلندية",
+        "source": "https://visitreykjavik.is/currency-credit-cards-and-banks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "غير متوقعة عادة.",
+        "source": "https://visitreykjavik.is/currency-credit-cards-and-banks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 424 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/iceland",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 979 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/iceland",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 15 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/iceland-esim/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "سترايتو (Strætó) لمسارات الحافلات.",
+        "source": "https://www.straeto.is/en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "حافلة فلاي باص من كيفلافيك (Keflavík) إلى محطة بي إس آي في ريكيافيك (Reykjavík).",
+        "source": "https://www.kefairport.com/bus",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "توجد حافلات بين المدن. لا توجد شبكة قطارات ركاب.",
+        "source": "https://www.visiticeland.com/article/public-transport/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "تتركز خيارات الحلال في ريكيافيك (Reykjavík).",
+        "source": "https://www.gohalaltravel.com/destinations/reykjavik",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "دليل المساجد المحلي يورد مساجد ومراكز إسلامية في ريكيافيك (Reykjavík).",
+        "source": "https://www.islam.is/en/mosques/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "سكير (لبن كثيف)، بلوكفيسكور (سمك وبطاطس)، وشوربة الضأن. تحقق من مصدر اللحم.",
+        "source": "https://www.iceland.org/food",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "في مسابح ريكيافيك (Reykjavík) اخلع الحذاء قبل غرف الملابس واستحم بالصابون دون ملابس السباحة قبل دخول الحوض.",
+        "source": "https://reykjavik.is/en/how-do-i-go-swimming",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "تختلف ساعات المتاجر بين أيام العمل وعطلة الأسبوع في ريكيافيك (Reykjavík).",
+        "source": "https://visitreykjavik.is/shopping",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للطوارئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/iceland/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "تحقق من التحذيرات المحلية وإغلاقات الطرق حول المناطق البركانية.",
+        "source": "https://travel.gc.ca/destinations/iceland",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "تحذر الشرطة من رسائل ومكالمات تنتحل صفة جهة رسمية وتطلب مالًا أو بيانات دخول.",
+        "source": "https://island.is/en/phishing",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "وسط المدينة (Miðborg)",
+        "value": "للمشي",
+        "source": "https://nordicexplorer.club/iceland/reykjavik/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "فيسترباير (Vesturbær)",
+        "value": "للهدوء",
+        "source": "https://nordicexplorer.club/iceland/reykjavik/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "هليذار (Hlíðar)",
+        "value": "لسكن محلي قرب الحدائق",
+        "source": "https://nordicexplorer.club/iceland/reykjavik/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "ريكيافيك (Reykjavík)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.une.edu/sites/default/files/2025-09/Iceland-MAR-itinerary.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "أكوريري (Akureyri)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.une.edu/sites/default/files/2025-09/Iceland-MAR-itinerary.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "هوسافيك (Húsavík)",
+        "value": "نقترح يومًا واحدًا عند توزيع وقت الرحلة.",
+        "source": "https://www.une.edu/sites/default/files/2025-09/Iceland-MAR-itinerary.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "خميس العهد",
+        "value": "٢٠٢٦-٠٤-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-02",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام الصيف",
+        "value": "٢٠٢٦-٠٤-٢٣",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-23",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٦-٠٥-١٤",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-14",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني",
+        "value": "٢٠٢٦-٠٦-١٧",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-17",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة العاملين بالتجارة",
+        "value": "٢٠٢٦-٠٨-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-03",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "تبدأ عطلة المصارف والجهات الحكومية عند الظهر؛ اشتر احتياجاتك مبكرًا.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ليلة رأس السنة",
+        "value": "٢٠٢٦-١٢-٣١",
+        "source": "https://date.nager.at/Calendar/2026/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-31",
+        "impact": "تبدأ عطلة المصارف والجهات الحكومية عند الظهر؛ اشتر احتياجاتك مبكرًا.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "خميس العهد",
+        "value": "٢٠٢٧-٠٣-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-25",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام الصيف",
+        "value": "٢٠٢٧-٠٤-٢٢",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-22",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٧-٠٥-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العنصرة",
+        "value": "٢٠٢٧-٠٥-١٦",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني",
+        "value": "٢٠٢٧-٠٦-١٧",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-17",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة العاملين بالتجارة",
+        "value": "٢٠٢٧-٠٨-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-02",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "تبدأ عطلة المصارف والجهات الحكومية عند الظهر؛ اشتر احتياجاتك مبكرًا.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تغلق المصارف والجهات الحكومية ومعظم المتاجر. تعمل كثير من شركات الجولات وبعض المطاعم والمتاجر السياحية.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      },
+      {
+        "label": "ليلة رأس السنة",
+        "value": "٢٠٢٧-١٢-٣١",
+        "source": "https://date.nager.at/Calendar/2027/IS/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-31",
+        "impact": "تبدأ عطلة المصارف والجهات الحكومية عند الظهر؛ اشتر احتياجاتك مبكرًا.",
+        "impactSource": "https://visitvatnajokull.is/information/public-holidays/",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الموسم والوقت الأهدأ",
+        "value": "الصيف موسم حركة السياحة والطرق الجبلية، ويختلف الوقت الأنسب بحسب النشاط.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-iceland",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة منتصف الفصل في مدارس ريكيافيك (Reykjavík)",
+        "value": "من 2027-02-20 إلى 2027-02-23 حسب التقويم المدرسي.",
+        "source": "https://www.dagviti.is/en/school-breaks",
+        "checked": "2026-11-27",
+        "date": "2027-02-20",
+        "end": "2027-02-23",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "السفر الصيفي عبر كيفلافيك (Keflavík)",
+        "value": "يحدّد مطار كيفلافيك يونيو ويوليو وأغسطس بوصفها شهور الذروة الصيفية لحركة المسافرين.",
+        "source": "https://www.kefairport.com/kefplus/news/2-6-million-visitors-during-the-peak-summer-season",
+        "checked": "2026-11-27",
+        "month": 6,
+        "peak": true,
+        "impact": "زحمة السفر عبر المطار",
+        "status": "confirmed"
+      },
+      {
+        "label": "السفر الصيفي عبر كيفلافيك (Keflavík)",
+        "value": "يحدّد مطار كيفلافيك يونيو ويوليو وأغسطس بوصفها شهور الذروة الصيفية لحركة المسافرين.",
+        "source": "https://www.kefairport.com/kefplus/news/2-6-million-visitors-during-the-peak-summer-season",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "زحمة السفر عبر المطار",
+        "status": "confirmed"
+      },
+      {
+        "label": "السفر الصيفي عبر كيفلافيك (Keflavík)",
+        "value": "يحدّد مطار كيفلافيك يونيو ويوليو وأغسطس بوصفها شهور الذروة الصيفية لحركة المسافرين.",
+        "source": "https://www.kefairport.com/kefplus/news/2-6-million-visitors-during-the-peak-summer-season",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "زحمة السفر عبر المطار",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "آيسلند إيرويفز",
+        "value": "ريكيافيك (Reykjavík)، نوفمبر.",
+        "source": "https://icelandairwaves.is/about/",
+        "checked": "2026-11-27",
+        "month": 11,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

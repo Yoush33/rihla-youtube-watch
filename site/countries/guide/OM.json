@@ -1,0 +1,409 @@
+{
+  "code": "OM",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي العادي",
+        "value": "السعودي من مواطني مجلس التعاون المعفيين من تأشيرة الدخول.",
+        "source": "https://visitoman.om/visa-info",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "لا رسوم تأشيرة للمواطن السعودي المشمول بالإعفاء.",
+        "source": "https://visitoman.om/visa-info",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الحد الأقصى للإقامة بالإعفاء الخليجي",
+        "value": "للمواطن السعودي حق التنقل والإقامة دون قيود مدة الزيارة وفق قواعد السوق الخليجية المشتركة.",
+        "source": "https://mof.gov.kw/MOFAgreements/PDF/AgreementGulf3.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الريال العماني. تُقبل البطاقات في المؤسسات الأكبر، ويفيد الكاش للمشتريات الصغيرة.",
+        "source": "https://visitoman.om/travel-tips",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "نحو 10٪ في المطعم إذا لم تشمل الفاتورة مقابل الخدمة.",
+        "source": "https://www.swissbankers.ch/en/services/information/country-information/omn/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — اقتصادي",
+        "value": "حوالي 529 ريالًا سعوديًا في عُمان للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/oman",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — متوسط",
+        "value": "حوالي 1133 ريالًا سعوديًا في عُمان للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/oman",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة للزائر وسعر تقريبي",
+        "value": "عمانتل تتيح شريحة إلكترونية بسعر 5 ريالات عمانية مقابل 8 غيغابايت و50 دقيقة لمدة 14 يومًا.",
+        "source": "https://www.omantel.om/en/personal/mobile-prepaid",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق نقل",
+        "value": "أوتاكسي (OTaxi) لطلب السيارة في مسقط (Muscat).",
+        "source": "https://daleeloman.com/muscat/taxi-apps/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "من مطار مسقط (Muscat) تنطلق حافلات مواصلات من الطابق الأرضي خارج مبنى المطار.",
+        "source": "https://www.muscatairport.co.om/content/to-from",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "تنشر مواصلات عُمان جدول حافلات الطرق بين المدن، بما فيها رحلات من مسقط (Muscat).",
+        "source": "https://nfc.mwasalat.om/intercity-route",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "يتوفر الطعام الحلال على نطاق واسع. من مساجد مسقط (Muscat) جامع السلطان قابوس الأكبر (Sultan Qaboos Grand Mosque).",
+        "source": "https://countrycost.online/halal-travel/oman",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "الشواء العماني، والمشاكيك المشوية، والحلوى العمانية.",
+        "source": "https://platinumlist.net/guide/best-omani-dishes-to-eat-in-muscat/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرف في الأماكن العامة",
+        "value": "اختر لباسًا محتشمًا في القرى والمساجد، واستأذن قبل تصوير الناس، وحافظ على مياه الأفلاج عند زيارتها.",
+        "source": "https://mot-website.s3.amazonaws.com/production/uploads/2017/10/Muscat-ilovepdf-compressed.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "تختلف ساعات المتاجر بحسب النشاط. الجمعة والسبت عطلة نهاية الأسبوع لدى الجهات الحكومية وكثير من الشركات، فتأكد من وقت زيارة الجهة.",
+        "source": "https://www.schweiz-oman.eda.admin.ch/dam/en/eda-cms/JiCxCygfyySG/2025-Oman-Business-Guide.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستدعي الانتباه وأساليب السرقة",
+        "value": "انتبه عند المشي وحيدًا ليلًا. الاعتداءات على الزوار قليلة لكنها ممكنة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/oman/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "9999 للشرطة والإسعاف والإطفاء.",
+        "source": "https://www.gov.uk/foreign-travel-advice/oman/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ثلاثة أحياء أو مناطق لإقامة أولى",
+        "value": "مطرح (Mutrah) للسوق والكورنيش، وشاطئ القرم (Shatti Al Qurum) للبحر والمطاعم، والموج (Al Mouj) لواجهة بحرية أقرب إلى المطار.",
+        "source": "https://muscat.tours/where-to-stay",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مدن ومدد مقترحة لزيارة أولى",
+        "value": "مسقط (Muscat) يومان للسوق والجامع، وصور (Sur) يوم لمدينة الساحل مع يوم إضافي للطريق، ونزوى (Nizwa) يوم إلى يومين مع القلاع حولها.",
+        "source": "https://www.destination-de-voyage.com/en/asia/oman/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "ذكرى تولي السلطان مقاليد الحكم",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://gov.om/en/important-dates-and-holidays?entity=400196",
+        "checked": "2026-11-27",
+        "date": "2026-01-15",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإسراء والمعراج",
+        "value": "إجازة رسمية أُعلن موعدها بعد التقويم الهجري الذي يعتمد على رؤية الهلال؛ راجع ساعات العمل عند الزيارة.",
+        "source": "https://gov.om/en/important-dates-and-holidays?entity=400196",
+        "checked": "2026-11-27",
+        "date": "2026-01-18",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "إجازة رسمية أُعلن موعدها بعد التقويم الهجري الذي يعتمد على رؤية الهلال؛ راجع ساعات العمل عند الزيارة.",
+        "source": "https://gov.om/en/important-dates-and-holidays?entity=400196",
+        "checked": "2026-11-27",
+        "date": "2026-06-18",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي الشريف",
+        "value": "إجازة رسمية أُعلن موعدها بعد التقويم الهجري الذي يعتمد على رؤية الهلال؛ راجع ساعات العمل عند الزيارة.",
+        "source": "https://gov.om/en/important-dates-and-holidays?entity=400196",
+        "checked": "2026-11-27",
+        "date": "2026-08-27",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني العماني",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://gov.om/en/important-dates-and-holidays?entity=400196",
+        "checked": "2026-11-27",
+        "date": "2026-11-25",
+        "end": "2026-11-26",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "إجازة رسمية أُعلن موعدها بعد التقويم الهجري الذي يعتمد على رؤية الهلال؛ راجع ساعات العمل عند الزيارة.",
+        "source": "https://www.omandaily.om/%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85/na/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D9%84%D8%B9%D8%A7%D9%85-1447%D9%87",
+        "checked": "2026-11-27",
+        "date": "2026-03-19",
+        "end": "2026-03-23",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "إجازة رسمية أُعلن موعدها بعد التقويم الهجري الذي يعتمد على رؤية الهلال؛ راجع ساعات العمل عند الزيارة.",
+        "source": "https://alroya.om/post/387431/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D8%B6%D8%AD%D9%89-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%83",
+        "checked": "2026-11-27",
+        "date": "2026-05-26",
+        "end": "2026-05-30",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed",
+        "lawSource": "https://gov.om/en/important-dates-and-holidays?entity=400196"
+      },
+      {
+        "label": "العيد الوطني العماني — تاريخ المناسبة",
+        "value": "يحدد المرسوم 20 و21 نوفمبر أصلًا للعيد الوطني. يجوز نقل يومي الإجازة بقرار رسمي.",
+        "source": "https://www.omaninfo.om/en/pages/161/show/939",
+        "checked": "2026-11-27",
+        "date": "2027-11-20",
+        "end": "2027-11-21",
+        "impact": "تُراجع أيام الإغلاق الفعلية",
+        "status": "confirmed"
+      },
+      {
+        "label": "تاريخ إجازة تولي السلطان مقاليد الحكم لعام 2027",
+        "value": "غير مؤكد",
+        "source": "https://gov.om/en/important-dates-and-holidays?entity=400196",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      },
+      {
+        "label": "الإسراء والمعراج — موعد تقريبي",
+        "value": "تاريخ المناسبة في المرسوم 27 رجب 1448؛ المقابل الميلادي تقريبي، يعتمد على رؤية الهلال. راجع إعلان وزارة العمل لأيام الإجازة.",
+        "source": "https://www.omaninfo.om/en/pages/161/show/939",
+        "checked": "2026-11-27",
+        "date": "2027-01-05",
+        "impact": "قد تتغير أيام الدوام عند إعلان الإجازة",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الفطر — موعد تقريبي",
+        "value": "تاريخ المناسبة في المرسوم من 29 رمضان إلى 3 شوال؛ المقابل الميلادي تقريبي، يعتمد على رؤية الهلال. راجع إعلان وزارة العمل لأيام الإجازة.",
+        "source": "https://www.omaninfo.om/en/pages/161/show/939",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "end": "2027-03-11",
+        "impact": "قد تتغير أيام الدوام عند إعلان الإجازة",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى — موعد تقريبي",
+        "value": "تاريخ المناسبة في المرسوم من 9 إلى 12 ذي الحجة؛ المقابل الميلادي تقريبي، يعتمد على رؤية الهلال. راجع إعلان وزارة العمل لأيام الإجازة.",
+        "source": "https://www.omaninfo.om/en/pages/161/show/939",
+        "checked": "2026-11-27",
+        "date": "2027-05-15",
+        "end": "2027-05-18",
+        "impact": "قد تتغير أيام الدوام عند إعلان الإجازة",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "رأس السنة الهجرية — موعد تقريبي",
+        "value": "تاريخ المناسبة في المرسوم 1 محرم 1449؛ المقابل الميلادي تقريبي، يعتمد على رؤية الهلال. راجع إعلان وزارة العمل لأيام الإجازة.",
+        "source": "https://www.omaninfo.om/en/pages/161/show/939",
+        "checked": "2026-11-27",
+        "date": "2027-06-06",
+        "impact": "قد تتغير أيام الدوام عند إعلان الإجازة",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "المولد النبوي الشريف — موعد تقريبي",
+        "value": "تاريخ المناسبة في المرسوم 12 ربيع الأول 1449؛ المقابل الميلادي تقريبي، يعتمد على رؤية الهلال. راجع إعلان وزارة العمل لأيام الإجازة.",
+        "source": "https://www.omaninfo.om/en/pages/161/show/939",
+        "checked": "2026-11-27",
+        "date": "2027-08-14",
+        "impact": "قد تتغير أيام الدوام عند إعلان الإجازة",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "الإسراء والمعراج — موعد تقريبي",
+        "value": "تاريخ المناسبة في المرسوم 27 رجب 1449؛ المقابل الميلادي تقريبي، يعتمد على رؤية الهلال. راجع إعلان وزارة العمل لأيام الإجازة.",
+        "source": "https://www.omaninfo.om/en/pages/161/show/939",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "قد تتغير أيام الدوام عند إعلان الإجازة",
+        "provisional": true,
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم مرتفع",
+        "value": "نوفمبر إلى مارس أكثر شهور زيارة عُمان.",
+        "source": "https://experienceoman.om/wp-content/uploads/2024/03/Marhaba-Oman_compressed.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 11,
+        "impact": "زيادة الإقبال على الوجهة",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم مرتفع",
+        "value": "نوفمبر إلى مارس أكثر شهور زيارة عُمان.",
+        "source": "https://experienceoman.om/wp-content/uploads/2024/03/Marhaba-Oman_compressed.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 12,
+        "impact": "زيادة الإقبال على الوجهة",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم مرتفع",
+        "value": "نوفمبر إلى مارس أكثر شهور زيارة عُمان.",
+        "source": "https://experienceoman.om/wp-content/uploads/2024/03/Marhaba-Oman_compressed.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 1,
+        "impact": "زيادة الإقبال على الوجهة",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم مرتفع",
+        "value": "نوفمبر إلى مارس أكثر شهور زيارة عُمان.",
+        "source": "https://experienceoman.om/wp-content/uploads/2024/03/Marhaba-Oman_compressed.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 2,
+        "impact": "زيادة الإقبال على الوجهة",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم مرتفع",
+        "value": "نوفمبر إلى مارس أكثر شهور زيارة عُمان.",
+        "source": "https://experienceoman.om/wp-content/uploads/2024/03/Marhaba-Oman_compressed.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 3,
+        "impact": "زيادة الإقبال على الوجهة",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "الصيف أقل إشغالًا في فنادق الشمال، مع اختلاف موسم خريف ظفار (Dhofar).",
+        "source": "https://alroya.om/uploads/documents/2023/01/InE8Q.pdf",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 7,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدرسية",
+        "value": "عطلة مدرسة مسقط البريطانية (British School Muscat)، ويتفاوت التقويم بين المدارس.",
+        "source": "https://britishschoolmuscat.com/about-us/term-dates/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-18",
+        "end": "2027-01-02",
+        "impact": "عطلة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "خريف صلالة",
+        "value": "في ظفار (Dhofar) يرفع موسم الخريف الإقبال على صلالة (Salalah) صيفًا بخلاف مسقط (Muscat).",
+        "source": "https://embed-rech-01.dialog.cm/cavendish_maxwell/docs/oman_hospitality_market_performance_h1_2026_v1_1",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "زحمة موسمية في صلالة",
+        "status": "confirmed"
+      },
+      {
+        "label": "خريف صلالة",
+        "value": "في ظفار (Dhofar) يرفع موسم الخريف الإقبال على صلالة (Salalah) صيفًا بخلاف مسقط (Muscat).",
+        "source": "https://embed-rech-01.dialog.cm/cavendish_maxwell/docs/oman_hospitality_market_performance_h1_2026_v1_1",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "زحمة موسمية في صلالة",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان مسقط",
+        "value": "مسقط (Muscat)، يقام عادة في يناير وفبراير.",
+        "source": "https://mht.gov.om/en/media-center/events/muscat-festival/",
+        "checked": "2026-11-27",
+        "month": 1,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

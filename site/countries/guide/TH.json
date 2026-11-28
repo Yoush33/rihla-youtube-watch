@@ -1,0 +1,648 @@
+{
+  "code": "TH",
+  "sections": {
+    "entry": [
+      {
+        "label": "تأشيرة الجواز السعودي والمدة",
+        "value": "دخول سياحي بلا تأشيرة حتى ٣٠ يومًا للجواز السعودي، وفق النظام الساري منذ ١٥ سبتمبر ٢٠٢٦.",
+        "source": "https://www.tatnews.org/2026/09/thailand-introduces-new-30-day-and-15-day-visa-exemption-rules-from-15-september/?rand=55352",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسوم",
+        "value": "لا رسم لطلب تأشيرة تحت الإعفاء.",
+        "source": "https://www.tatnews.org/2026/09/thailand-introduces-new-30-day-and-15-day-visa-exemption-rules-from-15-september/?rand=55352",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "البات التايلندي (THB).",
+        "source": "https://www.budgetyourtrip.com/Thailand/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع والإكرامية",
+        "value": "احمل باتات للأسواق وسيارات الأجرة. تستخدم البطاقات على نطاق أوسع في الفنادق والمتاجر الكبيرة.",
+        "source": "https://www.britishcouncil.or.th/sites/default/files/new_directions_east_asia_2024_welcome_pack.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميزانية الفرد اليومية بالريال",
+        "value": "اقتصادي نحو ١٣١ ريالًا ومتوسط نحو ٣٥٦ ريالًا في عينة إنفاق المسافرين على السكن والطعام والتنقل والأنشطة.",
+        "source": "https://www.budgetyourtrip.com/Thailand/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "تحقّق من سطر رسم الخدمة في قائمة المطعم أو الفاتورة قبل إضافة إكرامية.",
+        "source": "https://wise.com/us/travel-money/tip-calculator/thailand",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "باقة سياحية من إيه آي إس نحو ٤٩٩ باتًا لثمانية أيام.",
+        "source": "https://thaipedia.asia/en/questions/how-to-buy-sim-card-thailand/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "غراب من التطبيقات التي تذكرها إدارة النقل البري لحجز السيارات.",
+        "source": "https://thailand.go.th/public/guide-book-detail/001_08_017",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "المطار إلى المدينة",
+        "value": "قطار مطار سوفارنابومي (Suvarnabhumi) إلى فايا تاي (Phaya Thai) في بانكوك (Bangkok)، ومنها تبديل للقطار المعلّق.",
+        "source": "https://www.am2026thailand.go.th/airport-and-transportation",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "احجز القطارات بين المدن من موقع دي-تيكت التابع لسكك حديد الدولة. يمكن عرض رمز التذكرة من الجوال.",
+        "source": "https://thailand.go.th/visit-thailand-detail/001_01_113",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال",
+        "value": "دليل مطابخ بانكوك (Bangkok) الحلال يعرض مطاعم يمكن فحصها حسب المنطقة.",
+        "source": "https://www.tourismthailand.org/Restaurant/bangkok-halal-kitchens",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "دليل المساجد للزوار المسلمين يعرض مواقع للصلاة.",
+        "source": "https://tourismproduct.tourismthailand.org/wp-content/uploads/2024/06/Mosque-Tour-Ebook-EN_Vers_FINAL-1.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "باد تاي، وبات كابراو بالريحان، وحساء توم خا غاي بالدجاج وحليب جوز الهند. اختر مطعمًا حلالًا وتحقّق من اللحم والمرق.",
+        "source": "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/475168",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والسلوك",
+        "value": "غطِّ الكتفين والركبتين في المعابد واحترم رموز العائلة المالكة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "غالبية مراكز بانكوك (Bangkok) الكبرى تفتح قرابة ١٠ صباحًا إلى ١٠ مساء. تختلف الأسواق الليلية.",
+        "source": "https://www.visit-thailand.org/plan-your-trip/shop-and-mall-opening-hours",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ ١٩١، وشرطة السياحة ١١٥٥.",
+        "source": "https://www.gov.uk/foreign-travel-advice/thailand/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "السرقة والاحتيال",
+        "value": "من حالات الاحتيال المطالبات بأضرار قديمة عند إعادة دراجة مائية أو دراجة نارية مستأجرة. وثّق حالتها قبل الاستخدام.",
+        "source": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأماكن التي تستدعي الحذر",
+        "value": "للمناطق الحدودية الجنوبية تحذيرات سفر منفصلة. تحقق من الخريطة قبل الذهاب إليها.",
+        "source": "https://www.gov.uk/foreign-travel-advice/thailand",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "مناطق السكن وأسباب الاختيار",
+        "value": "في بانكوك (Bangkok)، سيام (Siam) لتقاطع القطارين، وسوخومفيت (Sukhumvit) للمطاعم والمحطات، وسيلوم (Silom) لسهولة الوصول إلى المترو ووسط الأعمال.",
+        "source": "https://www.citybreakgeek.com/bangkok/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار الزيارة ومدة كل محطة",
+        "value": "مثال لعشرة أيام، بانكوك (Bangkok) ثلاثة أيام، وتشيانغ ماي (Chiang Mai) ثلاثة، وبوكيت (Phuket) أربعة.",
+        "source": "https://travelitinerarytemplate.app/tools/multi-city-days/bangkok-chiang-mai-phuket",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "رأس السنة الميلادية",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة إضافية لرأس السنة",
+        "value": "عطلة إضافية لرأس السنة",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ماخا بوتشا",
+        "value": "ماخا بوتشا",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-03",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى أسرة تشاكري",
+        "value": "ذكرى أسرة تشاكري",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة التايلندية «سونغكران»",
+        "value": "رأس السنة التايلندية «سونغكران»",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-04-13",
+        "impact": "مهرجان سنوي واحتفالات مائية. راجع مسارات المرور بموقع زيارتك.",
+        "end": "2026-04-15",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال «البنوك والقطاعات المشمولة»",
+        "value": "عيد العمال «البنوك والقطاعات المشمولة»",
+        "source": "https://www.bot.or.th/en/financial-institutions-holiday.html",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تغلق المؤسسات المالية المشمولة. جهّز أي معاملة مصرفية قبل الإجازة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التتويج",
+        "value": "يوم التتويج",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-04",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "مراسم الحراثة الملكية",
+        "value": "مراسم الحراثة الملكية",
+        "source": "https://www.mnre.go.th/en/news/detail/245866",
+        "checked": "2026-11-27",
+        "date": "2026-05-13",
+        "impact": "تُقام مراسم في سانام لوانغ (Sanam Luang) ببانكوك (Bangkok). راجع مواعيد الدخول إلى الساحة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "فيساخا بوتشا",
+        "value": "فيساخا بوتشا",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-31",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بديل فيساخا بوتشا",
+        "value": "بديل فيساخا بوتشا",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميلاد الملكة سوثيدا",
+        "value": "ميلاد الملكة سوثيدا",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-06-03",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميلاد الملك فاجيرالونغكورن",
+        "value": "ميلاد الملك فاجيرالونغكورن",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-07-28",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "آسالها بوتشا",
+        "value": "آسالها بوتشا",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-07-29",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بداية الصوم البوذي",
+        "value": "بداية الصوم البوذي",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-07-30",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميلاد الملكة الأم وعيد الأم",
+        "value": "ميلاد الملكة الأم وعيد الأم",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-08-12",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى الملك بوميبول",
+        "value": "ذكرى الملك بوميبول",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-10-13",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى الملك تشولالونغكورن",
+        "value": "ذكرى الملك تشولالونغكورن",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-10-23",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني وعيد الأب",
+        "value": "اليوم الوطني وعيد الأب",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-05",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بديل اليوم الوطني وعيد الأب",
+        "value": "بديل اليوم الوطني وعيد الأب",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-07",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "يوم الدستور",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-10",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة مراسم جنازة الملكة الأم سيريكيت",
+        "value": "عطلة مراسم جنازة الملكة الأم سيريكيت",
+        "source": "https://thailand.go.th/issue-focus-detail/cabinet-declares-16-december-a-special-government-holiday-for-royal-cremation-ceremony",
+        "checked": "2026-11-27",
+        "date": "2026-12-16",
+        "impact": "إجازة حكومية استثنائية خلال مراسم الجنازة في بانكوك (Bangkok).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ليلة رأس السنة",
+        "value": "ليلة رأس السنة",
+        "source": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/March_2026/March_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-31",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "رأس السنة الميلادية",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ماخا بوتشا",
+        "value": "ماخا بوتشا",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-21",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بديل ماخا بوتشا",
+        "value": "بديل ماخا بوتشا",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-22",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى أسرة تشاكري",
+        "value": "ذكرى أسرة تشاكري",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-04-06",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة التايلندية «سونغكران»",
+        "value": "رأس السنة التايلندية «سونغكران»",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-04-13",
+        "impact": "مهرجان سنوي واحتفالات مائية. راجع مسارات المرور بموقع زيارتك.",
+        "end": "2027-04-15",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال «البنوك والقطاعات المشمولة»",
+        "value": "عيد العمال «البنوك والقطاعات المشمولة»",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تغلق المؤسسات المالية المشمولة. جهّز أي معاملة مصرفية قبل الإجازة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بديل عيد العمال للمصارف",
+        "value": "بديل عيد العمال للمصارف",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "تغلق المؤسسات المالية المشمولة. جهّز أي معاملة مصرفية قبل الإجازة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التتويج",
+        "value": "يوم التتويج",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-04",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "فيساخا بوتشا",
+        "value": "فيساخا بوتشا",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-20",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميلاد الملكة سوثيدا",
+        "value": "ميلاد الملكة سوثيدا",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-06-03",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "آسالها بوتشا",
+        "value": "آسالها بوتشا",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-07-18",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بديل آسالها بوتشا للمؤسسات المالية",
+        "value": "بديل آسالها بوتشا للمؤسسات المالية",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-07-19",
+        "impact": "تغلق المؤسسات المالية المشمولة. جهّز أي معاملة مصرفية قبل الإجازة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميلاد الملك فاجيرالونغكورن",
+        "value": "ميلاد الملك فاجيرالونغكورن",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-07-28",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميلاد الملكة الأم وعيد الأم",
+        "value": "ميلاد الملكة الأم وعيد الأم",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-08-12",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى الملك بوميبول",
+        "value": "ذكرى الملك بوميبول",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-10-13",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى الملك تشولالونغكورن",
+        "value": "ذكرى الملك تشولالونغكورن",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-10-23",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بديل ذكرى الملك تشولالونغكورن",
+        "value": "بديل ذكرى الملك تشولالونغكورن",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-10-25",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني وعيد الأب",
+        "value": "اليوم الوطني وعيد الأب",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-05",
+        "impact": "عطلة رسمية ومراسم تذكارية. راجع ساعات زيارة المواقع الملكية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بديل اليوم الوطني وعيد الأب",
+        "value": "بديل اليوم الوطني وعيد الأب",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-06",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "يوم الدستور",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-10",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ليلة رأس السنة",
+        "value": "ليلة رأس السنة",
+        "source": "https://ratchakitcha.soc.go.th/documents/132724.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-31",
+        "impact": "إجازة رسمية. راجع أوقات الدوائر قبل مراجعتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موعد عطلة الحراثة الملكية الحكومية لعام ٢٠٢٧",
+        "value": "غير مؤكد",
+        "source": "https://www.timeanddate.com/holidays/thailand/royal-ploughing-ceremony",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      },
+      {
+        "label": "بداية الصوم البوذي",
+        "checked": "2026-11-27",
+        "value": "بداية الصوم البوذي، ١٩ يوليو ٢٠٢٧. يتباين يوم التعويض بحسب الجهة.",
+        "source": "https://th.aidsid.or.th/office-hour/",
+        "date": "2027-07-19",
+        "impact": "تغلق بعض الجهات في هذه المناسبة. راجع جدول الجهة المقصودة.",
+        "tentative": true,
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "في معظم المدارس تمتد الإجازة الطويلة تقريبًا من منتصف مارس إلى منتصف مايو، وإجازة أقصر خلال أكتوبر. تختلف التفاصيل حسب المدرسة.",
+        "source": "https://www.visit-thailand.org/plan-your-trip/thai-school-holidays-and-long-weekends",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الذروة والفترة الأهدأ",
+        "value": "من ديسمبر إلى فبراير موسم زيارة الشواطئ، خصوصًا بوكيت (Phuket) وكرابي (Krabi).",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-thailand",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم شواطئ الجنوب",
+        "value": "موسم الذروة السياحية في بوكيت (Phuket) وكرابي (Krabi).",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-thailand",
+        "checked": "2026-11-27",
+        "month": 12,
+        "peak": true,
+        "impact": "موسم مرتفع على الساحل. افحص التوافر قبل الحجز.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم شواطئ الجنوب",
+        "value": "موسم الذروة السياحية في بوكيت (Phuket) وكرابي (Krabi).",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-thailand",
+        "checked": "2026-11-27",
+        "month": 1,
+        "peak": true,
+        "impact": "موسم مرتفع على الساحل. افحص التوافر قبل الحجز.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم شواطئ الجنوب",
+        "value": "موسم الذروة السياحية في بوكيت (Phuket) وكرابي (Krabi).",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-thailand",
+        "checked": "2026-11-27",
+        "month": 2,
+        "peak": true,
+        "impact": "موسم مرتفع على الساحل. افحص التوافر قبل الحجز.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم أمطار أندامان",
+        "value": "تخفض بعض منتجعات ساحل أندامان (Andaman) أسعارها في الأشهر الممطرة.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-thailand",
+        "checked": "2026-11-27",
+        "month": 6,
+        "peak": false,
+        "impact": "أسعار أقل في بعض المنتجعات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم أمطار أندامان",
+        "value": "تخفض بعض منتجعات ساحل أندامان (Andaman) أسعارها في الأشهر الممطرة.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-thailand",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": false,
+        "impact": "أسعار أقل في بعض المنتجعات.",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "الفعالية السنوية",
+        "value": "سونغكران، بانكوك (Bangkok)، في أبريل. ترافق رأس السنة التايلندية عروض ثقافية واحتفالات مائية.",
+        "source": "https://www.tourismthailand.org/Articles/saneh-art-en",
+        "checked": "2026-11-27",
+        "month": 4,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

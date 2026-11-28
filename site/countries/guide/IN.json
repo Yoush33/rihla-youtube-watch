@@ -1,0 +1,556 @@
+{
+  "code": "IN",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "التأشيرة السياحية الإلكترونية متاحة للسعوديين. قدّم الطلب قبل السفر.",
+        "source": "https://www.eoiriyadh.gov.in/page/visa-services/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "يتوفر خيار 30 يومًا للسياحة.",
+        "source": "https://www.indianvisaonline.gov.in/visa/tvoa.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "لتأشيرة 30 يومًا، 10 دولارات من أبريل إلى يونيو و25 دولارًا من يوليو إلى مارس، قبل رسوم المعالجة المصرفية.",
+        "source": "https://indianvisaonline.gov.in/evisa/images/Etourist_fee_final.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "اجمع بين الروبية النقدية والبطاقة، وتتوفر خيارات دفع إلكتروني حيث تُقبل.",
+        "source": "https://www.lonelyplanet.com/articles/cash-or-card-in-india-advice",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "الروبية الهندية",
+        "source": "https://www.budgetyourtrip.com/india",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "الإكرامية طوعية. لا تُضاف رسوم الخدمة تلقائيًا إلى فاتورة الطعام وفق هيئة حماية المستهلك.",
+        "source": "https://consumeraffairs.gov.in/public/upload/admin/cmsfiles/pressRelease/Central_Consumer_Protection_Authority_CCPA_takes_suo_moto_cognizance_against_5_Delhi_Restaurants_for_non-refund_of_Service_Chargepress_release.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 56 ريالًا للفرد يوميًا بحسب إنفاق مسافرين على السكن والأكل والتنقل المحلي.",
+        "source": "https://www.budgetyourtrip.com/India",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 154 ريالًا للفرد يوميًا بحسب إنفاق مسافرين على السكن والأكل والتنقل المحلي.",
+        "source": "https://www.budgetyourtrip.com/India",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 15 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/india-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "ون دلهي (One Delhi) لمواصلات العاصمة دلهي (Delhi).",
+        "source": "https://play.google.com/store/apps/details?hl=en&id=com.delhitransport.onedelhi",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "تتوفر خدمات الحافلات من مطار دلهي (Delhi). تحقق من المسار بحسب مبنى الوصول.",
+        "source": "https://www.newdelhiairport.in/to-and-from-airport/bus/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "احجز قطارات المسافات البعيدة عبر منصة السكك الهندية (IRCTC).",
+        "source": "https://nsearchives.nseindia.com/annual_reports/AR_27340_IRCTC_2024_2025_A_07082025185707.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "توجد خيارات حلال في دلهي القديمة (Old Delhi)، وخصوصًا حول المسجد الجامع (Jama Masjid).",
+        "source": "https://viorvo.com/halal-travel/delhi/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "المسجد الجامع (Jama Masjid) في دلهي القديمة (Old Delhi).",
+        "source": "https://delhitourism.gov.in/dt/delhi_delicacies/jama_masjid.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "برياني، روغان جوش (ضأن متبّل)، وغوشتابا (كرات لحم باللبن).",
+        "source": "https://cdn.nios.ac.in/cms/documents/2020/Jun/28/Tourism_Book-02.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "غطّ الكتفين والركبتين واستعد لخلع الحذاء في المزارات، وقد يُطلب غطاء الرأس.",
+        "source": "https://delhigpt.in/blog/what-to-wear-temples-mosques-gurudwaras-delhi",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "في تشاندني تشوك (Chandni Chowk) تذكر سياحة دلهي ساعات 10:30 صباحًا إلى 9 مساءً، وتغلق بعض المحلات الأحد.",
+        "source": "https://delhitourism.gov.in/dt/delhi_delicacies/chandni_chowk.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للطوارئ.",
+        "source": "https://www.india.gov.in/directory/helpline",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "راجع التحذيرات الإقليمية قبل التوجه إلى المناطق الحدودية.",
+        "source": "https://travel.gc.ca/destinations/india",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "احذر من السائقين أو الوسطاء الذين يدّعون أن فندقك أو مكتب التذاكر مغلق.",
+        "source": "https://www.gov.uk/foreign-travel-advice/india/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "كونوت بليس (Connaught Place)",
+        "value": "للمترو والزيارة الأولى",
+        "source": "https://elitechtravels.com/where-to-stay/delhi",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كارول باغ (Karol Bagh)",
+        "value": "لميزانية متوسطة وعائلة",
+        "source": "https://elitechtravels.com/where-to-stay/delhi",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "إيروسيتي (Aerocity)",
+        "value": "لرحلة جوية مبكرة",
+        "source": "https://elitechtravels.com/where-to-stay/delhi",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "دلهي (Delhi)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://delhigpt.in/blog/golden-triangle-india-itinerary-delhi-agra-jaipur",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "أغرا (Agra)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://delhigpt.in/blog/golden-triangle-india-itinerary-delhi-agra-jaipur",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "جايبور (Jaipur)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://delhigpt.in/blog/golden-triangle-india-itinerary-delhi-agra-jaipur",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "يوم الجمهورية",
+        "value": "2026-01-26. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-01-26",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "هولي",
+        "value": "2026-03-04. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-03-04",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "2026-03-21 تقريبًا، يعتمد على رؤية الهلال. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-03-21",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "uncertain"
+      },
+      {
+        "label": "رام نافامي",
+        "value": "2026-03-26. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-03-26",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "مولد مهافير",
+        "value": "2026-03-31. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-03-31",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "2026-04-03. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "اكتمال قمر بوذا",
+        "value": "2026-05-01. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "2026-05-27 تقريبًا، يعتمد على رؤية الهلال. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "uncertain"
+      },
+      {
+        "label": "عاشوراء",
+        "value": "2026-06-26 تقريبًا، يعتمد على رؤية الهلال. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-06-26",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "2026-08-15. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "2026-08-26 تقريبًا، يعتمد على رؤية الهلال. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-08-26",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "uncertain"
+      },
+      {
+        "label": "جانماشتمي",
+        "value": "2026-09-04. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-09-04",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى ميلاد غاندي",
+        "value": "2026-10-02. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-10-02",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "دوسيهرا",
+        "value": "2026-10-20. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-10-20",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ديوالي",
+        "value": "2026-11-08. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-11-08",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "مولد غورو ناناك",
+        "value": "2026-11-24. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-11-24",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "2026-12-25. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://www.cgca.gov.in/ccadl/list-of-holiday",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الجمهورية",
+        "value": "2027-01-26. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-26",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "هولي",
+        "value": "2027-03-23. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-23",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "2027-03-10 تقريبًا، يعتمد على رؤية الهلال. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-10",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "رام نافامي",
+        "value": "2027-04-15. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-04-15",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "مولد مهافير",
+        "value": "2027-04-19. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-04-19",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "2027-03-26. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "اكتمال قمر بوذا",
+        "value": "2027-05-20. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-20",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "2027-05-17 تقريبًا، يعتمد على رؤية الهلال. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عاشوراء",
+        "value": "2027-06-16 تقريبًا، يعتمد على رؤية الهلال. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-06-16",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "2027-08-15. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "2027-08-15 تقريبًا، يعتمد على رؤية الهلال. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "جانماشتمي",
+        "value": "2027-08-25. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-08-25",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى ميلاد غاندي",
+        "value": "2027-10-02. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-10-02",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "دوسيهرا",
+        "value": "2027-10-09. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-10-09",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ديوالي",
+        "value": "2027-10-29. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-10-29",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "مولد غورو ناناك",
+        "value": "2027-11-14. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-11-14",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "2027-12-25. إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "source": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/11/2026112510.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "إغلاق مكاتب الحكومة المركزية في دلهي ونيودلهي (Delhi / New Delhi).",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "العطلة الصيفية في غوا (Goa) للصفوف 6–10 و12",
+        "value": "من 2027-05-01 إلى 2027-06-05 حسب التقويم المدرسي.",
+        "source": "https://education.goa.gov.in/wp-content/uploads/2026/02/Terms-Vacation-2026-2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "end": "2027-06-05",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم والوقت الأهدأ",
+        "value": "تقل أسعار بعض الرحلات في فترة الأمطار، مع اختلاف توقيتها بحسب الإقليم.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-india",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "زيارات جودبور (Jodhpur) في راجستان (Rajasthan)",
+        "value": "سجّل تقرير التخطيط السياحي الحكومي أعلى عدد من الزوار في ديسمبر في البيانات الشهرية لجودبور لعام 2022. توقيت الذروة في مناطق الهند الأخرى مختلف.",
+        "source": "https://sd2.tourism.gov.in/DocumentRepoFiles/MasterPlan/MPfe43aecd-7ea5-4874-ba10-4fe0f2fc5b8e.pdf",
+        "checked": "2026-11-27",
+        "month": 12,
+        "peak": true,
+        "impact": "إقبال موسمي مرتفع في جودبور",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان جايبور للأدب",
+        "value": "جايبور (Jaipur)، يناير.",
+        "source": "https://www.jaipurliteraturefestival.org/?trk=public_profile_project-title",
+        "checked": "2026-11-27",
+        "month": 1,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

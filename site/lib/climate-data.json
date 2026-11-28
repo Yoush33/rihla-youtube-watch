@@ -1,0 +1,8402 @@
+{
+  "TR": {
+    "city": "إسطنبول",
+    "lat": 41.01,
+    "lng": 28.98,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=28.98&latitude=41.01&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:32.276Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 5.81,
+        "rain": 2.55
+      },
+      {
+        "month": 2,
+        "temperature": 6.46,
+        "rain": 2.41
+      },
+      {
+        "month": 3,
+        "temperature": 8.59,
+        "rain": 1.72
+      },
+      {
+        "month": 4,
+        "temperature": 12.09,
+        "rain": 1.39
+      },
+      {
+        "month": 5,
+        "temperature": 17.44,
+        "rain": 1.14
+      },
+      {
+        "month": 6,
+        "temperature": 22.31,
+        "rain": 1.2
+      },
+      {
+        "month": 7,
+        "temperature": 25.12,
+        "rain": 0.64
+      },
+      {
+        "month": 8,
+        "temperature": 25.47,
+        "rain": 0.71
+      },
+      {
+        "month": 9,
+        "temperature": 21.89,
+        "rain": 1.81
+      },
+      {
+        "month": 10,
+        "temperature": 16.95,
+        "rain": 2.25
+      },
+      {
+        "month": 11,
+        "temperature": 12.26,
+        "rain": 2.09
+      },
+      {
+        "month": 12,
+        "temperature": 7.81,
+        "rain": 2.65
+      }
+    ]
+  },
+  "PT": {
+    "city": "لشبونة",
+    "lat": 38.72,
+    "lng": -9.14,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-9.14&latitude=38.72&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:32.303Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 12.91,
+        "rain": 2.09
+      },
+      {
+        "month": 2,
+        "temperature": 12.77,
+        "rain": 1.79
+      },
+      {
+        "month": 3,
+        "temperature": 13.8,
+        "rain": 1.94
+      },
+      {
+        "month": 4,
+        "temperature": 15.04,
+        "rain": 1.8
+      },
+      {
+        "month": 5,
+        "temperature": 16.86,
+        "rain": 0.99
+      },
+      {
+        "month": 6,
+        "temperature": 18.85,
+        "rain": 0.36
+      },
+      {
+        "month": 7,
+        "temperature": 19.9,
+        "rain": 0.11
+      },
+      {
+        "month": 8,
+        "temperature": 20.47,
+        "rain": 0.19
+      },
+      {
+        "month": 9,
+        "temperature": 19.98,
+        "rain": 0.84
+      },
+      {
+        "month": 10,
+        "temperature": 18.58,
+        "rain": 2.56
+      },
+      {
+        "month": 11,
+        "temperature": 15.52,
+        "rain": 3.07
+      },
+      {
+        "month": 12,
+        "temperature": 13.54,
+        "rain": 2.08
+      }
+    ]
+  },
+  "SG": {
+    "city": "سنغافورة",
+    "lat": 1.35,
+    "lng": 103.82,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=103.82&latitude=1.35&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:32.390Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 25.94,
+        "rain": 7.57
+      },
+      {
+        "month": 2,
+        "temperature": 26.17,
+        "rain": 3.62
+      },
+      {
+        "month": 3,
+        "temperature": 27.01,
+        "rain": 5.43
+      },
+      {
+        "month": 4,
+        "temperature": 27.82,
+        "rain": 6.43
+      },
+      {
+        "month": 5,
+        "temperature": 28.08,
+        "rain": 6.41
+      },
+      {
+        "month": 6,
+        "temperature": 27.59,
+        "rain": 5.45
+      },
+      {
+        "month": 7,
+        "temperature": 27.14,
+        "rain": 5.62
+      },
+      {
+        "month": 8,
+        "temperature": 27.09,
+        "rain": 5.58
+      },
+      {
+        "month": 9,
+        "temperature": 27.15,
+        "rain": 5.56
+      },
+      {
+        "month": 10,
+        "temperature": 27.31,
+        "rain": 6.76
+      },
+      {
+        "month": 11,
+        "temperature": 26.94,
+        "rain": 9.44
+      },
+      {
+        "month": 12,
+        "temperature": 26.29,
+        "rain": 9.69
+      }
+    ]
+  },
+  "JP": {
+    "city": "طوكيو",
+    "lat": 35.68,
+    "lng": 139.69,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=139.69&latitude=35.68&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:32.434Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 4.66,
+        "rain": 2.59
+      },
+      {
+        "month": 2,
+        "temperature": 5.58,
+        "rain": 2.64
+      },
+      {
+        "month": 3,
+        "temperature": 8.8,
+        "rain": 4
+      },
+      {
+        "month": 4,
+        "temperature": 13.48,
+        "rain": 4.51
+      },
+      {
+        "month": 5,
+        "temperature": 18.22,
+        "rain": 4.76
+      },
+      {
+        "month": 6,
+        "temperature": 21.77,
+        "rain": 6.17
+      },
+      {
+        "month": 7,
+        "temperature": 25.54,
+        "rain": 4.92
+      },
+      {
+        "month": 8,
+        "temperature": 26.86,
+        "rain": 4.33
+      },
+      {
+        "month": 9,
+        "temperature": 23.61,
+        "rain": 7.02
+      },
+      {
+        "month": 10,
+        "temperature": 18.13,
+        "rain": 7.94
+      },
+      {
+        "month": 11,
+        "temperature": 12.72,
+        "rain": 3.99
+      },
+      {
+        "month": 12,
+        "temperature": 7.31,
+        "rain": 2.69
+      }
+    ]
+  },
+  "MA": {
+    "city": "مراكش",
+    "lat": 31.63,
+    "lng": -7.98,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-7.98&latitude=31.63&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:33.064Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 10.22,
+        "rain": 1.16
+      },
+      {
+        "month": 2,
+        "temperature": 11.38,
+        "rain": 1.1
+      },
+      {
+        "month": 3,
+        "temperature": 14.29,
+        "rain": 1.28
+      },
+      {
+        "month": 4,
+        "temperature": 16.63,
+        "rain": 0.9
+      },
+      {
+        "month": 5,
+        "temperature": 20.28,
+        "rain": 0.5
+      },
+      {
+        "month": 6,
+        "temperature": 24.45,
+        "rain": 0.13
+      },
+      {
+        "month": 7,
+        "temperature": 28.78,
+        "rain": 0.23
+      },
+      {
+        "month": 8,
+        "temperature": 28.92,
+        "rain": 0.22
+      },
+      {
+        "month": 9,
+        "temperature": 24.25,
+        "rain": 0.47
+      },
+      {
+        "month": 10,
+        "temperature": 20.46,
+        "rain": 0.74
+      },
+      {
+        "month": 11,
+        "temperature": 14.6,
+        "rain": 1.81
+      },
+      {
+        "month": 12,
+        "temperature": 11.43,
+        "rain": 1.04
+      }
+    ]
+  },
+  "AE": {
+    "city": "دبي",
+    "lat": 25.2,
+    "lng": 55.27,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=55.27&latitude=25.2&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:33.099Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 20.07,
+        "rain": 0.55
+      },
+      {
+        "month": 2,
+        "temperature": 20.82,
+        "rain": 0.27
+      },
+      {
+        "month": 3,
+        "temperature": 23.27,
+        "rain": 0.51
+      },
+      {
+        "month": 4,
+        "temperature": 26.85,
+        "rain": 0.3
+      },
+      {
+        "month": 5,
+        "temperature": 30.66,
+        "rain": 0.14
+      },
+      {
+        "month": 6,
+        "temperature": 33.09,
+        "rain": 0.12
+      },
+      {
+        "month": 7,
+        "temperature": 35.03,
+        "rain": 0.03
+      },
+      {
+        "month": 8,
+        "temperature": 35.41,
+        "rain": 0.03
+      },
+      {
+        "month": 9,
+        "temperature": 33.45,
+        "rain": 0.08
+      },
+      {
+        "month": 10,
+        "temperature": 30.66,
+        "rain": 0.03
+      },
+      {
+        "month": 11,
+        "temperature": 26.54,
+        "rain": 0.27
+      },
+      {
+        "month": 12,
+        "temperature": 22.48,
+        "rain": 0.44
+      }
+    ]
+  },
+  "GE": {
+    "city": "تبليسي",
+    "lat": 41.72,
+    "lng": 44.83,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=44.83&latitude=41.72&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:33.154Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 0.98,
+        "rain": 0.57
+      },
+      {
+        "month": 2,
+        "temperature": 2.63,
+        "rain": 0.61
+      },
+      {
+        "month": 3,
+        "temperature": 7.18,
+        "rain": 0.9
+      },
+      {
+        "month": 4,
+        "temperature": 11.73,
+        "rain": 1.62
+      },
+      {
+        "month": 5,
+        "temperature": 17.63,
+        "rain": 1.88
+      },
+      {
+        "month": 6,
+        "temperature": 22.77,
+        "rain": 1.64
+      },
+      {
+        "month": 7,
+        "temperature": 26.03,
+        "rain": 0.87
+      },
+      {
+        "month": 8,
+        "temperature": 25.55,
+        "rain": 0.87
+      },
+      {
+        "month": 9,
+        "temperature": 20.43,
+        "rain": 0.84
+      },
+      {
+        "month": 10,
+        "temperature": 13.97,
+        "rain": 1.21
+      },
+      {
+        "month": 11,
+        "temperature": 7.11,
+        "rain": 0.82
+      },
+      {
+        "month": 12,
+        "temperature": 2.21,
+        "rain": 0.56
+      }
+    ]
+  },
+  "GB": {
+    "city": "لندن",
+    "lat": 51.51,
+    "lng": -0.13,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-0.13&latitude=51.51&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:33.184Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 4.14,
+        "rain": 2.1
+      },
+      {
+        "month": 2,
+        "temperature": 4.27,
+        "rain": 1.92
+      },
+      {
+        "month": 3,
+        "temperature": 6.09,
+        "rain": 1.61
+      },
+      {
+        "month": 4,
+        "temperature": 9.02,
+        "rain": 1.39
+      },
+      {
+        "month": 5,
+        "temperature": 12.27,
+        "rain": 1.76
+      },
+      {
+        "month": 6,
+        "temperature": 15.48,
+        "rain": 1.86
+      },
+      {
+        "month": 7,
+        "temperature": 17.63,
+        "rain": 1.92
+      },
+      {
+        "month": 8,
+        "temperature": 17.31,
+        "rain": 2.12
+      },
+      {
+        "month": 9,
+        "temperature": 14.65,
+        "rain": 1.48
+      },
+      {
+        "month": 10,
+        "temperature": 11.29,
+        "rain": 2.37
+      },
+      {
+        "month": 11,
+        "temperature": 7.33,
+        "rain": 2.45
+      },
+      {
+        "month": 12,
+        "temperature": 4.79,
+        "rain": 2.3
+      }
+    ]
+  },
+  "TH": {
+    "city": "بانكوك",
+    "lat": 13.76,
+    "lng": 100.5,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=100.5&latitude=13.76&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:33.441Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 26.23,
+        "rain": 0.53
+      },
+      {
+        "month": 2,
+        "temperature": 28.82,
+        "rain": 0.48
+      },
+      {
+        "month": 3,
+        "temperature": 30.2,
+        "rain": 1.53
+      },
+      {
+        "month": 4,
+        "temperature": 30.73,
+        "rain": 2.51
+      },
+      {
+        "month": 5,
+        "temperature": 29.52,
+        "rain": 5.28
+      },
+      {
+        "month": 6,
+        "temperature": 28.4,
+        "rain": 5.5
+      },
+      {
+        "month": 7,
+        "temperature": 27.81,
+        "rain": 5.44
+      },
+      {
+        "month": 8,
+        "temperature": 27.61,
+        "rain": 5.85
+      },
+      {
+        "month": 9,
+        "temperature": 27.2,
+        "rain": 9.27
+      },
+      {
+        "month": 10,
+        "temperature": 26.93,
+        "rain": 6.55
+      },
+      {
+        "month": 11,
+        "temperature": 25.89,
+        "rain": 1.29
+      },
+      {
+        "month": 12,
+        "temperature": 24.95,
+        "rain": 0.31
+      }
+    ]
+  },
+  "FR": {
+    "city": "باريس",
+    "lat": 48.86,
+    "lng": 2.35,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=2.35&latitude=48.86&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:33.530Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 3,
+        "rain": 1.74
+      },
+      {
+        "month": 2,
+        "temperature": 3.63,
+        "rain": 1.77
+      },
+      {
+        "month": 3,
+        "temperature": 6.67,
+        "rain": 1.68
+      },
+      {
+        "month": 4,
+        "temperature": 10.34,
+        "rain": 1.31
+      },
+      {
+        "month": 5,
+        "temperature": 13.78,
+        "rain": 2.05
+      },
+      {
+        "month": 6,
+        "temperature": 17.36,
+        "rain": 2
+      },
+      {
+        "month": 7,
+        "temperature": 19.34,
+        "rain": 1.77
+      },
+      {
+        "month": 8,
+        "temperature": 18.93,
+        "rain": 1.89
+      },
+      {
+        "month": 9,
+        "temperature": 15.61,
+        "rain": 1.4
+      },
+      {
+        "month": 10,
+        "temperature": 11.64,
+        "rain": 1.84
+      },
+      {
+        "month": 11,
+        "temperature": 6.91,
+        "rain": 2.03
+      },
+      {
+        "month": 12,
+        "temperature": 3.55,
+        "rain": 2.24
+      }
+    ]
+  },
+  "MY": {
+    "city": "كوالالمبور",
+    "lat": 3.14,
+    "lng": 101.69,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=101.69&latitude=3.14&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:33.852Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 24.72,
+        "rain": 6.64
+      },
+      {
+        "month": 2,
+        "temperature": 25.03,
+        "rain": 5.56
+      },
+      {
+        "month": 3,
+        "temperature": 25.75,
+        "rain": 6.27
+      },
+      {
+        "month": 4,
+        "temperature": 26.24,
+        "rain": 8.34
+      },
+      {
+        "month": 5,
+        "temperature": 26.27,
+        "rain": 5.55
+      },
+      {
+        "month": 6,
+        "temperature": 25.77,
+        "rain": 5.16
+      },
+      {
+        "month": 7,
+        "temperature": 25.33,
+        "rain": 5.45
+      },
+      {
+        "month": 8,
+        "temperature": 25.38,
+        "rain": 5.93
+      },
+      {
+        "month": 9,
+        "temperature": 25.41,
+        "rain": 6.51
+      },
+      {
+        "month": 10,
+        "temperature": 25.46,
+        "rain": 8.47
+      },
+      {
+        "month": 11,
+        "temperature": 25.31,
+        "rain": 10.46
+      },
+      {
+        "month": 12,
+        "temperature": 24.84,
+        "rain": 8.47
+      }
+    ]
+  },
+  "IT": {
+    "city": "روما",
+    "lat": 41.9,
+    "lng": 12.5,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=12.5&latitude=41.9&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:33.927Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 7.01,
+        "rain": 2.34
+      },
+      {
+        "month": 2,
+        "temperature": 7.56,
+        "rain": 2.73
+      },
+      {
+        "month": 3,
+        "temperature": 10.33,
+        "rain": 2.21
+      },
+      {
+        "month": 4,
+        "temperature": 13.87,
+        "rain": 1.88
+      },
+      {
+        "month": 5,
+        "temperature": 17.98,
+        "rain": 1.84
+      },
+      {
+        "month": 6,
+        "temperature": 22.78,
+        "rain": 1.14
+      },
+      {
+        "month": 7,
+        "temperature": 26,
+        "rain": 0.83
+      },
+      {
+        "month": 8,
+        "temperature": 26.15,
+        "rain": 0.85
+      },
+      {
+        "month": 9,
+        "temperature": 21.44,
+        "rain": 2.32
+      },
+      {
+        "month": 10,
+        "temperature": 17.16,
+        "rain": 2.64
+      },
+      {
+        "month": 11,
+        "temperature": 12.45,
+        "rain": 3.81
+      },
+      {
+        "month": 12,
+        "temperature": 8.11,
+        "rain": 2.95
+      }
+    ]
+  },
+  "ES": {
+    "city": "مدريد",
+    "lat": 40.42,
+    "lng": -3.7,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-3.7&latitude=40.42&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:34.191Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 3.79,
+        "rain": 1.21
+      },
+      {
+        "month": 2,
+        "temperature": 4.74,
+        "rain": 1.37
+      },
+      {
+        "month": 3,
+        "temperature": 7.91,
+        "rain": 1.55
+      },
+      {
+        "month": 4,
+        "temperature": 11.2,
+        "rain": 1.74
+      },
+      {
+        "month": 5,
+        "temperature": 15.72,
+        "rain": 1.37
+      },
+      {
+        "month": 6,
+        "temperature": 21.76,
+        "rain": 0.72
+      },
+      {
+        "month": 7,
+        "temperature": 25.31,
+        "rain": 0.28
+      },
+      {
+        "month": 8,
+        "temperature": 24.83,
+        "rain": 0.44
+      },
+      {
+        "month": 9,
+        "temperature": 20.01,
+        "rain": 0.81
+      },
+      {
+        "month": 10,
+        "temperature": 14.13,
+        "rain": 2.12
+      },
+      {
+        "month": 11,
+        "temperature": 7.61,
+        "rain": 1.79
+      },
+      {
+        "month": 12,
+        "temperature": 4.39,
+        "rain": 1.3
+      }
+    ]
+  },
+  "CH": {
+    "city": "زيورخ",
+    "lat": 47.38,
+    "lng": 8.54,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=8.54&latitude=47.38&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:34.274Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -0.69,
+        "rain": 3.02
+      },
+      {
+        "month": 2,
+        "temperature": 0.08,
+        "rain": 2.6
+      },
+      {
+        "month": 3,
+        "temperature": 4.35,
+        "rain": 2.95
+      },
+      {
+        "month": 4,
+        "temperature": 8.94,
+        "rain": 3.04
+      },
+      {
+        "month": 5,
+        "temperature": 13.05,
+        "rain": 4.55
+      },
+      {
+        "month": 6,
+        "temperature": 17.14,
+        "rain": 4.63
+      },
+      {
+        "month": 7,
+        "temperature": 18.71,
+        "rain": 4.64
+      },
+      {
+        "month": 8,
+        "temperature": 18.24,
+        "rain": 4.72
+      },
+      {
+        "month": 9,
+        "temperature": 14.08,
+        "rain": 3.44
+      },
+      {
+        "month": 10,
+        "temperature": 9.84,
+        "rain": 3.24
+      },
+      {
+        "month": 11,
+        "temperature": 4.25,
+        "rain": 2.89
+      },
+      {
+        "month": 12,
+        "temperature": 0.24,
+        "rain": 3.29
+      }
+    ]
+  },
+  "DE": {
+    "city": "برلين",
+    "lat": 52.52,
+    "lng": 13.41,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=13.41&latitude=52.52&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:34.282Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -0.73,
+        "rain": 1.75
+      },
+      {
+        "month": 2,
+        "temperature": 0.4,
+        "rain": 1.36
+      },
+      {
+        "month": 3,
+        "temperature": 3.74,
+        "rain": 1.3
+      },
+      {
+        "month": 4,
+        "temperature": 9.13,
+        "rain": 0.95
+      },
+      {
+        "month": 5,
+        "temperature": 14.05,
+        "rain": 1.71
+      },
+      {
+        "month": 6,
+        "temperature": 18.26,
+        "rain": 1.89
+      },
+      {
+        "month": 7,
+        "temperature": 20.47,
+        "rain": 2.6
+      },
+      {
+        "month": 8,
+        "temperature": 19.92,
+        "rain": 1.87
+      },
+      {
+        "month": 9,
+        "temperature": 15.28,
+        "rain": 1.62
+      },
+      {
+        "month": 10,
+        "temperature": 9.66,
+        "rain": 1.57
+      },
+      {
+        "month": 11,
+        "temperature": 4.56,
+        "rain": 1.62
+      },
+      {
+        "month": 12,
+        "temperature": 0.86,
+        "rain": 1.55
+      }
+    ]
+  },
+  "AT": {
+    "city": "فيينا",
+    "lat": 48.21,
+    "lng": 16.37,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=16.37&latitude=48.21&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:34.614Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -1.64,
+        "rain": 1.37
+      },
+      {
+        "month": 2,
+        "temperature": -0.1,
+        "rain": 1.36
+      },
+      {
+        "month": 3,
+        "temperature": 4.16,
+        "rain": 1.47
+      },
+      {
+        "month": 4,
+        "temperature": 9.76,
+        "rain": 1.36
+      },
+      {
+        "month": 5,
+        "temperature": 14.45,
+        "rain": 2.73
+      },
+      {
+        "month": 6,
+        "temperature": 18.81,
+        "rain": 3.02
+      },
+      {
+        "month": 7,
+        "temperature": 20.9,
+        "rain": 2.84
+      },
+      {
+        "month": 8,
+        "temperature": 20.41,
+        "rain": 2.79
+      },
+      {
+        "month": 9,
+        "temperature": 15.05,
+        "rain": 2.63
+      },
+      {
+        "month": 10,
+        "temperature": 9.61,
+        "rain": 1.73
+      },
+      {
+        "month": 11,
+        "temperature": 4.44,
+        "rain": 1.49
+      },
+      {
+        "month": 12,
+        "temperature": -0.39,
+        "rain": 1.37
+      }
+    ]
+  },
+  "GR": {
+    "city": "أثينا",
+    "lat": 37.98,
+    "lng": 23.73,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=23.73&latitude=37.98&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:34.945Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 9.2,
+        "rain": 2.13
+      },
+      {
+        "month": 2,
+        "temperature": 9.66,
+        "rain": 2.06
+      },
+      {
+        "month": 3,
+        "temperature": 11.79,
+        "rain": 1.7
+      },
+      {
+        "month": 4,
+        "temperature": 14.75,
+        "rain": 1.01
+      },
+      {
+        "month": 5,
+        "temperature": 19.92,
+        "rain": 0.67
+      },
+      {
+        "month": 6,
+        "temperature": 24.87,
+        "rain": 0.65
+      },
+      {
+        "month": 7,
+        "temperature": 27.52,
+        "rain": 0.37
+      },
+      {
+        "month": 8,
+        "temperature": 27.41,
+        "rain": 0.26
+      },
+      {
+        "month": 9,
+        "temperature": 23.74,
+        "rain": 0.97
+      },
+      {
+        "month": 10,
+        "temperature": 19.09,
+        "rain": 1.58
+      },
+      {
+        "month": 11,
+        "temperature": 14.82,
+        "rain": 2.31
+      },
+      {
+        "month": 12,
+        "temperature": 10.85,
+        "rain": 2.78
+      }
+    ]
+  },
+  "IS": {
+    "city": "ريكيافيك",
+    "lat": 64.15,
+    "lng": -21.94,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-21.94&latitude=64.15&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:35.016Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 0.04,
+        "rain": 5.45
+      },
+      {
+        "month": 2,
+        "temperature": 0.02,
+        "rain": 5.39
+      },
+      {
+        "month": 3,
+        "temperature": 0.75,
+        "rain": 4.95
+      },
+      {
+        "month": 4,
+        "temperature": 3.08,
+        "rain": 3.98
+      },
+      {
+        "month": 5,
+        "temperature": 5.79,
+        "rain": 2.99
+      },
+      {
+        "month": 6,
+        "temperature": 9.34,
+        "rain": 2.77
+      },
+      {
+        "month": 7,
+        "temperature": 11.1,
+        "rain": 3.18
+      },
+      {
+        "month": 8,
+        "temperature": 10.49,
+        "rain": 3.89
+      },
+      {
+        "month": 9,
+        "temperature": 7.85,
+        "rain": 6.03
+      },
+      {
+        "month": 10,
+        "temperature": 4.24,
+        "rain": 4.75
+      },
+      {
+        "month": 11,
+        "temperature": 1.75,
+        "rain": 4.98
+      },
+      {
+        "month": 12,
+        "temperature": 0.26,
+        "rain": 5.54
+      }
+    ]
+  },
+  "NL": {
+    "city": "أمستردام",
+    "lat": 52.37,
+    "lng": 4.9,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=4.9&latitude=52.37&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:35.055Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 3.5,
+        "rain": 2.42
+      },
+      {
+        "month": 2,
+        "temperature": 3.47,
+        "rain": 2.27
+      },
+      {
+        "month": 3,
+        "temperature": 5.56,
+        "rain": 1.7
+      },
+      {
+        "month": 4,
+        "temperature": 9.15,
+        "rain": 1.32
+      },
+      {
+        "month": 5,
+        "temperature": 12.66,
+        "rain": 1.85
+      },
+      {
+        "month": 6,
+        "temperature": 15.8,
+        "rain": 2.11
+      },
+      {
+        "month": 7,
+        "temperature": 17.93,
+        "rain": 2.61
+      },
+      {
+        "month": 8,
+        "temperature": 17.97,
+        "rain": 2.89
+      },
+      {
+        "month": 9,
+        "temperature": 15.35,
+        "rain": 2.32
+      },
+      {
+        "month": 10,
+        "temperature": 11.59,
+        "rain": 2.53
+      },
+      {
+        "month": 11,
+        "temperature": 7.66,
+        "rain": 2.53
+      },
+      {
+        "month": 12,
+        "temperature": 4.61,
+        "rain": 2.6
+      }
+    ]
+  },
+  "BH": {
+    "city": "المنامة",
+    "lat": 26.22,
+    "lng": 50.59,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=50.59&latitude=26.22&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:35.321Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 17.95,
+        "rain": 0.23
+      },
+      {
+        "month": 2,
+        "temperature": 18.4,
+        "rain": 0.18
+      },
+      {
+        "month": 3,
+        "temperature": 21.38,
+        "rain": 0.11
+      },
+      {
+        "month": 4,
+        "temperature": 25.39,
+        "rain": 0.14
+      },
+      {
+        "month": 5,
+        "temperature": 30.13,
+        "rain": 0.01
+      },
+      {
+        "month": 6,
+        "temperature": 32.84,
+        "rain": 0
+      },
+      {
+        "month": 7,
+        "temperature": 34.57,
+        "rain": 0
+      },
+      {
+        "month": 8,
+        "temperature": 35,
+        "rain": 0.02
+      },
+      {
+        "month": 9,
+        "temperature": 33.48,
+        "rain": 0
+      },
+      {
+        "month": 10,
+        "temperature": 30.4,
+        "rain": 0.04
+      },
+      {
+        "month": 11,
+        "temperature": 25.32,
+        "rain": 0.34
+      },
+      {
+        "month": 12,
+        "temperature": 20.39,
+        "rain": 0.27
+      }
+    ]
+  },
+  "QA": {
+    "city": "الدوحة",
+    "lat": 25.29,
+    "lng": 51.53,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=51.53&latitude=25.29&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:35.383Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 17.51,
+        "rain": 0.2
+      },
+      {
+        "month": 2,
+        "temperature": 18.63,
+        "rain": 0.16
+      },
+      {
+        "month": 3,
+        "temperature": 22.21,
+        "rain": 0.14
+      },
+      {
+        "month": 4,
+        "temperature": 26.91,
+        "rain": 0.17
+      },
+      {
+        "month": 5,
+        "temperature": 32.1,
+        "rain": 0.01
+      },
+      {
+        "month": 6,
+        "temperature": 34.45,
+        "rain": 0
+      },
+      {
+        "month": 7,
+        "temperature": 36.14,
+        "rain": 0
+      },
+      {
+        "month": 8,
+        "temperature": 36.3,
+        "rain": 0.01
+      },
+      {
+        "month": 9,
+        "temperature": 34.1,
+        "rain": 0
+      },
+      {
+        "month": 10,
+        "temperature": 30.38,
+        "rain": 0.06
+      },
+      {
+        "month": 11,
+        "temperature": 24.95,
+        "rain": 0.32
+      },
+      {
+        "month": 12,
+        "temperature": 19.89,
+        "rain": 0.28
+      }
+    ]
+  },
+  "OM": {
+    "city": "مسقط",
+    "lat": 23.59,
+    "lng": 58.41,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=58.41&latitude=23.59&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:35.425Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 19.23,
+        "rain": 0.58
+      },
+      {
+        "month": 2,
+        "temperature": 20.93,
+        "rain": 0.48
+      },
+      {
+        "month": 3,
+        "temperature": 24.33,
+        "rain": 0.68
+      },
+      {
+        "month": 4,
+        "temperature": 28.98,
+        "rain": 0.4
+      },
+      {
+        "month": 5,
+        "temperature": 33.36,
+        "rain": 0.19
+      },
+      {
+        "month": 6,
+        "temperature": 34.82,
+        "rain": 0.41
+      },
+      {
+        "month": 7,
+        "temperature": 34.8,
+        "rain": 0.34
+      },
+      {
+        "month": 8,
+        "temperature": 33.74,
+        "rain": 0.25
+      },
+      {
+        "month": 9,
+        "temperature": 31.92,
+        "rain": 0.15
+      },
+      {
+        "month": 10,
+        "temperature": 28.87,
+        "rain": 0.19
+      },
+      {
+        "month": 11,
+        "temperature": 24.29,
+        "rain": 0.3
+      },
+      {
+        "month": 12,
+        "temperature": 20.7,
+        "rain": 0.31
+      }
+    ]
+  },
+  "KW": {
+    "city": "مدينة الكويت",
+    "lat": 29.38,
+    "lng": 47.98,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=47.98&latitude=29.38&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:35.760Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 13.82,
+        "rain": 0.38
+      },
+      {
+        "month": 2,
+        "temperature": 15.43,
+        "rain": 0.28
+      },
+      {
+        "month": 3,
+        "temperature": 19.94,
+        "rain": 0.13
+      },
+      {
+        "month": 4,
+        "temperature": 24.87,
+        "rain": 0.24
+      },
+      {
+        "month": 5,
+        "temperature": 31.19,
+        "rain": 0.02
+      },
+      {
+        "month": 6,
+        "temperature": 35.27,
+        "rain": 0.01
+      },
+      {
+        "month": 7,
+        "temperature": 37.02,
+        "rain": 0.01
+      },
+      {
+        "month": 8,
+        "temperature": 37.07,
+        "rain": 0
+      },
+      {
+        "month": 9,
+        "temperature": 34.08,
+        "rain": 0
+      },
+      {
+        "month": 10,
+        "temperature": 29.05,
+        "rain": 0.03
+      },
+      {
+        "month": 11,
+        "temperature": 21.44,
+        "rain": 0.19
+      },
+      {
+        "month": 12,
+        "temperature": 15.88,
+        "rain": 0.25
+      }
+    ]
+  },
+  "EG": {
+    "city": "القاهرة",
+    "lat": 30.04,
+    "lng": 31.24,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=31.24&latitude=30.04&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:36.121Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 12.06,
+        "rain": 0.26
+      },
+      {
+        "month": 2,
+        "temperature": 13.74,
+        "rain": 0.24
+      },
+      {
+        "month": 3,
+        "temperature": 17.09,
+        "rain": 0.22
+      },
+      {
+        "month": 4,
+        "temperature": 20.89,
+        "rain": 0.3
+      },
+      {
+        "month": 5,
+        "temperature": 25.34,
+        "rain": 0.01
+      },
+      {
+        "month": 6,
+        "temperature": 28.53,
+        "rain": 0.01
+      },
+      {
+        "month": 7,
+        "temperature": 29.95,
+        "rain": 0.01
+      },
+      {
+        "month": 8,
+        "temperature": 29.9,
+        "rain": 0
+      },
+      {
+        "month": 9,
+        "temperature": 27.48,
+        "rain": 0.01
+      },
+      {
+        "month": 10,
+        "temperature": 23.69,
+        "rain": 0.15
+      },
+      {
+        "month": 11,
+        "temperature": 18.68,
+        "rain": 0.56
+      },
+      {
+        "month": 12,
+        "temperature": 14.03,
+        "rain": 0.21
+      }
+    ]
+  },
+  "AZ": {
+    "city": "باكو",
+    "lat": 40.41,
+    "lng": 49.87,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=49.87&latitude=40.41&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:36.148Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 6.02,
+        "rain": 0.51
+      },
+      {
+        "month": 2,
+        "temperature": 5.69,
+        "rain": 0.54
+      },
+      {
+        "month": 3,
+        "temperature": 7.61,
+        "rain": 0.51
+      },
+      {
+        "month": 4,
+        "temperature": 10.9,
+        "rain": 0.42
+      },
+      {
+        "month": 5,
+        "temperature": 17.25,
+        "rain": 0.33
+      },
+      {
+        "month": 6,
+        "temperature": 22.72,
+        "rain": 0.19
+      },
+      {
+        "month": 7,
+        "temperature": 25.87,
+        "rain": 0.09
+      },
+      {
+        "month": 8,
+        "temperature": 26.52,
+        "rain": 0.13
+      },
+      {
+        "month": 9,
+        "temperature": 23.03,
+        "rain": 0.42
+      },
+      {
+        "month": 10,
+        "temperature": 17.77,
+        "rain": 0.7
+      },
+      {
+        "month": 11,
+        "temperature": 12.18,
+        "rain": 0.83
+      },
+      {
+        "month": 12,
+        "temperature": 8.1,
+        "rain": 0.56
+      }
+    ]
+  },
+  "JO": {
+    "city": "عمّان",
+    "lat": 31.95,
+    "lng": 35.93,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=35.93&latitude=31.95&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:36.190Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 11.34,
+        "rain": 2.04
+      },
+      {
+        "month": 2,
+        "temperature": 12.8,
+        "rain": 2.04
+      },
+      {
+        "month": 3,
+        "temperature": 15.99,
+        "rain": 1.02
+      },
+      {
+        "month": 4,
+        "temperature": 19.68,
+        "rain": 0.5
+      },
+      {
+        "month": 5,
+        "temperature": 24.31,
+        "rain": 0.18
+      },
+      {
+        "month": 6,
+        "temperature": 27.69,
+        "rain": 0.02
+      },
+      {
+        "month": 7,
+        "temperature": 29.67,
+        "rain": 0.01
+      },
+      {
+        "month": 8,
+        "temperature": 29.68,
+        "rain": 0.03
+      },
+      {
+        "month": 9,
+        "temperature": 27.7,
+        "rain": 0.04
+      },
+      {
+        "month": 10,
+        "temperature": 24.42,
+        "rain": 0.27
+      },
+      {
+        "month": 11,
+        "temperature": 18.39,
+        "rain": 0.97
+      },
+      {
+        "month": 12,
+        "temperature": 13.47,
+        "rain": 1.67
+      }
+    ]
+  },
+  "ID": {
+    "city": "دنباسار، بالي",
+    "lat": -8.65,
+    "lng": 115.22,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=115.22&latitude=-8.65&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:36.480Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 25.53,
+        "rain": 10.21
+      },
+      {
+        "month": 2,
+        "temperature": 25.54,
+        "rain": 8.91
+      },
+      {
+        "month": 3,
+        "temperature": 25.67,
+        "rain": 6.49
+      },
+      {
+        "month": 4,
+        "temperature": 25.7,
+        "rain": 4.1
+      },
+      {
+        "month": 5,
+        "temperature": 25.14,
+        "rain": 2.64
+      },
+      {
+        "month": 6,
+        "temperature": 24.28,
+        "rain": 1.78
+      },
+      {
+        "month": 7,
+        "temperature": 23.54,
+        "rain": 1.28
+      },
+      {
+        "month": 8,
+        "temperature": 23.45,
+        "rain": 0.77
+      },
+      {
+        "month": 9,
+        "temperature": 24.36,
+        "rain": 1.26
+      },
+      {
+        "month": 10,
+        "temperature": 25.65,
+        "rain": 1.84
+      },
+      {
+        "month": 11,
+        "temperature": 26.29,
+        "rain": 4.47
+      },
+      {
+        "month": 12,
+        "temperature": 25.87,
+        "rain": 8.76
+      }
+    ]
+  },
+  "MV": {
+    "city": "ماليه",
+    "lat": 4.18,
+    "lng": 73.51,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=73.51&latitude=4.18&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:36.499Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 27.33,
+        "rain": 1.71
+      },
+      {
+        "month": 2,
+        "temperature": 27.5,
+        "rain": 1.3
+      },
+      {
+        "month": 3,
+        "temperature": 28.08,
+        "rain": 1.6
+      },
+      {
+        "month": 4,
+        "temperature": 28.57,
+        "rain": 3.26
+      },
+      {
+        "month": 5,
+        "temperature": 28.67,
+        "rain": 6.16
+      },
+      {
+        "month": 6,
+        "temperature": 28.28,
+        "rain": 4.93
+      },
+      {
+        "month": 7,
+        "temperature": 27.95,
+        "rain": 5.31
+      },
+      {
+        "month": 8,
+        "temperature": 27.78,
+        "rain": 6.23
+      },
+      {
+        "month": 9,
+        "temperature": 27.65,
+        "rain": 6.17
+      },
+      {
+        "month": 10,
+        "temperature": 27.63,
+        "rain": 6
+      },
+      {
+        "month": 11,
+        "temperature": 27.39,
+        "rain": 7.75
+      },
+      {
+        "month": 12,
+        "temperature": 27.43,
+        "rain": 5.92
+      }
+    ]
+  },
+  "MU": {
+    "city": "بورت لويس",
+    "lat": -20.16,
+    "lng": 57.5,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=57.5&latitude=-20.16&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:36.947Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 27.22,
+        "rain": 4.12
+      },
+      {
+        "month": 2,
+        "temperature": 27.57,
+        "rain": 4.1
+      },
+      {
+        "month": 3,
+        "temperature": 27.33,
+        "rain": 3.93
+      },
+      {
+        "month": 4,
+        "temperature": 26.61,
+        "rain": 2.24
+      },
+      {
+        "month": 5,
+        "temperature": 25.34,
+        "rain": 1.32
+      },
+      {
+        "month": 6,
+        "temperature": 23.89,
+        "rain": 0.95
+      },
+      {
+        "month": 7,
+        "temperature": 23.03,
+        "rain": 0.83
+      },
+      {
+        "month": 8,
+        "temperature": 22.75,
+        "rain": 0.69
+      },
+      {
+        "month": 9,
+        "temperature": 23.02,
+        "rain": 0.8
+      },
+      {
+        "month": 10,
+        "temperature": 23.78,
+        "rain": 0.94
+      },
+      {
+        "month": 11,
+        "temperature": 24.98,
+        "rain": 0.98
+      },
+      {
+        "month": 12,
+        "temperature": 26.44,
+        "rain": 1.42
+      }
+    ]
+  },
+  "SE": {
+    "city": "ستوكهولم",
+    "lat": 59.33,
+    "lng": 18.07,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=18.07&latitude=59.33&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:37.251Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -3.08,
+        "rain": 1.5
+      },
+      {
+        "month": 2,
+        "temperature": -2.74,
+        "rain": 1.4
+      },
+      {
+        "month": 3,
+        "temperature": 0.08,
+        "rain": 1.26
+      },
+      {
+        "month": 4,
+        "temperature": 5.09,
+        "rain": 1.24
+      },
+      {
+        "month": 5,
+        "temperature": 10.46,
+        "rain": 1.62
+      },
+      {
+        "month": 6,
+        "temperature": 15.14,
+        "rain": 2.61
+      },
+      {
+        "month": 7,
+        "temperature": 18.42,
+        "rain": 2.25
+      },
+      {
+        "month": 8,
+        "temperature": 17.4,
+        "rain": 2.32
+      },
+      {
+        "month": 9,
+        "temperature": 12.85,
+        "rain": 1.82
+      },
+      {
+        "month": 10,
+        "temperature": 6.88,
+        "rain": 2.04
+      },
+      {
+        "month": 11,
+        "temperature": 2.51,
+        "rain": 2.03
+      },
+      {
+        "month": 12,
+        "temperature": -1.18,
+        "rain": 1.74
+      }
+    ]
+  },
+  "FI": {
+    "city": "هلسنكي",
+    "lat": 60.17,
+    "lng": 24.94,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=24.94&latitude=60.17&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:37.256Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -2.92,
+        "rain": 1.82
+      },
+      {
+        "month": 2,
+        "temperature": -3.94,
+        "rain": 1.59
+      },
+      {
+        "month": 3,
+        "temperature": -1.53,
+        "rain": 1.35
+      },
+      {
+        "month": 4,
+        "temperature": 3.12,
+        "rain": 1.35
+      },
+      {
+        "month": 5,
+        "temperature": 8.67,
+        "rain": 1.56
+      },
+      {
+        "month": 6,
+        "temperature": 13.5,
+        "rain": 2.2
+      },
+      {
+        "month": 7,
+        "temperature": 17.55,
+        "rain": 1.9
+      },
+      {
+        "month": 8,
+        "temperature": 17.28,
+        "rain": 2.28
+      },
+      {
+        "month": 9,
+        "temperature": 13.32,
+        "rain": 2.09
+      },
+      {
+        "month": 10,
+        "temperature": 7.43,
+        "rain": 2.58
+      },
+      {
+        "month": 11,
+        "temperature": 3.38,
+        "rain": 2.5
+      },
+      {
+        "month": 12,
+        "temperature": -0.14,
+        "rain": 2.15
+      }
+    ]
+  },
+  "IE": {
+    "city": "دبلن",
+    "lat": 53.35,
+    "lng": -6.26,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-6.26&latitude=53.35&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:37.618Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 5.84,
+        "rain": 2.78
+      },
+      {
+        "month": 2,
+        "temperature": 5.62,
+        "rain": 2.49
+      },
+      {
+        "month": 3,
+        "temperature": 6.4,
+        "rain": 2.25
+      },
+      {
+        "month": 4,
+        "temperature": 8.36,
+        "rain": 2.03
+      },
+      {
+        "month": 5,
+        "temperature": 10.9,
+        "rain": 2.17
+      },
+      {
+        "month": 6,
+        "temperature": 13.59,
+        "rain": 2.54
+      },
+      {
+        "month": 7,
+        "temperature": 15.11,
+        "rain": 2.57
+      },
+      {
+        "month": 8,
+        "temperature": 15,
+        "rain": 2.94
+      },
+      {
+        "month": 9,
+        "temperature": 13.5,
+        "rain": 2.53
+      },
+      {
+        "month": 10,
+        "temperature": 11.16,
+        "rain": 3.3
+      },
+      {
+        "month": 11,
+        "temperature": 8.35,
+        "rain": 3.52
+      },
+      {
+        "month": 12,
+        "temperature": 6.53,
+        "rain": 3.14
+      }
+    ]
+  },
+  "DK": {
+    "city": "كوبنهاغن",
+    "lat": 55.68,
+    "lng": 12.57,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=12.57&latitude=55.68&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:37.700Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 1.07,
+        "rain": 1.97
+      },
+      {
+        "month": 2,
+        "temperature": 0.86,
+        "rain": 1.7
+      },
+      {
+        "month": 3,
+        "temperature": 2.7,
+        "rain": 1.37
+      },
+      {
+        "month": 4,
+        "temperature": 6.67,
+        "rain": 1.14
+      },
+      {
+        "month": 5,
+        "temperature": 11.44,
+        "rain": 1.5
+      },
+      {
+        "month": 6,
+        "temperature": 15.23,
+        "rain": 2.12
+      },
+      {
+        "month": 7,
+        "temperature": 17.91,
+        "rain": 2.23
+      },
+      {
+        "month": 8,
+        "temperature": 17.82,
+        "rain": 2.67
+      },
+      {
+        "month": 9,
+        "temperature": 14.55,
+        "rain": 1.79
+      },
+      {
+        "month": 10,
+        "temperature": 10.08,
+        "rain": 2.27
+      },
+      {
+        "month": 11,
+        "temperature": 6.12,
+        "rain": 2.08
+      },
+      {
+        "month": 12,
+        "temperature": 2.81,
+        "rain": 2.04
+      }
+    ]
+  },
+  "LU": {
+    "city": "لوكسمبورغ",
+    "lat": 49.61,
+    "lng": 6.13,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=6.13&latitude=49.61&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:37.990Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 0.46,
+        "rain": 2.17
+      },
+      {
+        "month": 2,
+        "temperature": 1.27,
+        "rain": 2.01
+      },
+      {
+        "month": 3,
+        "temperature": 4.63,
+        "rain": 1.83
+      },
+      {
+        "month": 4,
+        "temperature": 8.97,
+        "rain": 1.53
+      },
+      {
+        "month": 5,
+        "temperature": 13.02,
+        "rain": 2.27
+      },
+      {
+        "month": 6,
+        "temperature": 17.02,
+        "rain": 2.28
+      },
+      {
+        "month": 7,
+        "temperature": 19.29,
+        "rain": 2.1
+      },
+      {
+        "month": 8,
+        "temperature": 18.75,
+        "rain": 2.33
+      },
+      {
+        "month": 9,
+        "temperature": 14.62,
+        "rain": 1.85
+      },
+      {
+        "month": 10,
+        "temperature": 9.89,
+        "rain": 2.09
+      },
+      {
+        "month": 11,
+        "temperature": 5.04,
+        "rain": 2.27
+      },
+      {
+        "month": 12,
+        "temperature": 1.46,
+        "rain": 2.56
+      }
+    ]
+  },
+  "BE": {
+    "city": "بروكسل",
+    "lat": 50.85,
+    "lng": 4.35,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=4.35&latitude=50.85&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:38.024Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 2.56,
+        "rain": 2.24
+      },
+      {
+        "month": 2,
+        "temperature": 3.16,
+        "rain": 2.14
+      },
+      {
+        "month": 3,
+        "temperature": 5.91,
+        "rain": 1.78
+      },
+      {
+        "month": 4,
+        "temperature": 9.7,
+        "rain": 1.28
+      },
+      {
+        "month": 5,
+        "temperature": 13.39,
+        "rain": 1.89
+      },
+      {
+        "month": 6,
+        "temperature": 16.67,
+        "rain": 2.09
+      },
+      {
+        "month": 7,
+        "temperature": 18.57,
+        "rain": 2.42
+      },
+      {
+        "month": 8,
+        "temperature": 18.15,
+        "rain": 2.56
+      },
+      {
+        "month": 9,
+        "temperature": 15.03,
+        "rain": 1.82
+      },
+      {
+        "month": 10,
+        "temperature": 11.13,
+        "rain": 2.02
+      },
+      {
+        "month": 11,
+        "temperature": 6.74,
+        "rain": 2.3
+      },
+      {
+        "month": 12,
+        "temperature": 3.37,
+        "rain": 2.51
+      }
+    ]
+  },
+  "PL": {
+    "city": "وارسو",
+    "lat": 52.23,
+    "lng": 21.01,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=21.01&latitude=52.23&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:38.079Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -3.97,
+        "rain": 1.46
+      },
+      {
+        "month": 2,
+        "temperature": -2.25,
+        "rain": 1.36
+      },
+      {
+        "month": 3,
+        "temperature": 2.34,
+        "rain": 1.25
+      },
+      {
+        "month": 4,
+        "temperature": 8.68,
+        "rain": 1.37
+      },
+      {
+        "month": 5,
+        "temperature": 14.41,
+        "rain": 2.38
+      },
+      {
+        "month": 6,
+        "temperature": 18.14,
+        "rain": 2.22
+      },
+      {
+        "month": 7,
+        "temperature": 20.62,
+        "rain": 2.44
+      },
+      {
+        "month": 8,
+        "temperature": 20,
+        "rain": 2
+      },
+      {
+        "month": 9,
+        "temperature": 14.68,
+        "rain": 1.73
+      },
+      {
+        "month": 10,
+        "temperature": 8.4,
+        "rain": 1.57
+      },
+      {
+        "month": 11,
+        "temperature": 3.46,
+        "rain": 1.42
+      },
+      {
+        "month": 12,
+        "temperature": -1.46,
+        "rain": 1.42
+      }
+    ]
+  },
+  "SK": {
+    "city": "براتيسلافا",
+    "lat": 48.15,
+    "lng": 17.11,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=17.11&latitude=48.15&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:38.391Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -1.2,
+        "rain": 1.3
+      },
+      {
+        "month": 2,
+        "temperature": 0.76,
+        "rain": 1.26
+      },
+      {
+        "month": 3,
+        "temperature": 5.23,
+        "rain": 1.33
+      },
+      {
+        "month": 4,
+        "temperature": 11.03,
+        "rain": 1.18
+      },
+      {
+        "month": 5,
+        "temperature": 15.98,
+        "rain": 2.28
+      },
+      {
+        "month": 6,
+        "temperature": 20.5,
+        "rain": 2.43
+      },
+      {
+        "month": 7,
+        "temperature": 22.73,
+        "rain": 2.24
+      },
+      {
+        "month": 8,
+        "temperature": 22.15,
+        "rain": 2.23
+      },
+      {
+        "month": 9,
+        "temperature": 16.57,
+        "rain": 2.29
+      },
+      {
+        "month": 10,
+        "temperature": 10.65,
+        "rain": 1.58
+      },
+      {
+        "month": 11,
+        "temperature": 5.21,
+        "rain": 1.44
+      },
+      {
+        "month": 12,
+        "temperature": 0.06,
+        "rain": 1.31
+      }
+    ]
+  },
+  "HU": {
+    "city": "بودابست",
+    "lat": 47.5,
+    "lng": 19.04,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=19.04&latitude=47.5&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:38.438Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -1.6,
+        "rain": 1.27
+      },
+      {
+        "month": 2,
+        "temperature": 0.34,
+        "rain": 1.43
+      },
+      {
+        "month": 3,
+        "temperature": 5.13,
+        "rain": 1.32
+      },
+      {
+        "month": 4,
+        "temperature": 11.17,
+        "rain": 1.16
+      },
+      {
+        "month": 5,
+        "temperature": 16.18,
+        "rain": 2.1
+      },
+      {
+        "month": 6,
+        "temperature": 20.47,
+        "rain": 2.34
+      },
+      {
+        "month": 7,
+        "temperature": 22.81,
+        "rain": 2.12
+      },
+      {
+        "month": 8,
+        "temperature": 22.32,
+        "rain": 2.03
+      },
+      {
+        "month": 9,
+        "temperature": 16.76,
+        "rain": 1.89
+      },
+      {
+        "month": 10,
+        "temperature": 10.81,
+        "rain": 1.63
+      },
+      {
+        "month": 11,
+        "temperature": 5.06,
+        "rain": 1.46
+      },
+      {
+        "month": 12,
+        "temperature": -0.42,
+        "rain": 1.39
+      }
+    ]
+  },
+  "CZ": {
+    "city": "براغ",
+    "lat": 50.08,
+    "lng": 14.44,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=14.44&latitude=50.08&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:38.756Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -2.18,
+        "rain": 1.35
+      },
+      {
+        "month": 2,
+        "temperature": -0.74,
+        "rain": 1.14
+      },
+      {
+        "month": 3,
+        "temperature": 3.29,
+        "rain": 1.26
+      },
+      {
+        "month": 4,
+        "temperature": 8.77,
+        "rain": 1.19
+      },
+      {
+        "month": 5,
+        "temperature": 13.62,
+        "rain": 2.23
+      },
+      {
+        "month": 6,
+        "temperature": 17.87,
+        "rain": 2.61
+      },
+      {
+        "month": 7,
+        "temperature": 20.06,
+        "rain": 2.56
+      },
+      {
+        "month": 8,
+        "temperature": 19.53,
+        "rain": 2.6
+      },
+      {
+        "month": 9,
+        "temperature": 14.4,
+        "rain": 1.75
+      },
+      {
+        "month": 10,
+        "temperature": 8.83,
+        "rain": 1.49
+      },
+      {
+        "month": 11,
+        "temperature": 3.59,
+        "rain": 1.42
+      },
+      {
+        "month": 12,
+        "temperature": -0.61,
+        "rain": 1.33
+      }
+    ]
+  },
+  "SI": {
+    "city": "ليوبليانا",
+    "lat": 46.06,
+    "lng": 14.51,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=14.51&latitude=46.06&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:39.145Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -1.2,
+        "rain": 1.94
+      },
+      {
+        "month": 2,
+        "temperature": -0.13,
+        "rain": 2.57
+      },
+      {
+        "month": 3,
+        "temperature": 4.04,
+        "rain": 2.28
+      },
+      {
+        "month": 4,
+        "temperature": 8.97,
+        "rain": 2.42
+      },
+      {
+        "month": 5,
+        "temperature": 13.5,
+        "rain": 3.1
+      },
+      {
+        "month": 6,
+        "temperature": 17.76,
+        "rain": 2.92
+      },
+      {
+        "month": 7,
+        "temperature": 19.94,
+        "rain": 2.67
+      },
+      {
+        "month": 8,
+        "temperature": 19.62,
+        "rain": 3.02
+      },
+      {
+        "month": 9,
+        "temperature": 14.49,
+        "rain": 3.92
+      },
+      {
+        "month": 10,
+        "temperature": 9.74,
+        "rain": 3.36
+      },
+      {
+        "month": 11,
+        "temperature": 4.94,
+        "rain": 3.62
+      },
+      {
+        "month": 12,
+        "temperature": 0.13,
+        "rain": 2.73
+      }
+    ]
+  },
+  "HR": {
+    "city": "دوبروفنيك",
+    "lat": 42.65,
+    "lng": 18.09,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=18.09&latitude=42.65&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:39.197Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 9.19,
+        "rain": 4.61
+      },
+      {
+        "month": 2,
+        "temperature": 9.56,
+        "rain": 5.04
+      },
+      {
+        "month": 3,
+        "temperature": 11.5,
+        "rain": 3.96
+      },
+      {
+        "month": 4,
+        "temperature": 14.36,
+        "rain": 3.03
+      },
+      {
+        "month": 5,
+        "temperature": 18.24,
+        "rain": 2.42
+      },
+      {
+        "month": 6,
+        "temperature": 22.46,
+        "rain": 1.92
+      },
+      {
+        "month": 7,
+        "temperature": 25.43,
+        "rain": 1.12
+      },
+      {
+        "month": 8,
+        "temperature": 25.85,
+        "rain": 1.22
+      },
+      {
+        "month": 9,
+        "temperature": 21.99,
+        "rain": 3.44
+      },
+      {
+        "month": 10,
+        "temperature": 18.17,
+        "rain": 3.98
+      },
+      {
+        "month": 11,
+        "temperature": 14.62,
+        "rain": 5.36
+      },
+      {
+        "month": 12,
+        "temperature": 10.74,
+        "rain": 5.13
+      }
+    ]
+  },
+  "BA": {
+    "city": "سراييفو",
+    "lat": 43.86,
+    "lng": 18.41,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=18.41&latitude=43.86&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:39.513Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -1.68,
+        "rain": 2.49
+      },
+      {
+        "month": 2,
+        "temperature": -0.7,
+        "rain": 2.61
+      },
+      {
+        "month": 3,
+        "temperature": 3.05,
+        "rain": 2.39
+      },
+      {
+        "month": 4,
+        "temperature": 7.94,
+        "rain": 2.27
+      },
+      {
+        "month": 5,
+        "temperature": 12.43,
+        "rain": 2.62
+      },
+      {
+        "month": 6,
+        "temperature": 16.49,
+        "rain": 2.74
+      },
+      {
+        "month": 7,
+        "temperature": 19.13,
+        "rain": 1.75
+      },
+      {
+        "month": 8,
+        "temperature": 19.5,
+        "rain": 1.77
+      },
+      {
+        "month": 9,
+        "temperature": 14.12,
+        "rain": 2.61
+      },
+      {
+        "month": 10,
+        "temperature": 9.56,
+        "rain": 2.45
+      },
+      {
+        "month": 11,
+        "temperature": 4.84,
+        "rain": 3.02
+      },
+      {
+        "month": 12,
+        "temperature": -0.35,
+        "rain": 2.88
+      }
+    ]
+  },
+  "ME": {
+    "city": "كوتور",
+    "lat": 42.42,
+    "lng": 18.77,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=18.77&latitude=42.42&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:39.518Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 4.07,
+        "rain": 5.04
+      },
+      {
+        "month": 2,
+        "temperature": 4.87,
+        "rain": 5.39
+      },
+      {
+        "month": 3,
+        "temperature": 7.71,
+        "rain": 4.45
+      },
+      {
+        "month": 4,
+        "temperature": 11.51,
+        "rain": 3.43
+      },
+      {
+        "month": 5,
+        "temperature": 15.86,
+        "rain": 2.86
+      },
+      {
+        "month": 6,
+        "temperature": 20.21,
+        "rain": 2.23
+      },
+      {
+        "month": 7,
+        "temperature": 23.61,
+        "rain": 1.34
+      },
+      {
+        "month": 8,
+        "temperature": 24.06,
+        "rain": 1.39
+      },
+      {
+        "month": 9,
+        "temperature": 19.03,
+        "rain": 3.85
+      },
+      {
+        "month": 10,
+        "temperature": 14.45,
+        "rain": 4.45
+      },
+      {
+        "month": 11,
+        "temperature": 10.2,
+        "rain": 6.22
+      },
+      {
+        "month": 12,
+        "temperature": 5.64,
+        "rain": 5.74
+      }
+    ]
+  },
+  "RS": {
+    "city": "بلغراد",
+    "lat": 44.79,
+    "lng": 20.45,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=20.45&latitude=44.79&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:39.562Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -0.32,
+        "rain": 1.54
+      },
+      {
+        "month": 2,
+        "temperature": 1.84,
+        "rain": 1.62
+      },
+      {
+        "month": 3,
+        "temperature": 6.92,
+        "rain": 1.61
+      },
+      {
+        "month": 4,
+        "temperature": 12.52,
+        "rain": 1.65
+      },
+      {
+        "month": 5,
+        "temperature": 17.59,
+        "rain": 2.52
+      },
+      {
+        "month": 6,
+        "temperature": 21.85,
+        "rain": 2.77
+      },
+      {
+        "month": 7,
+        "temperature": 24.38,
+        "rain": 2.04
+      },
+      {
+        "month": 8,
+        "temperature": 24.38,
+        "rain": 1.78
+      },
+      {
+        "month": 9,
+        "temperature": 18.81,
+        "rain": 1.87
+      },
+      {
+        "month": 10,
+        "temperature": 12.77,
+        "rain": 1.73
+      },
+      {
+        "month": 11,
+        "temperature": 6.88,
+        "rain": 1.55
+      },
+      {
+        "month": 12,
+        "temperature": 1.13,
+        "rain": 1.52
+      }
+    ]
+  },
+  "MK": {
+    "city": "سكوبيه",
+    "lat": 42,
+    "lng": 21.43,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=21.43&latitude=42&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:39.876Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -1.27,
+        "rain": 2.47
+      },
+      {
+        "month": 2,
+        "temperature": 0.52,
+        "rain": 2.41
+      },
+      {
+        "month": 3,
+        "temperature": 4.73,
+        "rain": 2.36
+      },
+      {
+        "month": 4,
+        "temperature": 9.52,
+        "rain": 2.21
+      },
+      {
+        "month": 5,
+        "temperature": 14.56,
+        "rain": 2.45
+      },
+      {
+        "month": 6,
+        "temperature": 19.21,
+        "rain": 1.9
+      },
+      {
+        "month": 7,
+        "temperature": 22.69,
+        "rain": 1.19
+      },
+      {
+        "month": 8,
+        "temperature": 23.07,
+        "rain": 1.26
+      },
+      {
+        "month": 9,
+        "temperature": 17.46,
+        "rain": 2.28
+      },
+      {
+        "month": 10,
+        "temperature": 11.77,
+        "rain": 2.84
+      },
+      {
+        "month": 11,
+        "temperature": 5.95,
+        "rain": 3.23
+      },
+      {
+        "month": 12,
+        "temperature": 0.22,
+        "rain": 2.74
+      }
+    ]
+  },
+  "RO": {
+    "city": "بوخارست",
+    "lat": 44.43,
+    "lng": 26.1,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=26.1&latitude=44.43&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:39.939Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -1.58,
+        "rain": 1.42
+      },
+      {
+        "month": 2,
+        "temperature": 0.96,
+        "rain": 1.21
+      },
+      {
+        "month": 3,
+        "temperature": 6.33,
+        "rain": 1.27
+      },
+      {
+        "month": 4,
+        "temperature": 11.95,
+        "rain": 1.44
+      },
+      {
+        "month": 5,
+        "temperature": 17.9,
+        "rain": 2.09
+      },
+      {
+        "month": 6,
+        "temperature": 22.43,
+        "rain": 2.63
+      },
+      {
+        "month": 7,
+        "temperature": 25.01,
+        "rain": 2.16
+      },
+      {
+        "month": 8,
+        "temperature": 25,
+        "rain": 1.48
+      },
+      {
+        "month": 9,
+        "temperature": 19.44,
+        "rain": 1.72
+      },
+      {
+        "month": 10,
+        "temperature": 12.49,
+        "rain": 1.81
+      },
+      {
+        "month": 11,
+        "temperature": 6.33,
+        "rain": 1.41
+      },
+      {
+        "month": 12,
+        "temperature": 0.34,
+        "rain": 1.55
+      }
+    ]
+  },
+  "EE": {
+    "city": "تالين",
+    "lat": 59.44,
+    "lng": 24.75,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=24.75&latitude=59.44&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:40.300Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -3.91,
+        "rain": 1.68
+      },
+      {
+        "month": 2,
+        "temperature": -4.72,
+        "rain": 1.5
+      },
+      {
+        "month": 3,
+        "temperature": -1.78,
+        "rain": 1.28
+      },
+      {
+        "month": 4,
+        "temperature": 3.59,
+        "rain": 1.32
+      },
+      {
+        "month": 5,
+        "temperature": 9.59,
+        "rain": 1.56
+      },
+      {
+        "month": 6,
+        "temperature": 14.24,
+        "rain": 2.39
+      },
+      {
+        "month": 7,
+        "temperature": 18.18,
+        "rain": 2.11
+      },
+      {
+        "month": 8,
+        "temperature": 17.54,
+        "rain": 2.31
+      },
+      {
+        "month": 9,
+        "temperature": 13.2,
+        "rain": 1.91
+      },
+      {
+        "month": 10,
+        "temperature": 6.95,
+        "rain": 2.3
+      },
+      {
+        "month": 11,
+        "temperature": 2.53,
+        "rain": 2.28
+      },
+      {
+        "month": 12,
+        "temperature": -1.21,
+        "rain": 1.85
+      }
+    ]
+  },
+  "AL": {
+    "city": "تيرانا",
+    "lat": 41.33,
+    "lng": 19.82,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=19.82&latitude=41.33&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:40.361Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 2.01,
+        "rain": 2.99
+      },
+      {
+        "month": 2,
+        "temperature": 3.22,
+        "rain": 2.93
+      },
+      {
+        "month": 3,
+        "temperature": 6.6,
+        "rain": 2.48
+      },
+      {
+        "month": 4,
+        "temperature": 10.58,
+        "rain": 2.29
+      },
+      {
+        "month": 5,
+        "temperature": 15.3,
+        "rain": 2.05
+      },
+      {
+        "month": 6,
+        "temperature": 20.12,
+        "rain": 1.49
+      },
+      {
+        "month": 7,
+        "temperature": 23.61,
+        "rain": 0.93
+      },
+      {
+        "month": 8,
+        "temperature": 23.98,
+        "rain": 0.86
+      },
+      {
+        "month": 9,
+        "temperature": 18.44,
+        "rain": 2.47
+      },
+      {
+        "month": 10,
+        "temperature": 13.39,
+        "rain": 3.06
+      },
+      {
+        "month": 11,
+        "temperature": 8.4,
+        "rain": 3.63
+      },
+      {
+        "month": 12,
+        "temperature": 3.43,
+        "rain": 3.52
+      }
+    ]
+  },
+  "BG": {
+    "city": "صوفيا",
+    "lat": 42.7,
+    "lng": 23.32,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=23.32&latitude=42.7&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:40.631Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -2.27,
+        "rain": 1.64
+      },
+      {
+        "month": 2,
+        "temperature": -0.26,
+        "rain": 1.59
+      },
+      {
+        "month": 3,
+        "temperature": 3.98,
+        "rain": 1.85
+      },
+      {
+        "month": 4,
+        "temperature": 8.81,
+        "rain": 1.91
+      },
+      {
+        "month": 5,
+        "temperature": 14.11,
+        "rain": 2.58
+      },
+      {
+        "month": 6,
+        "temperature": 18.29,
+        "rain": 2.82
+      },
+      {
+        "month": 7,
+        "temperature": 21.06,
+        "rain": 2.19
+      },
+      {
+        "month": 8,
+        "temperature": 21.2,
+        "rain": 1.86
+      },
+      {
+        "month": 9,
+        "temperature": 16.28,
+        "rain": 1.8
+      },
+      {
+        "month": 10,
+        "temperature": 10.5,
+        "rain": 1.84
+      },
+      {
+        "month": 11,
+        "temperature": 5.09,
+        "rain": 1.41
+      },
+      {
+        "month": 12,
+        "temperature": -0.55,
+        "rain": 1.63
+      }
+    ]
+  },
+  "LV": {
+    "city": "ريغا",
+    "lat": 56.95,
+    "lng": 24.11,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=24.11&latitude=56.95&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:40.692Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -4.88,
+        "rain": 1.89
+      },
+      {
+        "month": 2,
+        "temperature": -5.06,
+        "rain": 1.71
+      },
+      {
+        "month": 3,
+        "temperature": -1.09,
+        "rain": 1.47
+      },
+      {
+        "month": 4,
+        "temperature": 5.1,
+        "rain": 1.59
+      },
+      {
+        "month": 5,
+        "temperature": 11.29,
+        "rain": 1.66
+      },
+      {
+        "month": 6,
+        "temperature": 15.25,
+        "rain": 2.53
+      },
+      {
+        "month": 7,
+        "temperature": 18.23,
+        "rain": 2.65
+      },
+      {
+        "month": 8,
+        "temperature": 17.32,
+        "rain": 2.59
+      },
+      {
+        "month": 9,
+        "temperature": 12.93,
+        "rain": 1.98
+      },
+      {
+        "month": 10,
+        "temperature": 6.7,
+        "rain": 2.53
+      },
+      {
+        "month": 11,
+        "temperature": 2.22,
+        "rain": 2.48
+      },
+      {
+        "month": 12,
+        "temperature": -1.85,
+        "rain": 2.02
+      }
+    ]
+  },
+  "NO": {
+    "city": "أوسلو",
+    "lat": 59.91,
+    "lng": 10.75,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=10.75&latitude=59.91&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:40.718Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -5.94,
+        "rain": 2.5
+      },
+      {
+        "month": 2,
+        "temperature": -5.43,
+        "rain": 2.12
+      },
+      {
+        "month": 3,
+        "temperature": -1.84,
+        "rain": 1.82
+      },
+      {
+        "month": 4,
+        "temperature": 4.1,
+        "rain": 2.03
+      },
+      {
+        "month": 5,
+        "temperature": 9.64,
+        "rain": 2.97
+      },
+      {
+        "month": 6,
+        "temperature": 13.85,
+        "rain": 3.2
+      },
+      {
+        "month": 7,
+        "temperature": 16.15,
+        "rain": 3.6
+      },
+      {
+        "month": 8,
+        "temperature": 14.78,
+        "rain": 3.94
+      },
+      {
+        "month": 9,
+        "temperature": 10.49,
+        "rain": 3.19
+      },
+      {
+        "month": 10,
+        "temperature": 4.47,
+        "rain": 3.35
+      },
+      {
+        "month": 11,
+        "temperature": -0.47,
+        "rain": 3.12
+      },
+      {
+        "month": 12,
+        "temperature": -4.94,
+        "rain": 2.52
+      }
+    ]
+  },
+  "LT": {
+    "city": "فيلنيوس",
+    "lat": 54.69,
+    "lng": 25.28,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=25.28&latitude=54.69&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:40.730Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -6.5,
+        "rain": 1.73
+      },
+      {
+        "month": 2,
+        "temperature": -5.47,
+        "rain": 1.52
+      },
+      {
+        "month": 3,
+        "temperature": -0.5,
+        "rain": 1.44
+      },
+      {
+        "month": 4,
+        "temperature": 6.4,
+        "rain": 1.53
+      },
+      {
+        "month": 5,
+        "temperature": 12.63,
+        "rain": 2.28
+      },
+      {
+        "month": 6,
+        "temperature": 16.1,
+        "rain": 2.57
+      },
+      {
+        "month": 7,
+        "temperature": 18.62,
+        "rain": 3.23
+      },
+      {
+        "month": 8,
+        "temperature": 17.79,
+        "rain": 2.72
+      },
+      {
+        "month": 9,
+        "temperature": 12.8,
+        "rain": 1.79
+      },
+      {
+        "month": 10,
+        "temperature": 6.26,
+        "rain": 2.19
+      },
+      {
+        "month": 11,
+        "temperature": 1.54,
+        "rain": 1.88
+      },
+      {
+        "month": 12,
+        "temperature": -3.43,
+        "rain": 1.76
+      }
+    ]
+  },
+  "MT": {
+    "city": "فاليتا",
+    "lat": 35.9,
+    "lng": 14.51,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=14.51&latitude=35.9&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:41.065Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 14.58,
+        "rain": 2.39
+      },
+      {
+        "month": 2,
+        "temperature": 13.95,
+        "rain": 2.31
+      },
+      {
+        "month": 3,
+        "temperature": 14.71,
+        "rain": 1.65
+      },
+      {
+        "month": 4,
+        "temperature": 16.18,
+        "rain": 1.1
+      },
+      {
+        "month": 5,
+        "temperature": 18.84,
+        "rain": 0.55
+      },
+      {
+        "month": 6,
+        "temperature": 22.66,
+        "rain": 0.38
+      },
+      {
+        "month": 7,
+        "temperature": 25.71,
+        "rain": 0.14
+      },
+      {
+        "month": 8,
+        "temperature": 26.63,
+        "rain": 0.32
+      },
+      {
+        "month": 9,
+        "temperature": 25.14,
+        "rain": 2.09
+      },
+      {
+        "month": 10,
+        "temperature": 22.79,
+        "rain": 2.65
+      },
+      {
+        "month": 11,
+        "temperature": 19.66,
+        "rain": 3.18
+      },
+      {
+        "month": 12,
+        "temperature": 16.37,
+        "rain": 2.65
+      }
+    ]
+  },
+  "AD": {
+    "city": "أندورا لا فيلا",
+    "lat": 42.51,
+    "lng": 1.52,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=1.52&latitude=42.51&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:41.090Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -1.64,
+        "rain": 1.94
+      },
+      {
+        "month": 2,
+        "temperature": -1.79,
+        "rain": 1.68
+      },
+      {
+        "month": 3,
+        "temperature": 1.42,
+        "rain": 1.83
+      },
+      {
+        "month": 4,
+        "temperature": 4.69,
+        "rain": 2.37
+      },
+      {
+        "month": 5,
+        "temperature": 8.52,
+        "rain": 2.47
+      },
+      {
+        "month": 6,
+        "temperature": 13.59,
+        "rain": 1.72
+      },
+      {
+        "month": 7,
+        "temperature": 16.37,
+        "rain": 1.47
+      },
+      {
+        "month": 8,
+        "temperature": 16.11,
+        "rain": 1.5
+      },
+      {
+        "month": 9,
+        "temperature": 11.96,
+        "rain": 1.67
+      },
+      {
+        "month": 10,
+        "temperature": 7.91,
+        "rain": 2.05
+      },
+      {
+        "month": 11,
+        "temperature": 1.95,
+        "rain": 2.33
+      },
+      {
+        "month": 12,
+        "temperature": -0.92,
+        "rain": 1.59
+      }
+    ]
+  },
+  "CY": {
+    "city": "بافوس",
+    "lat": 34.78,
+    "lng": 32.42,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=32.42&latitude=34.78&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:41.396Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 11.2,
+        "rain": 2.87
+      },
+      {
+        "month": 2,
+        "temperature": 11.65,
+        "rain": 1.94
+      },
+      {
+        "month": 3,
+        "temperature": 13.64,
+        "rain": 1.05
+      },
+      {
+        "month": 4,
+        "temperature": 16.47,
+        "rain": 0.6
+      },
+      {
+        "month": 5,
+        "temperature": 20.44,
+        "rain": 0.43
+      },
+      {
+        "month": 6,
+        "temperature": 24.38,
+        "rain": 0.15
+      },
+      {
+        "month": 7,
+        "temperature": 27.18,
+        "rain": 0.07
+      },
+      {
+        "month": 8,
+        "temperature": 27.34,
+        "rain": 0.08
+      },
+      {
+        "month": 9,
+        "temperature": 25.02,
+        "rain": 0.34
+      },
+      {
+        "month": 10,
+        "temperature": 21.58,
+        "rain": 0.88
+      },
+      {
+        "month": 11,
+        "temperature": 17.1,
+        "rain": 1.43
+      },
+      {
+        "month": 12,
+        "temperature": 13.16,
+        "rain": 2.96
+      }
+    ]
+  },
+  "MC": {
+    "city": "موناكو",
+    "lat": 43.74,
+    "lng": 7.43,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=7.43&latitude=43.74&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:41.424Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 10.67,
+        "rain": 1.78
+      },
+      {
+        "month": 2,
+        "temperature": 10.46,
+        "rain": 1.88
+      },
+      {
+        "month": 3,
+        "temperature": 12.07,
+        "rain": 2
+      },
+      {
+        "month": 4,
+        "temperature": 14.21,
+        "rain": 1.85
+      },
+      {
+        "month": 5,
+        "temperature": 17.39,
+        "rain": 1.56
+      },
+      {
+        "month": 6,
+        "temperature": 21.29,
+        "rain": 0.98
+      },
+      {
+        "month": 7,
+        "temperature": 23.89,
+        "rain": 0.54
+      },
+      {
+        "month": 8,
+        "temperature": 24.25,
+        "rain": 0.75
+      },
+      {
+        "month": 9,
+        "temperature": 21.48,
+        "rain": 1.55
+      },
+      {
+        "month": 10,
+        "temperature": 18.17,
+        "rain": 2.84
+      },
+      {
+        "month": 11,
+        "temperature": 14.61,
+        "rain": 4.11
+      },
+      {
+        "month": 12,
+        "temperature": 11.89,
+        "rain": 2.6
+      }
+    ]
+  },
+  "LI": {
+    "city": "فادوتس",
+    "lat": 47.14,
+    "lng": 9.52,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=9.52&latitude=47.14&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:41.462Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -5.8,
+        "rain": 2.97
+      },
+      {
+        "month": 2,
+        "temperature": -5.28,
+        "rain": 2.49
+      },
+      {
+        "month": 3,
+        "temperature": -1.04,
+        "rain": 2.93
+      },
+      {
+        "month": 4,
+        "temperature": 4.07,
+        "rain": 3.1
+      },
+      {
+        "month": 5,
+        "temperature": 8.44,
+        "rain": 4.74
+      },
+      {
+        "month": 6,
+        "temperature": 12.7,
+        "rain": 5.77
+      },
+      {
+        "month": 7,
+        "temperature": 14.34,
+        "rain": 5.44
+      },
+      {
+        "month": 8,
+        "temperature": 13.9,
+        "rain": 5.97
+      },
+      {
+        "month": 9,
+        "temperature": 9.79,
+        "rain": 4.03
+      },
+      {
+        "month": 10,
+        "temperature": 5.76,
+        "rain": 3.32
+      },
+      {
+        "month": 11,
+        "temperature": 0.35,
+        "rain": 3.04
+      },
+      {
+        "month": 12,
+        "temperature": -4.28,
+        "rain": 2.99
+      }
+    ]
+  },
+  "SM": {
+    "city": "سان مارينو",
+    "lat": 43.94,
+    "lng": 12.45,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=12.45&latitude=43.94&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:41.506Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 5.64,
+        "rain": 1.78
+      },
+      {
+        "month": 2,
+        "temperature": 6.08,
+        "rain": 2.5
+      },
+      {
+        "month": 3,
+        "temperature": 8.91,
+        "rain": 2.22
+      },
+      {
+        "month": 4,
+        "temperature": 12.57,
+        "rain": 2.09
+      },
+      {
+        "month": 5,
+        "temperature": 16.99,
+        "rain": 2.23
+      },
+      {
+        "month": 6,
+        "temperature": 21.9,
+        "rain": 1.52
+      },
+      {
+        "month": 7,
+        "temperature": 24.95,
+        "rain": 1.24
+      },
+      {
+        "month": 8,
+        "temperature": 24.76,
+        "rain": 1.51
+      },
+      {
+        "month": 9,
+        "temperature": 20.01,
+        "rain": 2.63
+      },
+      {
+        "month": 10,
+        "temperature": 15.61,
+        "rain": 2.54
+      },
+      {
+        "month": 11,
+        "temperature": 10.95,
+        "rain": 2.93
+      },
+      {
+        "month": 12,
+        "temperature": 6.91,
+        "rain": 2.18
+      }
+    ]
+  },
+  "KR": {
+    "city": "سيول",
+    "lat": 37.57,
+    "lng": 126.98,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=126.98&latitude=37.57&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:41.799Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -3.3,
+        "rain": 0.64
+      },
+      {
+        "month": 2,
+        "temperature": -0.91,
+        "rain": 1.08
+      },
+      {
+        "month": 3,
+        "temperature": 3.66,
+        "rain": 1.2
+      },
+      {
+        "month": 4,
+        "temperature": 9.77,
+        "rain": 2.4
+      },
+      {
+        "month": 5,
+        "temperature": 15.84,
+        "rain": 2.7
+      },
+      {
+        "month": 6,
+        "temperature": 20.85,
+        "rain": 3.87
+      },
+      {
+        "month": 7,
+        "temperature": 24.03,
+        "rain": 11.63
+      },
+      {
+        "month": 8,
+        "temperature": 24.9,
+        "rain": 8.4
+      },
+      {
+        "month": 9,
+        "temperature": 20.35,
+        "rain": 4.59
+      },
+      {
+        "month": 10,
+        "temperature": 13.91,
+        "rain": 1.72
+      },
+      {
+        "month": 11,
+        "temperature": 6.51,
+        "rain": 1.56
+      },
+      {
+        "month": 12,
+        "temperature": -1.03,
+        "rain": 0.71
+      }
+    ]
+  },
+  "VN": {
+    "city": "هانوي",
+    "lat": 21.03,
+    "lng": 105.85,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=105.85&latitude=21.03&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:41.843Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 15.44,
+        "rain": 1.03
+      },
+      {
+        "month": 2,
+        "temperature": 18.19,
+        "rain": 0.77
+      },
+      {
+        "month": 3,
+        "temperature": 21.41,
+        "rain": 1.58
+      },
+      {
+        "month": 4,
+        "temperature": 25.15,
+        "rain": 2.59
+      },
+      {
+        "month": 5,
+        "temperature": 27.51,
+        "rain": 5.77
+      },
+      {
+        "month": 6,
+        "temperature": 28.47,
+        "rain": 6.71
+      },
+      {
+        "month": 7,
+        "temperature": 28.35,
+        "rain": 9.67
+      },
+      {
+        "month": 8,
+        "temperature": 27.89,
+        "rain": 10.38
+      },
+      {
+        "month": 9,
+        "temperature": 26.7,
+        "rain": 7.43
+      },
+      {
+        "month": 10,
+        "temperature": 23.78,
+        "rain": 4
+      },
+      {
+        "month": 11,
+        "temperature": 20.27,
+        "rain": 1.74
+      },
+      {
+        "month": 12,
+        "temperature": 15.99,
+        "rain": 0.81
+      }
+    ]
+  },
+  "LA": {
+    "city": "لوانغ برابانغ",
+    "lat": 19.89,
+    "lng": 102.14,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=102.14&latitude=19.89&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:42.164Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 18.92,
+        "rain": 0.45
+      },
+      {
+        "month": 2,
+        "temperature": 21.47,
+        "rain": 0.2
+      },
+      {
+        "month": 3,
+        "temperature": 24.09,
+        "rain": 0.99
+      },
+      {
+        "month": 4,
+        "temperature": 26.25,
+        "rain": 2.05
+      },
+      {
+        "month": 5,
+        "temperature": 26.43,
+        "rain": 3.91
+      },
+      {
+        "month": 6,
+        "temperature": 25.98,
+        "rain": 3.87
+      },
+      {
+        "month": 7,
+        "temperature": 24.95,
+        "rain": 7.07
+      },
+      {
+        "month": 8,
+        "temperature": 24.63,
+        "rain": 7.56
+      },
+      {
+        "month": 9,
+        "temperature": 24.54,
+        "rain": 4.24
+      },
+      {
+        "month": 10,
+        "temperature": 23.65,
+        "rain": 1.79
+      },
+      {
+        "month": 11,
+        "temperature": 21.24,
+        "rain": 0.78
+      },
+      {
+        "month": 12,
+        "temperature": 18.47,
+        "rain": 0.39
+      }
+    ]
+  },
+  "CN": {
+    "city": "بكين",
+    "lat": 39.9,
+    "lng": 116.41,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=116.41&latitude=39.9&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:42.198Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -5.23,
+        "rain": 0.06
+      },
+      {
+        "month": 2,
+        "temperature": -1.79,
+        "rain": 0.2
+      },
+      {
+        "month": 3,
+        "temperature": 5.06,
+        "rain": 0.29
+      },
+      {
+        "month": 4,
+        "temperature": 13.2,
+        "rain": 0.8
+      },
+      {
+        "month": 5,
+        "temperature": 20.5,
+        "rain": 1.24
+      },
+      {
+        "month": 6,
+        "temperature": 24.79,
+        "rain": 2.8
+      },
+      {
+        "month": 7,
+        "temperature": 26.55,
+        "rain": 4.88
+      },
+      {
+        "month": 8,
+        "temperature": 25,
+        "rain": 3.5
+      },
+      {
+        "month": 9,
+        "temperature": 19.75,
+        "rain": 2.13
+      },
+      {
+        "month": 10,
+        "temperature": 11.85,
+        "rain": 0.97
+      },
+      {
+        "month": 11,
+        "temperature": 2.85,
+        "rain": 0.47
+      },
+      {
+        "month": 12,
+        "temperature": -3.96,
+        "rain": 0.07
+      }
+    ]
+  },
+  "NP": {
+    "city": "كاتماندو",
+    "lat": 27.72,
+    "lng": 85.32,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=85.32&latitude=27.72&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:42.211Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 11.07,
+        "rain": 0.32
+      },
+      {
+        "month": 2,
+        "temperature": 13.8,
+        "rain": 0.59
+      },
+      {
+        "month": 3,
+        "temperature": 18.11,
+        "rain": 0.67
+      },
+      {
+        "month": 4,
+        "temperature": 22.37,
+        "rain": 1.22
+      },
+      {
+        "month": 5,
+        "temperature": 24.23,
+        "rain": 2.87
+      },
+      {
+        "month": 6,
+        "temperature": 24.75,
+        "rain": 5.68
+      },
+      {
+        "month": 7,
+        "temperature": 23.27,
+        "rain": 9.04
+      },
+      {
+        "month": 8,
+        "temperature": 22.77,
+        "rain": 7.69
+      },
+      {
+        "month": 9,
+        "temperature": 21.59,
+        "rain": 5.62
+      },
+      {
+        "month": 10,
+        "temperature": 19,
+        "rain": 1.46
+      },
+      {
+        "month": 11,
+        "temperature": 15.49,
+        "rain": 0.11
+      },
+      {
+        "month": 12,
+        "temperature": 12.31,
+        "rain": 0.15
+      }
+    ]
+  },
+  "KH": {
+    "city": "سييم ريب",
+    "lat": 13.36,
+    "lng": 103.86,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=103.86&latitude=13.36&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:42.261Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 26.96,
+        "rain": 0.38
+      },
+      {
+        "month": 2,
+        "temperature": 29.11,
+        "rain": 0.57
+      },
+      {
+        "month": 3,
+        "temperature": 30.55,
+        "rain": 1.48
+      },
+      {
+        "month": 4,
+        "temperature": 30.59,
+        "rain": 2.49
+      },
+      {
+        "month": 5,
+        "temperature": 29.4,
+        "rain": 4.5
+      },
+      {
+        "month": 6,
+        "temperature": 28.04,
+        "rain": 5.59
+      },
+      {
+        "month": 7,
+        "temperature": 27.2,
+        "rain": 6.36
+      },
+      {
+        "month": 8,
+        "temperature": 27.07,
+        "rain": 6.3
+      },
+      {
+        "month": 9,
+        "temperature": 26.97,
+        "rain": 7.7
+      },
+      {
+        "month": 10,
+        "temperature": 26.92,
+        "rain": 4.46
+      },
+      {
+        "month": 11,
+        "temperature": 26.44,
+        "rain": 1.24
+      },
+      {
+        "month": 12,
+        "temperature": 25.99,
+        "rain": 0.21
+      }
+    ]
+  },
+  "BT": {
+    "city": "تيمفو",
+    "lat": 27.47,
+    "lng": 89.64,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=89.64&latitude=27.47&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:42.538Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -1.62,
+        "rain": 0.15
+      },
+      {
+        "month": 2,
+        "temperature": -0.42,
+        "rain": 0.42
+      },
+      {
+        "month": 3,
+        "temperature": 2.17,
+        "rain": 1.02
+      },
+      {
+        "month": 4,
+        "temperature": 5.51,
+        "rain": 2
+      },
+      {
+        "month": 5,
+        "temperature": 8.9,
+        "rain": 3.47
+      },
+      {
+        "month": 6,
+        "temperature": 12.05,
+        "rain": 5.09
+      },
+      {
+        "month": 7,
+        "temperature": 12.61,
+        "rain": 8.35
+      },
+      {
+        "month": 8,
+        "temperature": 12.32,
+        "rain": 6.66
+      },
+      {
+        "month": 9,
+        "temperature": 10.86,
+        "rain": 4.47
+      },
+      {
+        "month": 10,
+        "temperature": 7.09,
+        "rain": 1.63
+      },
+      {
+        "month": 11,
+        "temperature": 3.33,
+        "rain": 0.1
+      },
+      {
+        "month": 12,
+        "temperature": 0.32,
+        "rain": 0.08
+      }
+    ]
+  },
+  "LK": {
+    "city": "كولومبو",
+    "lat": 6.93,
+    "lng": 79.86,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=79.86&latitude=6.93&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:42.588Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 25.36,
+        "rain": 2.44
+      },
+      {
+        "month": 2,
+        "temperature": 26.23,
+        "rain": 2.51
+      },
+      {
+        "month": 3,
+        "temperature": 27.42,
+        "rain": 3.7
+      },
+      {
+        "month": 4,
+        "temperature": 27.57,
+        "rain": 7.52
+      },
+      {
+        "month": 5,
+        "temperature": 27.31,
+        "rain": 7.21
+      },
+      {
+        "month": 6,
+        "temperature": 26.65,
+        "rain": 4.78
+      },
+      {
+        "month": 7,
+        "temperature": 26.12,
+        "rain": 3.19
+      },
+      {
+        "month": 8,
+        "temperature": 26.1,
+        "rain": 3.64
+      },
+      {
+        "month": 9,
+        "temperature": 26.23,
+        "rain": 5.4
+      },
+      {
+        "month": 10,
+        "temperature": 26.17,
+        "rain": 9.41
+      },
+      {
+        "month": 11,
+        "temperature": 26.06,
+        "rain": 10.15
+      },
+      {
+        "month": 12,
+        "temperature": 25.58,
+        "rain": 5.65
+      }
+    ]
+  },
+  "PH": {
+    "city": "مانيلا",
+    "lat": 14.6,
+    "lng": 120.98,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=120.98&latitude=14.6&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:42.670Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 23.52,
+        "rain": 4.77
+      },
+      {
+        "month": 2,
+        "temperature": 23.96,
+        "rain": 5.23
+      },
+      {
+        "month": 3,
+        "temperature": 25.36,
+        "rain": 3.84
+      },
+      {
+        "month": 4,
+        "temperature": 27.24,
+        "rain": 3.39
+      },
+      {
+        "month": 5,
+        "temperature": 27.94,
+        "rain": 5.51
+      },
+      {
+        "month": 6,
+        "temperature": 27.1,
+        "rain": 8.26
+      },
+      {
+        "month": 7,
+        "temperature": 26.33,
+        "rain": 10.07
+      },
+      {
+        "month": 8,
+        "temperature": 26.15,
+        "rain": 9.31
+      },
+      {
+        "month": 9,
+        "temperature": 26.17,
+        "rain": 10.04
+      },
+      {
+        "month": 10,
+        "temperature": 25.83,
+        "rain": 11
+      },
+      {
+        "month": 11,
+        "temperature": 25.22,
+        "rain": 11.5
+      },
+      {
+        "month": 12,
+        "temperature": 24.34,
+        "rain": 12.68
+      }
+    ]
+  },
+  "IN": {
+    "city": "نيودلهي",
+    "lat": 28.61,
+    "lng": 77.21,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=77.21&latitude=28.61&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:42.958Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 13.61,
+        "rain": 0.53
+      },
+      {
+        "month": 2,
+        "temperature": 17.4,
+        "rain": 0.79
+      },
+      {
+        "month": 3,
+        "temperature": 23.63,
+        "rain": 0.58
+      },
+      {
+        "month": 4,
+        "temperature": 30.44,
+        "rain": 0.51
+      },
+      {
+        "month": 5,
+        "temperature": 35.05,
+        "rain": 1.07
+      },
+      {
+        "month": 6,
+        "temperature": 35.88,
+        "rain": 2.68
+      },
+      {
+        "month": 7,
+        "temperature": 32.27,
+        "rain": 7
+      },
+      {
+        "month": 8,
+        "temperature": 29.79,
+        "rain": 6.54
+      },
+      {
+        "month": 9,
+        "temperature": 28.32,
+        "rain": 4.04
+      },
+      {
+        "month": 10,
+        "temperature": 25.18,
+        "rain": 0.43
+      },
+      {
+        "month": 11,
+        "temperature": 20.08,
+        "rain": 0.12
+      },
+      {
+        "month": 12,
+        "temperature": 15.24,
+        "rain": 0.25
+      }
+    ]
+  },
+  "MN": {
+    "city": "أولان باتور",
+    "lat": 47.92,
+    "lng": 106.92,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=106.92&latitude=47.92&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:42.973Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -20.95,
+        "rain": 0.09
+      },
+      {
+        "month": 2,
+        "temperature": -17.86,
+        "rain": 0.14
+      },
+      {
+        "month": 3,
+        "temperature": -8.89,
+        "rain": 0.19
+      },
+      {
+        "month": 4,
+        "temperature": 0.46,
+        "rain": 0.34
+      },
+      {
+        "month": 5,
+        "temperature": 7.34,
+        "rain": 0.93
+      },
+      {
+        "month": 6,
+        "temperature": 14.79,
+        "rain": 1.6
+      },
+      {
+        "month": 7,
+        "temperature": 17.33,
+        "rain": 2.18
+      },
+      {
+        "month": 8,
+        "temperature": 14.74,
+        "rain": 1.98
+      },
+      {
+        "month": 9,
+        "temperature": 7.79,
+        "rain": 0.84
+      },
+      {
+        "month": 10,
+        "temperature": -1.29,
+        "rain": 0.35
+      },
+      {
+        "month": 11,
+        "temperature": -11.45,
+        "rain": 0.25
+      },
+      {
+        "month": 12,
+        "temperature": -19.01,
+        "rain": 0.13
+      }
+    ]
+  },
+  "KZ": {
+    "city": "ألماتي",
+    "lat": 43.24,
+    "lng": 76.95,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=76.95&latitude=43.24&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:43.043Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -12.92,
+        "rain": 0.7
+      },
+      {
+        "month": 2,
+        "temperature": -10.63,
+        "rain": 1.01
+      },
+      {
+        "month": 3,
+        "temperature": -3.32,
+        "rain": 1.49
+      },
+      {
+        "month": 4,
+        "temperature": 2.55,
+        "rain": 2.63
+      },
+      {
+        "month": 5,
+        "temperature": 6.89,
+        "rain": 2.2
+      },
+      {
+        "month": 6,
+        "temperature": 11.14,
+        "rain": 1.68
+      },
+      {
+        "month": 7,
+        "temperature": 13.63,
+        "rain": 1.1
+      },
+      {
+        "month": 8,
+        "temperature": 13.16,
+        "rain": 0.91
+      },
+      {
+        "month": 9,
+        "temperature": 8.42,
+        "rain": 0.79
+      },
+      {
+        "month": 10,
+        "temperature": 2.06,
+        "rain": 1.23
+      },
+      {
+        "month": 11,
+        "temperature": -4.94,
+        "rain": 1.3
+      },
+      {
+        "month": 12,
+        "temperature": -10.93,
+        "rain": 0.88
+      }
+    ]
+  },
+  "BN": {
+    "city": "بندر سري بكاوان",
+    "lat": 4.9,
+    "lng": 114.94,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=114.94&latitude=4.9&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:43.332Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 26.72,
+        "rain": 9.18
+      },
+      {
+        "month": 2,
+        "temperature": 26.47,
+        "rain": 5.05
+      },
+      {
+        "month": 3,
+        "temperature": 26.88,
+        "rain": 5.01
+      },
+      {
+        "month": 4,
+        "temperature": 27.7,
+        "rain": 7.06
+      },
+      {
+        "month": 5,
+        "temperature": 28.03,
+        "rain": 7.78
+      },
+      {
+        "month": 6,
+        "temperature": 27.81,
+        "rain": 8.6
+      },
+      {
+        "month": 7,
+        "temperature": 27.59,
+        "rain": 8.02
+      },
+      {
+        "month": 8,
+        "temperature": 27.65,
+        "rain": 7.4
+      },
+      {
+        "month": 9,
+        "temperature": 27.52,
+        "rain": 8.44
+      },
+      {
+        "month": 10,
+        "temperature": 27.25,
+        "rain": 10.05
+      },
+      {
+        "month": 11,
+        "temperature": 27.28,
+        "rain": 10.69
+      },
+      {
+        "month": 12,
+        "temperature": 27.2,
+        "rain": 10.73
+      }
+    ]
+  },
+  "KG": {
+    "city": "بيشكيك",
+    "lat": 42.87,
+    "lng": 74.57,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=74.57&latitude=42.87&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:43.356Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 0.63,
+        "rain": 0.76
+      },
+      {
+        "month": 2,
+        "temperature": 2.56,
+        "rain": 1.06
+      },
+      {
+        "month": 3,
+        "temperature": 8.71,
+        "rain": 1.37
+      },
+      {
+        "month": 4,
+        "temperature": 13.8,
+        "rain": 2.03
+      },
+      {
+        "month": 5,
+        "temperature": 19.37,
+        "rain": 1.54
+      },
+      {
+        "month": 6,
+        "temperature": 24.78,
+        "rain": 0.97
+      },
+      {
+        "month": 7,
+        "temperature": 27.55,
+        "rain": 0.66
+      },
+      {
+        "month": 8,
+        "temperature": 26.14,
+        "rain": 0.43
+      },
+      {
+        "month": 9,
+        "temperature": 20.4,
+        "rain": 0.49
+      },
+      {
+        "month": 10,
+        "temperature": 13.11,
+        "rain": 1.17
+      },
+      {
+        "month": 11,
+        "temperature": 6.07,
+        "rain": 1.28
+      },
+      {
+        "month": 12,
+        "temperature": 1.27,
+        "rain": 0.97
+      }
+    ]
+  },
+  "TJ": {
+    "city": "دوشنبه",
+    "lat": 38.56,
+    "lng": 68.79,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=68.79&latitude=38.56&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:43.400Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 0.65,
+        "rain": 1.15
+      },
+      {
+        "month": 2,
+        "temperature": 1.97,
+        "rain": 1.83
+      },
+      {
+        "month": 3,
+        "temperature": 7.99,
+        "rain": 1.69
+      },
+      {
+        "month": 4,
+        "temperature": 13.55,
+        "rain": 1.73
+      },
+      {
+        "month": 5,
+        "temperature": 19.45,
+        "rain": 1.01
+      },
+      {
+        "month": 6,
+        "temperature": 24.98,
+        "rain": 0.37
+      },
+      {
+        "month": 7,
+        "temperature": 27.71,
+        "rain": 0.07
+      },
+      {
+        "month": 8,
+        "temperature": 26.05,
+        "rain": 0.03
+      },
+      {
+        "month": 9,
+        "temperature": 20.78,
+        "rain": 0.05
+      },
+      {
+        "month": 10,
+        "temperature": 13.88,
+        "rain": 0.36
+      },
+      {
+        "month": 11,
+        "temperature": 6.88,
+        "rain": 1.11
+      },
+      {
+        "month": 12,
+        "temperature": 1.96,
+        "rain": 1.14
+      }
+    ]
+  },
+  "AM": {
+    "city": "يريفان",
+    "lat": 40.18,
+    "lng": 44.51,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=44.51&latitude=40.18&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:43.704Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -0.27,
+        "rain": 0.62
+      },
+      {
+        "month": 2,
+        "temperature": 2.26,
+        "rain": 0.57
+      },
+      {
+        "month": 3,
+        "temperature": 7.5,
+        "rain": 0.92
+      },
+      {
+        "month": 4,
+        "temperature": 12.54,
+        "rain": 1.56
+      },
+      {
+        "month": 5,
+        "temperature": 17.9,
+        "rain": 1.93
+      },
+      {
+        "month": 6,
+        "temperature": 23.48,
+        "rain": 1.45
+      },
+      {
+        "month": 7,
+        "temperature": 27.18,
+        "rain": 0.92
+      },
+      {
+        "month": 8,
+        "temperature": 26.99,
+        "rain": 0.69
+      },
+      {
+        "month": 9,
+        "temperature": 22.01,
+        "rain": 0.61
+      },
+      {
+        "month": 10,
+        "temperature": 14.98,
+        "rain": 1.07
+      },
+      {
+        "month": 11,
+        "temperature": 6.82,
+        "rain": 0.68
+      },
+      {
+        "month": 12,
+        "temperature": 1.28,
+        "rain": 0.58
+      }
+    ]
+  },
+  "UZ": {
+    "city": "سمرقند",
+    "lat": 39.65,
+    "lng": 66.96,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=66.96&latitude=39.65&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:43.719Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 0.88,
+        "rain": 1.14
+      },
+      {
+        "month": 2,
+        "temperature": 2.54,
+        "rain": 1.7
+      },
+      {
+        "month": 3,
+        "temperature": 8.48,
+        "rain": 1.88
+      },
+      {
+        "month": 4,
+        "temperature": 13.9,
+        "rain": 1.86
+      },
+      {
+        "month": 5,
+        "temperature": 20.15,
+        "rain": 0.97
+      },
+      {
+        "month": 6,
+        "temperature": 25.64,
+        "rain": 0.22
+      },
+      {
+        "month": 7,
+        "temperature": 27.95,
+        "rain": 0.05
+      },
+      {
+        "month": 8,
+        "temperature": 26.31,
+        "rain": 0.04
+      },
+      {
+        "month": 9,
+        "temperature": 20.97,
+        "rain": 0.07
+      },
+      {
+        "month": 10,
+        "temperature": 13.88,
+        "rain": 0.45
+      },
+      {
+        "month": 11,
+        "temperature": 6.73,
+        "rain": 1.18
+      },
+      {
+        "month": 12,
+        "temperature": 1.96,
+        "rain": 0.98
+      }
+    ]
+  },
+  "TN": {
+    "city": "تونس",
+    "lat": 36.81,
+    "lng": 10.18,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=10.18&latitude=36.81&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:43.770Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 11.27,
+        "rain": 2.05
+      },
+      {
+        "month": 2,
+        "temperature": 11.18,
+        "rain": 1.77
+      },
+      {
+        "month": 3,
+        "temperature": 13.29,
+        "rain": 2.03
+      },
+      {
+        "month": 4,
+        "temperature": 16.06,
+        "rain": 1.79
+      },
+      {
+        "month": 5,
+        "temperature": 19.61,
+        "rain": 1.14
+      },
+      {
+        "month": 6,
+        "temperature": 24.26,
+        "rain": 0.66
+      },
+      {
+        "month": 7,
+        "temperature": 27.53,
+        "rain": 0.22
+      },
+      {
+        "month": 8,
+        "temperature": 27.83,
+        "rain": 0.67
+      },
+      {
+        "month": 9,
+        "temperature": 24.47,
+        "rain": 2.15
+      },
+      {
+        "month": 10,
+        "temperature": 21.05,
+        "rain": 1.96
+      },
+      {
+        "month": 11,
+        "temperature": 16.13,
+        "rain": 1.91
+      },
+      {
+        "month": 12,
+        "temperature": 12.57,
+        "rain": 2.14
+      }
+    ]
+  },
+  "DZ": {
+    "city": "الجزائر العاصمة",
+    "lat": 36.75,
+    "lng": 3.06,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=3.06&latitude=36.75&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:44.085Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 13.49,
+        "rain": 2.72
+      },
+      {
+        "month": 2,
+        "temperature": 13.18,
+        "rain": 2.38
+      },
+      {
+        "month": 3,
+        "temperature": 14.52,
+        "rain": 1.94
+      },
+      {
+        "month": 4,
+        "temperature": 16.25,
+        "rain": 1.77
+      },
+      {
+        "month": 5,
+        "temperature": 18.86,
+        "rain": 1.25
+      },
+      {
+        "month": 6,
+        "temperature": 22.45,
+        "rain": 0.37
+      },
+      {
+        "month": 7,
+        "temperature": 25.44,
+        "rain": 0.15
+      },
+      {
+        "month": 8,
+        "temperature": 26.27,
+        "rain": 0.39
+      },
+      {
+        "month": 9,
+        "temperature": 24.28,
+        "rain": 1.3
+      },
+      {
+        "month": 10,
+        "temperature": 21.7,
+        "rain": 2.07
+      },
+      {
+        "month": 11,
+        "temperature": 17.46,
+        "rain": 3.57
+      },
+      {
+        "month": 12,
+        "temperature": 14.65,
+        "rain": 2.74
+      }
+    ]
+  },
+  "ZA": {
+    "city": "كيب تاون",
+    "lat": -33.92,
+    "lng": 18.42,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=18.42&latitude=-33.92&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:44.104Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 20.04,
+        "rain": 0.44
+      },
+      {
+        "month": 2,
+        "temperature": 20.3,
+        "rain": 0.33
+      },
+      {
+        "month": 3,
+        "temperature": 19.31,
+        "rain": 0.55
+      },
+      {
+        "month": 4,
+        "temperature": 17.74,
+        "rain": 1.24
+      },
+      {
+        "month": 5,
+        "temperature": 16.48,
+        "rain": 1.64
+      },
+      {
+        "month": 6,
+        "temperature": 15.09,
+        "rain": 3.03
+      },
+      {
+        "month": 7,
+        "temperature": 14.44,
+        "rain": 2.62
+      },
+      {
+        "month": 8,
+        "temperature": 14.3,
+        "rain": 2.46
+      },
+      {
+        "month": 9,
+        "temperature": 15.01,
+        "rain": 1.33
+      },
+      {
+        "month": 10,
+        "temperature": 16.2,
+        "rain": 1
+      },
+      {
+        "month": 11,
+        "temperature": 17.41,
+        "rain": 0.99
+      },
+      {
+        "month": 12,
+        "temperature": 19.07,
+        "rain": 0.38
+      }
+    ]
+  },
+  "TW": {
+    "city": "تايبيه",
+    "lat": 25.03,
+    "lng": 121.57,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=121.57&latitude=25.03&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:44.118Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 16.99,
+        "rain": 3.19
+      },
+      {
+        "month": 2,
+        "temperature": 17.77,
+        "rain": 3.24
+      },
+      {
+        "month": 3,
+        "temperature": 19.07,
+        "rain": 4.22
+      },
+      {
+        "month": 4,
+        "temperature": 21.93,
+        "rain": 4.21
+      },
+      {
+        "month": 5,
+        "temperature": 24.83,
+        "rain": 7.35
+      },
+      {
+        "month": 6,
+        "temperature": 27.04,
+        "rain": 8.74
+      },
+      {
+        "month": 7,
+        "temperature": 28.26,
+        "rain": 5.23
+      },
+      {
+        "month": 8,
+        "temperature": 28.14,
+        "rain": 8.47
+      },
+      {
+        "month": 9,
+        "temperature": 26.74,
+        "rain": 8.4
+      },
+      {
+        "month": 10,
+        "temperature": 24.12,
+        "rain": 3.75
+      },
+      {
+        "month": 11,
+        "temperature": 21.83,
+        "rain": 3.84
+      },
+      {
+        "month": 12,
+        "temperature": 18.47,
+        "rain": 3.24
+      }
+    ]
+  },
+  "NA": {
+    "city": "ويندهوك",
+    "lat": -22.56,
+    "lng": 17.08,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=17.08&latitude=-22.56&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:44.471Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 24.05,
+        "rain": 2.9
+      },
+      {
+        "month": 2,
+        "temperature": 23,
+        "rain": 3.21
+      },
+      {
+        "month": 3,
+        "temperature": 21.58,
+        "rain": 2.7
+      },
+      {
+        "month": 4,
+        "temperature": 18.91,
+        "rain": 1.89
+      },
+      {
+        "month": 5,
+        "temperature": 15.57,
+        "rain": 0.19
+      },
+      {
+        "month": 6,
+        "temperature": 12.45,
+        "rain": 0.06
+      },
+      {
+        "month": 7,
+        "temperature": 12.31,
+        "rain": 0.02
+      },
+      {
+        "month": 8,
+        "temperature": 15.32,
+        "rain": 0.02
+      },
+      {
+        "month": 9,
+        "temperature": 19.51,
+        "rain": 0.15
+      },
+      {
+        "month": 10,
+        "temperature": 22.5,
+        "rain": 0.66
+      },
+      {
+        "month": 11,
+        "temperature": 23.43,
+        "rain": 1.12
+      },
+      {
+        "month": 12,
+        "temperature": 24.14,
+        "rain": 1.72
+      }
+    ]
+  },
+  "ZM": {
+    "city": "ليفينغستون",
+    "lat": -17.85,
+    "lng": 25.86,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=25.86&latitude=-17.85&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:44.478Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 24.84,
+        "rain": 4.48
+      },
+      {
+        "month": 2,
+        "temperature": 24.17,
+        "rain": 4.45
+      },
+      {
+        "month": 3,
+        "temperature": 23.9,
+        "rain": 2.98
+      },
+      {
+        "month": 4,
+        "temperature": 22.55,
+        "rain": 1.11
+      },
+      {
+        "month": 5,
+        "temperature": 20.17,
+        "rain": 0.08
+      },
+      {
+        "month": 6,
+        "temperature": 17.62,
+        "rain": 0.2
+      },
+      {
+        "month": 7,
+        "temperature": 17.02,
+        "rain": 0
+      },
+      {
+        "month": 8,
+        "temperature": 20.4,
+        "rain": 0
+      },
+      {
+        "month": 9,
+        "temperature": 24.54,
+        "rain": 0.07
+      },
+      {
+        "month": 10,
+        "temperature": 27.84,
+        "rain": 0.4
+      },
+      {
+        "month": 11,
+        "temperature": 27.56,
+        "rain": 2.11
+      },
+      {
+        "month": 12,
+        "temperature": 25.63,
+        "rain": 4.39
+      }
+    ]
+  },
+  "BW": {
+    "city": "غابورون",
+    "lat": -24.63,
+    "lng": 25.92,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=25.92&latitude=-24.63&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:44.555Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 26.16,
+        "rain": 2.77
+      },
+      {
+        "month": 2,
+        "temperature": 25.65,
+        "rain": 2.77
+      },
+      {
+        "month": 3,
+        "temperature": 23.78,
+        "rain": 2.22
+      },
+      {
+        "month": 4,
+        "temperature": 20.53,
+        "rain": 1.37
+      },
+      {
+        "month": 5,
+        "temperature": 16.94,
+        "rain": 0.34
+      },
+      {
+        "month": 6,
+        "temperature": 13.42,
+        "rain": 0.39
+      },
+      {
+        "month": 7,
+        "temperature": 13.03,
+        "rain": 0.06
+      },
+      {
+        "month": 8,
+        "temperature": 16.55,
+        "rain": 0.06
+      },
+      {
+        "month": 9,
+        "temperature": 20.88,
+        "rain": 0.38
+      },
+      {
+        "month": 10,
+        "temperature": 24.21,
+        "rain": 1.13
+      },
+      {
+        "month": 11,
+        "temperature": 25.28,
+        "rain": 2.23
+      },
+      {
+        "month": 12,
+        "temperature": 26.03,
+        "rain": 2.89
+      }
+    ]
+  },
+  "TZ": {
+    "city": "ستون تاون، زنجبار",
+    "lat": -6.17,
+    "lng": 39.2,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=39.2&latitude=-6.17&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:44.841Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 28.12,
+        "rain": 2.01
+      },
+      {
+        "month": 2,
+        "temperature": 28.35,
+        "rain": 1.8
+      },
+      {
+        "month": 3,
+        "temperature": 28.64,
+        "rain": 3.83
+      },
+      {
+        "month": 4,
+        "temperature": 28.17,
+        "rain": 8.54
+      },
+      {
+        "month": 5,
+        "temperature": 27.21,
+        "rain": 5.99
+      },
+      {
+        "month": 6,
+        "temperature": 26.19,
+        "rain": 0.96
+      },
+      {
+        "month": 7,
+        "temperature": 25.49,
+        "rain": 0.42
+      },
+      {
+        "month": 8,
+        "temperature": 25.46,
+        "rain": 0.44
+      },
+      {
+        "month": 9,
+        "temperature": 25.95,
+        "rain": 0.72
+      },
+      {
+        "month": 10,
+        "temperature": 26.89,
+        "rain": 2.05
+      },
+      {
+        "month": 11,
+        "temperature": 27.79,
+        "rain": 3.37
+      },
+      {
+        "month": 12,
+        "temperature": 28.34,
+        "rain": 2.96
+      }
+    ]
+  },
+  "KE": {
+    "city": "نيروبي",
+    "lat": -1.29,
+    "lng": 36.82,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=36.82&latitude=-1.29&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:44.859Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 20.51,
+        "rain": 1.27
+      },
+      {
+        "month": 2,
+        "temperature": 21.42,
+        "rain": 1.03
+      },
+      {
+        "month": 3,
+        "temperature": 21.62,
+        "rain": 2.07
+      },
+      {
+        "month": 4,
+        "temperature": 20.54,
+        "rain": 3.8
+      },
+      {
+        "month": 5,
+        "temperature": 19.32,
+        "rain": 2.34
+      },
+      {
+        "month": 6,
+        "temperature": 18.72,
+        "rain": 0.84
+      },
+      {
+        "month": 7,
+        "temperature": 18.69,
+        "rain": 0.53
+      },
+      {
+        "month": 8,
+        "temperature": 19.2,
+        "rain": 0.7
+      },
+      {
+        "month": 9,
+        "temperature": 20.34,
+        "rain": 0.68
+      },
+      {
+        "month": 10,
+        "temperature": 20.84,
+        "rain": 1.72
+      },
+      {
+        "month": 11,
+        "temperature": 20.17,
+        "rain": 2.69
+      },
+      {
+        "month": 12,
+        "temperature": 19.97,
+        "rain": 2.1
+      }
+    ]
+  },
+  "ZW": {
+    "city": "فيكتوريا فولز",
+    "lat": -17.93,
+    "lng": 25.83,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=25.83&latitude=-17.93&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:44.922Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 24.84,
+        "rain": 4.48
+      },
+      {
+        "month": 2,
+        "temperature": 24.17,
+        "rain": 4.45
+      },
+      {
+        "month": 3,
+        "temperature": 23.9,
+        "rain": 2.98
+      },
+      {
+        "month": 4,
+        "temperature": 22.55,
+        "rain": 1.11
+      },
+      {
+        "month": 5,
+        "temperature": 20.17,
+        "rain": 0.08
+      },
+      {
+        "month": 6,
+        "temperature": 17.62,
+        "rain": 0.2
+      },
+      {
+        "month": 7,
+        "temperature": 17.02,
+        "rain": 0
+      },
+      {
+        "month": 8,
+        "temperature": 20.4,
+        "rain": 0
+      },
+      {
+        "month": 9,
+        "temperature": 24.54,
+        "rain": 0.07
+      },
+      {
+        "month": 10,
+        "temperature": 27.84,
+        "rain": 0.4
+      },
+      {
+        "month": 11,
+        "temperature": 27.56,
+        "rain": 2.11
+      },
+      {
+        "month": 12,
+        "temperature": 25.63,
+        "rain": 4.39
+      }
+    ]
+  },
+  "UG": {
+    "city": "كمبالا",
+    "lat": 0.35,
+    "lng": 32.58,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=32.58&latitude=0.35&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:44.955Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 23.5,
+        "rain": 2.1
+      },
+      {
+        "month": 2,
+        "temperature": 24.29,
+        "rain": 2.34
+      },
+      {
+        "month": 3,
+        "temperature": 23.55,
+        "rain": 4.77
+      },
+      {
+        "month": 4,
+        "temperature": 22.3,
+        "rain": 6.48
+      },
+      {
+        "month": 5,
+        "temperature": 21.6,
+        "rain": 5.11
+      },
+      {
+        "month": 6,
+        "temperature": 21.44,
+        "rain": 2.11
+      },
+      {
+        "month": 7,
+        "temperature": 21.51,
+        "rain": 1.84
+      },
+      {
+        "month": 8,
+        "temperature": 22.07,
+        "rain": 2.84
+      },
+      {
+        "month": 9,
+        "temperature": 22.4,
+        "rain": 3.91
+      },
+      {
+        "month": 10,
+        "temperature": 22.12,
+        "rain": 5.11
+      },
+      {
+        "month": 11,
+        "temperature": 21.97,
+        "rain": 5.52
+      },
+      {
+        "month": 12,
+        "temperature": 22.62,
+        "rain": 3.73
+      }
+    ]
+  },
+  "RW": {
+    "city": "كيغالي",
+    "lat": -1.94,
+    "lng": 30.06,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=30.06&latitude=-1.94&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:45.231Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 20.26,
+        "rain": 3.11
+      },
+      {
+        "month": 2,
+        "temperature": 20.75,
+        "rain": 3.6
+      },
+      {
+        "month": 3,
+        "temperature": 20.25,
+        "rain": 4.95
+      },
+      {
+        "month": 4,
+        "temperature": 19.54,
+        "rain": 5.93
+      },
+      {
+        "month": 5,
+        "temperature": 19.16,
+        "rain": 4.47
+      },
+      {
+        "month": 6,
+        "temperature": 18.8,
+        "rain": 1.66
+      },
+      {
+        "month": 7,
+        "temperature": 19.01,
+        "rain": 1.01
+      },
+      {
+        "month": 8,
+        "temperature": 20.12,
+        "rain": 1.81
+      },
+      {
+        "month": 9,
+        "temperature": 20.52,
+        "rain": 2.94
+      },
+      {
+        "month": 10,
+        "temperature": 20.11,
+        "rain": 4.15
+      },
+      {
+        "month": 11,
+        "temperature": 19.43,
+        "rain": 5.32
+      },
+      {
+        "month": 12,
+        "temperature": 19.71,
+        "rain": 3.52
+      }
+    ]
+  },
+  "GH": {
+    "city": "أكرا",
+    "lat": 5.56,
+    "lng": -0.19,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-0.19&latitude=5.56&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:45.279Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 27.29,
+        "rain": 0.72
+      },
+      {
+        "month": 2,
+        "temperature": 27.83,
+        "rain": 1.56
+      },
+      {
+        "month": 3,
+        "temperature": 27.91,
+        "rain": 3.36
+      },
+      {
+        "month": 4,
+        "temperature": 27.66,
+        "rain": 4.47
+      },
+      {
+        "month": 5,
+        "temperature": 27.23,
+        "rain": 6.31
+      },
+      {
+        "month": 6,
+        "temperature": 25.91,
+        "rain": 6.58
+      },
+      {
+        "month": 7,
+        "temperature": 24.61,
+        "rain": 2.92
+      },
+      {
+        "month": 8,
+        "temperature": 24.09,
+        "rain": 1.29
+      },
+      {
+        "month": 9,
+        "temperature": 25.08,
+        "rain": 3.4
+      },
+      {
+        "month": 10,
+        "temperature": 26.12,
+        "rain": 4.79
+      },
+      {
+        "month": 11,
+        "temperature": 27.02,
+        "rain": 2.12
+      },
+      {
+        "month": 12,
+        "temperature": 27.44,
+        "rain": 0.8
+      }
+    ]
+  },
+  "CV": {
+    "city": "برايا",
+    "lat": 14.93,
+    "lng": -23.51,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-23.51&latitude=14.93&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:45.618Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 22.81,
+        "rain": 0.7
+      },
+      {
+        "month": 2,
+        "temperature": 22.01,
+        "rain": 0.72
+      },
+      {
+        "month": 3,
+        "temperature": 22.2,
+        "rain": 0.26
+      },
+      {
+        "month": 4,
+        "temperature": 22.57,
+        "rain": 0.17
+      },
+      {
+        "month": 5,
+        "temperature": 23.13,
+        "rain": 0.12
+      },
+      {
+        "month": 6,
+        "temperature": 23.84,
+        "rain": 0.14
+      },
+      {
+        "month": 7,
+        "temperature": 25.33,
+        "rain": 0.4
+      },
+      {
+        "month": 8,
+        "temperature": 26.63,
+        "rain": 1.8
+      },
+      {
+        "month": 9,
+        "temperature": 27.1,
+        "rain": 2.72
+      },
+      {
+        "month": 10,
+        "temperature": 26.93,
+        "rain": 1.46
+      },
+      {
+        "month": 11,
+        "temperature": 25.76,
+        "rain": 1.24
+      },
+      {
+        "month": 12,
+        "temperature": 24.24,
+        "rain": 0.96
+      }
+    ]
+  },
+  "SC": {
+    "city": "فيكتوريا، ماهيه",
+    "lat": -4.62,
+    "lng": 55.45,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=55.45&latitude=-4.62&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:45.659Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 27.29,
+        "rain": 6.66
+      },
+      {
+        "month": 2,
+        "temperature": 27.62,
+        "rain": 3.84
+      },
+      {
+        "month": 3,
+        "temperature": 28.2,
+        "rain": 3.42
+      },
+      {
+        "month": 4,
+        "temperature": 28.58,
+        "rain": 3.83
+      },
+      {
+        "month": 5,
+        "temperature": 28.19,
+        "rain": 3.03
+      },
+      {
+        "month": 6,
+        "temperature": 27.02,
+        "rain": 2.66
+      },
+      {
+        "month": 7,
+        "temperature": 25.96,
+        "rain": 1.78
+      },
+      {
+        "month": 8,
+        "temperature": 26.02,
+        "rain": 1.99
+      },
+      {
+        "month": 9,
+        "temperature": 26.72,
+        "rain": 3.61
+      },
+      {
+        "month": 10,
+        "temperature": 27.13,
+        "rain": 3.78
+      },
+      {
+        "month": 11,
+        "temperature": 27.3,
+        "rain": 4.13
+      },
+      {
+        "month": 12,
+        "temperature": 27.41,
+        "rain": 5.29
+      }
+    ]
+  },
+  "SN": {
+    "city": "داكار",
+    "lat": 14.72,
+    "lng": -17.47,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-17.47&latitude=14.72&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:45.701Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 21.88,
+        "rain": 0.34
+      },
+      {
+        "month": 2,
+        "temperature": 20.53,
+        "rain": 0.3
+      },
+      {
+        "month": 3,
+        "temperature": 20.46,
+        "rain": 0.1
+      },
+      {
+        "month": 4,
+        "temperature": 20.62,
+        "rain": 0.2
+      },
+      {
+        "month": 5,
+        "temperature": 22.24,
+        "rain": 0.08
+      },
+      {
+        "month": 6,
+        "temperature": 24.87,
+        "rain": 0.45
+      },
+      {
+        "month": 7,
+        "temperature": 26.64,
+        "rain": 2.55
+      },
+      {
+        "month": 8,
+        "temperature": 27.33,
+        "rain": 6.17
+      },
+      {
+        "month": 9,
+        "temperature": 27.79,
+        "rain": 5.68
+      },
+      {
+        "month": 10,
+        "temperature": 28.24,
+        "rain": 1.59
+      },
+      {
+        "month": 11,
+        "temperature": 26.89,
+        "rain": 0.31
+      },
+      {
+        "month": 12,
+        "temperature": 24.31,
+        "rain": 0.41
+      }
+    ]
+  },
+  "ET": {
+    "city": "أديس أبابا",
+    "lat": 9.03,
+    "lng": 38.75,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=38.75&latitude=9.03&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:45.756Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 15.36,
+        "rain": 0.38
+      },
+      {
+        "month": 2,
+        "temperature": 16.9,
+        "rain": 0.95
+      },
+      {
+        "month": 3,
+        "temperature": 17.75,
+        "rain": 1.8
+      },
+      {
+        "month": 4,
+        "temperature": 17.71,
+        "rain": 2.99
+      },
+      {
+        "month": 5,
+        "temperature": 18.12,
+        "rain": 2.86
+      },
+      {
+        "month": 6,
+        "temperature": 17.72,
+        "rain": 3.87
+      },
+      {
+        "month": 7,
+        "temperature": 15.9,
+        "rain": 7.72
+      },
+      {
+        "month": 8,
+        "temperature": 15.57,
+        "rain": 7.94
+      },
+      {
+        "month": 9,
+        "temperature": 15.51,
+        "rain": 4.83
+      },
+      {
+        "month": 10,
+        "temperature": 14.41,
+        "rain": 1.09
+      },
+      {
+        "month": 11,
+        "temperature": 14.11,
+        "rain": 0.53
+      },
+      {
+        "month": 12,
+        "temperature": 14.14,
+        "rain": 0.43
+      }
+    ]
+  },
+  "MZ": {
+    "city": "مابوتو",
+    "lat": -25.97,
+    "lng": 32.58,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=32.58&latitude=-25.97&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:46.019Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 26.3,
+        "rain": 4.92
+      },
+      {
+        "month": 2,
+        "temperature": 26.41,
+        "rain": 3.49
+      },
+      {
+        "month": 3,
+        "temperature": 25.77,
+        "rain": 3.07
+      },
+      {
+        "month": 4,
+        "temperature": 23.68,
+        "rain": 2.13
+      },
+      {
+        "month": 5,
+        "temperature": 21.63,
+        "rain": 0.66
+      },
+      {
+        "month": 6,
+        "temperature": 19.68,
+        "rain": 0.59
+      },
+      {
+        "month": 7,
+        "temperature": 19.17,
+        "rain": 0.51
+      },
+      {
+        "month": 8,
+        "temperature": 20.62,
+        "rain": 0.45
+      },
+      {
+        "month": 9,
+        "temperature": 22.53,
+        "rain": 0.92
+      },
+      {
+        "month": 10,
+        "temperature": 23.66,
+        "rain": 1.63
+      },
+      {
+        "month": 11,
+        "temperature": 24.79,
+        "rain": 3.28
+      },
+      {
+        "month": 12,
+        "temperature": 25.97,
+        "rain": 3.95
+      }
+    ]
+  },
+  "US": {
+    "city": "نيويورك",
+    "lat": 40.71,
+    "lng": -74.01,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-74.01&latitude=40.71&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:46.085Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 1.06,
+        "rain": 3.2
+      },
+      {
+        "month": 2,
+        "temperature": 1.41,
+        "rain": 3.37
+      },
+      {
+        "month": 3,
+        "temperature": 4.17,
+        "rain": 3.66
+      },
+      {
+        "month": 4,
+        "temperature": 9.05,
+        "rain": 3.56
+      },
+      {
+        "month": 5,
+        "temperature": 14.28,
+        "rain": 3.25
+      },
+      {
+        "month": 6,
+        "temperature": 19.87,
+        "rain": 3.82
+      },
+      {
+        "month": 7,
+        "temperature": 23.71,
+        "rain": 3.67
+      },
+      {
+        "month": 8,
+        "temperature": 23.69,
+        "rain": 3.67
+      },
+      {
+        "month": 9,
+        "temperature": 20.6,
+        "rain": 3.22
+      },
+      {
+        "month": 10,
+        "temperature": 14.92,
+        "rain": 3.99
+      },
+      {
+        "month": 11,
+        "temperature": 9.25,
+        "rain": 3.37
+      },
+      {
+        "month": 12,
+        "temperature": 4.5,
+        "rain": 4.28
+      }
+    ]
+  },
+  "CA": {
+    "city": "فانكوفر",
+    "lat": 49.28,
+    "lng": -123.12,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-123.12&latitude=49.28&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:46.140Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": -0.54,
+        "rain": 10.41
+      },
+      {
+        "month": 2,
+        "temperature": -0.52,
+        "rain": 5.83
+      },
+      {
+        "month": 3,
+        "temperature": 1.61,
+        "rain": 8.16
+      },
+      {
+        "month": 4,
+        "temperature": 4.91,
+        "rain": 4.82
+      },
+      {
+        "month": 5,
+        "temperature": 10.14,
+        "rain": 3.09
+      },
+      {
+        "month": 6,
+        "temperature": 13.2,
+        "rain": 2.79
+      },
+      {
+        "month": 7,
+        "temperature": 16.47,
+        "rain": 1.6
+      },
+      {
+        "month": 8,
+        "temperature": 16.43,
+        "rain": 1.98
+      },
+      {
+        "month": 9,
+        "temperature": 12.9,
+        "rain": 4.08
+      },
+      {
+        "month": 10,
+        "temperature": 7.55,
+        "rain": 7.52
+      },
+      {
+        "month": 11,
+        "temperature": 2.33,
+        "rain": 11.61
+      },
+      {
+        "month": 12,
+        "temperature": -1.11,
+        "rain": 9.5
+      }
+    ]
+  },
+  "MG": {
+    "city": "أنتاناناريفو",
+    "lat": -18.88,
+    "lng": 47.51,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=47.51&latitude=-18.88&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:46.379Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 19.21,
+        "rain": 15.31
+      },
+      {
+        "month": 2,
+        "temperature": 19.13,
+        "rain": 13.41
+      },
+      {
+        "month": 3,
+        "temperature": 18.66,
+        "rain": 9.82
+      },
+      {
+        "month": 4,
+        "temperature": 17.39,
+        "rain": 5.31
+      },
+      {
+        "month": 5,
+        "temperature": 15.48,
+        "rain": 2.76
+      },
+      {
+        "month": 6,
+        "temperature": 13.2,
+        "rain": 2.8
+      },
+      {
+        "month": 7,
+        "temperature": 12.42,
+        "rain": 2.75
+      },
+      {
+        "month": 8,
+        "temperature": 13.07,
+        "rain": 1.88
+      },
+      {
+        "month": 9,
+        "temperature": 14.79,
+        "rain": 1.55
+      },
+      {
+        "month": 10,
+        "temperature": 17.17,
+        "rain": 3.11
+      },
+      {
+        "month": 11,
+        "temperature": 18.73,
+        "rain": 7.41
+      },
+      {
+        "month": 12,
+        "temperature": 19.38,
+        "rain": 12.52
+      }
+    ]
+  },
+  "MX": {
+    "city": "مكسيكو سيتي",
+    "lat": 19.43,
+    "lng": -99.13,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-99.13&latitude=19.43&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:46.809Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 10.45,
+        "rain": 0.29
+      },
+      {
+        "month": 2,
+        "temperature": 12.29,
+        "rain": 0.41
+      },
+      {
+        "month": 3,
+        "temperature": 14.12,
+        "rain": 0.49
+      },
+      {
+        "month": 4,
+        "temperature": 16.42,
+        "rain": 0.73
+      },
+      {
+        "month": 5,
+        "temperature": 17.17,
+        "rain": 1.78
+      },
+      {
+        "month": 6,
+        "temperature": 16.09,
+        "rain": 4.51
+      },
+      {
+        "month": 7,
+        "temperature": 14.98,
+        "rain": 4.97
+      },
+      {
+        "month": 8,
+        "temperature": 14.77,
+        "rain": 4.95
+      },
+      {
+        "month": 9,
+        "temperature": 14.12,
+        "rain": 4.94
+      },
+      {
+        "month": 10,
+        "temperature": 13.08,
+        "rain": 2.07
+      },
+      {
+        "month": 11,
+        "temperature": 11.57,
+        "rain": 0.64
+      },
+      {
+        "month": 12,
+        "temperature": 10.85,
+        "rain": 0.18
+      }
+    ]
+  },
+  "CR": {
+    "city": "سان خوسيه",
+    "lat": 9.93,
+    "lng": -84.08,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-84.08&latitude=9.93&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:46.833Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 22.66,
+        "rain": 1.22
+      },
+      {
+        "month": 2,
+        "temperature": 23.51,
+        "rain": 0.79
+      },
+      {
+        "month": 3,
+        "temperature": 24.81,
+        "rain": 0.94
+      },
+      {
+        "month": 4,
+        "temperature": 25.24,
+        "rain": 2.55
+      },
+      {
+        "month": 5,
+        "temperature": 24.31,
+        "rain": 7.11
+      },
+      {
+        "month": 6,
+        "temperature": 23.52,
+        "rain": 6.98
+      },
+      {
+        "month": 7,
+        "temperature": 23.36,
+        "rain": 5.95
+      },
+      {
+        "month": 8,
+        "temperature": 23.35,
+        "rain": 6.4
+      },
+      {
+        "month": 9,
+        "temperature": 23.03,
+        "rain": 8.53
+      },
+      {
+        "month": 10,
+        "temperature": 22.64,
+        "rain": 9.71
+      },
+      {
+        "month": 11,
+        "temperature": 22.5,
+        "rain": 6.25
+      },
+      {
+        "month": 12,
+        "temperature": 22.48,
+        "rain": 2.27
+      }
+    ]
+  },
+  "PA": {
+    "city": "بنما سيتي",
+    "lat": 8.98,
+    "lng": -79.52,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-79.52&latitude=8.98&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:46.918Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 26.56,
+        "rain": 0.64
+      },
+      {
+        "month": 2,
+        "temperature": 26.85,
+        "rain": 0.33
+      },
+      {
+        "month": 3,
+        "temperature": 27.54,
+        "rain": 0.59
+      },
+      {
+        "month": 4,
+        "temperature": 28.07,
+        "rain": 3.58
+      },
+      {
+        "month": 5,
+        "temperature": 27.75,
+        "rain": 7.9
+      },
+      {
+        "month": 6,
+        "temperature": 27.44,
+        "rain": 8.42
+      },
+      {
+        "month": 7,
+        "temperature": 27.21,
+        "rain": 6.57
+      },
+      {
+        "month": 8,
+        "temperature": 27.2,
+        "rain": 7.09
+      },
+      {
+        "month": 9,
+        "temperature": 27.08,
+        "rain": 8.18
+      },
+      {
+        "month": 10,
+        "temperature": 26.79,
+        "rain": 8.39
+      },
+      {
+        "month": 11,
+        "temperature": 26.71,
+        "rain": 8.25
+      },
+      {
+        "month": 12,
+        "temperature": 26.75,
+        "rain": 3.49
+      }
+    ]
+  },
+  "GT": {
+    "city": "أنتيغوا",
+    "lat": 14.56,
+    "lng": -90.73,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-90.73&latitude=14.56&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:47.145Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 19.23,
+        "rain": 0.16
+      },
+      {
+        "month": 2,
+        "temperature": 20.78,
+        "rain": 0.24
+      },
+      {
+        "month": 3,
+        "temperature": 22.16,
+        "rain": 0.38
+      },
+      {
+        "month": 4,
+        "temperature": 23.35,
+        "rain": 1.36
+      },
+      {
+        "month": 5,
+        "temperature": 22.69,
+        "rain": 5.27
+      },
+      {
+        "month": 6,
+        "temperature": 21.5,
+        "rain": 7.49
+      },
+      {
+        "month": 7,
+        "temperature": 21.32,
+        "rain": 5.55
+      },
+      {
+        "month": 8,
+        "temperature": 21.23,
+        "rain": 7.18
+      },
+      {
+        "month": 9,
+        "temperature": 20.83,
+        "rain": 8.1
+      },
+      {
+        "month": 10,
+        "temperature": 20.4,
+        "rain": 6.17
+      },
+      {
+        "month": 11,
+        "temperature": 19.3,
+        "rain": 1.43
+      },
+      {
+        "month": 12,
+        "temperature": 18.91,
+        "rain": 0.27
+      }
+    ]
+  },
+  "BZ": {
+    "city": "بليز سيتي",
+    "lat": 17.5,
+    "lng": -88.2,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-88.2&latitude=17.5&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:47.177Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 24.71,
+        "rain": 3.72
+      },
+      {
+        "month": 2,
+        "temperature": 25.41,
+        "rain": 2.06
+      },
+      {
+        "month": 3,
+        "temperature": 26.12,
+        "rain": 1.49
+      },
+      {
+        "month": 4,
+        "temperature": 27.33,
+        "rain": 1.12
+      },
+      {
+        "month": 5,
+        "temperature": 28.14,
+        "rain": 4.09
+      },
+      {
+        "month": 6,
+        "temperature": 28.17,
+        "rain": 7.45
+      },
+      {
+        "month": 7,
+        "temperature": 28.13,
+        "rain": 4.9
+      },
+      {
+        "month": 8,
+        "temperature": 28.45,
+        "rain": 5.39
+      },
+      {
+        "month": 9,
+        "temperature": 28.4,
+        "rain": 6.14
+      },
+      {
+        "month": 10,
+        "temperature": 27.43,
+        "rain": 8.06
+      },
+      {
+        "month": 11,
+        "temperature": 25.98,
+        "rain": 6.12
+      },
+      {
+        "month": 12,
+        "temperature": 25.34,
+        "rain": 4.25
+      }
+    ]
+  },
+  "DO": {
+    "city": "سانتو دومينغو",
+    "lat": 18.49,
+    "lng": -69.93,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-69.93&latitude=18.49&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:47.290Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 24.7,
+        "rain": 0.78
+      },
+      {
+        "month": 2,
+        "temperature": 24.93,
+        "rain": 0.75
+      },
+      {
+        "month": 3,
+        "temperature": 25.39,
+        "rain": 0.71
+      },
+      {
+        "month": 4,
+        "temperature": 26.3,
+        "rain": 1.33
+      },
+      {
+        "month": 5,
+        "temperature": 26.81,
+        "rain": 2.2
+      },
+      {
+        "month": 6,
+        "temperature": 27.37,
+        "rain": 1.59
+      },
+      {
+        "month": 7,
+        "temperature": 27.64,
+        "rain": 1.77
+      },
+      {
+        "month": 8,
+        "temperature": 27.79,
+        "rain": 2.2
+      },
+      {
+        "month": 9,
+        "temperature": 27.66,
+        "rain": 2.01
+      },
+      {
+        "month": 10,
+        "temperature": 27.16,
+        "rain": 2.06
+      },
+      {
+        "month": 11,
+        "temperature": 26.13,
+        "rain": 2.28
+      },
+      {
+        "month": 12,
+        "temperature": 25.24,
+        "rain": 1.35
+      }
+    ]
+  },
+  "JM": {
+    "city": "مونتيغو باي",
+    "lat": 18.48,
+    "lng": -77.92,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-77.92&latitude=18.48&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:47.529Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 25.93,
+        "rain": 1.41
+      },
+      {
+        "month": 2,
+        "temperature": 26.19,
+        "rain": 1.22
+      },
+      {
+        "month": 3,
+        "temperature": 26.71,
+        "rain": 1.51
+      },
+      {
+        "month": 4,
+        "temperature": 27.74,
+        "rain": 1.89
+      },
+      {
+        "month": 5,
+        "temperature": 28.33,
+        "rain": 4.85
+      },
+      {
+        "month": 6,
+        "temperature": 28.45,
+        "rain": 5
+      },
+      {
+        "month": 7,
+        "temperature": 28.72,
+        "rain": 3.53
+      },
+      {
+        "month": 8,
+        "temperature": 29,
+        "rain": 4.7
+      },
+      {
+        "month": 9,
+        "temperature": 28.88,
+        "rain": 6.33
+      },
+      {
+        "month": 10,
+        "temperature": 28.26,
+        "rain": 7
+      },
+      {
+        "month": 11,
+        "temperature": 27.17,
+        "rain": 4.37
+      },
+      {
+        "month": 12,
+        "temperature": 26.54,
+        "rain": 1.6
+      }
+    ]
+  },
+  "BS": {
+    "city": "ناساو",
+    "lat": 25.05,
+    "lng": -77.35,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-77.35&latitude=25.05&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:47.557Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 22.83,
+        "rain": 1.21
+      },
+      {
+        "month": 2,
+        "temperature": 23.01,
+        "rain": 1.18
+      },
+      {
+        "month": 3,
+        "temperature": 23.36,
+        "rain": 1.29
+      },
+      {
+        "month": 4,
+        "temperature": 24.55,
+        "rain": 2.03
+      },
+      {
+        "month": 5,
+        "temperature": 25.93,
+        "rain": 4.1
+      },
+      {
+        "month": 6,
+        "temperature": 27.77,
+        "rain": 5.39
+      },
+      {
+        "month": 7,
+        "temperature": 28.66,
+        "rain": 4.18
+      },
+      {
+        "month": 8,
+        "temperature": 29.01,
+        "rain": 4.97
+      },
+      {
+        "month": 9,
+        "temperature": 28.62,
+        "rain": 5.46
+      },
+      {
+        "month": 10,
+        "temperature": 27.5,
+        "rain": 3.85
+      },
+      {
+        "month": 11,
+        "temperature": 25.4,
+        "rain": 2.25
+      },
+      {
+        "month": 12,
+        "temperature": 24.1,
+        "rain": 1.3
+      }
+    ]
+  },
+  "CU": {
+    "city": "هافانا",
+    "lat": 23.11,
+    "lng": -82.37,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-82.37&latitude=23.11&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:47.595Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 22.42,
+        "rain": 0.96
+      },
+      {
+        "month": 2,
+        "temperature": 23.51,
+        "rain": 1.03
+      },
+      {
+        "month": 3,
+        "temperature": 24.53,
+        "rain": 0.73
+      },
+      {
+        "month": 4,
+        "temperature": 26.53,
+        "rain": 1.1
+      },
+      {
+        "month": 5,
+        "temperature": 27.81,
+        "rain": 2.06
+      },
+      {
+        "month": 6,
+        "temperature": 28.5,
+        "rain": 3.6
+      },
+      {
+        "month": 7,
+        "temperature": 28.99,
+        "rain": 2.67
+      },
+      {
+        "month": 8,
+        "temperature": 29.08,
+        "rain": 3.49
+      },
+      {
+        "month": 9,
+        "temperature": 28.32,
+        "rain": 3.4
+      },
+      {
+        "month": 10,
+        "temperature": 27.11,
+        "rain": 2.81
+      },
+      {
+        "month": 11,
+        "temperature": 24.77,
+        "rain": 1.51
+      },
+      {
+        "month": 12,
+        "temperature": 23.55,
+        "rain": 0.97
+      }
+    ]
+  },
+  "BB": {
+    "city": "بريدجتاون",
+    "lat": 13.1,
+    "lng": -59.62,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-59.62&latitude=13.1&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:47.644Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 26.44,
+        "rain": 1.1
+      },
+      {
+        "month": 2,
+        "temperature": 26.21,
+        "rain": 0.66
+      },
+      {
+        "month": 3,
+        "temperature": 26.34,
+        "rain": 0.61
+      },
+      {
+        "month": 4,
+        "temperature": 26.9,
+        "rain": 0.92
+      },
+      {
+        "month": 5,
+        "temperature": 27.56,
+        "rain": 1.66
+      },
+      {
+        "month": 6,
+        "temperature": 27.76,
+        "rain": 2.4
+      },
+      {
+        "month": 7,
+        "temperature": 27.89,
+        "rain": 2.38
+      },
+      {
+        "month": 8,
+        "temperature": 28.18,
+        "rain": 3.07
+      },
+      {
+        "month": 9,
+        "temperature": 28.4,
+        "rain": 3.25
+      },
+      {
+        "month": 10,
+        "temperature": 28.26,
+        "rain": 4.26
+      },
+      {
+        "month": 11,
+        "temperature": 27.8,
+        "rain": 3.58
+      },
+      {
+        "month": 12,
+        "temperature": 27.15,
+        "rain": 1.57
+      }
+    ]
+  },
+  "BR": {
+    "city": "ريو دي جانيرو",
+    "lat": -22.91,
+    "lng": -43.17,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-43.17&latitude=-22.91&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:47.906Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 25.67,
+        "rain": 6.7
+      },
+      {
+        "month": 2,
+        "temperature": 25.83,
+        "rain": 5.39
+      },
+      {
+        "month": 3,
+        "temperature": 25.41,
+        "rain": 5.57
+      },
+      {
+        "month": 4,
+        "temperature": 24.32,
+        "rain": 3.35
+      },
+      {
+        "month": 5,
+        "temperature": 22.31,
+        "rain": 2.3
+      },
+      {
+        "month": 6,
+        "temperature": 21.51,
+        "rain": 1.64
+      },
+      {
+        "month": 7,
+        "temperature": 20.95,
+        "rain": 1.44
+      },
+      {
+        "month": 8,
+        "temperature": 21.25,
+        "rain": 1.35
+      },
+      {
+        "month": 9,
+        "temperature": 21.96,
+        "rain": 2.29
+      },
+      {
+        "month": 10,
+        "temperature": 22.93,
+        "rain": 3.48
+      },
+      {
+        "month": 11,
+        "temperature": 23.43,
+        "rain": 7.33
+      },
+      {
+        "month": 12,
+        "temperature": 24.71,
+        "rain": 7.49
+      }
+    ]
+  },
+  "AR": {
+    "city": "بوينس آيرس",
+    "lat": -34.6,
+    "lng": -58.38,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-58.38&latitude=-34.6&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:47.922Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 24.8,
+        "rain": 3.37
+      },
+      {
+        "month": 2,
+        "temperature": 24.08,
+        "rain": 4.3
+      },
+      {
+        "month": 3,
+        "temperature": 22.08,
+        "rain": 3.96
+      },
+      {
+        "month": 4,
+        "temperature": 18.8,
+        "rain": 3.25
+      },
+      {
+        "month": 5,
+        "temperature": 15.21,
+        "rain": 2.39
+      },
+      {
+        "month": 6,
+        "temperature": 12.23,
+        "rain": 1.79
+      },
+      {
+        "month": 7,
+        "temperature": 11.09,
+        "rain": 2.31
+      },
+      {
+        "month": 8,
+        "temperature": 12.54,
+        "rain": 2.28
+      },
+      {
+        "month": 9,
+        "temperature": 14.4,
+        "rain": 2.76
+      },
+      {
+        "month": 10,
+        "temperature": 17.42,
+        "rain": 3.53
+      },
+      {
+        "month": 11,
+        "temperature": 20.57,
+        "rain": 3.35
+      },
+      {
+        "month": 12,
+        "temperature": 23.12,
+        "rain": 3.04
+      }
+    ]
+  },
+  "CL": {
+    "city": "سانتياغو",
+    "lat": -33.45,
+    "lng": -70.67,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-70.67&latitude=-33.45&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:48.347Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 22.05,
+        "rain": 0.25
+      },
+      {
+        "month": 2,
+        "temperature": 21.23,
+        "rain": 0.3
+      },
+      {
+        "month": 3,
+        "temperature": 19.56,
+        "rain": 0.31
+      },
+      {
+        "month": 4,
+        "temperature": 16.09,
+        "rain": 0.39
+      },
+      {
+        "month": 5,
+        "temperature": 12.52,
+        "rain": 1.42
+      },
+      {
+        "month": 6,
+        "temperature": 9.18,
+        "rain": 2.1
+      },
+      {
+        "month": 7,
+        "temperature": 8.44,
+        "rain": 1.52
+      },
+      {
+        "month": 8,
+        "temperature": 9.74,
+        "rain": 1.29
+      },
+      {
+        "month": 9,
+        "temperature": 11.85,
+        "rain": 0.51
+      },
+      {
+        "month": 10,
+        "temperature": 14.57,
+        "rain": 0.39
+      },
+      {
+        "month": 11,
+        "temperature": 18.01,
+        "rain": 0.29
+      },
+      {
+        "month": 12,
+        "temperature": 20.51,
+        "rain": 0.21
+      }
+    ]
+  },
+  "PE": {
+    "city": "ليما",
+    "lat": -12.05,
+    "lng": -77.04,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-77.04&latitude=-12.05&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:48.424Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 19.41,
+        "rain": 0.09
+      },
+      {
+        "month": 2,
+        "temperature": 20.04,
+        "rain": 0.17
+      },
+      {
+        "month": 3,
+        "temperature": 20.07,
+        "rain": 0.14
+      },
+      {
+        "month": 4,
+        "temperature": 19.3,
+        "rain": 0.03
+      },
+      {
+        "month": 5,
+        "temperature": 18.13,
+        "rain": 0.03
+      },
+      {
+        "month": 6,
+        "temperature": 17.17,
+        "rain": 0.02
+      },
+      {
+        "month": 7,
+        "temperature": 16.71,
+        "rain": 0.03
+      },
+      {
+        "month": 8,
+        "temperature": 16.94,
+        "rain": 0.04
+      },
+      {
+        "month": 9,
+        "temperature": 17.34,
+        "rain": 0.02
+      },
+      {
+        "month": 10,
+        "temperature": 17.45,
+        "rain": 0.04
+      },
+      {
+        "month": 11,
+        "temperature": 17.8,
+        "rain": 0.06
+      },
+      {
+        "month": 12,
+        "temperature": 18.48,
+        "rain": 0.1
+      }
+    ]
+  },
+  "CO": {
+    "city": "بوغوتا",
+    "lat": 4.71,
+    "lng": -74.07,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-74.07&latitude=4.71&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:48.660Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 19.06,
+        "rain": 1.43
+      },
+      {
+        "month": 2,
+        "temperature": 19.54,
+        "rain": 2.51
+      },
+      {
+        "month": 3,
+        "temperature": 19.49,
+        "rain": 4.25
+      },
+      {
+        "month": 4,
+        "temperature": 19.07,
+        "rain": 6.97
+      },
+      {
+        "month": 5,
+        "temperature": 18.81,
+        "rain": 6.68
+      },
+      {
+        "month": 6,
+        "temperature": 18.22,
+        "rain": 5.4
+      },
+      {
+        "month": 7,
+        "temperature": 18.17,
+        "rain": 4.33
+      },
+      {
+        "month": 8,
+        "temperature": 18.49,
+        "rain": 3.47
+      },
+      {
+        "month": 9,
+        "temperature": 18.87,
+        "rain": 3.43
+      },
+      {
+        "month": 10,
+        "temperature": 18.65,
+        "rain": 5.99
+      },
+      {
+        "month": 11,
+        "temperature": 18.38,
+        "rain": 5.51
+      },
+      {
+        "month": 12,
+        "temperature": 18.62,
+        "rain": 3.33
+      }
+    ]
+  },
+  "EC": {
+    "city": "كيتو",
+    "lat": -0.18,
+    "lng": -78.47,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-78.47&latitude=-0.18&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:48.674Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 17.21,
+        "rain": 4.49
+      },
+      {
+        "month": 2,
+        "temperature": 17.33,
+        "rain": 5.07
+      },
+      {
+        "month": 3,
+        "temperature": 17.48,
+        "rain": 5.67
+      },
+      {
+        "month": 4,
+        "temperature": 17.71,
+        "rain": 5.91
+      },
+      {
+        "month": 5,
+        "temperature": 17.79,
+        "rain": 3.95
+      },
+      {
+        "month": 6,
+        "temperature": 17.5,
+        "rain": 1.93
+      },
+      {
+        "month": 7,
+        "temperature": 17.45,
+        "rain": 1.11
+      },
+      {
+        "month": 8,
+        "temperature": 17.69,
+        "rain": 0.81
+      },
+      {
+        "month": 9,
+        "temperature": 17.8,
+        "rain": 1.27
+      },
+      {
+        "month": 10,
+        "temperature": 17.4,
+        "rain": 2.46
+      },
+      {
+        "month": 11,
+        "temperature": 17.16,
+        "rain": 3
+      },
+      {
+        "month": 12,
+        "temperature": 17.17,
+        "rain": 3.23
+      }
+    ]
+  },
+  "BO": {
+    "city": "لاباز",
+    "lat": -16.5,
+    "lng": -68.15,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-68.15&latitude=-16.5&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:48.792Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 8.81,
+        "rain": 4.38
+      },
+      {
+        "month": 2,
+        "temperature": 8.63,
+        "rain": 4.02
+      },
+      {
+        "month": 3,
+        "temperature": 8.6,
+        "rain": 2.56
+      },
+      {
+        "month": 4,
+        "temperature": 7.97,
+        "rain": 1.17
+      },
+      {
+        "month": 5,
+        "temperature": 6.57,
+        "rain": 0.42
+      },
+      {
+        "month": 6,
+        "temperature": 5.72,
+        "rain": 0.29
+      },
+      {
+        "month": 7,
+        "temperature": 5.12,
+        "rain": 0.5
+      },
+      {
+        "month": 8,
+        "temperature": 5.98,
+        "rain": 0.7
+      },
+      {
+        "month": 9,
+        "temperature": 7.32,
+        "rain": 0.81
+      },
+      {
+        "month": 10,
+        "temperature": 8.57,
+        "rain": 1.56
+      },
+      {
+        "month": 11,
+        "temperature": 9.37,
+        "rain": 1.48
+      },
+      {
+        "month": 12,
+        "temperature": 9.14,
+        "rain": 3.44
+      }
+    ]
+  },
+  "AU": {
+    "city": "سيدني",
+    "lat": -33.87,
+    "lng": 151.21,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=151.21&latitude=-33.87&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:49.026Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 22.93,
+        "rain": 2.69
+      },
+      {
+        "month": 2,
+        "temperature": 22.75,
+        "rain": 4.75
+      },
+      {
+        "month": 3,
+        "temperature": 21.8,
+        "rain": 3.37
+      },
+      {
+        "month": 4,
+        "temperature": 19.82,
+        "rain": 2.44
+      },
+      {
+        "month": 5,
+        "temperature": 17.13,
+        "rain": 1.73
+      },
+      {
+        "month": 6,
+        "temperature": 15.05,
+        "rain": 2.89
+      },
+      {
+        "month": 7,
+        "temperature": 14,
+        "rain": 1.43
+      },
+      {
+        "month": 8,
+        "temperature": 14.47,
+        "rain": 1.5
+      },
+      {
+        "month": 9,
+        "temperature": 16.55,
+        "rain": 1.43
+      },
+      {
+        "month": 10,
+        "temperature": 18.41,
+        "rain": 2.07
+      },
+      {
+        "month": 11,
+        "temperature": 19.93,
+        "rain": 2.76
+      },
+      {
+        "month": 12,
+        "temperature": 21.38,
+        "rain": 2.32
+      }
+    ]
+  },
+  "NZ": {
+    "city": "أوكلاند",
+    "lat": -36.85,
+    "lng": 174.76,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=174.76&latitude=-36.85&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:49.042Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 19.79,
+        "rain": 1.88
+      },
+      {
+        "month": 2,
+        "temperature": 20.38,
+        "rain": 2.27
+      },
+      {
+        "month": 3,
+        "temperature": 19.08,
+        "rain": 2.32
+      },
+      {
+        "month": 4,
+        "temperature": 17.01,
+        "rain": 2.78
+      },
+      {
+        "month": 5,
+        "temperature": 14.74,
+        "rain": 3.81
+      },
+      {
+        "month": 6,
+        "temperature": 12.63,
+        "rain": 3.53
+      },
+      {
+        "month": 7,
+        "temperature": 11.4,
+        "rain": 3.71
+      },
+      {
+        "month": 8,
+        "temperature": 11.76,
+        "rain": 3.22
+      },
+      {
+        "month": 9,
+        "temperature": 12.92,
+        "rain": 2.85
+      },
+      {
+        "month": 10,
+        "temperature": 14.24,
+        "rain": 2.57
+      },
+      {
+        "month": 11,
+        "temperature": 16.01,
+        "rain": 1.74
+      },
+      {
+        "month": 12,
+        "temperature": 18.24,
+        "rain": 2.6
+      }
+    ]
+  },
+  "UY": {
+    "city": "مونتيفيديو",
+    "lat": -34.9,
+    "lng": -56.16,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-56.16&latitude=-34.9&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:49.104Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 23.21,
+        "rain": 3.29
+      },
+      {
+        "month": 2,
+        "temperature": 22.85,
+        "rain": 3.74
+      },
+      {
+        "month": 3,
+        "temperature": 21.09,
+        "rain": 3.8
+      },
+      {
+        "month": 4,
+        "temperature": 18.02,
+        "rain": 3.81
+      },
+      {
+        "month": 5,
+        "temperature": 14.64,
+        "rain": 2.71
+      },
+      {
+        "month": 6,
+        "temperature": 11.66,
+        "rain": 3.25
+      },
+      {
+        "month": 7,
+        "temperature": 10.32,
+        "rain": 2.96
+      },
+      {
+        "month": 8,
+        "temperature": 11.51,
+        "rain": 2.88
+      },
+      {
+        "month": 9,
+        "temperature": 12.96,
+        "rain": 3.2
+      },
+      {
+        "month": 10,
+        "temperature": 15.79,
+        "rain": 3.33
+      },
+      {
+        "month": 11,
+        "temperature": 18.76,
+        "rain": 3.2
+      },
+      {
+        "month": 12,
+        "temperature": 21.37,
+        "rain": 2.77
+      }
+    ]
+  },
+  "FJ": {
+    "city": "نادي",
+    "lat": -17.8,
+    "lng": 177.42,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=177.42&latitude=-17.8&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:49.240Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 27.25,
+        "rain": 8.82
+      },
+      {
+        "month": 2,
+        "temperature": 27.45,
+        "rain": 9.24
+      },
+      {
+        "month": 3,
+        "temperature": 27.14,
+        "rain": 10.08
+      },
+      {
+        "month": 4,
+        "temperature": 26.48,
+        "rain": 7.62
+      },
+      {
+        "month": 5,
+        "temperature": 25.31,
+        "rain": 3.85
+      },
+      {
+        "month": 6,
+        "temperature": 24.55,
+        "rain": 3.12
+      },
+      {
+        "month": 7,
+        "temperature": 23.64,
+        "rain": 2.27
+      },
+      {
+        "month": 8,
+        "temperature": 23.69,
+        "rain": 2.52
+      },
+      {
+        "month": 9,
+        "temperature": 24.4,
+        "rain": 3.32
+      },
+      {
+        "month": 10,
+        "temperature": 25.16,
+        "rain": 4.74
+      },
+      {
+        "month": 11,
+        "temperature": 25.91,
+        "rain": 5.28
+      },
+      {
+        "month": 12,
+        "temperature": 26.66,
+        "rain": 7.23
+      }
+    ]
+  },
+  "TO": {
+    "city": "نوكوالوفا",
+    "lat": -21.14,
+    "lng": -175.2,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-175.2&latitude=-21.14&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:49.423Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 26.49,
+        "rain": 6.36
+      },
+      {
+        "month": 2,
+        "temperature": 27.02,
+        "rain": 6.97
+      },
+      {
+        "month": 3,
+        "temperature": 26.83,
+        "rain": 6.34
+      },
+      {
+        "month": 4,
+        "temperature": 26.11,
+        "rain": 5.66
+      },
+      {
+        "month": 5,
+        "temperature": 24.84,
+        "rain": 3.6
+      },
+      {
+        "month": 6,
+        "temperature": 23.83,
+        "rain": 3.33
+      },
+      {
+        "month": 7,
+        "temperature": 22.84,
+        "rain": 2.15
+      },
+      {
+        "month": 8,
+        "temperature": 22.53,
+        "rain": 2.61
+      },
+      {
+        "month": 9,
+        "temperature": 22.87,
+        "rain": 2.77
+      },
+      {
+        "month": 10,
+        "temperature": 23.56,
+        "rain": 2.83
+      },
+      {
+        "month": 11,
+        "temperature": 24.44,
+        "rain": 3.69
+      },
+      {
+        "month": 12,
+        "temperature": 25.58,
+        "rain": 3.72
+      }
+    ]
+  },
+  "WS": {
+    "city": "أبيا",
+    "lat": -13.83,
+    "lng": -171.75,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=-171.75&latitude=-13.83&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:49.433Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 27.76,
+        "rain": 8.33
+      },
+      {
+        "month": 2,
+        "temperature": 27.75,
+        "rain": 8.53
+      },
+      {
+        "month": 3,
+        "temperature": 27.81,
+        "rain": 5.32
+      },
+      {
+        "month": 4,
+        "temperature": 27.84,
+        "rain": 5.63
+      },
+      {
+        "month": 5,
+        "temperature": 27.64,
+        "rain": 4.14
+      },
+      {
+        "month": 6,
+        "temperature": 27.2,
+        "rain": 3.02
+      },
+      {
+        "month": 7,
+        "temperature": 26.72,
+        "rain": 2.43
+      },
+      {
+        "month": 8,
+        "temperature": 26.68,
+        "rain": 1.8
+      },
+      {
+        "month": 9,
+        "temperature": 27,
+        "rain": 3.05
+      },
+      {
+        "month": 10,
+        "temperature": 27.26,
+        "rain": 4.54
+      },
+      {
+        "month": 11,
+        "temperature": 27.45,
+        "rain": 7.09
+      },
+      {
+        "month": 12,
+        "temperature": 27.62,
+        "rain": 7.39
+      }
+    ]
+  },
+  "VU": {
+    "city": "بورت فيلا",
+    "lat": -17.73,
+    "lng": 168.32,
+    "source": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=T2M,PRECTOTCORR&community=AG&longitude=168.32&latitude=-17.73&format=JSON",
+    "fetchedAt": "2026-09-24T23:17:49.505Z",
+    "period": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)",
+    "rows": [
+      {
+        "month": 1,
+        "temperature": 27.66,
+        "rain": 6.35
+      },
+      {
+        "month": 2,
+        "temperature": 28.08,
+        "rain": 6.14
+      },
+      {
+        "month": 3,
+        "temperature": 27.92,
+        "rain": 7.47
+      },
+      {
+        "month": 4,
+        "temperature": 27.41,
+        "rain": 6.79
+      },
+      {
+        "month": 5,
+        "temperature": 26.32,
+        "rain": 3.55
+      },
+      {
+        "month": 6,
+        "temperature": 25.48,
+        "rain": 3.25
+      },
+      {
+        "month": 7,
+        "temperature": 24.5,
+        "rain": 2.22
+      },
+      {
+        "month": 8,
+        "temperature": 24.28,
+        "rain": 1.96
+      },
+      {
+        "month": 9,
+        "temperature": 24.71,
+        "rain": 1.95
+      },
+      {
+        "month": 10,
+        "temperature": 25.37,
+        "rain": 3.04
+      },
+      {
+        "month": 11,
+        "temperature": 26.13,
+        "rain": 3.66
+      },
+      {
+        "month": 12,
+        "temperature": 27.09,
+        "rain": 4.48
+      }
+    ]
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "code": "SE",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي العادي",
+        "value": "تحتاج تأشيرة شنغن قصيرة للسياحة قبل السفر.",
+        "source": "https://www.government.se/government-policy/migration-and-asylum/list-of-foreign-citizens-who-require-visa-for-entry-into-sweden/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة شنغن",
+        "value": "حتى 90 يومًا مجتمعة في دول شنغن خلال أي 180 يومًا، بحسب ما تسمح به التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسم الأساسي للبالغ",
+        "value": "90 يورو. قد يضيف مركز الطلب رسوم خدمة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الكرونة السويدية. تدفع غالبًا بالبطاقة في ستوكهولم (Stockholm)، وبعض المحلات لا يقبل الكاش.",
+        "source": "https://www.visitstockholm.com/travel-info/travel-tips-for-stockholm-visitors/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية. من المعتاد تقريب المبلغ في المطعم عند الرضا.",
+        "source": "https://visitsweden.com/about-sweden/tipping/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — اقتصادي",
+        "value": "حوالي 266 ريالًا سعوديًا في السويد للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/sweden",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — متوسط",
+        "value": "حوالي 653 ريالًا سعوديًا في السويد للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/sweden",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة للزائر وسعر تقريبي",
+        "value": "كومفيك توفر خطًا مسبق الدفع، يتطلب تسجيل الهوية. مثال أسعارها 59 كرونة مقابل غيغابايت واحدة لمدة 7 أيام.",
+        "source": "https://www.comviq.se/en/prepaid",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق نقل",
+        "value": "أوبر (Uber) وبولت (Bolt) يعملان في ستوكهولم (Stockholm).",
+        "source": "https://www.visitstockholm.com/travel-info/handy-apps/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "من مطار أرلاندا (Arlanda) اختر قطار أرلاندا إكسبريس أو حافلة المطار إلى ستوكهولم (Stockholm).",
+        "source": "https://www.visitstockholm.com/travel-info/airport-transfer/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "شبكة قطارات المسافات الطويلة تربط ستوكهولم (Stockholm) بمدن في أنحاء السويد.",
+        "source": "https://visitsweden.com/where-to-go/middle-sweden/stockholm/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "مسجد ستوكهولم (Stockholm Mosque) في سودرمالم (Södermalm)، ومواعيد الزيارة منشورة على موقع المسجد.",
+        "source": "https://stockholmsmoske.se/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "كرات اللحم السويدية بعد التحقق من المكونات، والرنجة المخمّرة، ولفائف القرفة.",
+        "source": "https://visitsweden.com/what-to-do/food-drink/swedish-kitchen/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "توفر الحلال",
+        "value": "يوفر دليل ميشلان مرشحًا للمطاعم التي تقدم خيارات حلال في منطقة ستوكهولم (Stockholm). اسأل عن الطبق عند الحجز.",
+        "source": "https://guide.michelin.com/en/se/stockholm-region/restaurants",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرف في الأماكن العامة",
+        "value": "احترم الدور، وابحث عن آلة أرقام الانتظار في المتاجر والخدمات التي تستخدمها.",
+        "source": "https://sverigesforetagsguide.se/en/upptack-sverige/planering-och-inresa/kultur-och-grunder/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "تختلف مواعيد المتاجر بحسب اليوم، ويقصر دوام كثير منها في نهاية الأسبوع.",
+        "source": "https://www.ana.co.jp/en/jp/guide/plan/int-info/area-basic-info/arn.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستدعي الانتباه وأساليب السرقة",
+        "value": "يستهدف النشالون السياح في المدن الكبرى. احفظ الجواز والبطاقات منفصلة أثناء التنقل.",
+        "source": "https://www.gov.uk/foreign-travel-advice/sweden/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للشرطة والإسعاف والإطفاء.",
+        "source": "https://www.gov.uk/foreign-travel-advice/sweden/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ثلاثة أحياء أو مناطق لإقامة أولى",
+        "value": "غاملا ستان (Gamla Stan) للتاريخ، ونورمالم (Norrmalm) للمواصلات، وسودرمالم (Södermalm) للمقاهي والمتاجر المستقلة.",
+        "source": "https://www.visitstockholm.com/stockholms-districts/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مدن ومدد مقترحة لزيارة أولى",
+        "value": "ستوكهولم (Stockholm) يومان، وغوتنبرغ (Gothenburg) يوم كامل بعد يوم الانتقال، ومالمو (Malmö) يوم بعد الانتقال، ضمن مسار ستة أيام.",
+        "source": "https://sverigesforetagsguide.se/en/upptack-sverige/rutter-och-resplaner/stockholm-goteborg-malmo/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق معظم المتاجر، ويحق للمتجر أن يختار الفتح؛ تحقق من ساعات الفرع.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-sweden",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "تغلق معظم المتاجر، ويحق للمتجر أن يختار الفتح؛ تحقق من ساعات الفرع.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-sweden",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تغلق معظم المتاجر، ويحق للمتجر أن يختار الفتح؛ تحقق من ساعات الفرع.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-sweden",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٦-٠٥-١٤",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-14",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني السويدي",
+        "value": "٢٠٢٦-٠٦-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-06",
+        "impact": "تغلق معظم المتاجر، ويحق للمتجر أن يختار الفتح؛ تحقق من ساعات الفرع.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-sweden",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية منتصف الصيف",
+        "value": "٢٠٢٦-٠٦-١٩",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-19",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم منتصف الصيف",
+        "value": "٢٠٢٦-٠٦-٢٠",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-20",
+        "impact": "تغلق معظم المتاجر، ويحق للمتجر أن يختار الفتح؛ تحقق من ساعات الفرع.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-sweden",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١٠-٣١",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-31",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تغلق معظم المتاجر، ويحق للمتجر أن يختار الفتح؛ تحقق من ساعات الفرع.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-sweden",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "ليلة رأس السنة",
+        "value": "٢٠٢٦-١٢-٣١",
+        "source": "https://date.nager.at/Calendar/2026/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-31",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق معظم المتاجر، ويحق للمتجر أن يختار الفتح؛ تحقق من ساعات الفرع.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-sweden",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "تغلق معظم المتاجر، ويحق للمتجر أن يختار الفتح؛ تحقق من ساعات الفرع.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-sweden",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تغلق معظم المتاجر، ويحق للمتجر أن يختار الفتح؛ تحقق من ساعات الفرع.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-sweden",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٧-٠٥-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٧-٠٥-١٦",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني السويدي",
+        "value": "٢٠٢٧-٠٦-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-06",
+        "impact": "تغلق معظم المتاجر، ويحق للمتجر أن يختار الفتح؛ تحقق من ساعات الفرع.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-sweden",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية منتصف الصيف",
+        "value": "٢٠٢٧-٠٦-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم منتصف الصيف",
+        "value": "٢٠٢٧-٠٦-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-26",
+        "impact": "تغلق معظم المتاجر، ويحق للمتجر أن يختار الفتح؛ تحقق من ساعات الفرع.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-sweden",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق معظم المتاجر، ويحق للمتجر أن يختار الفتح؛ تحقق من ساعات الفرع.",
+        "impactSource": "https://www.norden.org/en/info-norden/public-holidays-sweden",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "ليلة رأس السنة",
+        "value": "٢٠٢٧-١٢-٣١",
+        "source": "https://date.nager.at/Calendar/2027/SE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-31",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم مرتفع",
+        "value": "من يونيو إلى أغسطس يكثر زوار ستوكهولم (Stockholm) وترتفع أسعار الموسم السياحي.",
+        "source": "https://adayin.se/frequently-asked-questions-about-visiting-stockholm/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 6,
+        "impact": "زحمة وأسعار أعلى",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم مرتفع",
+        "value": "من يونيو إلى أغسطس يكثر زوار ستوكهولم (Stockholm) وترتفع أسعار الموسم السياحي.",
+        "source": "https://adayin.se/frequently-asked-questions-about-visiting-stockholm/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "زحمة وأسعار أعلى",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم مرتفع",
+        "value": "من يونيو إلى أغسطس يكثر زوار ستوكهولم (Stockholm) وترتفع أسعار الموسم السياحي.",
+        "source": "https://adayin.se/frequently-asked-questions-about-visiting-stockholm/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "زحمة وأسعار أعلى",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "مايو وسبتمبر أهدأ في ستوكهولم (Stockholm).",
+        "source": "https://adayin.se/frequently-asked-questions-about-visiting-stockholm/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 5,
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "مايو وسبتمبر أهدأ في ستوكهولم (Stockholm).",
+        "source": "https://adayin.se/frequently-asked-questions-about-visiting-stockholm/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 9,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدرسية",
+        "value": "عطلة الرياضة الشتوية في مدارس ستوكهولم (Stockholm) البلدية.",
+        "source": "https://grundskola.stockholm/en/school-terms-and-vacation-periods-for-compulsory-school/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2027-03-01",
+        "end": "2027-03-05",
+        "impact": "عطلة مدرسية",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان ستوكهولم للثقافة",
+        "value": "ستوكهولم (Stockholm)، في أغسطس خلال الأسبوع 33.",
+        "source": "https://kulturfestivalen.stockholm.se/en/about-the-festival/",
+        "checked": "2026-11-27",
+        "month": 8,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

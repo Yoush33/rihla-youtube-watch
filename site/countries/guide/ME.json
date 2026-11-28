@@ -1,0 +1,673 @@
+{
+  "code": "ME",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي",
+        "value": "التأشيرة مطلوبة بعد انتهاء الإعفاء الموسمي في 31 أكتوبر 2026. يمكن لحامل بعض التأشيرات أو الإقامات السارية، ومنها شنغن، الدخول حتى 30 يوماً ضمن صلاحيتها.",
+        "source": "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/saudi-arabia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة",
+        "value": "بتأشيرة الإقامة القصيرة حتى 90 يوماً في فترة 180 يوماً.",
+        "source": "https://www.gov.me/en/article/stay-of-up-to-90-days",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "غير مؤكد",
+        "source": "https://www.gov.me/en/article/stay-of-up-to-90-days",
+        "checked": "2026-11-27",
+        "status": "uncertain"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "اليورو. تُقبل البطاقات في الفنادق والمتاجر الكبيرة. خذ نقداً للأسواق والمقاهي الصغيرة.",
+        "source": "https://traveltomontenegro.com/en/plan-your-trip/money-in-montenegro-euro-cards-atms-tips",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية ويمكن تقريب المبلغ عند الرضا عن الخدمة.",
+        "source": "https://traveltomontenegro.com/en/plan-your-trip/money-in-montenegro-euro-cards-atms-tips",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يومي اقتصادي",
+        "value": "نحو 221 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/montenegro",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يومي متوسط",
+        "value": "نحو 544 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/montenegro",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "تبدأ باقات الزائر لدى تيليكوم من 15 يورو.",
+        "source": "https://api.telekom.me/api/fs/download/Turist/MNE.pdf?root=%2FTurist%2FMNE.pdf",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "تسلا غو لطلب سيارة في بودغوريتسا (Podgorica).",
+        "source": "https://podgorica.travel/prevoz-u-gradu/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "حافلة النقل العام تربط مطار بودغوريتسا (Podgorica Airport) بالمدينة. راجع جدول المشغّل قبل الوصول.",
+        "source": "https://podgorica.travel/en/public-transportation-in-the-city/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "القطار يخدم بار (Bar) وبودغوريتسا (Podgorica). أكمل بالحافلة إلى كوتور (Kotor) وبودفا (Budva).",
+        "source": "https://everyrail.com/montenegro/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "تسرد هيئة السياحة منشآت تقدم طعاماً حلالاً. تحقّق من المطعم حسب المنطقة.",
+        "source": "https://montenegro.org/halal-food-in-montenegro/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "كاتشاماك بالذرة والبطاطس، تسيـتسفارا بالجبن، وسمك البحيرات المحلي.",
+        "source": "https://www.montenegro.travel/en/explore-montenegro/food-wine/flavors-of-montenegro",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مسجد للزيارة",
+        "value": "مسجد البحّارة في أولتسين (Ulcinj) على الساحل.",
+        "source": "https://ulcinj.travel/en/sailors-mosque/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "لزيارة المسجد اختر لباساً واسعاً ساتراً واخلع الحذاء عند الدخول.",
+        "source": "https://www.lonelyplanet.com/articles/things-to-know-before-traveling-to-montenegro",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "المتاجر عادةً من التاسعة صباحاً إلى التاسعة مساءً. أغلب البقالات تغلق الأحد.",
+        "source": "https://www.montenegro.travel/en/plan-your-stay-in-montenegro/useful-tips-and-facts/business-hours",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "مخاطر تهم الزائر",
+        "value": "انتبه للنشل في المناطق السياحية والنقل العام، ولا تترك مقتنياتك في سيارة متوقفة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/montenegro/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للطوارئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/montenegro/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "احتيال أُبلغ عنه",
+        "value": "استخدم تاكسياً مسجلاً واتفق على الأجرة أو تشغيل العدّاد قبل الانطلاق.",
+        "source": "https://travel.gc.ca/destinations/montenegro",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "البلدة القديمة في بودفا (Budva Old Town)",
+        "value": "للمشي بين الأسوار والمطاعم.",
+        "source": "https://mightymontenegro.com/journal/best-area-to-stay-budva",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "بيتشيـتشي (Bečići)",
+        "value": "شاطئ واسع وفنادق للعائلات.",
+        "source": "https://mightymontenegro.com/journal/best-area-to-stay-budva",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "رافايلوفيتشي (Rafailovići)",
+        "value": "واجهة بحرية أهدأ ومطاعم على الممر الساحلي.",
+        "source": "https://mightymontenegro.com/journal/best-area-to-stay-budva",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار مقترح ومدة كل محطة",
+        "value": "كوتور (Kotor) 3 ليالٍ، بودفا (Budva) ليلتان، جابلياك (Žabljak) ليلة لمسارات الجبال.",
+        "source": "https://bagintravel.com/en/guides/itinerary-montenegro-7-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-٠١-٠٧",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-07",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-٠١-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-08",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح الكاثوليكي",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح الكاثوليكي",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح الأرثوذكسي",
+        "value": "٢٠٢٦-٠٤-١٠",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-10",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح الأرثوذكسي",
+        "value": "٢٠٢٦-٠٤-١٣",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-13",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-02",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٥-٢١",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-21",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٥-٢٢",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-22",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدولة",
+        "value": "٢٠٢٦-٠٧-١٣",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-07-13",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدولة",
+        "value": "٢٠٢٦-٠٧-١٤",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-07-14",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-02",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-٠١-٠٧",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-07",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-٠١-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-08",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح الكاثوليكي",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح الكاثوليكي",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح الأرثوذكسي",
+        "value": "٢٠٢٧-٠٤-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-30",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح الأرثوذكسي",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٥-٢١",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-21",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٥-٢٢",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-22",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدولة",
+        "value": "٢٠٢٧-٠٧-١٣",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-13",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدولة",
+        "value": "٢٠٢٧-٠٧-١٤",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-07-14",
+        "impact": "يحظر البيع بالتجزئة والجملة في العطل الرسمية، مع استثناءات يحددها القانون.",
+        "impactSource": "https://www.gov.me/clanak/saopstenje-o-obavezi-postovanja-zabrane-trgovine-tokom-drzavnog-praznika-1-maja-praznika-rada",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/ME/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "غير مؤكد",
+        "scope": "إجازة دينية لأتباع الطائفة المعنية.",
+        "scopeSource": "https://sindikatmup.me/wp-content/uploads/2023/10/Zakon-o-svetkovanju-vjerskih-praznika.pdf",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم الذروة",
+        "value": "ذروة موسم الشواطئ. يكثر الزوار على الساحل.",
+        "source": "https://www.montenegro.travel/en/inspiration-for-a-dream-trip/the-best-period-to-visit-montenegro",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "ذروة موسم الشواطئ. يكثر الزوار على الساحل.",
+        "source": "https://www.montenegro.travel/en/inspiration-for-a-dream-trip/the-best-period-to-visit-montenegro",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "فترة طرف الموسم على الساحل، أقل ازدحاماً من ذروة الصيف.",
+        "source": "https://www.montenegro.travel/en/inspiration-for-a-dream-trip/the-best-period-to-visit-montenegro",
+        "checked": "2026-11-27",
+        "month": 5,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "فترة طرف الموسم على الساحل، أقل ازدحاماً من ذروة الصيف.",
+        "source": "https://www.montenegro.travel/en/inspiration-for-a-dream-trip/the-best-period-to-visit-montenegro",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة الشتاء المدرسية",
+        "value": "إجازة مدرسية بحسب تقويم الجهة المذكورة.",
+        "source": "https://www.gov.me/clanak/skolski-kalendar-za-2026-2027-godinu",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "end": "2027-01-31",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "ليلة بوكا",
+        "value": "موكب قوارب مضاءة في خليج كوتور (Kotor) في أغسطس.",
+        "source": "https://kckotor.me/2026/08/23/bokeska-noc-ponovo-odusevila-more-zasijalo-u-ritmu-maste-tradicije-i-kotorskih-mestara/",
+        "checked": "2026-11-27",
+        "month": 8,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

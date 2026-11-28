@@ -1,0 +1,500 @@
+{
+  "code": "PL",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي العادي",
+        "value": "تحتاج تأشيرة شنغن قصيرة للسياحة قبل السفر.",
+        "source": "https://www.gov.pl/web/saudiarabia/visas---general-information",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة شنغن",
+        "value": "حتى 90 يومًا مجتمعة في دول شنغن خلال أي 180 يومًا، بحسب ما تسمح به التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسم الأساسي للبالغ",
+        "value": "90 يورو. قد يضيف مركز الطلب رسوم خدمة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الزلوتي البولندي. الدفع بالبطاقة واللاتلامسي واسع الانتشار في وارسو (Warsaw).",
+        "source": "https://go2warsaw.pl/en/good-to-know/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "في وارسو (Warsaw) يُقدَّر عادة ترك 10–15٪ للخدمة الجيدة، وهو اختياري.",
+        "source": "https://www.lonelyplanet.com/articles/things-to-know-before-traveling-to-warsaw-poland",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — اقتصادي",
+        "value": "حوالي 158 ريالًا سعوديًا في وارسو (Warsaw) للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/Poland/Warsaw",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — متوسط",
+        "value": "حوالي 431 ريالًا سعوديًا في وارسو (Warsaw) للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/Poland/Warsaw",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة للزائر وسعر تقريبي",
+        "value": "تبدأ شريحة سفر إلكترونية من قرابة 4 يورو مقابل غيغابايت واحدة، وتتوفر شرائح محلية في متاجر المشغلين.",
+        "source": "https://warsawvisit.com/where-to-get-a-sim-card-in-warsaw/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق نقل",
+        "value": "أوبر (Uber) في وارسو (Warsaw).",
+        "source": "https://www.uber.com/global/en/r/cities/warszawa-mazowieckie-pl/?toString=e29419",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "يرتبط مطار شوبان (Chopin) بوارسو (Warsaw) بالحافلات البلدية والقطار.",
+        "source": "https://warszawa19115.pl/-/how-to-get-to-the-airport-",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "قطارات بي كيه بي إنترسيتي تربط المدن الرئيسية. احجز الخدمة الموافقة لتاريخ الرحلة.",
+        "source": "https://www.poland.travel/en/timetables/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "يعرض دليل الجمعية الطلابية المسلمة مطاعم حلال ومصليات، منها المركز الثقافي الإسلامي في وارسو (Warsaw Muslim Cultural Centre).",
+        "source": "https://ssm.org.pl/en/halal-map/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "البيروغي بحشوة البطاطس والجبن، وحساء الشمندر بارشتش، وفطائر البطاطس بلاتسكي. اسأل عن المرق والإضافات.",
+        "source": "https://www.poland.travel/en/wp-content/uploads/sites/17/2025/12/Kulinaria_EN.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرف في الأماكن العامة",
+        "value": "احترم المصلين في الكنائس وتجنب التجول للتصوير أثناء القداس.",
+        "source": "https://www.tripcatholic.com/articles/what-to-wear-and-how-to-behave-in-polish-churches",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "تغلق غالبية المتاجر في معظم أيام الأحد باستثناء أيام التسوق المحددة وبعض المتاجر الصغيرة.",
+        "source": "https://go2warsaw.pl/en/good-to-know/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستدعي الانتباه وأساليب السرقة",
+        "value": "ينشط النشل في محطات السكك الرئيسية والقطارات ومعالم السياح المزدحمة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/poland/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للطوارئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/poland/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ثلاثة أحياء أو مناطق لإقامة أولى",
+        "value": "وسط وارسو (Śródmieście) للمواصلات، والبلدة القديمة (Stare Miasto) للمعالم التاريخية، وبوفيشله (Powiśle) للمشي على ضفة النهر.",
+        "source": "https://discoverpolska.com/en/where-to-stay/warsaw/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مدن ومدد مقترحة لزيارة أولى",
+        "value": "وارسو (Warsaw) 3 أيام، وكراكوف (Kraków) 3 أيام، وغدانسك (Gdańsk) يومان، وزاكوباني (Zakopane) يومان ضمن مسار عشرة أيام.",
+        "source": "https://explorinder.com/itineraries/10-days-in-poland",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد دستور الثالث من مايو",
+        "value": "٢٠٢٦-٠٥-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-03",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٦-٠٦-٠٤",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-04",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-١١-١١",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-11",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد دستور الثالث من مايو",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العنصرة",
+        "value": "٢٠٢٧-٠٥-١٦",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٧-٠٥-٢٧",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-27",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-١١-١١",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-11",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/PL/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تُقيّد تجارة التجزئة في العطلات؛ تحقّق من المتاجر المستثناة قبل التسوق.",
+        "impactSource": "https://www.gov.pl/web/family/trade-on-sundays",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم مرتفع",
+        "value": "يوليو من أشهر الازدحام في وارسو (Warsaw).",
+        "source": "https://www.klook.com/en-US/destination/c351-warsaw/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "زحمة موسمية",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "مايو ويونيو أقل كلفة وزحامًا في وارسو (Warsaw).",
+        "source": "https://www.klook.com/en-US/destination/c351-warsaw/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 5,
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "مايو ويونيو أقل كلفة وزحامًا في وارسو (Warsaw).",
+        "source": "https://www.klook.com/en-US/destination/c351-warsaw/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 6,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدرسية",
+        "value": "عطلة المدارس الوطنية في فترة الميلاد. تختلف عطلة الشتاء اللاحقة بحسب المحافظة.",
+        "source": "https://www.gov.pl/web/edukacja/ministerstwo-edukacji-narodowej-oglosilo-kalendarz-roku-szkolnego-20262027",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-23",
+        "end": "2026-12-31",
+        "impact": "عطلة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس · الربيع · بولندا",
+        "value": "تغلق المدارس المشمولة بهذا التقويم خلال الفترة المذكورة.",
+        "date": "2027-03-25",
+        "end": "2027-03-30",
+        "peak": true,
+        "impact": "تتوقف الدراسة. أثر الإجازة على أسعار السفر غير مؤكد.",
+        "source": "https://www.gov.pl/web/edukacja/ministerstwo-edukacji-narodowej-oglosilo-kalendarz-roku-szkolnego-20262027",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان النكهات الخمس للسينما الآسيوية",
+        "value": "وارسو (Warsaw)، في نوفمبر.",
+        "source": "https://artmuseum.pl/en/events/cycles/20th-asian-film-festival-five-flavors",
+        "checked": "2026-11-27",
+        "month": 11,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

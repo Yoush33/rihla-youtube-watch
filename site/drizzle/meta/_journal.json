@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790272597915,
+      "tag": "0000_absent_tempest",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790292131582,
+      "tag": "0001_third_wallow",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790293254655,
+      "tag": "0002_flippant_cobalt_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1790295001555,
+      "tag": "0003_faithful_epoch",
+      "breakpoints": true
+    }
+  ]
+}

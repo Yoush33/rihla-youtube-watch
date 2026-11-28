@@ -1,0 +1,537 @@
+{
+  "code": "HU",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "تحتاج تأشيرة شنغن للزيارة بالجواز السعودي العادي.",
+        "source": "https://eur-lex.europa.eu/eli/reg/2018/1806/2025-02-03/eng",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 90 يومًا ضمن أي 180 يومًا في دول شنغن مجتمعة، وفق صلاحية التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/short-stay-calculator_en?prefLang=nl",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "90 يورو رسم الطلب العادي للبالغ، وقد تضاف أجرة مركز تقديم الطلبات.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "فيزا وماستركارد واسعتا القبول وقد يُطلب الرقم السري.",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/destination.hun.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "الفورنت المجري",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/destination.hun.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "راجع الفاتورة لوجود رسوم خدمة قبل ترك زيادة.",
+        "source": "https://www.budapest.com/en/faq/faq-tipping-and-payments-in-hungary",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 165 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/Hungary",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 416 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/Hungary",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 15 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/hungary-esim/szia-in-7days-10gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "بودابست غو (BudapestGO) لتخطيط الرحلات وشراء التذاكر.",
+        "source": "https://bkk.hu/en/tickets-and-passes/budapestgo/travel-with-budapestgo-from-now-on.7246/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "حافلة 100E تصل مطار بودابست (Budapest) بوسط المدينة مباشرة.",
+        "source": "https://www.bud.hu/en/passengers/transport/public_transportation/budapest_public_transportation",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "شبكة قطارات الركاب التابعة لماف (MÁV) تصل المدن.",
+        "source": "https://www.mavcsoport.hu/sites/default/files/upload/page/special_conditions_of_mav_-_from_14-12-2025.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "توجد مطاعم حلال في بودابست (Budapest)، منها مطاعم شرق أوسطية.",
+        "source": "https://damasbudapest.hu/en/tips/halal-food-in-budapest",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "المصلى المركزي للجالية الإسلامية في زوغلو (Zugló) في بودابست (Budapest).",
+        "source": "https://magyariszlam.hu/en/contact/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "غولاش، لانغوش، ودجاج البابريكا. تحقق من مصدر اللحم.",
+        "source": "https://www.nationalgeographic.com/travel/article/goulash-paprikas-food-tour-budapest",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "في الكنائس والمواقع التذكارية غطّ الكتفين والركبتين وخفّض صوتك.",
+        "source": "https://www.pakahiki.com/europe/hungary/etiquette-and-customs-in-hungary",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "ساعات المراكز التجارية أطول من بعض المحلات المستقلة في المدن.",
+        "source": "https://uni.lisztacademy.hu/student-life/practical-guide-to-living-in-budapest-116009",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للطوارئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/hungary/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "يزداد خطر النشل في المترو المزدحم والمحطات الكبرى في بودابست (Budapest).",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/hungary.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "النشل في المترو المزدحم وعند محطات القطارات.",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/hungary.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "الحي الخامس (District V)",
+        "value": "لقرب الدانوب",
+        "source": "https://www.budapesttourist.com/posts/where-to-stay-in-budapest/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الحي السادس (District VI)",
+        "value": "لشارع أندراشي والمشي",
+        "source": "https://www.budapesttourist.com/posts/where-to-stay-in-budapest/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الحي السابع (District VII)",
+        "value": "للمطاعم والسهر",
+        "source": "https://www.budapesttourist.com/posts/where-to-stay-in-budapest/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "بودابست (Budapest)",
+        "value": "نقترح ثلاثة أيام عند توزيع وقت الرحلة.",
+        "source": "https://www.pakahiki.com/europe/hungary/hungary-itinerary-for-10-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "إيغر (Eger)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.pakahiki.com/europe/hungary/hungary-itinerary-for-10-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "بيتش (Pécs)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.pakahiki.com/europe/hungary/hungary-itinerary-for-10-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني",
+        "value": "٢٠٢٦-٠٣-١٥",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-15",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم تأسيس الدولة",
+        "value": "٢٠٢٦-٠٨-٢٠",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-20",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني",
+        "value": "٢٠٢٦-١٠-٢٣",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-23",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني",
+        "value": "٢٠٢٧-٠٣-١٥",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-15",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٧-٠٥-١٦",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم تأسيس الدولة",
+        "value": "٢٠٢٧-٠٨-٢٠",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-20",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني",
+        "value": "٢٠٢٧-١٠-٢٣",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-23",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/HU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت. قد تعمل بعض بقالات محطات الوقود والصيدليات المناوبة.",
+        "impactSource": "https://navigatehungary.hu/en/dailylife/shoppingandfood/shopopeninghours",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "العطلة الشتوية للمدارس",
+        "value": "من 2026-12-19 إلى 2027-01-03 حسب التقويم المدرسي.",
+        "source": "https://www.ksh.hu/infografika/2026/iskolakezdes_en.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-19",
+        "end": "2027-01-03",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "تبلغ السياحة ذروتها بين يونيو وأغسطس، والربيع والخريف أهدأ وألطف سعرًا.",
+        "source": "https://www.lonelyplanet.com/articles/guide-to-hungary",
+        "checked": "2026-11-27",
+        "month": 6,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زحام وأسعار أعلى"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "تبلغ السياحة ذروتها بين يونيو وأغسطس، والربيع والخريف أهدأ وألطف سعرًا.",
+        "source": "https://www.lonelyplanet.com/articles/guide-to-hungary",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زحام وأسعار أعلى"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "تبلغ السياحة ذروتها بين يونيو وأغسطس، والربيع والخريف أهدأ وألطف سعرًا.",
+        "source": "https://www.lonelyplanet.com/articles/guide-to-hungary",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زحام وأسعار أعلى"
+      },
+      {
+        "label": "عطلة الربيع المدرسية",
+        "value": "من 2027-03-25 إلى 2027-04-04 حسب التقويم المدرسي.",
+        "source": "https://www.ksh.hu/infografika/2026/iskolakezdes_en.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-25",
+        "end": "2027-04-04",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة الخريف المدرسية",
+        "value": "من 2026-10-23 إلى 2026-11-01 حسب التقويم المدرسي.",
+        "source": "https://www.ksh.hu/infografika/2026/iskolakezdes_en.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-10-23",
+        "end": "2026-11-01",
+        "peak": true,
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان سيغيت",
+        "value": "بودابست (Budapest)، أغسطس.",
+        "source": "https://szigetfestival.com/en/impact-island",
+        "checked": "2026-11-27",
+        "month": 8,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

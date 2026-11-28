@@ -1,0 +1,299 @@
+.countries-workspace {
+  min-width: 0;
+  margin-block: 0 28px;
+}
+
+.countries-heading {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 22px;
+}
+
+.countries-heading > svg {
+  box-sizing: content-box;
+  flex: none;
+  padding: 11px;
+  border-radius: 14px;
+  background: var(--positive-surface);
+  color: var(--teal);
+}
+
+.countries-heading h1,
+.countries-heading p {
+  margin: 0;
+}
+
+.countries-heading p {
+  color: var(--muted);
+}
+
+.countries-layout {
+  display: grid;
+  grid-template-columns: minmax(230px, 292px) minmax(0, 1fr);
+  grid-template-rows: auto 1fr;
+  grid-template-areas: "picker hero" "picker information";
+  gap: 18px;
+  align-items: start;
+}
+
+.countries-picker {
+  grid-area: picker;
+  min-width: 0;
+  padding: 16px;
+}
+
+.countries-picker h2 {
+  margin: 0 0 12px;
+  color: var(--teal);
+  font-size: 1.5rem;
+}
+
+.country-search-input {
+  position: relative;
+  display: block;
+}
+
+.country-search-input > svg {
+  position: absolute;
+  inset-inline-start: 11px;
+  top: 50%;
+  transform: translateY(-35%);
+  pointer-events: none;
+  color: var(--muted);
+}
+
+.country-search-input > input {
+  padding-inline-start: 35px;
+}
+
+.countries-picker select,
+.countries-picker input {
+  min-height: 44px;
+}
+
+.country-picker-list {
+  display: grid;
+  gap: 8px;
+  margin: 16px 0 0;
+  max-height: 430px;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  list-style: none;
+  padding: 0 2px 2px;
+}
+
+.country-picker-row {
+  min-width: 0;
+  display: grid;
+  grid-template-columns: 100px minmax(0, 1fr);
+  align-items: stretch;
+  padding: 3px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #fff;
+}
+
+.country-picker-row[data-selected="true"] {
+  border-color: var(--teal);
+  background: var(--positive-surface);
+}
+
+.country-picker-row > button {
+  justify-content: flex-start;
+  min-width: 0;
+  min-height: 44px;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--ink);
+  text-align: start;
+  overflow-wrap: anywhere;
+  padding: 7px 9px;
+}
+
+.country-picker-row > button:is(:hover, :focus-visible) {
+  color: var(--teal);
+  background: var(--neutral-surface);
+}
+
+.country-picker-photo {
+  height: 68px;
+  border-radius: 8px;
+}
+
+.country-picker-photo .place-image-credit {
+  inset-inline: 0;
+  inset-block: auto 0;
+  max-width: none;
+  border-radius: 0;
+  padding: 3px 4px;
+  overflow-wrap: anywhere;
+  white-space: normal;
+  font-size: .625rem;
+  line-height: 1.2;
+}
+
+.country-picker-photo .place-image-label {
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 4px;
+  background: transparent;
+  font-size: .75rem;
+  text-align: center;
+}
+
+.country-picker-more {
+  width: 100%;
+  min-height: 44px;
+  margin-top: 12px;
+}
+
+.countries-hero {
+  grid-area: hero;
+  min-width: 0;
+  border-radius: 18px;
+  overflow: hidden;
+  scroll-margin-top: 16px;
+}
+
+.countries-hero-photo {
+  height: clamp(196px, 25vw, 322px);
+}
+
+.countries-hero-photo h2,
+.country-weather-photo h2 {
+  margin: 0;
+  color: white;
+  font-size: 1.5rem;
+}
+
+.countries-information {
+  grid-area: information;
+  display: grid;
+  min-width: 0;
+  gap: 14px;
+}
+
+.countries-information > .country-data {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 0;
+}
+
+.countries-information > .country-data > .panel {
+  min-width: 0;
+}
+
+.countries-information .country-data-block h2 {
+  font-size: 1.5rem;
+}
+
+.countries-information .country-data-block .country-data-grid {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.countries-map {
+  padding-block: 0;
+}
+
+.countries-map[open] {
+  padding-bottom: 12px;
+}
+
+.countries-map > summary,
+.countries-intro > details > summary {
+  min-height: 44px;
+  color: var(--teal);
+  font-weight: 600;
+}
+
+.countries-map > summary {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+.countries-map > summary::after {
+  content: "";
+  width: 8px;
+  height: 8px;
+  margin-inline-start: auto;
+  transform: translateY(-2px) rotate(45deg);
+  border: solid currentColor;
+  border-width: 0 2px 2px 0;
+}
+
+.countries-map[open] > summary::after {
+  transform: translateY(2px) rotate(225deg);
+}
+
+.countries-map .world-canvas {
+  background: var(--neutral-surface);
+}
+
+.countries-map .world-map-wrap {
+  border-color: var(--line);
+  background: var(--bg);
+}
+
+.countries-intro-layout {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.countries-intro-layout p {
+  margin: 0;
+}
+
+.countries-intro-layout button {
+  flex: none;
+  min-height: 44px;
+}
+
+.countries-intro > details h2,
+.countries-intro > details label {
+  min-width: 0;
+}
+
+.country-weather-photo {
+  height: 140px;
+  margin-bottom: 14px;
+  border-radius: 12px;
+}
+
+@media (max-width: 1100px) {
+  .countries-layout {
+    grid-template-columns: minmax(220px, 260px) minmax(0, 1fr);
+  }
+
+  .countries-information > .country-data {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 770px) {
+  .countries-heading {
+    margin-bottom: 16px;
+  }
+
+  .countries-layout {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "hero" "picker" "information";
+    gap: 14px;
+  }
+
+  .countries-information > .country-data {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .country-picker-list {
+    max-height: 230px;
+  }
+
+  .countries-intro-layout {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

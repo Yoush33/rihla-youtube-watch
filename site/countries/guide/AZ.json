@@ -1,0 +1,606 @@
+{
+  "code": "AZ",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "إعفاء لحامل الجواز العادي من 15 فبراير 2026 إلى 15 فبراير 2027.",
+        "source": "https://migration.gov.az/en/news_detail/16753",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "ثلاث زيارات كحد أقصى خلال فترة الإعفاء، حتى 30 يوماً لكل زيارة.",
+        "source": "https://migration.gov.az/en/news_detail/16753",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم التأشيرة خلال فترة الإعفاء",
+        "value": "صفر.",
+        "source": "https://migration.gov.az/en/news_detail/16753",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "المانات الأذربيجاني",
+        "source": "https://www.cbar.az/page-28/currency-in-circulation?language=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "البطاقات متاحة في الفنادق والمتاجر الكبيرة. خذ مانَات نقداً خارجها.",
+        "source": "https://www.fia.com/sites/default/files/media_kit_-_azgp_2026_0.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "نحو 5–10٪ في المطاعم. راجع بند الخدمة قبل إضافة البقشيش.",
+        "source": "https://www.exploreazerbaijan.com/en/useful-info",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 214 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/azerbaijan",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 492 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/azerbaijan",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 19 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/azerbaijan-esim/yaxsi-mobile-3days-1gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«باكي كارت» للدفع في شبكة النقل في باكو (Baku).",
+        "source": "https://metro.gov.az/en/guide-subway",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "تنطلق حافلة المطار السريعة إلى منطقة محطة قطارات باكو (Baku).",
+        "source": "https://www.airport.az/en/transport/aero-express/to-airport/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تخدم الحافلات بين المدن محطة باكو الدولية (Baku International Bus Terminal).",
+        "source": "https://azerbaijan.travel/practical-information",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "تعلن عدة مطاعم في باكو (Baku) تقديم لحم حلال. اطلب تأكيداً إذا كانت الشهادة مهمة لك.",
+        "source": "https://halalrihla.com/en/cities/baku/halal-restaurants/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد تازه بير (Taza Pir Mosque) في باكو (Baku).",
+        "source": "https://irhal.com/en/city/baku/masjid/taza-pir-mosque",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "بيلاف، دولما، وحساء بيتي.",
+        "source": "https://www.gwtc.az/wp-content/uploads/2026/04/useful-info-for-tourists_eng.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "لا يُفرض لباس ديني في الشارع. في دور العبادة التزم تعليمات المدخل.",
+        "source": "https://azerbaijan.travel/practical-information",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "تجنب تصوير المباني العسكرية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/azerbaijan/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "تعمل مراكز تجارية في باكو (Baku) من 10 صباحاً إلى 10 مساءً. تحقق من موعد المركز المحدد.",
+        "source": "https://www.exploreazerbaijan.com/en/useful-info",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "تجنب مناطق الحدود مع أرمينيا والأراضي المحتمل تلوثها بالألغام.",
+        "source": "https://www.gov.uk/foreign-travel-advice/azerbaijan/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "احمِ الجواز والمحفظة في مناطق باكو (Baku) السياحية بعد الظلام.",
+        "source": "https://www.gov.uk/foreign-travel-advice/azerbaijan/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة 102، والإسعاف 103.",
+        "source": "https://www.gov.uk/foreign-travel-advice/azerbaijan/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "المدينة القديمة (Icherisheher)",
+        "value": "للمعالم التاريخية داخل الأسوار.",
+        "source": "https://www.beyongo.com/blog/travel-planning/where-to-stay-in-baku-neighbourhood-guide",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ساحة النوافير (Fountains Square)",
+        "value": "للمطاعم وشوارع المشاة.",
+        "source": "https://www.beyongo.com/blog/travel-planning/where-to-stay-in-baku-neighbourhood-guide",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ساحل (Sahil)",
+        "value": "للكورنيش والوصول بالمترو.",
+        "source": "https://www.beyongo.com/blog/travel-planning/where-to-stay-in-baku-neighbourhood-guide",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "باكو (Baku)",
+        "value": "توزيع مقترح للزيارة: 3 أيام.",
+        "source": "https://blog.trippify.net/travel-article/6-nights-in-baku-gabala-and-sheki/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "شكي (Sheki)",
+        "value": "توزيع مقترح للزيارة: يوم إلى يومين.",
+        "source": "https://blog.trippify.net/travel-article/6-nights-in-baku-gabala-and-sheki/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "قبالا (Gabala)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://blog.trippify.net/travel-article/6-nights-in-baku-gabala-and-sheki/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "عطلة رسمية 2026-01-01 إلى 2026-01-02.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "end": "2026-01-02",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الحداد الوطني",
+        "value": "عطلة رسمية 2026-01-20.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-01-20",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للمرأة",
+        "value": "عطلة رسمية 2026-03-08.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-03-08",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النصر على الفاشية",
+        "value": "عطلة رسمية 2026-05-09.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-05-09",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الاستقلال",
+        "value": "عطلة رسمية 2026-05-28.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-05-28",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الإنقاذ الوطني",
+        "value": "عطلة رسمية 2026-06-15.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-06-15",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم القوات المسلحة",
+        "value": "عطلة رسمية 2026-06-26.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-06-26",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر",
+        "value": "عطلة رسمية 2026-11-08.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-11-08",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم العلم",
+        "value": "عطلة رسمية 2026-11-09.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-11-09",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم تضامن أذربيجانيي العالم",
+        "value": "عطلة رسمية 2026-12-31.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-12-31",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "عطلة رسمية 2027-01-01 إلى 2027-01-02.",
+        "source": "https://president.az/en/pages/view/azerbaijan/holidays",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "end": "2027-01-02",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الحداد الوطني",
+        "value": "عطلة رسمية 2027-01-20.",
+        "source": "https://president.az/en/pages/view/azerbaijan/memories",
+        "checked": "2026-11-27",
+        "date": "2027-01-20",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للمرأة",
+        "value": "عطلة رسمية 2027-03-08.",
+        "source": "https://president.az/en/pages/view/azerbaijan/holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النصر على الفاشية",
+        "value": "عطلة رسمية 2027-05-09.",
+        "source": "https://president.az/en/pages/view/azerbaijan/holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-09",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الاستقلال",
+        "value": "عطلة رسمية 2027-05-28.",
+        "source": "https://president.az/en/pages/view/azerbaijan/holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-28",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الإنقاذ الوطني",
+        "value": "عطلة رسمية 2027-06-15.",
+        "source": "https://president.az/en/pages/view/azerbaijan/holidays",
+        "checked": "2026-11-27",
+        "date": "2027-06-15",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم القوات المسلحة",
+        "value": "عطلة رسمية 2027-06-26.",
+        "source": "https://president.az/en/pages/view/azerbaijan/holidays",
+        "checked": "2026-11-27",
+        "date": "2027-06-26",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر",
+        "value": "عطلة رسمية 2027-11-08.",
+        "source": "https://president.az/en/pages/view/azerbaijan/holidays",
+        "checked": "2026-11-27",
+        "date": "2027-11-08",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم العلم",
+        "value": "عطلة رسمية 2027-11-09.",
+        "source": "https://president.az/en/pages/view/azerbaijan/holidays",
+        "checked": "2026-11-27",
+        "date": "2027-11-09",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم تضامن أذربيجانيي العالم",
+        "value": "عطلة رسمية 2027-12-31.",
+        "source": "https://president.az/en/pages/view/azerbaijan/holidays",
+        "checked": "2026-11-27",
+        "date": "2027-12-31",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد النوروز",
+        "value": "عطلة رسمية 2026-03-20 إلى 2026-03-24.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "end": "2026-03-24",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "عطلة رسمية 2026-03-20 إلى 2026-03-21؛ يعتمد على رؤية الهلال.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "end": "2026-03-21",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "عطلة رسمية 2026-05-27 إلى 2026-05-28؛ يعتمد على رؤية الهلال.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "end": "2026-05-28",
+        "impact": "عطلة رسمية. تحقّق من مواعيد الجهة قبل زيارتها؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم راحة تعويضي للدوام خمسة أيام",
+        "value": "عطلة رسمية 2026-03-09.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-03-09",
+        "impact": "تغلق الجهات التي تتبع أسبوع العمل من خمسة أيام.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم راحة تعويضي للدوام خمسة أيام",
+        "value": "عطلة رسمية 2026-03-25.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-03-25",
+        "impact": "تغلق الجهات التي تتبع أسبوع العمل من خمسة أيام.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم راحة تعويضي للدوام خمسة أيام",
+        "value": "عطلة رسمية 2026-03-26.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-03-26",
+        "impact": "تغلق الجهات التي تتبع أسبوع العمل من خمسة أيام.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم راحة تعويضي للدوام خمسة أيام",
+        "value": "عطلة رسمية 2026-03-27.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-03-27",
+        "impact": "تغلق الجهات التي تتبع أسبوع العمل من خمسة أيام.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم راحة تعويضي للدوام خمسة أيام",
+        "value": "عطلة رسمية 2026-03-30.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-03-30",
+        "impact": "تغلق الجهات التي تتبع أسبوع العمل من خمسة أيام.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم راحة تعويضي للدوام خمسة أيام",
+        "value": "عطلة رسمية 2026-05-11.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-05-11",
+        "impact": "تغلق الجهات التي تتبع أسبوع العمل من خمسة أيام.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم راحة تعويضي للدوام خمسة أيام",
+        "value": "عطلة رسمية 2026-05-29.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-05-29",
+        "impact": "تغلق الجهات التي تتبع أسبوع العمل من خمسة أيام.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم راحة تعويضي للدوام خمسة أيام",
+        "value": "عطلة رسمية 2026-11-10.",
+        "source": "https://sosial.gov.az/en/media/news/the-working-time-norm-and-production-calendar-for-2026-have-been-approved-8777",
+        "checked": "2026-11-27",
+        "date": "2026-11-10",
+        "impact": "تغلق الجهات التي تتبع أسبوع العمل من خمسة أيام.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر 2027",
+        "value": "تاريخ فلكي تقريبي 2027-03-09؛ يعتمد على رؤية الهلال. أيام تعطيل العمل بانتظار قرار أذربيجان السنوي.",
+        "source": "https://ezanim.app/islamic-holidays/azerbaijan",
+        "checked": "2026-11-27",
+        "impact": "تاريخ تقريبي؛ مواعيد الإغلاق غير مؤكدة.",
+        "date": "2027-03-09",
+        "provisional": true,
+        "status": "uncertain",
+        "lawSource": "https://president.az/en/pages/view/azerbaijan/holidays",
+        "approximate": true
+      },
+      {
+        "label": "عيد الأضحى 2027",
+        "value": "تاريخ فلكي تقريبي 2027-05-16؛ يعتمد على رؤية الهلال. أيام تعطيل العمل بانتظار قرار أذربيجان السنوي.",
+        "source": "https://ezanim.app/islamic-holidays/azerbaijan",
+        "checked": "2026-11-27",
+        "impact": "تاريخ تقريبي؛ مواعيد الإغلاق غير مؤكدة.",
+        "date": "2027-05-16",
+        "provisional": true,
+        "status": "uncertain",
+        "lawSource": "https://president.az/en/pages/view/azerbaijan/holidays",
+        "approximate": true
+      },
+      {
+        "label": "أيام النوروز والتعويض لعام 2027",
+        "value": "غير مؤكد",
+        "source": "https://president.az/en/pages/view/azerbaijan/holidays",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      },
+      {
+        "label": "المدة القانونية لعطلة النوروز",
+        "value": "خمسة أيام وفق قانون العمل. التواريخ السنوية يحددها القرار التنفيذي.",
+        "source": "https://nk.gov.az/en/azerbaycan/bayramlar",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "إجازة الشتاء في التعليم العام",
+        "value": "إجازة مدرسية من 2027-01-27 إلى 2027-01-31 شاملة الطرفين.",
+        "source": "https://edu.gov.az/az/questionary/page/5",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2027-01-27",
+        "end": "2027-01-31",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تسجل المناطق خارج العاصمة زيادة موسمية في الصيف وفترات الأعياد المحلية.",
+        "source": "https://www.heritage.org.az/storage/2021/08/27/pcFq0rUl0x3NFGd76IDoZVIC0Y2utyAKruXWg0io.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "نوفمبر ويناير وفبراير أهدأ عادةً للسياحة داخل باكو (Baku). تختلف الوجهات الجبلية في موسم التزلج.",
+        "source": "https://azerbaijantravel.com/blog/best-month-to-visit-azerbaijan",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم الصيفي للوجهات الإقليمية في يونيو",
+        "value": "تزداد حركة الزيارة الصيفية خارج العاصمة بحسب بيانات السياحة الإقليمية.",
+        "source": "https://www.heritage.org.az/storage/2021/08/27/pcFq0rUl0x3NFGd76IDoZVIC0Y2utyAKruXWg0io.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 6,
+        "impact": "تزداد حركة الزيارة الصيفية خارج العاصمة بحسب بيانات السياحة الإقليمية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم الصيفي للوجهات الإقليمية في يوليو",
+        "value": "تزداد حركة الزيارة الصيفية خارج العاصمة بحسب بيانات السياحة الإقليمية.",
+        "source": "https://www.heritage.org.az/storage/2021/08/27/pcFq0rUl0x3NFGd76IDoZVIC0Y2utyAKruXWg0io.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "تزداد حركة الزيارة الصيفية خارج العاصمة بحسب بيانات السياحة الإقليمية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم الصيفي للوجهات الإقليمية في أغسطس",
+        "value": "تزداد حركة الزيارة الصيفية خارج العاصمة بحسب بيانات السياحة الإقليمية.",
+        "source": "https://www.heritage.org.az/storage/2021/08/27/pcFq0rUl0x3NFGd76IDoZVIC0Y2utyAKruXWg0io.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "تزداد حركة الزيارة الصيفية خارج العاصمة بحسب بيانات السياحة الإقليمية.",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان الرمان",
+        "value": "غويتشاي (Goychay)، أكتوبر أو نوفمبر، تقام أسواق وعروض للاحتفاء بالحصاد.",
+        "source": "https://ich.unesco.org/en/RL/nar-bayrami-traditional-pomegranate-festivity-and-culture-01511",
+        "checked": "2026-11-27",
+        "month": 10,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

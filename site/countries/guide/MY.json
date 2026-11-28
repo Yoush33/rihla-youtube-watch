@@ -1,0 +1,1102 @@
+{
+  "code": "MY",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي",
+        "value": "الزيارة السياحية معفاة من التأشيرة للجواز السعودي.",
+        "source": "https://www.kln.gov.my/documents/34145/9828314/VISA%2BAPPLICATION%2BTO%2BMALAYSIA/8670bdf2-e24b-4f50-98a1-7915e32f47fe?download=true&version=1.0",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة",
+        "value": "حتى 90 يوماً.",
+        "source": "https://www.kln.gov.my/documents/34145/9828314/VISA%2BAPPLICATION%2BTO%2BMALAYSIA/8670bdf2-e24b-4f50-98a1-7915e32f47fe?download=true&version=1.0",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "لا توجد رسوم تأشيرة للزيارة المعفاة.",
+        "source": "https://www.kln.gov.my/documents/34145/9828314/VISA%2BAPPLICATION%2BTO%2BMALAYSIA/8670bdf2-e24b-4f50-98a1-7915e32f47fe?download=true&version=1.0",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الرينغيت. البطاقات منتشرة في المدن، والنقد مفيد في أكشاك الأكل والأسواق.",
+        "source": "https://www.visitpenang.com/practical/money",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "غير إلزامية. راجع رسوم الخدمة في الفاتورة.",
+        "source": "https://www.themalaysianguide.com/practical/malaysia-currency-and-money/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يومي اقتصادي",
+        "value": "نحو 139 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/malaysia",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يومي متوسط",
+        "value": "نحو 386 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/malaysia",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "باقة هوت لينك للزائر بنحو 25 رينغيت لسبعة أيام.",
+        "source": "https://www.maxis.com.my/en/about-maxis/newsroom/2026/july/hotlink-adds-new-7-day-travel-sim-for-short-term-tourists/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "غراب لطلب سيارة، وبالس لتخطيط النقل العام في كوالالمبور (Kuala Lumpur).",
+        "source": "https://www.pidm.gov.my/getContentAsset/b9f45675-8d76-402e-83f5-f97292ab7ad9/188ea75b-0100-4438-8f97-d79a01d9e0cd/APRC-2026_Participants-Information-Kit.pdf?language=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "قطار المطار السريع يصل المحطة الأولى بمحطة كوالالمبور سنترال (KL Sentral) في نحو 28 دقيقة.",
+        "source": "https://www.kliaekspres.com/products-fares/klia-ekspres/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "قطارات الركاب بين المدن لها جداول بحسب الخط. احجز المقعد قبل السفر على الخطوط الطويلة.",
+        "source": "https://www.kliaekspres.com/media/wfpbscyt/202305-ekspres-15-18-combined-service-schedule.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "تتوفر المطاعم المعتمدة والمصليات بكثرة، منها مرافق في المراكز التجارية والمطارات.",
+        "source": "https://www.malaysia.travel/index.php/explore/your-gateway-for-halal-travel",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "ناسي ليماك بالأرز وجوز الهند، ساتاي من الأسياخ المشوية، وروتي تشاناي.",
+        "source": "https://dbook.penerangan.gov.my/dbook/dmdocuments/oyb2020_1/files/downloads/oyb2020.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "اخلع الحذاء قبل دخول المنازل ودور العبادة، واستعمل اليد اليمنى عند تقديم الأشياء.",
+        "source": "https://www.malaysia.travel/storage/files/pdf/2026-Malaysia-Surreal-Experience.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "في صباح (Sabah) تفتح المراكز التجارية عادةً من العاشرة صباحاً حتى العاشرة مساءً يومياً.",
+        "source": "https://sabah.gov.my/index.php/shopping-banking",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "مخاطر تهم الزائر",
+        "value": "من المخاطر خطف الحقائب من دراجات نارية. أبقِ حقيبتك بعيداً عن حافة الطريق.",
+        "source": "https://www.gov.uk/foreign-travel-advice/malaysia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "999 للشرطة والإسعاف.",
+        "source": "https://www.gov.uk/foreign-travel-advice/malaysia/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "احتيال أُبلغ عنه",
+        "value": "تنتشر عمليات الاحتيال بالبطاقات والصرافات. لا تغب بطاقتك عن نظرك أثناء الدفع.",
+        "source": "https://www.gov.uk/foreign-travel-advice/malaysia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "منطقة تحتاج مراجعة مسارك",
+        "value": "تحذر الخارجية من السفر غير الضروري إلى جزر ومواقع غوص محددة على ساحل شرق صباح (Sabah) بين سانداكان (Sandakan) وتاواو (Tawau) بسبب مخاطر الخطف.",
+        "source": "https://www.gov.uk/foreign-travel-advice/malaysia/regional-risks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "وسط كوالالمبور (KLCC)",
+        "value": "قرب البرجين والحديقة.",
+        "source": "https://www.visitkualalumpur.my/kuala-lumpur/neighborhoods",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "بوكيت بينتانغ (Bukit Bintang)",
+        "value": "للتسوق والمطاعم والنقل العام.",
+        "source": "https://www.visitkualalumpur.my/kuala-lumpur/neighborhoods",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الحي الصيني (Chinatown)",
+        "value": "لزيارة الأسواق والمباني التاريخية سيراً.",
+        "source": "https://www.visitkualalumpur.my/kuala-lumpur/neighborhoods",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار مقترح ومدة كل محطة",
+        "value": "كوالالمبور (Kuala Lumpur) يومان ثم ليلة عند العودة، ملقا (Melaka) ليلة، وجورج تاون (George Town) بقية الأسبوع.",
+        "source": "https://welovemalaysia.com/itineraries/malaysia-7-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "عطلة في بعض الولايات والأقاليم ومنها كوالالمبور.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "عطلة في بعض الولايات والأقاليم ومنها كوالالمبور.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد حاكم نغري سمبيلان",
+        "value": "عطلة محلية في نغري سمبيلان (Negeri Sembilan).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-14",
+        "impact": "عطلة محلية في نغري سمبيلان (Negeri Sembilan).",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإسراء والمعراج",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة محلية في ولايات محددة منها قدح (Kedah) وبرليس (Perlis).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-17",
+        "impact": "عطلة محلية في ولايات محددة منها قدح (Kedah) وبرليس (Perlis).",
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الأقاليم الاتحادية",
+        "value": "عطلة محلية في كوالالمبور (Kuala Lumpur) ولابوان (Labuan) وبوتراجايا (Putrajaya).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-01",
+        "impact": "عطلة محلية في كوالالمبور (Kuala Lumpur) ولابوان (Labuan) وبوتراجايا (Putrajaya).",
+        "status": "confirmed"
+      },
+      {
+        "label": "تايبوسام",
+        "value": "عطلة محلية في أقاليم محددة منها كوالالمبور (Kuala Lumpur) وبينانغ (Penang).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-01",
+        "impact": "عطلة محلية في أقاليم محددة منها كوالالمبور (Kuala Lumpur) وبينانغ (Penang).",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الصينية",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-17",
+        "end": "2026-02-18",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بداية رمضان",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة محلية في ولايات محددة، منها جوهور (Johor) وقدح (Kedah).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-19",
+        "impact": "عطلة محلية في ولايات محددة، منها جوهور (Johor) وقدح (Kedah).",
+        "status": "uncertain"
+      },
+      {
+        "label": "ذكرى إعلان تاريخ الاستقلال",
+        "value": "عطلة محلية في ملقا (Melaka).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-20",
+        "impact": "عطلة محلية في ملقا (Melaka).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى تتويج سلطان ترغكانو",
+        "value": "عطلة محلية في ترغكانو (Terengganu).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-04",
+        "impact": "عطلة محلية في ترغكانو (Terengganu).",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم نزول القرآن",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة محلية في أقاليم محددة منها كوالالمبور (Kuala Lumpur) وبوتراجايا (Putrajaya).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-07",
+        "impact": "عطلة محلية في أقاليم محددة منها كوالالمبور (Kuala Lumpur) وبوتراجايا (Putrajaya).",
+        "status": "uncertain"
+      },
+      {
+        "label": "إجازة إضافية لعيد الفطر",
+        "value": "شبه جزيرة ماليزيا. حدّد الإعلان هذا اليوم عند وقوع العيد في 21 مارس · يعتمد على رؤية الهلال.",
+        "source": "https://www.kabinet.gov.my/storage/2026/03/PUB-111_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "impact": "شبه جزيرة ماليزيا. حدّد الإعلان هذا اليوم عند وقوع العيد في 21 مارس.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-21",
+        "end": "2026-03-22",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد ميلاد سلطان جوهور",
+        "value": "عطلة محلية في جوهور (Johor).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-23",
+        "impact": "عطلة محلية في جوهور (Johor).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثالث أيام الفطر",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة محلية في ملقا (Melaka).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-23",
+        "impact": "عطلة محلية في ملقا (Melaka).",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد ميلاد حاكم صباح",
+        "value": "عطلة محلية في صباح (Sabah).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-30",
+        "impact": "عطلة محلية في صباح (Sabah).",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "عطلة محلية في صباح (Sabah) وساراواك (Sarawak).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "عطلة محلية في صباح (Sabah) وساراواك (Sarawak).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد سلطان ترغكانو",
+        "value": "عطلة محلية في ترغكانو (Terengganu).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-04-26",
+        "impact": "عطلة محلية في ترغكانو (Terengganu).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد راجا برليس",
+        "value": "عطلة محلية في برليس (Perlis).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-17",
+        "impact": "عطلة محلية في برليس (Perlis).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى وفاة السلطان أحمد شاه",
+        "value": "عطلة محلية في باهانغ (Pahang).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-22",
+        "impact": "عطلة محلية في باهانغ (Pahang).",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم عرفة",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة محلية في ولايات محددة منها كلنتن (Kelantan) وترغكانو (Terengganu).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-26",
+        "impact": "عطلة محلية في ولايات محددة منها كلنتن (Kelantan) وترغكانو (Terengganu).",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "ثاني أيام الأضحى",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة في ولايات محددة بحسب الجدول الرسمي.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-28",
+        "impact": "عطلة في ولايات محددة بحسب الجدول الرسمي.",
+        "status": "uncertain"
+      },
+      {
+        "label": "مهرجان حصاد كاماتان",
+        "value": "عطلة محلية في صباح (Sabah) ولابوان (Labuan).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-30",
+        "end": "2026-05-31",
+        "impact": "عطلة محلية في صباح (Sabah) ولابوان (Labuan).",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم فيساك",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-31",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد الملك الرسمي",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "مهرجان غاواي داياك",
+        "value": "عطلة محلية في ساراواك (Sarawak).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "end": "2026-06-02",
+        "impact": "عطلة محلية في ساراواك (Sarawak).",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-06-17",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد ميلاد سلطان قدح",
+        "value": "عطلة محلية في قدح (Kedah).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-06-21",
+        "impact": "عطلة محلية في قدح (Kedah).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى إدراج جورج تاون ضمن التراث العالمي",
+        "value": "عطلة محلية في بينانغ (Penang).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-07-07",
+        "impact": "عطلة محلية في بينانغ (Penang).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد حاكم بينانغ",
+        "value": "عطلة محلية في بينانغ (Penang).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-07-11",
+        "impact": "عطلة محلية في بينانغ (Penang).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى وفاة السلطان إسكندر",
+        "value": "عطلة محلية في جوهور (Johor).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-07-21",
+        "impact": "عطلة محلية في جوهور (Johor).",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم استقلال ساراواك",
+        "value": "عطلة محلية في ساراواك (Sarawak).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-07-22",
+        "impact": "عطلة محلية في ساراواك (Sarawak).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد سلطان باهانغ",
+        "value": "عطلة محلية في باهانغ (Pahang).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-07-31",
+        "impact": "عطلة محلية في باهانغ (Pahang).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد حاكم ملقا",
+        "value": "عطلة محلية في ملقا (Melaka).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-08-24",
+        "impact": "عطلة محلية في ملقا (Melaka).",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-08-25",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الاستقلال الوطني",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-08-31",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ماليزيا",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-09-16",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد سلطان كلنتن",
+        "value": "عطلة محلية في كلنتن (Kelantan).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-09-29",
+        "end": "2026-09-30",
+        "impact": "عطلة محلية في كلنتن (Kelantan).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد حاكم ساراواك",
+        "value": "عطلة محلية في ساراواك (Sarawak).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-10-10",
+        "impact": "عطلة محلية في ساراواك (Sarawak).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد سلطان بيراك",
+        "value": "عطلة محلية في بيراك (Perak).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-11-06",
+        "impact": "عطلة محلية في بيراك (Perak).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ديوالي",
+        "value": "عطلة باستثناء ساراواك (Sarawak).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-11-08",
+        "impact": "عطلة باستثناء ساراواك (Sarawak).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد سلطان سلانغور",
+        "value": "عطلة محلية في سلانغور (Selangor).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-11",
+        "impact": "عطلة محلية في سلانغور (Selangor).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية الميلاد",
+        "value": "عطلة محلية في صباح (Sabah).",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "عطلة محلية في صباح (Sabah).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "عطلة في بعض الولايات والأقاليم ومنها كوالالمبور.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "عطلة في بعض الولايات والأقاليم ومنها كوالالمبور.",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإسراء والمعراج",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة محلية في ولايات محددة منها قدح (Kedah) وبرليس (Perlis).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "عطلة محلية في ولايات محددة منها قدح (Kedah) وبرليس (Perlis).",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد ميلاد حاكم نغري سمبيلان",
+        "value": "عطلة محلية في نغري سمبيلان (Negeri Sembilan).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-01-14",
+        "impact": "عطلة محلية في نغري سمبيلان (Negeri Sembilan).",
+        "status": "confirmed"
+      },
+      {
+        "label": "تايبوسام",
+        "value": "عطلة محلية في أقاليم محددة منها كوالالمبور (Kuala Lumpur) وبينانغ (Penang).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-01-22",
+        "impact": "عطلة محلية في أقاليم محددة منها كوالالمبور (Kuala Lumpur) وبينانغ (Penang).",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأقاليم الاتحادية",
+        "value": "عطلة محلية في كوالالمبور (Kuala Lumpur) ولابوان (Labuan) وبوتراجايا (Putrajaya).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-02-01",
+        "impact": "عطلة محلية في كوالالمبور (Kuala Lumpur) ولابوان (Labuan) وبوتراجايا (Putrajaya).",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الصينية",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-02-06",
+        "end": "2027-02-07",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "بداية رمضان",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة محلية في ولايات محددة، منها جوهور (Johor) وقدح (Kedah).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-02-08",
+        "impact": "عطلة محلية في ولايات محددة، منها جوهور (Johor) وقدح (Kedah).",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "ذكرى إعلان تاريخ الاستقلال",
+        "value": "عطلة محلية في ملقا (Melaka).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-02-20",
+        "impact": "عطلة محلية في ملقا (Melaka).",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم نزول القرآن",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة محلية في أقاليم محددة منها كوالالمبور (Kuala Lumpur) وبوتراجايا (Putrajaya).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-02-24",
+        "impact": "عطلة محلية في أقاليم محددة منها كوالالمبور (Kuala Lumpur) وبوتراجايا (Putrajaya).",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "ذكرى تتويج سلطان ترغكانو",
+        "value": "عطلة محلية في ترغكانو (Terengganu).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-03-04",
+        "impact": "عطلة محلية في ترغكانو (Terengganu).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-03-10",
+        "end": "2027-03-11",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "ثالث أيام الفطر",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة محلية في ملقا (Melaka).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-03-12",
+        "impact": "عطلة محلية في ملقا (Melaka).",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد ميلاد سلطان جوهور",
+        "value": "عطلة محلية في جوهور (Johor).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-03-23",
+        "impact": "عطلة محلية في جوهور (Johor).",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "عطلة محلية في صباح (Sabah) وساراواك (Sarawak).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "عطلة محلية في صباح (Sabah) وساراواك (Sarawak).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد حاكم صباح",
+        "value": "عطلة محلية في صباح (Sabah).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-03-30",
+        "impact": "عطلة محلية في صباح (Sabah).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد سلطان ترغكانو",
+        "value": "عطلة محلية في ترغكانو (Terengganu).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-04-26",
+        "impact": "عطلة محلية في ترغكانو (Terengganu).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم عرفة",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة محلية في ولايات محددة منها كلنتن (Kelantan) وترغكانو (Terengganu).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "عطلة محلية في ولايات محددة منها كلنتن (Kelantan) وترغكانو (Terengganu).",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد ميلاد راجا برليس",
+        "value": "عطلة محلية في برليس (Perlis).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "عطلة محلية في برليس (Perlis).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام الأضحى",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة في ولايات محددة بحسب الجدول الرسمي.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-05-18",
+        "impact": "عطلة في ولايات محددة بحسب الجدول الرسمي.",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم فيساك",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-05-20",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى وفاة السلطان أحمد شاه",
+        "value": "عطلة محلية في باهانغ (Pahang).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-05-22",
+        "impact": "عطلة محلية في باهانغ (Pahang).",
+        "status": "confirmed"
+      },
+      {
+        "label": "مهرجان حصاد كاماتان",
+        "value": "عطلة محلية في صباح (Sabah) ولابوان (Labuan).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-05-30",
+        "end": "2027-05-31",
+        "impact": "عطلة محلية في صباح (Sabah) ولابوان (Labuan).",
+        "status": "confirmed"
+      },
+      {
+        "label": "مهرجان غاواي داياك",
+        "value": "عطلة محلية في ساراواك (Sarawak).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-06-01",
+        "end": "2027-06-02",
+        "impact": "عطلة محلية في ساراواك (Sarawak).",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-06-06",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد ميلاد الملك الرسمي",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-06-07",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد سلطان قدح",
+        "value": "عطلة محلية في قدح (Kedah).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-06-20",
+        "impact": "عطلة محلية في قدح (Kedah).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى إدراج جورج تاون ضمن التراث العالمي",
+        "value": "عطلة محلية في بينانغ (Penang).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-07-07",
+        "impact": "عطلة محلية في بينانغ (Penang).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد حاكم بينانغ",
+        "value": "عطلة محلية في بينانغ (Penang).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-07-10",
+        "impact": "عطلة محلية في بينانغ (Penang).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى وفاة السلطان إسكندر",
+        "value": "عطلة محلية في جوهور (Johor).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-07-11",
+        "impact": "عطلة محلية في جوهور (Johor).",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم استقلال ساراواك",
+        "value": "عطلة محلية في ساراواك (Sarawak).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-07-22",
+        "impact": "عطلة محلية في ساراواك (Sarawak).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد سلطان باهانغ",
+        "value": "عطلة محلية في باهانغ (Pahang).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-07-30",
+        "impact": "عطلة محلية في باهانغ (Pahang).",
+        "status": "confirmed"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد ميلاد حاكم ملقا",
+        "value": "عطلة محلية في ملقا (Melaka).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-08-24",
+        "impact": "عطلة محلية في ملقا (Melaka).",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الاستقلال الوطني",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-08-31",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ماليزيا",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-09-16",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد سلطان كلنتن",
+        "value": "عطلة محلية في كلنتن (Kelantan).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-09-29",
+        "end": "2027-09-30",
+        "impact": "عطلة محلية في كلنتن (Kelantan).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد حاكم ساراواك",
+        "value": "عطلة محلية في ساراواك (Sarawak).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-10-09",
+        "impact": "عطلة محلية في ساراواك (Sarawak).",
+        "status": "confirmed"
+      },
+      {
+        "label": "ديوالي",
+        "value": "عطلة باستثناء ساراواك (Sarawak).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-10-28",
+        "impact": "عطلة باستثناء ساراواك (Sarawak).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد سلطان بيراك",
+        "value": "عطلة محلية في بيراك (Perak).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-11-05",
+        "impact": "عطلة محلية في بيراك (Perak).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد سلطان سلانغور",
+        "value": "عطلة محلية في سلانغور (Selangor).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-12-11",
+        "impact": "عطلة محلية في سلانغور (Selangor).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية الميلاد",
+        "value": "عطلة محلية في صباح (Sabah).",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "عطلة محلية في صباح (Sabah).",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "عطلة رسمية.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإسراء والمعراج",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة محلية في ولايات محددة.",
+        "source": "https://www.kabinet.gov.my/hari-kelepasan-am/",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "عطلة محلية في ولايات محددة.",
+        "provisional": true,
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم الذروة",
+        "value": "تسجّل هيئة السياحة عادةً زيادة في وصول المسافرين في هذه الفترة.",
+        "source": "https://data.tourism.gov.my/frontend/pdf/Tourist%20Profile%202023_New.pdf",
+        "checked": "2026-11-27",
+        "month": 12,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تسجّل هيئة السياحة عادةً زيادة في وصول المسافرين في هذه الفترة.",
+        "source": "https://data.tourism.gov.my/frontend/pdf/Tourist%20Profile%202023_New.pdf",
+        "checked": "2026-11-27",
+        "month": 1,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تسجّل هيئة السياحة عادةً زيادة في وصول المسافرين في هذه الفترة.",
+        "source": "https://data.tourism.gov.my/frontend/pdf/Tourist%20Profile%202023_New.pdf",
+        "checked": "2026-11-27",
+        "month": 2,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تسجّل هيئة السياحة عادةً زيادة في وصول المسافرين في هذه الفترة.",
+        "source": "https://data.tourism.gov.my/frontend/pdf/Tourist%20Profile%202023_New.pdf",
+        "checked": "2026-11-27",
+        "month": 3,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تسجّل هيئة السياحة عادةً زيادة في وصول المسافرين في هذه الفترة.",
+        "source": "https://data.tourism.gov.my/frontend/pdf/Tourist%20Profile%202023_New.pdf",
+        "checked": "2026-11-27",
+        "month": 6,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تسجّل هيئة السياحة عادةً زيادة في وصول المسافرين في هذه الفترة.",
+        "source": "https://data.tourism.gov.my/frontend/pdf/Tourist%20Profile%202023_New.pdf",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "يزداد عدد الزوار",
+        "status": "confirmed"
+      },
+      {
+        "label": "نهاية السنة الدراسية في المجموعة ب، ومنها كوالالمبور (Kuala Lumpur)",
+        "value": "إجازة مدرسية بحسب تقويم الجهة المذكورة.",
+        "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-05",
+        "end": "2026-12-31",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان جورج تاون",
+        "value": "مهرجان فنون في جورج تاون (George Town) في بينانغ (Penang). أقيمت دورة 2026 في أغسطس.",
+        "source": "https://georgetownfestival.com/about/",
+        "checked": "2026-11-27",
+        "month": 8,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

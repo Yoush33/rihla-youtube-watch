@@ -1,0 +1,923 @@
+{
+  "code": "AU",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "قدّم على تأشيرة الزائر فئة 600، مسار السياحة من خارج أستراليا، قبل السفر.",
+        "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/tourist-stream-overseas?TermId=9bed64d4-e696-4a61-9bed-c70b5189efab&TermSetId=a76074c9-979d-4db3-adcc-34af89495da2&TermStoreId=1cafda66-8aac-4a45-95fa-3e03872913b6&hl=pt-PT",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "يحددها قرار المنح وقد تصل إلى 12 شهراً.",
+        "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/tourist-stream-overseas?TermId=9bed64d4-e696-4a61-9bed-c70b5189efab&TermSetId=a76074c9-979d-4db3-adcc-34af89495da2&TermStoreId=1cafda66-8aac-4a45-95fa-3e03872913b6&hl=pt-PT",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم التقديم",
+        "value": "يبدأ من 250 دولاراً أسترالياً للطلب من الخارج.",
+        "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/tourist-stream-overseas?TermId=9bed64d4-e696-4a61-9bed-c70b5189efab&TermSetId=a76074c9-979d-4db3-adcc-34af89495da2&TermStoreId=1cafda66-8aac-4a45-95fa-3e03872913b6&hl=pt-PT",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الدولار الأسترالي",
+        "source": "https://www.abf.gov.au/sdg-subsite/Pages/Code-Lists/Currency-Codes.aspx",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "الدفع بالبطاقات والتقريب اللاتلامسي شائع.",
+        "source": "https://www.australia.com/en/facts-and-planning/about-australia/key-facts-about-australia.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية؛ لا توجد نسبة إلزامية للخدمة.",
+        "source": "https://www.australia.com/en/facts-and-planning/about-australia/key-facts-about-australia.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 270 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/australia",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 694 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/australia",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/australia-esim/yes-go-in-30days-10gb?currency=USD",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«أوبال ترافل» لتخطيط المواصلات ومتابعة بطاقة أوبال في نيو ساوث ويلز (New South Wales).",
+        "source": "https://apps.apple.com/au/app/opal-travel/id941006607",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "اركب خط القطارات «تي 8» من مطار سيدني (Sydney) إلى وسط المدينة.",
+        "source": "https://transportnsw.info/travel-info/airport-travel/getting-to-from-sydney-airport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تربط القطارات والحافلات الإقليمية نيو ساوث ويلز (New South Wales) بمدن أخرى؛ راجع مسافة الرحلة قبل الاختيار.",
+        "source": "https://transportnsw.info/public-transport-essentials",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "تتجمع متاجر ومطاعم حلال في لاكيمبا (Lakemba) غرب سيدني (Sydney).",
+        "source": "https://wundrpath.com/guide/sydney/muslim",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد لاكيمبا (Lakemba Mosque).",
+        "source": "https://wundrpath.com/guide/sydney/muslim",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "فطيرة اللحم، كعكة لامينغتون، وبافلوفا. تحقق من الحشوة قبل شراء فطيرة اللحم.",
+        "source": "https://www.australia.com/en-us/things-to-do/food-and-drinks/typical-aussie-foods-to-try.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "الملابس غير الرسمية مألوفة في المدن السياحية، ويُراعى الاحتشام في دور العبادة.",
+        "source": "https://www.dfat.gov.au/sites/default/files/dfat-foi-lex12600.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "تلتزم الشواطئ بتعليمات منقذي السباحة. اسبح بين الأعلام المخصصة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/australia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "في سيدني (Sydney) قد تنهي المتاجر عمل الأحد الساعة 4 عصراً؛ يختلف حسب المتجر.",
+        "source": "https://www.experiencesydneyaustralia.com/visitor-information/sydney-shopping/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "في الشواطئ اختر المناطق التي يراقبها المنقذون. قد توجد تيارات سحب حتى قرب الشاطئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/australia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "احمِ أمتعتك ولا تترك متعلقات ثمينة ظاهرة في السيارة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/australia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 000.",
+        "source": "https://www.gov.uk/foreign-travel-advice/australia/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ذا روكس (The Rocks)",
+        "value": "للواجهة البحرية والمعالم التاريخية.",
+        "source": "https://visitsydney.com/areas-and-neighbourhoods/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "دارلنغ هاربور (Darling Harbour)",
+        "value": "لمرافق العائلات والممشى.",
+        "source": "https://visitsydney.com/areas-and-neighbourhoods/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "سري هيلز (Surry Hills)",
+        "value": "للمقاهي والمطاعم والقرب من المحطة المركزية.",
+        "source": "https://visitsydney.com/areas-and-neighbourhoods/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "سيدني (Sydney)",
+        "value": "توزيع مقترح للزيارة: 3–4 أيام.",
+        "source": "https://www.australian.com/visit/itineraries",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ملبورن (Melbourne)",
+        "value": "توزيع مقترح للزيارة: 3 أيام.",
+        "source": "https://www.australian.com/visit/itineraries",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كيرنز (Cairns)",
+        "value": "توزيع مقترح للزيارة: 3 أيام.",
+        "source": "https://www.australian.com/visit/itineraries",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم أستراليا",
+        "value": "٢٠٢٦-٠١-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-26",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٣-٠٢",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-03-02",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "غرب أستراليا (Western Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كانبرا",
+        "value": "٢٠٢٦-٠٣-٠٩",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-03-09",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كأس أديلايد",
+        "value": "٢٠٢٦-٠٣-٠٩",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-03-09",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "جنوب أستراليا (South Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم العمل لثماني ساعات",
+        "value": "٢٠٢٦-٠٣-٠٩",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-03-09",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "تسمانيا (Tasmania)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٣-٠٩",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-03-09",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "فيكتوريا (Victoria)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٤",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-04",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)، نيو ساوث ويلز (New South Wales)، الإقليم الشمالي (Northern Territory)، كوينزلاند (Queensland)، جنوب أستراليا (South Australia)، فيكتوريا (Victoria)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)، نيو ساوث ويلز (New South Wales)، الإقليم الشمالي (Northern Territory)، كوينزلاند (Queensland)، جنوب أستراليا (South Australia)، فيكتوريا (Victoria)، غرب أستراليا (Western Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم أنزاك",
+        "value": "٢٠٢٦-٠٤-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-25",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم أنزاك",
+        "value": "٢٠٢٦-٠٤-٢٧",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-27",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)، نيو ساوث ويلز (New South Wales)، غرب أستراليا (Western Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد أول مايو",
+        "value": "٢٠٢٦-٠٥-٠٤",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-05-04",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "الإقليم الشمالي (Northern Territory)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠٤",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-05-04",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "كوينزلاند (Queensland)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المصالحة",
+        "value": "٢٠٢٦-٠٦-٠١",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم أستراليا الغربية",
+        "value": "٢٠٢٦-٠٦-٠١",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "غرب أستراليا (Western Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد الملك",
+        "value": "٢٠٢٦-٠٦-٠٨",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-06-08",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)، نيو ساوث ويلز (New South Wales)، الإقليم الشمالي (Northern Territory)، جنوب أستراليا (South Australia)، تسمانيا (Tasmania)، فيكتوريا (Victoria)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النزهة",
+        "value": "٢٠٢٦-٠٨-٠٣",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-08-03",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "الإقليم الشمالي (Northern Territory)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة السابقة لنهائي كرة القدم الأسترالية",
+        "value": "٢٠٢٦-٠٩-٢٥",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-09-25",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "فيكتوريا (Victoria)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد الملك",
+        "value": "٢٠٢٦-٠٩-٢٨",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-09-28",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "غرب أستراليا (Western Australia)؛ قد تختلف بعض المناطق داخل الولاية.",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-١٠-٠٥",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-10-05",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)، نيو ساوث ويلز (New South Wales)، جنوب أستراليا (South Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد الملك",
+        "value": "٢٠٢٦-١٠-٠٥",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-10-05",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "كوينزلاند (Queensland)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "كأس ملبورن",
+        "value": "٢٠٢٦-١١-٠٣",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-11-03",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "فيكتوريا (Victoria)؛ قد تختلف بعض المناطق داخل الولاية.",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٨",
+        "source": "https://date.nager.at/Calendar/2026/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-28",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم أستراليا",
+        "value": "٢٠٢٧-٠١-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-26",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٣-٠١",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-01",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "غرب أستراليا (Western Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كانبرا",
+        "value": "٢٠٢٧-٠٣-٠٨",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم كأس أديلايد",
+        "value": "٢٠٢٧-٠٣-٠٨",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "جنوب أستراليا (South Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم العمل لثماني ساعات",
+        "value": "٢٠٢٧-٠٣-٠٨",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "تسمانيا (Tasmania)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٣-٠٨",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "فيكتوريا (Victoria)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٧",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-27",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)، نيو ساوث ويلز (New South Wales)، الإقليم الشمالي (Northern Territory)، كوينزلاند (Queensland)، جنوب أستراليا (South Australia)، فيكتوريا (Victoria)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)، نيو ساوث ويلز (New South Wales)، الإقليم الشمالي (Northern Territory)، كوينزلاند (Queensland)، جنوب أستراليا (South Australia)، فيكتوريا (Victoria)، غرب أستراليا (Western Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم أنزاك",
+        "value": "٢٠٢٧-٠٤-٢٥",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-04-25",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)، نيو ساوث ويلز (New South Wales)، جنوب أستراليا (South Australia)، تسمانيا (Tasmania)، فيكتوريا (Victoria)، غرب أستراليا (Western Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم أنزاك",
+        "value": "٢٠٢٧-٠٤-٢٦",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-04-26",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)، نيو ساوث ويلز (New South Wales)، الإقليم الشمالي (Northern Territory)، كوينزلاند (Queensland)، غرب أستراليا (Western Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد أول مايو",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "الإقليم الشمالي (Northern Territory)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "كوينزلاند (Queensland)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المصالحة",
+        "value": "٢٠٢٧-٠٥-٣١",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-31",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم أستراليا الغربية",
+        "value": "٢٠٢٧-٠٦-٠٧",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-06-07",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "غرب أستراليا (Western Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد الملك",
+        "value": "٢٠٢٧-٠٦-١٤",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-06-14",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)، نيو ساوث ويلز (New South Wales)، الإقليم الشمالي (Northern Territory)، جنوب أستراليا (South Australia)، تسمانيا (Tasmania)، فيكتوريا (Victoria)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النزهة",
+        "value": "٢٠٢٧-٠٨-٠٢",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-08-02",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "الإقليم الشمالي (Northern Territory)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة السابقة لنهائي كرة القدم الأسترالية",
+        "value": "غير مؤكد",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-09-24",
+        "impact": "غير مؤكد",
+        "scope": "فيكتوريا (Victoria)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد ميلاد الملك",
+        "value": "٢٠٢٧-٠٩-٢٧",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-09-27",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "غرب أستراليا (Western Australia)؛ قد تختلف بعض المناطق داخل الولاية.",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-١٠-٠٤",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-10-04",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "إقليم العاصمة الأسترالية (Australian Capital Territory)، نيو ساوث ويلز (New South Wales)، جنوب أستراليا (South Australia)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد ميلاد الملك",
+        "value": "٢٠٢٧-١٠-٠٤",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-10-04",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "كوينزلاند (Queensland)",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "كأس ملبورن",
+        "value": "٢٠٢٧-١١-٠٢",
+        "source": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-11-02",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "scope": "فيكتوريا (Victoria)؛ قد تختلف بعض المناطق داخل الولاية.",
+        "scopeSource": "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٧",
+        "source": "https://date.nager.at/Calendar/2027/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-27",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة اليوم التالي لعيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/AU/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-28",
+        "impact": "قد تغلق المصارف والمكاتب وبعض المتاجر في الولاية التي تعتمد العطلة.",
+        "impactSource": "https://www.australia.com/en/facts-and-planning/when-to-go/australian-public-holidays.html",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الصيف للمدارس الحكومية بالقطاع الشرقي في نيو ساوث ويلز",
+        "value": "إجازة مدرسية من 2026-12-18 إلى 2027-01-27 شاملة الطرفين.",
+        "source": "https://education.nsw.gov.au/schooling/calendars/2026",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-18",
+        "end": "2027-01-27",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تزدحم كيرنز (Cairns) والحاجز المرجاني في الشتاء الأسترالي الجاف، من يونيو إلى أغسطس.",
+        "source": "https://www.australia.com/en-gb/facts-and-planning/when-to-go/best-time-to-visit.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "تختلف الفترة الأهدأ بحسب الإقليم؛ الربيع والخريف مناسبان لتجنب ذروة الصيف في مدن الجنوب.",
+        "source": "https://www.australia.com/en-gb/facts-and-planning/when-to-go/best-time-to-visit.html",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم كيرنز والحاجز المرجاني في يونيو",
+        "value": "ذروة محلية في كيرنز (Cairns) والحاجز المرجاني العظيم (Great Barrier Reef).",
+        "source": "https://www.australia.com/en-gb/facts-and-planning/when-to-go/best-time-to-visit.html",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 6,
+        "impact": "ذروة محلية في كيرنز (Cairns) والحاجز المرجاني العظيم (Great Barrier Reef).",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم كيرنز والحاجز المرجاني في يوليو",
+        "value": "ذروة محلية في كيرنز (Cairns) والحاجز المرجاني العظيم (Great Barrier Reef).",
+        "source": "https://www.australia.com/en-gb/facts-and-planning/when-to-go/best-time-to-visit.html",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "ذروة محلية في كيرنز (Cairns) والحاجز المرجاني العظيم (Great Barrier Reef).",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم كيرنز والحاجز المرجاني في أغسطس",
+        "value": "ذروة محلية في كيرنز (Cairns) والحاجز المرجاني العظيم (Great Barrier Reef).",
+        "source": "https://www.australia.com/en-gb/facts-and-planning/when-to-go/best-time-to-visit.html",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "ذروة محلية في كيرنز (Cairns) والحاجز المرجاني العظيم (Great Barrier Reef).",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان فيفيد سيدني",
+        "value": "سيدني (Sydney)، مايو ويونيو. أعلن المنظم دورة 28 مايو إلى 19 يونيو 2027.",
+        "source": "https://www.vividsydney.com/info/about-vivid-sydney",
+        "checked": "2026-11-27",
+        "month": 5,
+        "status": "confirmed",
+        "date": "2027-05-28",
+        "end": "2027-06-19"
+      }
+    ]
+  }
+}

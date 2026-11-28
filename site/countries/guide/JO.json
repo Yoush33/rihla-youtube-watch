@@ -1,0 +1,454 @@
+{
+  "code": "JO",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "يُعفى حامل الجواز السعودي العادي من تأشيرة الزيارة.",
+        "source": "https://unstats.un.org/unsd/demographic/meetings/wshops/Jordan_21Nov10/InformationNote.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 90 يومًا وفق معلومات مديرية الأمن العام الأردنية.",
+        "source": "https://unstats.un.org/unsd/demographic/meetings/wshops/Jordan_21Nov10/InformationNote.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "من دون رسم تأشيرة ضمن الإعفاء.",
+        "source": "https://unstats.un.org/unsd/demographic/meetings/wshops/Jordan_21Nov10/InformationNote.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "تقبل الفنادق والمطاعم الكبيرة البطاقات، ويفيد الكاش للمشتريات الصغيرة.",
+        "source": "https://jordanbylocals.com/jordan-travel-guide/money-and-payments",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "الدينار الأردني",
+        "source": "https://jordanbylocals.com/jordan-travel-guide/money-and-payments",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "شائعة في المطاعم والفنادق عند تلقي خدمة.",
+        "source": "https://mota.gov.jo/EN/Pages/local_customs",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 274 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/jordan",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 660 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/jordan",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 17 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/jordan-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "شِباك (Shebak) لتخطيط التنقل بالحافلات.",
+        "source": "https://shebak.net/about/?lang=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "حافلات سارية إكسبريس (Sariyah Express) تربط مطار الملكة علياء (Queen Alia) بعمّان (Amman) حسب جدول المشغّل.",
+        "source": "https://sariyahexpress.com/airport-express/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "الحافلات بين المدن والسيارة خياران للتنقل.",
+        "source": "https://www.roughguides.com/jordan/getting-around/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "الطعام الحلال واسع التوفر، بما في ذلك المطاعم الشعبية في عمّان (Amman).",
+        "source": "https://ourjordan.com/en/essentials/jordan-for-muslim-travellers/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "مسجد الملك عبد الله الأول (King Abdullah I Mosque) في عمّان (Amman).",
+        "source": "https://www.lonelyplanet.com/points-of-interest/king-abdullah-mosque/1105401",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "المنسف، المقلوبة، والفلافل.",
+        "source": "https://edutravel.visitjordan.com/en/page/79/Food-and-Drinks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "البس باحتشام في الأماكن العامة.",
+        "source": "https://mota.gov.jo/EN/Pages/local_customs",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "ينشر سيتي مول (City Mall) في عمّان (Amman) موعد إغلاق اليوم على موقعه، ويتغير بين العاشرة والحادية عشرة مساءً في الجداول المنشورة.",
+        "source": "https://citymall.jo/plan-your-visit/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "911 للطوارئ.",
+        "source": "https://jordan.gov.jo/EN/List/Contact_Us_2",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "تنصح الإرشادات الكندية بتجنب السفر ضمن 5 كم من الحدود مع سوريا والعراق.",
+        "source": "https://travel.gc.ca/destinations/jordan",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "انتبه لخطف الحقائب والنشل في الزحام.",
+        "source": "https://www.amideast.org/sites/default/files//otherfiles/studyabroad/AMIDEAST%20EdAbroad%20Jordan%20Handbook%202021.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "جبل عمّان (Jabal Amman)",
+        "value": "للمشي حول شارع الرينبو",
+        "source": "https://www.jordandiscover.com/guides/where-to-stay-in-amman",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "جبل اللويبدة (Jabal al-Weibdeh)",
+        "value": "للمقاهي والثقافة",
+        "source": "https://www.jordandiscover.com/guides/where-to-stay-in-amman",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "وسط البلد (Downtown)",
+        "value": "للسكن الاقتصادي",
+        "source": "https://www.jordandiscover.com/guides/where-to-stay-in-amman",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "عمّان (Amman)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://international.visitjordan.com/uploads/brochures/Biblical-English.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "مادبا (Madaba)",
+        "value": "نقترح يومًا واحدًا عند توزيع وقت الرحلة.",
+        "source": "https://international.visitjordan.com/uploads/brochures/Biblical-English.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "العقبة (Aqaba)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://international.visitjordan.com/uploads/brochures/Biblical-English.pdf",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "2026-01-01. إغلاق الوزارات والدوائر الرسمية والمؤسسات العامة.",
+        "source": "https://pm.gov.jo/Ar/NewsDetails/%D8%A8%D9%84%D8%A7%D8%BA_%D9%84%D8%B1%D8%A6%D9%8A%D8%B3_%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1_%D9%8A%D8%AD%D8%AF%D8%AF_%D9%81%D9%8A%D9%87_%D8%A7%D9%84%D8%A7%D8%B9%D9%8A%D8%A7%D8%AF_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D9%87_",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "إغلاق الوزارات والدوائر الرسمية والمؤسسات العامة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "2026-05-25. إغلاق الوزارات والدوائر الرسمية والمؤسسات العامة.",
+        "source": "https://pm.gov.jo/Ar/NewsDetails/%D8%A8%D9%84%D8%A7%D8%BA_%D9%84%D8%B1%D8%A6%D9%8A%D8%B3_%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1_%D9%8A%D8%AD%D8%AF%D8%AF_%D9%81%D9%8A%D9%87_%D8%A7%D9%84%D8%A7%D8%B9%D9%8A%D8%A7%D8%AF_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D9%87_",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "إغلاق الوزارات والدوائر الرسمية والمؤسسات العامة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "2026-12-25. إغلاق الوزارات والدوائر الرسمية والمؤسسات العامة.",
+        "source": "https://pm.gov.jo/Ar/NewsDetails/%D8%A8%D9%84%D8%A7%D8%BA_%D9%84%D8%B1%D8%A6%D9%8A%D8%B3_%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1_%D9%8A%D8%AD%D8%AF%D8%AF_%D9%81%D9%8A%D9%87_%D8%A7%D9%84%D8%A7%D8%B9%D9%8A%D8%A7%D8%AF_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D9%87_",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "إغلاق الوزارات والدوائر الرسمية والمؤسسات العامة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "2027-01-01. إغلاق الوزارات والدوائر الرسمية والمؤسسات العامة.",
+        "source": "https://cbj.gov.jo/ebv4.0/root_storage/en/eb_list_page/banks_holidays_2027.pdf?AspxAutoDetectCookieSupport=1",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "إغلاق الوزارات والدوائر الرسمية والمؤسسات العامة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "2027-05-25. إغلاق الوزارات والدوائر الرسمية والمؤسسات العامة.",
+        "source": "https://cbj.gov.jo/ebv4.0/root_storage/en/eb_list_page/banks_holidays_2027.pdf?AspxAutoDetectCookieSupport=1",
+        "checked": "2026-11-27",
+        "date": "2027-05-25",
+        "impact": "إغلاق الوزارات والدوائر الرسمية والمؤسسات العامة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "2027-12-25. إغلاق الوزارات والدوائر الرسمية والمؤسسات العامة.",
+        "source": "https://cbj.gov.jo/ebv4.0/root_storage/en/eb_list_page/banks_holidays_2027.pdf?AspxAutoDetectCookieSupport=1",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "إغلاق الوزارات والدوائر الرسمية والمؤسسات العامة.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة عيد الأضحى",
+        "value": "2026-05-26 تقريبًا، يعتمد على رؤية الهلال. أعلنت الحكومة إغلاق الدوائر من 26 إلى 30 مايو.",
+        "source": "https://pm.gov.jo/AR//NewsDetails/am0751",
+        "checked": "2026-11-27",
+        "date": "2026-05-26",
+        "impact": "أعلنت الحكومة إغلاق الدوائر من 26 إلى 30 مايو.",
+        "end": "2026-05-30",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "2026-04-30. نُقلت عطلة العمل إلى الخميس 30 أبريل ببلاغ رسمي.",
+        "source": "https://sdc.com.jo/index.php/en/holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-30",
+        "impact": "نُقلت عطلة العمل إلى الخميس 30 أبريل ببلاغ رسمي.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة عيد الفطر",
+        "value": "2026-03-20 تقريبًا، يعتمد على رؤية الهلال. يغلق مركز إيداع الأوراق المالية طوال العطلة.",
+        "source": "https://sdc.com.jo/index.php/en/holidays",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "impact": "يغلق مركز إيداع الأوراق المالية طوال العطلة.",
+        "end": "2026-03-23",
+        "status": "uncertain"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "2026-06-16 تقريبًا، يعتمد على رؤية الهلال. إغلاق الجهات الحكومية بموجب البلاغ.",
+        "source": "https://petra.gov.jo/en/news/public-holiday-announced-for-hijri-new-year%C2%A0on-june-16",
+        "checked": "2026-11-27",
+        "date": "2026-06-16",
+        "impact": "إغلاق الجهات الحكومية بموجب البلاغ.",
+        "status": "uncertain"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "2026-08-25 تقريبًا، يعتمد على رؤية الهلال. إغلاق الجهات الحكومية بموجب البلاغ.",
+        "source": "https://petra.gov.jo/gweb/index.php/en/news/government-declares-public-holiday-for-prophets-birthday-on-august-25",
+        "checked": "2026-11-27",
+        "date": "2026-08-25",
+        "impact": "إغلاق الجهات الحكومية بموجب البلاغ.",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "2027-05-01. مدرج في جدول المصارف، وقد يصدر تعميم بتعديل اليوم.",
+        "source": "https://cbj.gov.jo/ebv4.0/root_storage/en/eb_list_page/banks_holidays_2027.pdf?AspxAutoDetectCookieSupport=1",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "مدرج في جدول المصارف، وقد يصدر تعميم بتعديل اليوم.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة عيد الفطر",
+        "value": "2027-03-09 تقريبًا، يعتمد على رؤية الهلال. البنوك تعطل وفق تقويم البنك المركزي الأردني المبدئي.",
+        "source": "https://cbj.gov.jo/ebv4.0/root_storage/en/eb_list_page/banks_holidays_2027.pdf?AspxAutoDetectCookieSupport=1",
+        "checked": "2026-11-27",
+        "date": "2027-03-09",
+        "impact": "البنوك تعطل وفق تقويم البنك المركزي الأردني المبدئي.",
+        "end": "2027-03-12",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عطلة عيد الأضحى",
+        "value": "2027-05-15 تقريبًا، يعتمد على رؤية الهلال. البنوك تعطل وفق تقويم البنك المركزي الأردني المبدئي.",
+        "source": "https://cbj.gov.jo/ebv4.0/root_storage/en/eb_list_page/banks_holidays_2027.pdf?AspxAutoDetectCookieSupport=1",
+        "checked": "2026-11-27",
+        "date": "2027-05-15",
+        "impact": "البنوك تعطل وفق تقويم البنك المركزي الأردني المبدئي.",
+        "end": "2027-05-19",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "2027-06-06 تقريبًا، يعتمد على رؤية الهلال. البنوك تعطل وفق تقويم البنك المركزي الأردني المبدئي.",
+        "source": "https://cbj.gov.jo/ebv4.0/root_storage/en/eb_list_page/banks_holidays_2027.pdf?AspxAutoDetectCookieSupport=1",
+        "checked": "2026-11-27",
+        "date": "2027-06-06",
+        "impact": "البنوك تعطل وفق تقويم البنك المركزي الأردني المبدئي.",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "2027-08-14 تقريبًا، يعتمد على رؤية الهلال. البنوك تعطل وفق تقويم البنك المركزي الأردني المبدئي.",
+        "source": "https://cbj.gov.jo/ebv4.0/root_storage/en/eb_list_page/banks_holidays_2027.pdf?AspxAutoDetectCookieSupport=1",
+        "checked": "2026-11-27",
+        "date": "2027-08-14",
+        "impact": "البنوك تعطل وفق تقويم البنك المركزي الأردني المبدئي.",
+        "tentative": true,
+        "provisional": true,
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "العطلة الشتوية بحسب تقويم الوزارة",
+        "value": "من 2027-01-05 إلى 2027-01-23 حسب التقويم المدرسي.",
+        "source": "https://petra.gov.jo/Evartum/htdocs/index.php/en/news/school-calendar-for-next-academic-year-announced",
+        "checked": "2026-11-27",
+        "date": "2027-01-05",
+        "end": "2027-01-23",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم والوقت الأهدأ",
+        "value": "الربيع والخريف أكثر ازدحامًا وأعلى سعرًا، والشتاء أبرد وأمطر.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-jordan",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة زيارة البترا (Petra)",
+        "value": "تصف هيئة السياحة الأردنية مارس إلى مايو وسبتمبر إلى نوفمبر بأنها أكثر فترات زيارة البترا ازدحامًا.",
+        "source": "https://international.visitjordan.com/blog/external/7625/best-time-to-go-to-petra-jordan/",
+        "checked": "2026-11-27",
+        "month": 3,
+        "peak": true,
+        "impact": "زحمة في معالم البترا",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة زيارة البترا (Petra)",
+        "value": "تصف هيئة السياحة الأردنية مارس إلى مايو وسبتمبر إلى نوفمبر بأنها أكثر فترات زيارة البترا ازدحامًا.",
+        "source": "https://international.visitjordan.com/blog/external/7625/best-time-to-go-to-petra-jordan/",
+        "checked": "2026-11-27",
+        "month": 4,
+        "peak": true,
+        "impact": "زحمة في معالم البترا",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة زيارة البترا (Petra)",
+        "value": "تصف هيئة السياحة الأردنية مارس إلى مايو وسبتمبر إلى نوفمبر بأنها أكثر فترات زيارة البترا ازدحامًا.",
+        "source": "https://international.visitjordan.com/blog/external/7625/best-time-to-go-to-petra-jordan/",
+        "checked": "2026-11-27",
+        "month": 5,
+        "peak": true,
+        "impact": "زحمة في معالم البترا",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة زيارة البترا (Petra)",
+        "value": "تصف هيئة السياحة الأردنية مارس إلى مايو وسبتمبر إلى نوفمبر بأنها أكثر فترات زيارة البترا ازدحامًا.",
+        "source": "https://international.visitjordan.com/blog/external/7625/best-time-to-go-to-petra-jordan/",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": true,
+        "impact": "زحمة في معالم البترا",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة زيارة البترا (Petra)",
+        "value": "تصف هيئة السياحة الأردنية مارس إلى مايو وسبتمبر إلى نوفمبر بأنها أكثر فترات زيارة البترا ازدحامًا.",
+        "source": "https://international.visitjordan.com/blog/external/7625/best-time-to-go-to-petra-jordan/",
+        "checked": "2026-11-27",
+        "month": 10,
+        "peak": true,
+        "impact": "زحمة في معالم البترا",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة زيارة البترا (Petra)",
+        "value": "تصف هيئة السياحة الأردنية مارس إلى مايو وسبتمبر إلى نوفمبر بأنها أكثر فترات زيارة البترا ازدحامًا.",
+        "source": "https://international.visitjordan.com/blog/external/7625/best-time-to-go-to-petra-jordan/",
+        "checked": "2026-11-27",
+        "month": 11,
+        "peak": true,
+        "impact": "زحمة في معالم البترا",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان جرش للثقافة والفنون",
+        "value": "جرش (Jerash)، يوليو.",
+        "source": "https://international.visitjordan.com/uploads/brochures/tracing-islam-english2022.pdf",
+        "checked": "2026-11-27",
+        "month": 7,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

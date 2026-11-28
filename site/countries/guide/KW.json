@@ -1,0 +1,442 @@
+{
+  "code": "KW",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "يدخل السعودي بالهوية الوطنية أو الجواز بموجب حرية تنقل مواطني مجلس التعاون.",
+        "source": "https://www.gcc-sg.org/ar/MediaCenter/DigitalLibrary/Documents/GCC%20REPORT%202023.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "للسعودي حق التنقل والإقامة بصفته مواطنًا خليجيًا، وتسجّل إقامته الدائمة لدى الهيئة العامة للمعلومات المدنية.",
+        "source": "https://www.gcc-sg.org/ar/MediaCenter/DigitalLibrary/Documents/GCC%20REPORT%202023.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "لا يحتاج إلى إصدار تأشيرة سياحية أو دفع رسمها بصفته مواطنًا خليجيًا.",
+        "source": "https://www.gcc-sg.org/ar/MediaCenter/DigitalLibrary/Documents/GCC%20REPORT%202023.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "تُقبل البطاقات على نطاق واسع وتتوفر الصرافات.",
+        "source": "https://www.smartraveller.gov.au/destinations/middle-east/kuwait",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "الدينار الكويتي",
+        "source": "https://www.itu.int/en/ITU-T/regionalgroups/sg03-arb/Documents/Archive/Practical_Information_SG3RG-ARB_Kuwait_City_2024.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "إذا أضيف رسم الخدمة إلى الفاتورة فلا يلزم احتسابه مرة ثانية.",
+        "source": "https://www.cia.gov/the-world-factbook/static/3d3d7e08e8c9e73a50c1c44f4af4b7de/KU-travel-facts.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 207–390 ريالًا يوميًا، ما يعادل 17–32 دينارًا للفرد وفق جدول التكلفة الشامل للسكن، بتحويل تقريبي 12.2 ريال للدينار.",
+        "source": "https://www.voykit.com/kuwait",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 488–952 ريالًا يوميًا، ما يعادل 40–78 دينارًا للفرد وفق الجدول ومشاركة الغرفة، بتحويل تقريبي 12.2 ريال للدينار.",
+        "source": "https://www.voykit.com/kuwait",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "مرجع التحويل التقريبي للدينار",
+        "value": "يعرض البنك المركزي قيمة الريال بالفلس الكويتي. التحويل المستخدم للميزانية مقرب إلى 12.2 ريال لكل دينار.",
+        "source": "https://www.cbk.gov.kw/en/monetary-policy/market-operations/exchange-rates/sar",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 17 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/kuwait-esim/liberationmobile-30days-20gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "سيتي باص الكويت (CitybusKW) لمسارات الحافلات.",
+        "source": "https://citygroupco.com/citybus-digital/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "سيارات أجرة رسمية متوفرة في مبنى الركاب الرابع بمطار الكويت (Kuwait).",
+        "source": "https://t4kuwait.com/guides/to-from-the-airport/taxi",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "تتوفر حافلات وسيارات أجرة للتنقل بين المناطق.",
+        "source": "https://www.agoda.com/travel-guides/kuwait/transportation-in-kuwait-public-transit-taxis-and-travel-apps/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "توجد مطاعم حلال في مدينة الكويت (Kuwait City).",
+        "source": "https://www.zabihah.com/halal-restaurants/kuwait-city-kuwait-kw",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "المسجد الكبير (Grand Mosque) قريب من حي شرق (Sharq).",
+        "source": "https://kuwaittours.com/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "المجبوس، مطبّق السمك، والهريس.",
+        "source": "https://www.journeykuwait.com/taste-kuwait",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "احرص على لباس محتشم وتصرف محافظ في الأماكن العامة.",
+        "source": "https://travel.gc.ca/destinations/kuwait",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "تفتح مراكز كبيرة حتى العاشرة مساءً أو بعدها، حسب المركز.",
+        "source": "https://www.airuniversity.af.edu/Portals/10/AFCLC/04.%20Ready%20Airman/Field%20Guides/CENTCOM/EFCG%20Kuwait%202025-r1.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للشرطة والإسعاف والإطفاء.",
+        "source": "https://www.moi.gov.kw/main/eservices/get-reference-number?culture=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "توصي الإرشادات الكندية بحذر إضافي في جليب الشيوخ (Jleeb Al-Shuyoukh).",
+        "source": "https://travel.gc.ca/destinations/kuwait?=undefined&wbdisable=true",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "النشل في المواقع السياحية شائع بما يكفي لحفظ المقتنيات في مكان آمن.",
+        "source": "https://travel.gc.ca/destinations/kuwait?=undefined&wbdisable=true",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "شرق (Sharq)",
+        "value": "للمعالم والأسواق",
+        "source": "https://kuwaittours.com/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "السالمية (Salmiya)",
+        "value": "للواجهة البحرية والتسوق",
+        "source": "https://kuwaittours.com/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الفحيحيل (Fahaheel)",
+        "value": "للقرب من الكوت",
+        "source": "https://kuwaittours.com/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مدينة الكويت (Kuwait City)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://shop.opentravelguide.com/products/kuwait-capital-kuwait-city-7day-itinerary",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "السالمية (Salmiya)",
+        "value": "نقترح يومًا واحدًا عند توزيع وقت الرحلة.",
+        "source": "https://kuwaittours.com/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "الفحيحيل (Fahaheel)",
+        "value": "نقترح يومًا واحدًا عند توزيع وقت الرحلة.",
+        "source": "https://kuwaittours.com/where-to-stay/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "2026-01-01. إجازة رسمية مدفوعة، وقد تختلف مواعيد الجهات التي تعمل في العطلات.",
+        "source": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "إجازة رسمية مدفوعة، وقد تختلف مواعيد الجهات التي تعمل في العطلات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني",
+        "value": "2026-02-25. إجازة رسمية مدفوعة، وقد تختلف مواعيد الجهات التي تعمل في العطلات.",
+        "source": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-25",
+        "impact": "إجازة رسمية مدفوعة، وقد تختلف مواعيد الجهات التي تعمل في العطلات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد التحرير",
+        "value": "2026-02-26. إجازة رسمية مدفوعة، وقد تختلف مواعيد الجهات التي تعمل في العطلات.",
+        "source": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-26",
+        "impact": "إجازة رسمية مدفوعة، وقد تختلف مواعيد الجهات التي تعمل في العطلات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "2027-01-01. إجازة رسمية مدفوعة، وقد تختلف مواعيد الجهات التي تعمل في العطلات.",
+        "source": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "إجازة رسمية مدفوعة، وقد تختلف مواعيد الجهات التي تعمل في العطلات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني",
+        "value": "2027-02-25. إجازة رسمية مدفوعة، وقد تختلف مواعيد الجهات التي تعمل في العطلات.",
+        "source": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-25",
+        "impact": "إجازة رسمية مدفوعة، وقد تختلف مواعيد الجهات التي تعمل في العطلات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد التحرير",
+        "value": "2027-02-26. إجازة رسمية مدفوعة، وقد تختلف مواعيد الجهات التي تعمل في العطلات.",
+        "source": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-26",
+        "impact": "إجازة رسمية مدفوعة، وقد تختلف مواعيد الجهات التي تعمل في العطلات.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة الإسراء والمعراج",
+        "value": "2026-01-18 تقريبًا، يعتمد على رؤية الهلال. تتأثر خدمات البنك المركزي وفق الجدول المنشور، ويُراعى قرار يوم الرؤية.",
+        "source": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/announcements/2026/01/202601120800-cbk-will-be-closed-to-the-public-on-18th-january-2026-for-al-israa-and-al-miraj",
+        "checked": "2026-11-27",
+        "date": "2026-01-18",
+        "impact": "تتأثر خدمات البنك المركزي وفق الجدول المنشور، ويُراعى قرار يوم الرؤية.",
+        "status": "uncertain"
+      },
+      {
+        "label": "بداية عطلة عيد الفطر",
+        "value": "2026-03-19 تقريبًا، يعتمد على رؤية الهلال. تتأثر خدمات البنك المركزي وفق الجدول المنشور، ويُراعى قرار يوم الرؤية.",
+        "source": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/announcements/2026/03/202603170800-cbk-will-be-closed-to-the-public-for-eid-al-fitr-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-03-19",
+        "impact": "تتأثر خدمات البنك المركزي وفق الجدول المنشور، ويُراعى قرار يوم الرؤية.",
+        "status": "uncertain"
+      },
+      {
+        "label": "عطلة عرفة وعيد الأضحى",
+        "value": "2026-05-26 تقريبًا، يعتمد على رؤية الهلال. تتأثر خدمات البنك المركزي وفق الجدول المنشور، ويُراعى قرار يوم الرؤية.",
+        "source": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/announcements/2026/05/202605210700-the-central-bank-of-kuwait-will-be-closed-to-the-public-for-arafat-day-and-eid",
+        "checked": "2026-11-27",
+        "date": "2026-05-26",
+        "impact": "تتأثر خدمات البنك المركزي وفق الجدول المنشور، ويُراعى قرار يوم الرؤية.",
+        "end": "2026-05-31",
+        "status": "uncertain"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "2026-06-16 تقريبًا، يعتمد على رؤية الهلال. تتأثر خدمات البنك المركزي وفق الجدول المنشور، ويُراعى قرار يوم الرؤية.",
+        "source": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/announcements/2026/06/202606151000-the-central-bank-of-kuwait-will-be-closed-to-the-public-for-new-hijri-year-1448",
+        "checked": "2026-11-27",
+        "date": "2026-06-16",
+        "impact": "تتأثر خدمات البنك المركزي وفق الجدول المنشور، ويُراعى قرار يوم الرؤية.",
+        "status": "uncertain"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "2026-08-27 تقريبًا، يعتمد على رؤية الهلال. تتأثر خدمات البنك المركزي وفق الجدول المنشور، ويُراعى قرار يوم الرؤية.",
+        "source": "https://www.cbk.gov.kw/ar/cbk-news/announcements-and-press-releases/announcements?selYear=2026",
+        "checked": "2026-11-27",
+        "date": "2026-08-27",
+        "impact": "تتأثر خدمات البنك المركزي وفق الجدول المنشور، ويُراعى قرار يوم الرؤية.",
+        "status": "uncertain"
+      },
+      {
+        "label": "اعتماد مواعيد الإجازات الهجرية لعام 2027",
+        "value": "غير مؤكد",
+        "source": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      },
+      {
+        "label": "الإسراء والمعراج",
+        "value": "2027-01-06 تقريبًا، يعتمد على رؤية الهلال. تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "source": "https://www.timeanddate.com/holidays/kuwait/2027",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "lawSource": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "2027-03-10 تقريبًا، يعتمد على رؤية الهلال. تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "source": "https://www.timeanddate.com/holidays/kuwait/2027",
+        "checked": "2026-11-27",
+        "date": "2027-03-10",
+        "impact": "تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "end": "2027-03-12",
+        "lawSource": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم عرفة",
+        "value": "2027-05-16 تقريبًا، يعتمد على رؤية الهلال. تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "source": "https://www.timeanddate.com/holidays/kuwait/2027",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "lawSource": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "2027-05-17 تقريبًا، يعتمد على رؤية الهلال. تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "source": "https://www.timeanddate.com/holidays/kuwait/2027",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "end": "2027-05-19",
+        "lawSource": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "رأس السنة الهجرية",
+        "value": "2027-06-06 تقريبًا، يعتمد على رؤية الهلال. تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "source": "https://www.timeanddate.com/holidays/kuwait/2027",
+        "checked": "2026-11-27",
+        "date": "2027-06-06",
+        "impact": "تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "lawSource": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "المولد النبوي",
+        "value": "2027-08-15 تقريبًا، يعتمد على رؤية الهلال. تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "source": "https://www.timeanddate.com/holidays/kuwait/2027",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "lawSource": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "الإسراء والمعراج",
+        "value": "2027-12-26 تقريبًا، يعتمد على رؤية الهلال. تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "source": "https://www.timeanddate.com/holidays/kuwait/2027",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تقدير تقويمي للعطلة المنصوص عليها قانونًا؛ لم يتأكد تعميم الدوام المحلي.",
+        "lawSource": "https://e.gov.kw/sites/kgoArabic/Forms/KuwaitLaborLaw.pdf",
+        "provisional": true,
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الموسم والوقت الأهدأ",
+        "value": "تتفاوت أعداد الزوار حسب الشهر، ويصنّف المصدر يونيو ضمن الأشهر الأهدأ.",
+        "source": "https://www.whereandwhen.net/when/middle-east/kuwait/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة منتصف العام الدراسي في رزنامة الوزارة",
+        "value": "من 2027-01-24 إلى 2027-02-04 حسب التقويم المدرسي.",
+        "source": "https://www.moe.edu.kw/pages/calendar",
+        "checked": "2026-11-27",
+        "date": "2027-01-24",
+        "end": "2027-02-04",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم السفر إلى الكويت في فبراير",
+        "value": "تضع بيانات منصة ويغو فبراير بين أشهر السفر الأكثر نشاطًا، مع إقبال على الفنادق والرحلات خلال احتفالاته.",
+        "source": "https://www.tradearabia.com/News/389668/Wego-reports-4.8pc-rise-in-Kuwait-travel-bookings-for-February",
+        "checked": "2026-11-27",
+        "month": 2,
+        "peak": true,
+        "impact": "زيادة الطلب على حجوزات السفر",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان هلا فبراير",
+        "value": "مدينة الكويت (Kuwait City)، فبراير.",
+        "source": "https://e.gov.kw/sites/kgoEnglish/Pages/Visitors/TourismInKuwait/PlanningYouTripFestivals.aspx",
+        "checked": "2026-11-27",
+        "month": 2,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

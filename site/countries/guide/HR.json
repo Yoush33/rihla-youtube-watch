@@ -1,0 +1,561 @@
+{
+  "code": "HR",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "تحتاج تأشيرة شنغن للزيارة بالجواز السعودي العادي.",
+        "source": "https://eur-lex.europa.eu/eli/reg/2018/1806/2025-02-03/eng",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 90 يومًا ضمن أي 180 يومًا في دول شنغن مجتمعة، وفق صلاحية التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/short-stay-calculator_en?prefLang=nl",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "90 يورو رسم الطلب العادي للبالغ، وقد تضاف أجرة مركز تقديم الطلبات.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "تقبل الفنادق والمتاجر الكبيرة البطاقات، وبعض المتاجر الصغيرة تقبل النقد فقط.",
+        "source": "https://visitzaton.croatia.hr/en-gb/travel-info",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "اليورو",
+        "source": "https://visitzaton.croatia.hr/en-gb/travel-info",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية وتُقدّر للخدمة الجيدة.",
+        "source": "https://dalmatia-dubrovnik.croatia.hr/en-gb/money/tipping",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 248 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/croatia",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 622 ريالًا لليوم بحسب إنفاق مسافرين، يشمل السكن والأكل والتنقل المحلي. لا يشمل تذكرة الرياض.",
+        "source": "https://www.budgetyourtrip.com/croatia",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 15 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/croatia-esim/cronet-3days-1gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "ليبرتاس (Libertas) للحافلات المحلية في دوبروفنيك (Dubrovnik).",
+        "source": "https://play.google.com/store/apps/details?hl=en-GB&id=com.enumsoftware.libertasapp",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "حافلة المطار إلى دوبروفنيك (Dubrovnik). راجع نقطة النزول قبل شراء التذكرة.",
+        "source": "https://platanus.hr/shuttle-bus/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "الحافلات تصل المدن الساحلية، وتخدم العبّارات الجزر.",
+        "source": "https://www.visit-croatia.co.uk/travelling-around-croatia/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "توجد منشآت موثقة في دليل الحلال الكرواتي، فابحث باسم المدينة قبل حجز السكن.",
+        "source": "https://gospodarstvo.gov.hr/userdocsimages/public/documents/Halalkatalog%2024%2002%202014.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "مصلى مجلس الجالية الإسلامية في البلدة القديمة بدوبروفنيك (Dubrovnik Old Town).",
+        "source": "https://tzdubrovnik.hr/lang/en/get/sakralni_objekti/4928/mediji.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "ريزوتو الحبار الأسود، بيكا بالفرن، وشتروكلي بالجبن.",
+        "source": "https://visitbrinje.croatia.hr/en-gb/useful-information/frequently-asked-questions-about-croatia",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "غطّ الكتفين وانزع القبعة وأغلق صوت الهاتف عند دخول الكنائس.",
+        "source": "https://www.lonelyplanet.com/articles/things-to-know-before-traveling-to-dubrovnik",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "ساعات الأحد تختلف بحسب المتجر، فتحقق من الفرع قبل الزيارة.",
+        "source": "https://tzdubrovnik.hr/lang/en/get/savijeti_za_turiste/2171/multimedia.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للطوارئ.",
+        "source": "https://www.gov.hr/en/emergency-services/338",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "احفظ المقتنيات في الأماكن العامة المزدحمة.",
+        "source": "https://travel.gc.ca/destinations/croatia.?wbdisable=true",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "سُجلت فواتير مبالغ فيها جدًا وتهديدات بالتحصيل في بعض النوادي الليلية.",
+        "source": "https://www.gov.uk/foreign-travel-advice/croatia/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "البلدة القديمة (Old Town)",
+        "value": "للمشي بين المعالم",
+        "source": "https://galaxy.hr/guides/where-to-stay-dubrovnik-old-town-lapad-cavtat",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "لاباد (Lapad)",
+        "value": "للشواطئ والفنادق",
+        "source": "https://galaxy.hr/guides/where-to-stay-dubrovnik-old-town-lapad-cavtat",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "بلوتشه (Ploče)",
+        "value": "خارج الأسوار الشرقية، للمشي إلى المدينة القديمة والإطلالات.",
+        "source": "https://croatiaguidebook.com/planning/where-to-stay-in-dubrovnik/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "زغرب (Zagreb)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://yestrip.app/blog/croatia-road-trip-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "سبليت (Split)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://yestrip.app/blog/croatia-road-trip-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "دوبروفنيك (Dubrovnik)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://yestrip.app/blog/croatia-road-trip-itinerary/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح واثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح واثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدولة",
+        "value": "٢٠٢٦-٠٥-٣٠",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-30",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٦-٠٦-٠٤",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-04",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الكفاح ضد الفاشية",
+        "value": "٢٠٢٦-٠٦-٢٢",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-22",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر والشكر الوطني وتكريم المحاربين الكروات",
+        "value": "٢٠٢٦-٠٨-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-05",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى ضحايا حرب الاستقلال",
+        "value": "٢٠٢٦-١١-١٨",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-18",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح واثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح واثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٧-٠٥-٢٧",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-27",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدولة",
+        "value": "٢٠٢٧-٠٥-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-30",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الكفاح ضد الفاشية",
+        "value": "٢٠٢٧-٠٦-٢٢",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-22",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر والشكر الوطني وتكريم المحاربين الكروات",
+        "value": "٢٠٢٧-٠٨-٠٥",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-05",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى ضحايا حرب الاستقلال",
+        "value": "٢٠٢٧-١١-١٨",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-18",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/HR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "تغلق متاجر التجزئة في العطلات الرسمية بموجب قانون التجارة، مع استثناءات محددة.",
+        "impactSource": "https://mingo.gov.hr/print.aspx?id=9354&url=print",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "الساحل الدلماسي مزدحم صيفًا، والشتاء مناسب لأسعار سكن أقل.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-croatia/",
+        "checked": "2026-11-27",
+        "month": 6,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زحام وأسعار أعلى"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "الساحل الدلماسي مزدحم صيفًا، والشتاء مناسب لأسعار سكن أقل.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-croatia/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زحام وأسعار أعلى"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "الساحل الدلماسي مزدحم صيفًا، والشتاء مناسب لأسعار سكن أقل.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-croatia/",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "status": "confirmed",
+        "impact": "زحام وأسعار أعلى"
+      },
+      {
+        "label": "العطلة الشتوية الأولى للمدارس",
+        "value": "من 2026-12-24 إلى 2027-01-05 حسب التقويم المدرسي.",
+        "source": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/58/pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "end": "2027-01-05",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "العطلة الشتوية الثانية للمدارس",
+        "value": "من 2027-02-22 إلى 2027-02-26 حسب التقويم المدرسي.",
+        "source": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/58/pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-22",
+        "end": "2027-02-26",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة الربيع المدرسية",
+        "value": "من 2027-03-25 إلى 2027-04-02 حسب التقويم المدرسي.",
+        "source": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/58/pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-25",
+        "end": "2027-04-02",
+        "peak": true,
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان دوبروفنيك الصيفي",
+        "value": "دوبروفنيك (Dubrovnik)، يوليو وأغسطس.",
+        "source": "https://www.dubrovnik-festival.hr/en",
+        "checked": "2026-11-27",
+        "month": 7,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

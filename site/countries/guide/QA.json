@@ -1,0 +1,311 @@
+{
+  "code": "QA",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي العادي",
+        "value": "يدخل مواطن مجلس التعاون بجوازه أو بطاقته الوطنية دون تأشيرة.",
+        "source": "https://www.hamad.qa/EN/All-Events/HRCCOC2025/Registration/Pages/Entry-to-Qatar-Visa-Requirements.aspx",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "لا رسوم تأشيرة للمواطن السعودي المشمول بالإعفاء.",
+        "source": "https://www.hamad.qa/EN/All-Events/HRCCOC2025/Registration/Pages/Entry-to-Qatar-Visa-Requirements.aspx",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الحد الأقصى للإقامة بالإعفاء الخليجي",
+        "value": "للمواطن السعودي حق التنقل والإقامة دون قيود مدة الزيارة وفق قواعد السوق الخليجية المشتركة.",
+        "source": "https://mof.gov.kw/MOFAgreements/PDF/AgreementGulf3.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الريال القطري. أجهزة السحب منتشرة في المراكز التجارية والفنادق والدوحة (Doha).",
+        "source": "https://visitqatar.com/intl-en/plan-your-trip/travel-tips",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "افحص رسم الخدمة في الفاتورة. نحو 10–15٪ إضافية اختياري عند الرضا.",
+        "source": "https://www.iecon2026.org/wp-content/uploads/2025/10/Qatar-Factsheet-2025-002-1.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — اقتصادي",
+        "value": "حوالي 405 ريالًا سعوديًا في الدوحة (Doha) للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/qatar/doha/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — متوسط",
+        "value": "حوالي 915 ريالًا سعوديًا في الدوحة (Doha) للإقامة والطعام والتنقل والأنشطة. تقدير مبني على إنفاق مسافرين، دون طيران الرياض.",
+        "source": "https://www.budgetyourtrip.com/qatar/doha/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة للزائر وسعر تقريبي",
+        "value": "باقة هلا للزائر من أوريدو تبدأ من 35 ريالًا قطريًا مقابل 0.3 غيغابايت، وخيار 6 غيغابايت بـ75 ريالًا.",
+        "source": "https://www.ooredoo.qa/web/wp-content/uploads/2026/04/C11-01-Prepaid-Mobile-Services-190.pdf",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق نقل",
+        "value": "من التطبيقات المرخصة أوبر (Uber) وكروة (Karwa Taxi).",
+        "source": "https://www.mot.gov.qa/en/announcement/announcement-official-list-authorized-ride-hailing-companies-qatar",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "من مطار حمد (Hamad) إلى الدوحة (Doha) يمكنك استخدام المترو أو سيارة كروة من خارج الوصول.",
+        "source": "https://pp26-doha.gov.qa/en/Plan-your-Travel/Transportation",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "تغطي حافلات كروة مناطق خارج مركز الدوحة (Doha). اختر خطًا يتوقف عند الوجهة المطلوبة.",
+        "source": "https://visitqatar.com/intl-en/plan-your-trip/getting-around",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "جامع الإمام محمد بن عبد الوهاب (Imam Muhammad Ibn Abd Al Wahhab Mosque) من مساجد الدوحة (Doha).",
+        "source": "https://visitqatar.com/intl-en/things-to-do/art-culture/mosques/imam-abdul-wahhab-mosque",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "توفر الأكل الحلال",
+        "value": "تُعرض مطاعم الأكل الحلال في دليل الدوحة (Doha)، ومنها مطاعم قرب الأسواق.",
+        "source": "https://imuslimlife.com/places/qa/doha-ad-dawhah/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "المجبوس، والهريس، واللقيمات.",
+        "source": "https://visitqatar.com/intl-en/about-qatar/cuisine",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرف في الأماكن العامة",
+        "value": "اختر لباسًا يغطي الكتفين والركبتين عند دخول المباني العامة واحترم قواعد المسجد عند الزيارة.",
+        "source": "https://visitqatar.com/intl-en/plan-your-trip/travel-tips",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "تتوقف بعض الأنشطة وقت صلاة الجمعة، وقد تتغير المواعيد في رمضان.",
+        "source": "https://www.visitqatar.qa/content/dam/visitqatar/campaigns/qatar-now/QatarNowPDF.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستدعي الانتباه وأساليب السرقة",
+        "value": "تحقق من لوحة سيارة الأجرة واسم السائق في التطبيق واحجز مع شركة معروفة، خصوصًا ليلًا.",
+        "source": "https://www.gov.uk/foreign-travel-advice/qatar/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "999 للشرطة والإسعاف والإطفاء.",
+        "source": "https://www.gov.uk/foreign-travel-advice/qatar/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ثلاثة أحياء أو مناطق لإقامة أولى",
+        "value": "مشيرب (Msheireb) للمتاحف والمترو، وسوق واقف (Souq Waqif) للأكل والأسواق، واللؤلؤة (The Pearl) للواجهة البحرية.",
+        "source": "https://visitqatar.com/intl-en/things-to-do/iconic-places",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مدن ومدد مقترحة لزيارة أولى",
+        "value": "الدوحة (Doha) يوم كامل لوسط المدينة، ولوسيل (Lusail) محطة ضمن جولة الدوحة الكبرى، والخور (Al Khor) رحلة يوم من العاصمة.",
+        "source": "https://thestateofqatar.com/en/guides/things-to-do",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "لوسيل (Lusail)",
+        "value": "نصف يوم للبوليفارد والمركز التجاري، ويفيد الوصول عصرًا للمشي مساءً.",
+        "source": "https://visitdoha.org/lusail/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "اليوم الوطني القطري",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://files.almeezan.gov.qa/almeezan/51804e9d-344f-409a-b8ee-71d58df1d5f3.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-18",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الرياضي للدولة",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://files.almeezan.gov.qa/almeezan/51804e9d-344f-409a-b8ee-71d58df1d5f3.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-10",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني القطري",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://files.almeezan.gov.qa/almeezan/51804e9d-344f-409a-b8ee-71d58df1d5f3.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-18",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الرياضي للدولة",
+        "value": "إجازة رسمية؛ تحقّق من دوام الجهة التي تنوي زيارتها.",
+        "source": "https://files.almeezan.gov.qa/almeezan/51804e9d-344f-409a-b8ee-71d58df1d5f3.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-09",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر — الجهات الحكومية",
+        "value": "إجازة رسمية أُعلن موعدها بعد التقويم الهجري الذي يعتمد على رؤية الهلال؛ راجع ساعات العمل عند الزيارة.",
+        "source": "https://www.diwan.gov.qa/Briefing-Room/News/General/Statements/2026/March/15/Amiri-Diwan-Announces-Eid-Al-Fitr-Holiday?sc_lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-03-17",
+        "end": "2026-03-23",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الأضحى — الجهات الحكومية",
+        "value": "إجازة رسمية أُعلن موعدها بعد التقويم الهجري الذي يعتمد على رؤية الهلال؛ راجع ساعات العمل عند الزيارة.",
+        "source": "https://www.diwan.gov.qa/Briefing-Room/News/General/Statements/2026/May/24/Amiri-Diwan-Announces-Eid-Al-Adha-Holiday?sc_lang=en",
+        "checked": "2026-11-27",
+        "date": "2026-05-26",
+        "end": "2026-05-30",
+        "impact": "تتغير مواعيد الدوام الرسمي",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر — موعد تقريبي للجهات الحكومية",
+        "value": "من 28 رمضان إلى 4 شوال وفق القرار الأميري؛ المقابل الميلادي تقريبي، يعتمد على رؤية الهلال.",
+        "source": "https://files.almeezan.gov.qa/almeezan/51804e9d-344f-409a-b8ee-71d58df1d5f3.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-07",
+        "end": "2027-03-12",
+        "impact": "عطلة حكومية يثبت موعدها بالإعلان",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى — موعد تقريبي للجهات الحكومية",
+        "value": "من 9 إلى 13 ذي الحجة وفق القرار الأميري؛ المقابل الميلادي تقريبي، يعتمد على رؤية الهلال.",
+        "source": "https://files.almeezan.gov.qa/almeezan/51804e9d-344f-409a-b8ee-71d58df1d5f3.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-15",
+        "end": "2027-05-19",
+        "impact": "عطلة حكومية يثبت موعدها بالإعلان",
+        "provisional": true,
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم مرتفع",
+        "value": "ديسمبر ويناير من مواسم الطلب المرتفع في الدوحة (Doha).",
+        "source": "https://www.klook.com/destination/c162-doha/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 12,
+        "impact": "زحمة موسمية",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم مرتفع",
+        "value": "ديسمبر ويناير من مواسم الطلب المرتفع في الدوحة (Doha).",
+        "source": "https://www.klook.com/destination/c162-doha/",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 1,
+        "impact": "زحمة موسمية",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "أبريل وأواخر الصيف أهدأ وأقل كلفة في الدوحة (Doha).",
+        "source": "https://www.klook.com/destination/c162-doha/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 4,
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "أبريل وأواخر الصيف أهدأ وأقل كلفة في الدوحة (Doha).",
+        "source": "https://www.klook.com/destination/c162-doha/",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 8,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدرسية",
+        "value": "عطلة منتصف السنة وفق تقويم مدرسة إم إي إس (MES) في الدوحة (Doha).",
+        "source": "https://mesqatar.org/wp-content/uploads/2026/05/MES-CALENDAR-2026-27-AS-ON-29-03-2026-FINAL.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-20",
+        "end": "2027-01-03",
+        "impact": "عطلة مدرسية",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان كتارا للمحامل التقليدية",
+        "value": "الدوحة (Doha)، يُقام قرب نهاية السنة، ومن برامجه نسخ في ديسمبر.",
+        "source": "https://visitqatar.com/content/dam/visitqatar/events-calendar/qc-2025/december-2025/DEC-CALENDAR-2025.pdf",
+        "checked": "2026-11-27",
+        "month": 12,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

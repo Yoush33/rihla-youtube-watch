@@ -1,0 +1,579 @@
+{
+  "code": "PH",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي العادي",
+        "value": "دخول سياحي بلا تأشيرة حتى 30 يومًا. يلزم حجز عودة أو متابعة الرحلة وجواز صالح لستة أشهر على الأقل بعد نهاية الإقامة المخططة.",
+        "source": "https://www.jeddahpcg.dfa.gov.ph/images/consularservices/VISA/Notice_for_Saudi_Nationals.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "لا رسوم تأشيرة للمواطن السعودي المشمول بالإعفاء.",
+        "source": "https://www.jeddahpcg.dfa.gov.ph/images/consularservices/VISA/Notice_for_Saudi_Nationals.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تسجيل الوصول الإلكتروني",
+        "value": "التسجيل في نظام إي ترافل (eTravel) الحكومي مجاني. احتفظ برمز الاستجابة بعد إكمال بيانات الوصول.",
+        "source": "https://customs-qr.etravel.gov.ph/frequently-asked-questions",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "البيزو الفلبيني. تقبل الفنادق والمتاجر الكبرى البطاقات واحمل كاشًا للوجهات الأصغر.",
+        "source": "https://www.tourismphilippines.com.au/facts/travelinfo",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "راجع رسوم الخدمة في فاتورة المطعم قبل إضافة الإكرامية.",
+        "source": "https://www.prc.gov.ph/sites/default/files/att3_PIC%20QA%202019-01%20Accounting%20for%20service%20charges%20under%20PFRS%2015%20%28As%20amended%29.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — اقتصادي",
+        "value": "نحو 94–131 ريالًا سعوديًا للفرد في الفلبين مع الإقامة والأكل والتنقل، دون الرحلة الدولية. تقدير تخطيطي.",
+        "source": "https://outdoorlifeph.com/philippines-on-a-budget-2026-how-much-does-a-trip-to-the-philippines-cost/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد — متوسط",
+        "value": "نحو 188–300 ريالًا سعوديًا للفرد في الفلبين مع الإقامة والأكل والتنقل، دون الرحلة الدولية. تقدير تخطيطي.",
+        "source": "https://outdoorlifeph.com/philippines-on-a-budget-2026-how-much-does-a-trip-to-the-philippines-cost/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة للزائر وسعر تقريبي",
+        "value": "شريحة سمارت الإلكترونية السياحية بسعر 599 بيزو، مع 24 غيغابايت وصلاحية 30 يومًا بعد التسجيل.",
+        "source": "https://telecomph.com/smart-markets-tourist-esim-packages-to-visitors-exploring-the-philippines/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق نقل",
+        "value": "غراب (Grab) يعرض نوع المركبة والسعر قبل تأكيد الرحلة.",
+        "source": "https://www.grab.com/ph/transport/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "من مطار نينوي أكينو (Ninoy Aquino) إلى مانيلا (Manila) تتوفر سيارات الأجرة أو الحجز عبر غراب (Grab).",
+        "source": "https://www.ana.co.jp/en/jp/guide/prepare/airport-guide/international/mnl.html?tabitem=asw-tab__item-box-2",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "رحلات داخلية بين الجزر الكبيرة، وعبّارات للجزر الأصغر وحافلات برية للوجهات المتصلة.",
+        "source": "https://wondersofphilippines.com/plan-your-trip/getting-around/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "توجد مطاعم حلال في مانيلا (Manila). قرب حي كيابو (Quiapo) المسجد الذهبي (Golden Mosque). افحص علامة الحلال خصوصًا لأطباق اللحوم.",
+        "source": "https://www.gohalaltravel.com/destinations/manille",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "أدوبو الدجاج، وسينيغانغ السمك، وحلى هالو هالو. اسأل عن المرق ومصدر اللحم.",
+        "source": "https://www.turismofilipinas.com/en/magazine/typical-filipino-cuisine-10-must-try-dishes",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرف في الأماكن العامة",
+        "value": "للملابس اليومية مرونة، وبعض الكنائس يشترط لباسًا محتشمًا. التزم بإرشادات المدخل.",
+        "source": "https://www.britishcouncil.ph/sites/default/files/making_futures_philippines_-_philippines_visitors_notes.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "من 16 نوفمبر إلى 25 ديسمبر 2026 اتفقت مراكز مانيلا الكبرى (Metro Manila) المشمولة على الفتح 11 صباحًا حتى 11 مساءً في أيام العمل. تستثنى نهاية الأسبوع والعطل.",
+        "source": "https://www.gmanetwork.com/news/lifestyle/shoppingandfashion/1009016/mmda-adjusts-mall-operating-hours-to-11-a-m-to-11-p-m-starting-november-16/story/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستدعي الانتباه وأساليب السرقة",
+        "value": "في مانيلا (Manila) والمدن الكبيرة قد تقع سرقات في الحافلات وسيارات الأجرة. خذ سيارة من شركة موثوقة من المطار.",
+        "source": "https://www.gov.uk/foreign-travel-advice/philippines/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "911 للطوارئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/philippines/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مناطق عالية المخاطر",
+        "value": "تشمل التحذيرات أرخبيل سولو (Sulu Archipelago) وأجزاء من جزيرة مينداناو (Mindanao). راجع حدود المناطق قبل اختيار المسار.",
+        "source": "https://www.gov.uk/foreign-travel-advice/philippines/regional-risks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ثلاثة أحياء أو مناطق لإقامة أولى",
+        "value": "ماكاتي (Makati) للتسوق، وبونيفاسيو غلوبال سيتي (Bonifacio Global City) للمطاعم الحديثة، وإرميتا (Ermita) للمتاحف والأحياء التاريخية المجاورة.",
+        "source": "https://www.philippinestourism.org/where-to-stay-in-manila/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مدن ومدد مقترحة لزيارة أولى",
+        "value": "مانيلا (Manila) 3 ليالٍ، وكورون (Coron) 3، وإل نيدو (El Nido) 3، ومدينة سيبو (Cebu City) ليلتان، ضمن مسار جزري لأسبوعين.",
+        "source": "https://wondersofphilippines.com/plan-your-trip/philippines-itinerary-14-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الصينية",
+        "value": "٢٠٢٦-٠٢-١٧",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-17",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "خميس العهد",
+        "value": "٢٠٢٦-٠٤-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-02",
+        "impact": "تزداد حركة المسافرين في أسبوع الآلام، خصوصًا في مطار مانيلا (Manila).",
+        "impactSource": "https://pia.gov.ph/news/dotr-ensures-safety-convenience-of-passengers-this-holy-week/",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "تزداد حركة المسافرين في أسبوع الآلام، خصوصًا في مطار مانيلا (Manila).",
+        "impactSource": "https://pia.gov.ph/news/dotr-ensures-safety-convenience-of-passengers-this-holy-week/",
+        "status": "confirmed"
+      },
+      {
+        "label": "سبت النور",
+        "value": "٢٠٢٦-٠٤-٠٤",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-04",
+        "impact": "تزداد حركة المسافرين في أسبوع الآلام، خصوصًا في مطار مانيلا (Manila).",
+        "impactSource": "https://pia.gov.ph/news/dotr-ensures-safety-convenience-of-passengers-this-holy-week/",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم البسالة",
+        "value": "٢٠٢٦-٠٤-٠٩",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-09",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٦-٠٦-١٢",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-12",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى اغتيال نينوي أكينو",
+        "value": "٢٠٢٦-٠٨-٢١",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-21",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأبطال",
+        "value": "٢٠٢٦-٠٨-٣١",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-31",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد جميع القديسين",
+        "value": "٢٠٢٦-١٠-٣١",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-31",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم أندريس بونيفاسيو",
+        "value": "٢٠٢٦-١١-٣٠",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-30",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٦-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى وفاة خوسيه ريزال",
+        "value": "٢٠٢٦-١٢-٣٠",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-30",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "آخر أيام السنة",
+        "value": "٢٠٢٦-١٢-٣١",
+        "source": "https://date.nager.at/Calendar/2026/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-31",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الصينية",
+        "value": "٢٠٢٧-٠٢-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-02-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "خميس العهد",
+        "value": "٢٠٢٧-٠٣-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "سبت النور",
+        "value": "٢٠٢٧-٠٣-٢٧",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-27",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم البسالة",
+        "value": "٢٠٢٧-٠٤-٠٩",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-09",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "٢٠٢٧-٠٦-١٢",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-12",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى اغتيال نينوي أكينو",
+        "value": "٢٠٢٧-٠٨-٢١",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-21",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأبطال",
+        "value": "٢٠٢٧-٠٨-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-30",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد جميع القديسين",
+        "value": "٢٠٢٧-١٠-٣١",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-31",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم أندريس بونيفاسيو",
+        "value": "٢٠٢٧-١١-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-30",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٧-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عشية عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٤",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-24",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى وفاة خوسيه ريزال",
+        "value": "٢٠٢٧-١٢-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-30",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "آخر أيام السنة",
+        "value": "٢٠٢٧-١٢-٣١",
+        "source": "https://date.nager.at/Calendar/2027/PH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-31",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "موسم مرتفع",
+        "value": "يرتفع الطلب في الموسم الجاف، خصوصًا ديسمبر في مانيلا (Manila).",
+        "source": "https://www.klook.com/en-PH/destination/c96-manila/?city_ids=96&frontend_id_list=8",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 12,
+        "impact": "زحمة وأسعار أعلى",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "من مايو إلى أكتوبر يقل الزحام والكلفة عادة مع الأمطار واحتمال الأعاصير.",
+        "source": "https://www.visitphilippines.ph/story-tips-news/travel-advice",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 5,
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "من مايو إلى أكتوبر يقل الزحام والكلفة عادة مع الأمطار واحتمال الأعاصير.",
+        "source": "https://www.visitphilippines.ph/story-tips-news/travel-advice",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 6,
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "من مايو إلى أكتوبر يقل الزحام والكلفة عادة مع الأمطار واحتمال الأعاصير.",
+        "source": "https://www.visitphilippines.ph/story-tips-news/travel-advice",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 7,
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "من مايو إلى أكتوبر يقل الزحام والكلفة عادة مع الأمطار واحتمال الأعاصير.",
+        "source": "https://www.visitphilippines.ph/story-tips-news/travel-advice",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 8,
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "من مايو إلى أكتوبر يقل الزحام والكلفة عادة مع الأمطار واحتمال الأعاصير.",
+        "source": "https://www.visitphilippines.ph/story-tips-news/travel-advice",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 9,
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "من مايو إلى أكتوبر يقل الزحام والكلفة عادة مع الأمطار واحتمال الأعاصير.",
+        "source": "https://www.visitphilippines.ph/story-tips-news/travel-advice",
+        "checked": "2026-11-27",
+        "peak": false,
+        "month": 10,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة مدرسية",
+        "value": "عطلة نهاية السنة في التقويم المدرسي للتعليم الأساسي.",
+        "source": "https://www.depedtambayanph.net/2026/04/three-term-school-calendar-in-basic.html",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-19",
+        "end": "2027-01-03",
+        "impact": "عطلة مدرسية",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان سينولوغ",
+        "value": "مدينة سيبو (Cebu City)، في يناير ضمن احتفالات سانتو نينيو.",
+        "source": "https://tpb.gov.ph/tpb-calendar-of-promotions-and-marketing-activities/calendar-of-philippine-festivals-and-monthly-observances-theme/",
+        "checked": "2026-11-27",
+        "month": 1,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

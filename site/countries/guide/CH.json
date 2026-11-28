@@ -1,0 +1,896 @@
+{
+  "code": "CH",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "تلزم تأشيرة شنغن قصيرة الإقامة للسائح حامل الجواز العادي.",
+        "source": "https://home-affairs.ec.europa.eu/document/download/a2378226-f392-42d0-9984-e023db53d140_en?filename=regulation-2018-1806.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "حتى 90 يوماً في أي 180 يوماً ضمن دول شنغن مجتمعة، وبحدود الأيام في التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم طلب البالغ",
+        "value": "90 يورو، وقد تضاف رسوم مركز الخدمة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الفرنك السويسري",
+        "source": "https://www.zuerich.com/en/inform-plan/useful-information-and-services/currency-and-prices",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "تقبل متاجر كثيرة البطاقات. استخدم الفرنك لتفادي سعر التحويل عند الدفع باليورو.",
+        "source": "https://www.myswitzerland.com/en-ch/planning/about-switzerland/general-facts/money-and-shopping/tipping/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "الخدمة مشمولة عادة، ويمكن تقريب الفاتورة.",
+        "source": "https://www.myswitzerland.com/en-ch/planning/about-switzerland/general-facts/money-and-shopping/tipping/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 559 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/switzerland",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 1346 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/switzerland",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/Switzerland-esim/pilatus-mobile-in-3days-1gb",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "تطبيق «زد في في» لمواعيد النقل وشراء التذاكر في منطقة زيورخ (Zurich).",
+        "source": "https://www.zvv.ch/en/service/apps/zvv-app.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "تصل القطارات من محطة مطار زيورخ (Zurich Airport) إلى محطة زيورخ الرئيسية (Zürich HB).",
+        "source": "https://www.flughafen-zuerich.ch/en/passengers/practical/parking-and-transport/train-tram-and-bus",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تربط شبكة السكك المدن الرئيسية، وتتكامل مع الحافلات والقوارب. استخدم جدول السكك السويسرية.",
+        "source": "https://www.ch.ch/en/vehicles-and-traffic/public-transport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "تسجل هيئة السياحة مطاعم حلال في زيورخ (Zurich) منها «المختار».",
+        "source": "https://www.myswitzerland.com/en-gb/experiences/food-wine/restaurant/al-mouchtar/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "مسجد محمود (Mahmud Mosque) في زيورخ (Zurich).",
+        "source": "https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/center-for-research-on-religion/religionen-schweiz/forschung/cupola-temple-minaret/gebaeude/mahmud-mosque/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "فوندو الجبن، راكليت، وروشتي البطاطس. اسأل عن النبيذ في الفوندو.",
+        "source": "https://www.aboutswitzerland.eda.admin.ch/en/switzerlands-national-dishes",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "تقيّد القوانين تغطية الوجه في الأماكن العامة، مع استثناءات محددة.",
+        "source": "https://www.bj.admin.ch/en/information-on-the-ban-on-covering-the-face-in-switzerland",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "في الجبال الزم المسارات والإشارات المحلية وتحقق من الطقس.",
+        "source": "https://www.gov.uk/foreign-travel-advice/switzerland/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "متاجر كثيرة تغلق الأحد. توجد استثناءات في مطار ومحطة زيورخ (Zurich).",
+        "source": "https://www.zuerich.com/en/inform-plan/useful-information-and-services/sunday-shopping-and-holidays",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "يقع نشل في مطار جنيف (Geneva Airport) والقطارات المتصلة به والمحطات الكبرى.",
+        "source": "https://www.gov.uk/foreign-travel-advice/switzerland/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "ثبت الحقيبة على جسمك في المحطات، خاصة وقت تحميل الأمتعة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/switzerland/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الطوارئ 112، والشرطة 117، والإسعاف 144.",
+        "source": "https://www.gov.uk/foreign-travel-advice/switzerland/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "البلدة القديمة (Old Town)",
+        "value": "للمشي إلى أبرز المعالم.",
+        "source": "https://www.zuerich.com/en/neighborhood",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "زيفيلد (Seefeld)",
+        "value": "لقرب بحيرة زيورخ.",
+        "source": "https://www.zuerich.com/en/neighborhood",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "غرب زيورخ (Zürich West)",
+        "value": "للفن والمطاعم في المباني الصناعية المحوّلة.",
+        "source": "https://www.zuerich.com/en/neighborhood",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "زيورخ (Zurich)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://allaboutswiss.com/plan/itineraries/ten-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "لوسيرن (Lucerne)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://allaboutswiss.com/plan/itineraries/ten-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "برن (Bern)",
+        "value": "توزيع مقترح للزيارة: يوم إلى يومين.",
+        "source": "https://allaboutswiss.com/plan/itineraries/ten-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم بَرختولد",
+        "value": "٢٠٢٦-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى إعلان الجمهورية",
+        "value": "٢٠٢٦-٠٣-٠١",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-01",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "نوشاتيل (Neuchâtel)",
+        "scopeSource": "https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس يوسف",
+        "value": "٢٠٢٦-٠٣-١٩",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-19",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى معركة نيفلس",
+        "value": "غير مؤكد",
+        "source": "https://www.gl.ch/verwaltung/staatskanzlei/oeffentliche-feiertage.html/1335",
+        "checked": "2026-11-27",
+        "date": "2026-04-04",
+        "impact": "غير مؤكد",
+        "scope": "غلاروس (Glarus)",
+        "scopeSource": "https://www.gl.ch/verwaltung/staatskanzlei/oeffentliche-feiertage.html/1335",
+        "regional": true,
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة ذكرى معركة نيفلس",
+        "date": "2026-04-09",
+        "value": "٢٠٢٦-٠٤-٠٩",
+        "source": "https://www.gl.ch/verwaltung/staatskanzlei/oeffentliche-feiertage.html/1335",
+        "checked": "2026-11-27",
+        "impact": "إجازة في إدارة الكانتون.",
+        "impactSource": "https://www.gl.ch/verwaltung/staatskanzlei/oeffentliche-feiertage.html/1335",
+        "scope": "غلاروس (Glarus)",
+        "scopeSource": "https://www.gl.ch/verwaltung/staatskanzlei/oeffentliche-feiertage.html/1335",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٦-٠٥-١٤",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-14",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٦-٠٦-٠٤",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-04",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديسين بطرس وبولس",
+        "value": "٢٠٢٦-٠٦-٢٩",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-29",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني السويسري",
+        "value": "٢٠٢٦-٠٨-٠١",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-01",
+        "impact": "عطلة رسمية على مستوى سويسرا بأكملها.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم صوم جنيف",
+        "value": "٢٠٢٦-٠٩-١٠",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-10",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "جنيف (Geneva)",
+        "scopeSource": "https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الفدرالي للشكر والتوبة والصلاة",
+        "value": "٢٠٢٦-٠٩-٢٠",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-20",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الاثنين التالي ليوم الصلاة",
+        "value": "٢٠٢٦-٠٩-٢١",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-21",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٦-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-08",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى استعادة الجمهورية",
+        "value": "٢٠٢٦-١٢-٣١",
+        "source": "https://date.nager.at/Calendar/2026/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-31",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "جنيف (Geneva)",
+        "scopeSource": "https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم بَرختولد",
+        "value": "٢٠٢٧-٠١-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-02",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى إعلان الجمهورية",
+        "value": "٢٠٢٧-٠٣-٠١",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-01",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "نوشاتيل (Neuchâtel)",
+        "scopeSource": "https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس يوسف",
+        "value": "٢٠٢٧-٠٣-١٩",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-19",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة ذكرى معركة نيفلس",
+        "date": "2027-04-01",
+        "value": "٢٠٢٧-٠٤-٠١",
+        "source": "https://www.gl.ch/verwaltung/staatskanzlei/oeffentliche-feiertage.html/1335",
+        "checked": "2026-11-27",
+        "impact": "إجازة في إدارة الكانتون.",
+        "impactSource": "https://www.gl.ch/verwaltung/staatskanzlei/oeffentliche-feiertage.html/1335",
+        "scope": "غلاروس (Glarus)",
+        "scopeSource": "https://www.gl.ch/verwaltung/staatskanzlei/oeffentliche-feiertage.html/1335",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى معركة نيفلس",
+        "value": "غير مؤكد",
+        "source": "https://www.gl.ch/verwaltung/staatskanzlei/oeffentliche-feiertage.html/1335",
+        "checked": "2026-11-27",
+        "date": "2027-04-04",
+        "impact": "غير مؤكد",
+        "scope": "غلاروس (Glarus)",
+        "scopeSource": "https://www.gl.ch/verwaltung/staatskanzlei/oeffentliche-feiertage.html/1335",
+        "regional": true,
+        "alert": false,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٧-٠٥-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٧-٠٥-٢٧",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-27",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديسين بطرس وبولس",
+        "value": "٢٠٢٧-٠٦-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-29",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "العيد الوطني السويسري",
+        "value": "٢٠٢٧-٠٨-٠١",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-01",
+        "impact": "عطلة رسمية على مستوى سويسرا بأكملها.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم صوم جنيف",
+        "value": "٢٠٢٧-٠٩-٠٩",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-09",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "جنيف (Geneva)",
+        "scopeSource": "https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الفدرالي للشكر والتوبة والصلاة",
+        "value": "٢٠٢٧-٠٩-١٩",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-19",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الاثنين التالي ليوم الصلاة",
+        "value": "٢٠٢٧-٠٩-٢٠",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-20",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٧-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-08",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "راجع اعتماد العطلة في كانتون وجهتك.",
+        "scopeSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى استعادة الجمهورية",
+        "value": "٢٠٢٧-١٢-٣١",
+        "source": "https://date.nager.at/Calendar/2027/CH/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-31",
+        "impact": "يتحدد نطاق العطلة على مستوى الكانتون؛ راجع تقويم الكانتون قبل ترتيب الزيارة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "impactSource": "https://www.kmu.admin.ch/en/procedures-for-leave-and-public-holidays",
+        "scope": "جنيف (Geneva)",
+        "scopeSource": "https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels",
+        "regional": true,
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "عطلة الميلاد في كانتون جنيف (Geneva)",
+        "value": "إجازة مدرسية من 2026-12-24 إلى 2027-01-08 شاملة الطرفين.",
+        "source": "https://edu.ge.ch/secondaire2/system/files/2025-09/MEMENTO_MP_25_26.pdf",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-24",
+        "end": "2027-01-08",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "ترتفع حجوزات الجبال حول عيد الميلاد ورأس السنة، وفي فبراير، ومن منتصف يوليو إلى منتصف أغسطس بسبب العطل.",
+        "source": "https://help.myswitzerland.com/hc/en-us/articles/213130009-When-is-the-high-season-in-Switzerland",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "الربيع والخريف أهدأ في مدن كثيرة خارج مواعيد المعارض والعطل.",
+        "source": "https://www.lonelyplanet.com/articles/the-best-time-to-go-to-switzerland",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة الرحلات الجبلية الصيفية",
+        "value": "تقريب موسمي من منتصف يوليو إلى منتصف أغسطس. تربطه هيئة السياحة بالعطل المدرسية في سويسرا وأوروبا.",
+        "source": "https://help.myswitzerland.com/hc/en-us/articles/213130009-When-is-the-high-season-in-Switzerland",
+        "checked": "2026-11-27",
+        "date": "2026-07-15",
+        "end": "2026-08-15",
+        "peak": true,
+        "impact": "يزداد الطلب على الإقامة في الجبال.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة الرحلات الجبلية الصيفية",
+        "value": "تقريب موسمي من منتصف يوليو إلى منتصف أغسطس. تربطه هيئة السياحة بالعطل المدرسية في سويسرا وأوروبا.",
+        "source": "https://help.myswitzerland.com/hc/en-us/articles/213130009-When-is-the-high-season-in-Switzerland",
+        "checked": "2026-11-27",
+        "date": "2027-07-15",
+        "end": "2027-08-15",
+        "peak": true,
+        "impact": "يزداد الطلب على الإقامة في الجبال.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة المناطق الجبلية في فبراير",
+        "value": "تتوقع هيئة السياحة ارتفاع الطلب على الوجهات الجبلية في فبراير.",
+        "source": "https://help.myswitzerland.com/hc/en-us/articles/213130009-When-is-the-high-season-in-Switzerland",
+        "checked": "2026-11-27",
+        "month": 2,
+        "peak": true,
+        "impact": "يزداد الطلب على الإقامة في الجبال.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم التزلج في جبال الألب السويسرية (Swiss Alps)",
+        "value": "يصنّف الدليل يناير وفبراير ضمن ذروة الشتاء في منتجعات الجبال.",
+        "source": "https://www.myswissalps.com/planning/practical/best-time-to-visit/",
+        "checked": "2026-11-27",
+        "month": 1,
+        "peak": true,
+        "impact": "ارتفاع الطلب على منتجعات التزلج",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان مونترو للجاز",
+        "value": "مونترو (Montreux)، يوليو، حفلات على ضفاف بحيرة جنيف.",
+        "source": "https://www.montreuxjazzfestival.com/en/programme/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

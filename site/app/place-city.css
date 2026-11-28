@@ -1,0 +1,7 @@
+.place-image.city-guide-image { aspect-ratio: 16/7; max-height: 330px; margin-block: 10px 12px; border-radius: 12px; }
+.travel-combo-route { padding: 0; margin: 6px 0; list-style: none; }
+.travel-combo-route > li { padding-block: 8px 12px; border-bottom: 1px solid var(--line); }
+.travel-combo-route > li > p { margin: 0 0 6px; font-weight: 600; }
+.travel-combo-photos, .guide-city-photos { display: grid; grid-template-columns: repeat(auto-fit,minmax(min(100%, 130px),1fr)); gap: 8px; }
+.guide-city-photos { margin-block-start: 8px; }
+.travel-combo-photo { aspect-ratio: 16/9; max-height: 230px; min-width: 0; border-radius: 10px; }

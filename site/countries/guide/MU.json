@@ -1,0 +1,507 @@
+{
+  "code": "MU",
+  "sections": {
+    "entry": [
+      {
+        "label": "دخول حامل الجواز السعودي",
+        "value": "الجواز السعودي معفى من تأشيرة الزيارة.",
+        "source": "https://passport.govmu.org/passport/wp-content/uploads/2021/03/Visa-Requirement-Country-2025.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة",
+        "value": "يحدّد ضابط الهجرة في المنفذ مدة البقاء المسموحة لكل زيارة. احتفظ بتاريخ المغادرة المدوّن عند الدخول.",
+        "source": "https://passport.govmu.org/passport/?page_id=605",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم التأشيرة",
+        "value": "لا توجد رسوم تأشيرة للزيارة المعفاة.",
+        "source": "https://passport.govmu.org/passport/wp-content/uploads/2021/03/Visa-Requirement-Country-2025.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة والدفع",
+        "value": "الروبية الموريشية. البطاقات مقبولة في الفنادق والمتاجر الأكبر، وخذ نقداً للأسواق.",
+        "source": "https://sortir.mu/en/guide/payer-a-maurice-roupies-cartes-pourboires",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية وتعتمد على الخدمة.",
+        "source": "https://sortir.mu/en/guide/payer-a-maurice-roupies-cartes-pourboires",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يومي اقتصادي",
+        "value": "نحو 236–356 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://creolemauritius.com/blog/mauritius-travel-budget/",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يومي متوسط",
+        "value": "نحو 435–713 ريال للشخص داخل الوجهة. تقدير للسكن والأكل والتنقل والأنشطة، قبل طيران الرياض.",
+        "source": "https://creolemauritius.com/blog/mauritius-travel-budget/",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "باقة الزوار من ماي تي، بشريحة عادية أو إلكترونية، 30 يورو لمدة 30 يوماً.",
+        "source": "https://www.myt.mu/support/mytmobile/17/mobile",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "يوغو لحجز التاكسي أو المركبات الكبيرة.",
+        "source": "https://app.yugo.mu/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "من مطار سير سيووساغور رامغولام (SSR Airport) تنطلق حافلات عامة، منها خطوط إلى مابورغ (Mahébourg).",
+        "source": "https://mru.airport.aero/passengers/to-from-airport/public-bus",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن والجزر",
+        "value": "المترو الخفيف خيار بين بورت لويس (Port Louis) ومدن الهضبة الوسطى. تحقق من محطة التبديل في مخطط الرحلة.",
+        "source": "https://mauritiusmetroexpress.mu/my-journey/?lang=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال والصلاة",
+        "value": "توثّق جمعية علماء موريشيوس اعتماد الحلال. ابحث عن شهادة المنشأة عند اختيار المطعم.",
+        "source": "https://jamiat-ul-ulama.org/node/3586",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "دهول بوري بالعدس، غاتو بيمان من البقول والفلفل، وروغاي بصلصة الطماطم.",
+        "source": "https://tourists.mu/blog/mauritian-food-and-where-to-try-it",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مسجد للزيارة",
+        "value": "مسجد الجمعة في بورت لويس (Port Louis) في الحي الصيني.",
+        "source": "https://tourism.govmu.org/Pages/Services/Tourist-Sites.aspx",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "ارتدِ لباساً ساتراً عند زيارة الأماكن الدينية واستفسر عن خلع الحذاء عند المدخل.",
+        "source": "https://mautourco.com/wp-content/uploads/2022/03/Mautourco-Brochure-June-2019-EN-final-WEB-ALL.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المحلات",
+        "value": "في المدن الرئيسية تغلق متاجر كثيرة الأحد والعطلات. يفتح بعض المتاجر في العاصمة حتى الظهر يوم الأحد.",
+        "source": "https://gblc.mu/venues/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "مخاطر تهم الزائر",
+        "value": "انتبه لسرقة الحقائب في الأسواق والشواطئ المعزولة. تجنب المشي منفرداً على الشاطئ ليلاً.",
+        "source": "https://www.gov.uk/foreign-travel-advice/mauritius/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رقم الطوارئ",
+        "value": "999 للشرطة و114 للإسعاف.",
+        "source": "https://www.gov.uk/foreign-travel-advice/mauritius/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "احتيال أُبلغ عنه",
+        "value": "قد تكون البضاعة ذات العلامات التجارية المعروضة في بعض الأسواق مقلدة.",
+        "source": "https://mautourco.com/wp-content/uploads/2022/03/Mautourco-Brochure-June-2019-EN-final-WEB-ALL.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "غراند باي (Grand Baie)",
+        "value": "خدمات ومطاعم وانطلاق رحلات الجزر الشمالية.",
+        "source": "https://planmauritius.com/where-to-stay-in-mauritius-north-east-west-or-south/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "فليك إن فلاك (Flic en Flac)",
+        "value": "شاطئ طويل وقاعدة لزيارة الغرب.",
+        "source": "https://planmauritius.com/where-to-stay-in-mauritius-north-east-west-or-south/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "لو مورن (Le Morne)",
+        "value": "مناسب للشاطئ والمشي قرب الجبل.",
+        "source": "https://planmauritius.com/where-to-stay-in-mauritius-north-east-west-or-south/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار مقترح ومدة كل محطة",
+        "value": "فليك إن فلاك (Flic en Flac) 3 ليالٍ، غراند باي (Grand Baie) 4 ليالٍ، وبورت لويس (Port Louis) زيارة نهارية من الشمال.",
+        "source": "https://rentcar.mu/en/blog/autotour-ile-maurice-itineraire-voiture-hotels",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "end": "2026-01-02",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "تايبوسام كافادي",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى إلغاء الرق",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "مها شيفاراتري",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-15",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الربيع الصيني",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-02-17",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الاستقلال والجمهورية",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-12",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "أوغادي",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-19",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-03-21",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال العذراء",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "غانيش تشاتورتي",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-09-15",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى وصول العمال المتعاقدين",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-11-02",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ديوالي",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-11-08",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "عطلة رسمية.",
+        "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "end": "2027-01-02",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "تايبوسام كافادي",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-01-22",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى إلغاء الرق",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الربيع الصيني",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-02-06",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "مها شيفاراتري",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-06",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "موعد تقريبي، يعتمد على رؤية الهلال. عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-10",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "يوم الاستقلال والجمهورية",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-03-12",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "أوغادي",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-04-07",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "غانيش تشاتورتي واليوم التعويضي",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-09-05",
+        "end": "2027-09-06",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ديوالي",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-10-29",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذكرى وصول العمال المتعاقدين",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-11-02",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "عطلة رسمية.",
+        "source": "https://dha.govmu.org/Communique/Public_Holidays_2027.pdf",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "عطلة رسمية، تحقّق من مواعيد الدوائر الحكومية والخدمات؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "ذروة نهاية السنة",
+        "value": "يزيد الطلب وترتفع أسعار الإقامة حول عيد الميلاد ورأس السنة.",
+        "source": "https://tourists.mu/plan/best-time",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "end": "2027-01-02",
+        "peak": true,
+        "impact": "طلب أعلى على الفنادق",
+        "status": "confirmed"
+      },
+      {
+        "label": "العطلة بين الفصلين الأول والثاني",
+        "value": "إجازة مدرسية بحسب تقويم الجهة المذكورة.",
+        "source": "https://education.govmu.org/Documents/2025/School%20Calendar%202026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-04-04",
+        "end": "2026-04-19",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "العطلة بين الفصلين الثاني والثالث",
+        "value": "إجازة مدرسية بحسب تقويم الجهة المذكورة.",
+        "source": "https://education.govmu.org/Documents/2025/School%20Calendar%202026.pdf",
+        "checked": "2026-11-27",
+        "date": "2026-07-18",
+        "end": "2026-08-16",
+        "peak": true,
+        "impact": "إجازة مدرسية",
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "شهر انتقالي بين الموسمين.",
+        "source": "https://tourists.mu/blog/best-time-to-visit-mauritius",
+        "checked": "2026-11-27",
+        "month": 5,
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "وقت أهدأ",
+        "value": "شهر انتقالي بين الموسمين.",
+        "source": "https://tourists.mu/blog/best-time-to-visit-mauritius",
+        "checked": "2026-11-27",
+        "month": 9,
+        "peak": false,
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان الطعام والثقافة الصينية",
+        "value": "في الحي الصيني ببورت لويس (Port Louis). أقيمت دورة 2025 في أكتوبر.",
+        "source": "https://publicnotice.govmu.org/publicnotice/wp-content/uploads/2025/10/Police-Notice-Chinatown-Food-Festival-2025.pdf",
+        "checked": "2026-11-27",
+        "month": 10,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

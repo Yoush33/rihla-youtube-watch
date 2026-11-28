@@ -1,0 +1,747 @@
+{
+  "code": "DE",
+  "sections": {
+    "entry": [
+      {
+        "label": "السياحة بالجواز السعودي",
+        "value": "تلزم تأشيرة شنغن قصيرة الإقامة للسائح حامل الجواز العادي.",
+        "source": "https://home-affairs.ec.europa.eu/document/download/a2378226-f392-42d0-9984-e023db53d140_en?filename=regulation-2018-1806.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "المدة",
+        "value": "حتى 90 يوماً في أي 180 يوماً ضمن دول شنغن مجتمعة، وبحدود الأيام في التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسم طلب البالغ",
+        "value": "90 يورو، وقد تضاف رسوم مركز الخدمة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "اليورو",
+        "source": "https://www.berlin.de/en/tourism/travel-information/1737699-2862820-currency-exchange.en.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع اليومي",
+        "value": "تفضّل مقاهٍ وحانات الدفع نقداً. اسأل قبل الطلب عن قبول البطاقة.",
+        "source": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/ziel_deutschland_en_2017.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "يشيع تقريب الحساب أو إضافة مبلغ للخدمة على الطاولة.",
+        "source": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/ziel_deutschland_en_2017.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 300 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/germany",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تقدير يوم متوسط",
+        "value": "نحو 742 ريال للشخص في اليوم، من متوسط إنفاق مسافرين سابقين على السكن والطعام والتنقل والزيارات داخل الوجهة.",
+        "source": "https://www.budgetyourtrip.com/germany",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "شريحة بيانات إلكترونية",
+        "value": "تبدأ باقات أيرالو من نحو 15 ريال؛ يتغير السعر مع السعة والمدة.",
+        "source": "https://www.airalo.com/germany-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "«يلبي» للنقل العام والمركبات المشتركة في برلين (Berlin).",
+        "source": "https://www.jelbi.de/en/home/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار",
+        "value": "تربط القطارات الإقليمية وقطارات الضواحي مطار برلين براندنبورغ (Berlin Brandenburg) بالمدينة.",
+        "source": "https://ber.berlin-airport.de/en/getting-here/public-transport.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "تربط شبكة دويتشه بان المدن الكبيرة بالقطارات السريعة والإقليمية. يحتاج قطار المسافات الطويلة إلى تذكرة مناسبة.",
+        "source": "https://www.germany.travel/en/inspiring-germany/rail-travel.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "توفر الحلال",
+        "value": "تنشر هيئة سياحة برلين (Berlin) دليلاً للزوار المسلمين وخيارات الطعام الحلال.",
+        "source": "https://www.visitberlin.de/en/berlin-muslim-travellers",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مكان للصلاة",
+        "value": "تضم برلين (Berlin) عدة مساجد ومصليات يوردها دليل المدينة.",
+        "source": "https://www.visitberlin.de/en/berlin-muslim-travellers",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "بريتسل، كاري فورست، وسباتسله. النقانق غالباً من الخنزير؛ اطلب نسخة حلال أو نباتية.",
+        "source": "https://mindlesstraveller.com/food-in-germany",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللباس",
+        "value": "عند زيارة الكنائس راعِ ملابس المكان وتعليماته وهدوء المصلين.",
+        "source": "https://www.vielfalt-mediathek.de/wp-content/uploads/2024/11/Zusammenleben-in-der-Migrationsgesellschaft_Religionen.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "سلوك تتجنبه",
+        "value": "تجنب إظهار رموز نازية أو تحية نازية، فهي محظورة قانونياً.",
+        "source": "https://www.gov.uk/foreign-travel-advice/germany/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "غالبية المتاجر تغلق الأحد، مع استثناءات في المحطات وأيام فتح محددة.",
+        "source": "https://www.visitberlin.de/en/shopping-business-hours",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "أماكن تستحق الحذر",
+        "value": "انتبه في محطات القطارات الكبرى والأسواق المزدحمة.",
+        "source": "https://www.gov.uk/foreign-travel-advice/germany/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاحتيال والسرقة",
+        "value": "يقع نشل وسرقة حقائب في الزحام. حافظ على جوازك وهاتفك في مكان مغلق.",
+        "source": "https://www.gov.uk/foreign-travel-advice/germany/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة 110، والإسعاف والإطفاء 112.",
+        "source": "https://www.gov.uk/foreign-travel-advice/germany/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ميتّه (Mitte)",
+        "value": "للمتاحف والمعالم الكبرى.",
+        "source": "https://www.govisitberlin.com/best-neighborhoods-berlin/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كرويتسبيرغ (Kreuzberg)",
+        "value": "للمطاعم والفن ومناطق القنوات.",
+        "source": "https://www.govisitberlin.com/best-neighborhoods-berlin/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "برنتسلاور بيرغ (Prenzlauer Berg)",
+        "value": "للشوارع السكنية والمقاهي والحدائق.",
+        "source": "https://www.govisitberlin.com/best-neighborhoods-berlin/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "برلين (Berlin)",
+        "value": "توزيع مقترح للزيارة: 3–4 أيام.",
+        "source": "https://www.travpa.com/germany/itineraries/7-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "ميونخ (Munich)",
+        "value": "توزيع مقترح للزيارة: 3 أيام.",
+        "source": "https://www.travpa.com/germany/itineraries/7-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "هامبورغ (Hamburg)",
+        "value": "توزيع مقترح للزيارة: يومان.",
+        "source": "https://www.travpa.com/germany/itineraries/7-days",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "بادن فورتمبيرغ (Baden-Württemberg)، بافاريا (Bavaria)، ساكسونيا أنهالت (Saxony-Anhalt)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للمرأة",
+        "value": "٢٠٢٦-٠٣-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-08",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "scope": "برلين (Berlin) ومكلنبورغ فوربومرن (Mecklenburg-Western Pomerania)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "عطلة قانونية في براندنبورغ (Brandenburg)، وتوافق الأحد في بقية البلاد.",
+        "scopeSource": "https://bravors.brandenburg.de/gesetze/ftg_2015",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٦-٠٥-١٤",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-14",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٤",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-24",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "عطلة قانونية في براندنبورغ (Brandenburg)، وتوافق الأحد في بقية البلاد.",
+        "scopeSource": "https://bravors.brandenburg.de/gesetze/ftg_2015",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٦-٠٦-٠٤",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-04",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "بادن فورتمبيرغ (Baden-Württemberg)، بافاريا (Bavaria)، هيسن (Hesse)، شمال الراين وستفاليا (North Rhine-Westphalia)، راينلاند بالاتينات (Rhineland-Palatinate)، سارلاند (Saarland)، وبعض بلديات ساكسونيا (Saxony) وتورينغن (Thuringia)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "سارلاند (Saarland) وبعض بلديات بافاريا (Bavaria)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للطفل",
+        "value": "٢٠٢٦-٠٩-٢٠",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-09-20",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "تورينغن (Thuringia)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الوحدة الألمانية",
+        "value": "٢٠٢٦-١٠-٠٣",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-03",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الإصلاح الديني",
+        "value": "٢٠٢٦-١٠-٣١",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-31",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "براندنبورغ (Brandenburg)، بريمن (Bremen)، هامبورغ (Hamburg)، مكلنبورغ فوربومرن (Mecklenburg-Western Pomerania)، ساكسونيا السفلى (Lower Saxony)، ساكسونيا (Saxony)، ساكسونيا أنهالت (Saxony-Anhalt)، شليسفيغ هولشتاين (Schleswig-Holstein)، تورينغن (Thuringia)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "بادن فورتمبيرغ (Baden-Württemberg)، بافاريا (Bavaria)، شمال الراين وستفاليا (North Rhine-Westphalia)، راينلاند بالاتينات (Rhineland-Palatinate)، سارلاند (Saarland)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التوبة والصلاة",
+        "value": "٢٠٢٦-١١-١٨",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-18",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "ساكسونيا (Saxony)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "بادن فورتمبيرغ (Baden-Württemberg)، بافاريا (Bavaria)، ساكسونيا أنهالت (Saxony-Anhalt)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للمرأة",
+        "value": "٢٠٢٧-٠٣-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "scope": "برلين (Berlin) ومكلنبورغ فوربومرن (Mecklenburg-Western Pomerania)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "عطلة قانونية في براندنبورغ (Brandenburg)، وتوافق الأحد في بقية البلاد.",
+        "scopeSource": "https://bravors.brandenburg.de/gesetze/ftg_2015",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الصعود",
+        "value": "٢٠٢٧-٠٥-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد العنصرة",
+        "value": "٢٠٢٧-٠٥-١٦",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-16",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "عطلة قانونية في براندنبورغ (Brandenburg)، وتوافق الأحد في بقية البلاد.",
+        "scopeSource": "https://bravors.brandenburg.de/gesetze/ftg_2015",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جسد المسيح",
+        "value": "٢٠٢٧-٠٥-٢٧",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-27",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "بادن فورتمبيرغ (Baden-Württemberg)، بافاريا (Bavaria)، هيسن (Hesse)، شمال الراين وستفاليا (North Rhine-Westphalia)، راينلاند بالاتينات (Rhineland-Palatinate)، سارلاند (Saarland)، وبعض بلديات ساكسونيا (Saxony) وتورينغن (Thuringia)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد انتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "سارلاند (Saarland) وبعض بلديات بافاريا (Bavaria)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم العالمي للطفل",
+        "value": "٢٠٢٧-٠٩-٢٠",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-09-20",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "تورينغن (Thuringia)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الوحدة الألمانية",
+        "value": "٢٠٢٧-١٠-٠٣",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-03",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الإصلاح الديني",
+        "value": "٢٠٢٧-١٠-٣١",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-31",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "براندنبورغ (Brandenburg)، بريمن (Bremen)، هامبورغ (Hamburg)، مكلنبورغ فوربومرن (Mecklenburg-Western Pomerania)، ساكسونيا السفلى (Lower Saxony)، ساكسونيا (Saxony)، ساكسونيا أنهالت (Saxony-Anhalt)، شليسفيغ هولشتاين (Schleswig-Holstein)، تورينغن (Thuringia)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "بادن فورتمبيرغ (Baden-Württemberg)، بافاريا (Bavaria)، شمال الراين وستفاليا (North Rhine-Westphalia)، راينلاند بالاتينات (Rhineland-Palatinate)، سارلاند (Saarland)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التوبة والصلاة",
+        "value": "٢٠٢٧-١١-١٧",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-17",
+        "impact": "تغلق غالبية المتاجر والسوبرماركت في الولايات التي تعتمد هذه العطلة. تتوفر استثناءات، منها متاجر المحطات. ",
+        "impactSource": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/everyday-knowledge",
+        "scope": "ساكسونيا (Saxony)",
+        "scopeSource": "https://www.bundesbank.de/resource/blob/749314/edbf269e7e236ff9dcf3e95dab122a0b/472B63F073F071307366337C94F8C870/feiertage-in-deutschland-1-data.pdf",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "أول أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثاني أيام عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/DE/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "في برلين (Berlin) تغلق المحلات عادة في العطلات، مع استثناءات في بعض المحطات والمتاجر.",
+        "impactSource": "https://www.berlin.de/en/tourism/travel-information/1740536-2862820-shopping-hours-sunday-shopping.en.html",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "إجازة الميلاد للمدارس في برلين (Berlin)",
+        "value": "إجازة مدرسية من 2026-12-23 إلى 2027-01-02 شاملة الطرفين.",
+        "source": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+        "checked": "2026-11-27",
+        "peak": true,
+        "date": "2026-12-23",
+        "end": "2027-01-02",
+        "impact": "إجازة مدرسية في النطاق المذكور",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الذروة",
+        "value": "تزدحم المدن والمعالم خلال موسم الصيف والعطل المدرسية المحلية.",
+        "source": "https://www.ricksteves.com/europe/germany/best-time-to-go-to-germany",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "فترة أهدأ",
+        "value": "الربيع والخريف خارج المعارض والمهرجانات قد يكونان أهدأ وأقل تكلفة.",
+        "source": "https://www.ricksteves.com/europe/germany/best-time-to-go-to-germany",
+        "checked": "2026-11-27",
+        "peak": false,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الصيف في يوليو",
+        "value": "يزداد الإقبال على المعالم الرئيسية.",
+        "source": "https://www.ricksteves.com/europe/germany/best-time-to-go-to-germany",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 7,
+        "impact": "يزداد الإقبال على المعالم الرئيسية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم الصيف في أغسطس",
+        "value": "يزداد الإقبال على المعالم الرئيسية.",
+        "source": "https://www.ricksteves.com/europe/germany/best-time-to-go-to-germany",
+        "checked": "2026-11-27",
+        "peak": true,
+        "month": 8,
+        "impact": "يزداد الإقبال على المعالم الرئيسية.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس · الشتاء · برلين (Berlin)",
+        "value": "تغلق المدارس المشمولة بهذا التقويم خلال الفترة المذكورة.",
+        "date": "2027-02-01",
+        "end": "2027-02-06",
+        "peak": true,
+        "impact": "تتوقف الدراسة. أثر الإجازة على أسعار السفر غير مؤكد.",
+        "source": "https://www.berlin.de/sen/bjf/service/kalender/ferien/ferienordnung-des-landes-berlin-2024_2025-bis-2029_2030.pdf?ts=1702425640",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس · الفصح · برلين (Berlin)",
+        "value": "تغلق المدارس المشمولة بهذا التقويم خلال الفترة المذكورة.",
+        "date": "2027-03-22",
+        "end": "2027-04-02",
+        "peak": true,
+        "impact": "تتوقف الدراسة. أثر الإجازة على أسعار السفر غير مؤكد.",
+        "source": "https://www.berlin.de/sen/bjf/service/kalender/ferien/ferienordnung-des-landes-berlin-2024_2025-bis-2029_2030.pdf?ts=1702425640",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة المدارس · الصيف · برلين (Berlin)",
+        "value": "تغلق المدارس المشمولة بهذا التقويم خلال الفترة المذكورة.",
+        "date": "2027-07-01",
+        "end": "2027-08-14",
+        "peak": true,
+        "impact": "تتوقف الدراسة. أثر الإجازة على أسعار السفر غير مؤكد.",
+        "source": "https://www.berlin.de/sen/bjf/service/kalender/ferien/ferienordnung-des-landes-berlin-2024_2025-bis-2029_2030.pdf?ts=1702425640",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "أكتوبرفست",
+        "value": "ميونخ (Munich)، سبتمبر وأوائل أكتوبر، في ساحة تيريزينفيزه (Theresienwiese).",
+        "source": "https://www.mvv-muenchen.de/en/leisure-ideas/oktoberfest",
+        "checked": "2026-11-27",
+        "month": 9,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

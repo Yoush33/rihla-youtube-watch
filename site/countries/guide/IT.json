@@ -1,0 +1,513 @@
+{
+  "code": "IT",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "تحتاج تأشيرة شنغن للزيارة بالجواز السعودي العادي.",
+        "source": "https://eur-lex.europa.eu/eli/reg/2018/1806/2025-02-03/eng",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 90 يومًا ضمن أي 180 يومًا في دول شنغن مجتمعة، وفق صلاحية التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/short-stay-calculator_en?prefLang=nl",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "90 يورو رسم الطلب العادي للبالغ، وقد تضاف أجرة مركز تقديم الطلبات.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "النقد والبطاقات الرئيسية مقبولان.",
+        "source": "https://www.italia.it/en/italy/practical-information/money-payments-and-tipping-in-italy",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "اليورو",
+        "source": "https://www.italia.it/en/italy/practical-information/money-payments-and-tipping-in-italy",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "الإكرامية اختيارية وتختلف عن بند تغطية المائدة الذي قد يظهر في الفاتورة.",
+        "source": "https://myitalia.it/faq/money-and-tipping",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تقدير يوم اقتصادي",
+        "value": "نحو 267 ريالًا للفرد يوميًا (65 يورو) لسكن مشترك وإعداد الوجبات واستخدام المواصلات العامة.",
+        "source": "https://www.nomadicmatt.com/travel-guides/italy-travel-tips//",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 844 ريالًا للفرد يوميًا، متوسط إنفاق المسافرين على السكن والطعام والتنقل المحلي.",
+        "source": "https://www.budgetyourtrip.com/Italy/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "مرجع تحويل اليورو للميزانية",
+        "value": "حُسب مبلغ 65 يورو على أساس 4.11 ريالات لليورو تقريبًا في 27 نوفمبر 2026.",
+        "source": "https://www.investing.com/currencies/eur-sar-historical-data",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 15 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/italy-esim",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "أتـاك روما (ATAC Roma) للمواصلات في روما (Rome).",
+        "source": "https://www.atac.roma.it/en/tickets-and-passes/atac-roma-app",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "قطار ليوناردو إكسبريس من فيوميتشينو (Fiumicino) إلى تيرميني في روما (Rome).",
+        "source": "https://www.mur.gov.it/sites/default/files/2023-01/230120__SBEP_Agenda_full.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "القطارات السريعة وبين المدن تربط الوجهات الكبرى.",
+        "source": "https://www.trenitalia.com/content/trenitalia/en.html",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "توجد مطاعم حلال في روما (Rome). تحقق من المطعم قبل الوصول.",
+        "source": "https://www.travelhalal.com/cities/rome/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "جامع روما الكبير (Great Mosque of Rome) في العاصمة.",
+        "source": "https://www.visitlazio.com/en/mosque/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "بيتزا نابولية، معكرونة، وجيلاتو.",
+        "source": "https://www.italytourism.org/what-to-eat-in-italy/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "غطّ الكتفين والركبتين في الكنائس والمعالم الدينية.",
+        "source": "https://media.timtul.com/media/web_iias/EGPA%202026%20-%20Travel%20Guide__20260514182626.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "تختلف ساعات المتاجر المستقلة عن متاجر المناطق السياحية في روما (Rome)، خصوصًا أيام الأحد.",
+        "source": "https://romeauthority.com/en/articles/horaires-magasins-soldes-rome",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للطوارئ.",
+        "source": "https://www.italia.it/en/italy/practical-information/emergency-and-assistance",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "انتبه للنشل قرب المعالم وفي النقل العام.",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/italy.html?pubDate=20260628",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "احذر النشل في المحطات ووسائل النقل العامة.",
+        "source": "https://travel.state.gov/en/international-travel/travel-advisories/italy.html?pubDate=20260628",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "المركز التاريخي (Centro Storico)",
+        "value": "للمشي إلى المعالم",
+        "source": "https://www.reasonstay.com/en/rome/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "مونتي (Monti)",
+        "value": "للقرب من الكولوسيوم",
+        "source": "https://www.reasonstay.com/en/rome/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "تراستيفيري (Trastevere)",
+        "value": "للمطاعم والمساء",
+        "source": "https://www.reasonstay.com/en/rome/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "روما (Rome)",
+        "value": "نقترح ثلاثة أيام عند توزيع وقت الرحلة.",
+        "source": "https://www.italytravel.wiki/guides/rome-florence-venice-itinerary",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "فلورنسا (Florence)",
+        "value": "نقترح ثلاثة أيام عند توزيع وقت الرحلة.",
+        "source": "https://www.italytravel.wiki/guides/rome-florence-venice-itinerary",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "البندقية (Venice)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.italytravel.wiki/guides/rome-florence-venice-itinerary",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يغلق معرض أوفيتسي (Uffizi Gallery) في فلورنسا (Florence).",
+        "impactSource": "https://www.uffizi.it/en/the-uffizi",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٦-٠٤-٠٥",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-05",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التحرير",
+        "value": "٢٠٢٦-٠٤-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٦-٠٥-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-25",
+        "impact": "غير مؤكد",
+        "scope": "بولزانو وجنوب تيرول (Bolzano / South Tyrol)",
+        "scopeSource": "https://www.provinz.bz.it/news/it/rss.asp?news_action=4&news_article_id=666949",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الجمهورية",
+        "value": "٢٠٢٦-٠٦-٠٢",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد فيراغوستو وانتقال السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس فرنسيس الأسيزي",
+        "value": "٢٠٢٦-١٠-٠٤",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-04",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٦-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-11-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٦-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "يغلق معرض أوفيتسي (Uffizi Gallery) في فلورنسا (Florence).",
+        "impactSource": "https://www.uffizi.it/en/the-uffizi",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يغلق معرض أوفيتسي (Uffizi Gallery) في فلورنسا (Florence).",
+        "impactSource": "https://www.uffizi.it/en/the-uffizi",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفصح",
+        "value": "٢٠٢٧-٠٣-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-28",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التحرير",
+        "value": "٢٠٢٧-٠٤-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٧-٠٥-١٧",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "غير مؤكد",
+        "scope": "بولزانو وجنوب تيرول (Bolzano / South Tyrol)",
+        "scopeSource": "https://www.provinz.bz.it/news/it/rss.asp?news_action=4&news_article_id=666949",
+        "regional": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الجمهورية",
+        "value": "٢٠٢٧-٠٦-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-02",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد فيراغوستو وانتقال السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس فرنسيس الأسيزي",
+        "value": "٢٠٢٧-١٠-٠٤",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-04",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد جميع القديسين",
+        "value": "٢٠٢٧-١١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-11-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الحبل بلا دنس",
+        "value": "٢٠٢٧-١٢-٠٨",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-08",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "يغلق معرض أوفيتسي (Uffizi Gallery) في فلورنسا (Florence).",
+        "impactSource": "https://www.uffizi.it/en/the-uffizi",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد القديس ستيفن",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/IT/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "تنتهي الدروس في لاتسيو (Lazio) في 8 يونيو 2027 وفق التقويم الإقليمي، وتوجد استثناءات حسب المرحلة.",
+        "source": "https://regione.lazio.it/notizie/scuola-e-universita/comunicato-calendario-scolastico-2026-2027",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "ترتفع أسعار السواحل الإيطالية صيفًا، والربيع والخريف ملائمان للمدن.",
+        "source": "https://www.lonelyplanet.com/articles/first-time-guide-to-italy",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "موسم ارتفاع الطلب",
+        "value": "ترتفع أسعار السواحل الإيطالية صيفًا، والربيع والخريف ملائمان للمدن.",
+        "source": "https://www.lonelyplanet.com/articles/first-time-guide-to-italy",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "كرنفال البندقية",
+        "value": "البندقية (Venice)، يناير أو فبراير بحسب موعد الصوم.",
+        "source": "https://carnevale.venezia.it/en/",
+        "checked": "2026-11-27",
+        "month": 2,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

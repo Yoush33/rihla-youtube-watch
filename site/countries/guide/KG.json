@@ -1,0 +1,572 @@
+{
+  "code": "KG",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "دخول بلا تأشيرة لحامل جواز السفر السعودي.",
+        "source": "https://cbd.minjust.gov.kg/7-36872/edition/24254/ru",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 180 يومًا خلال 360 يومًا بحسب القرار رقم 784.",
+        "source": "https://cbd.minjust.gov.kg/7-36872/edition/24254/ru",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "لا توجد رسوم تأشيرة ضمن الإعفاء.",
+        "source": "https://cbd.minjust.gov.kg/7-36872/edition/24254/ru",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "اسحب النقد في المدينة قبل الرحلات إلى القرى والمناطق النائية.",
+        "source": "https://visitkyrgyzstan.org/budget/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "السوم القيرغيزي",
+        "source": "https://visitkyrgyzstan.org/budget/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية، ويمكن تقريب أجرة سيارة الأجرة أو ترك مبلغ بسيط للخدمة.",
+        "source": "https://visitkyrgyzstan.org/budget/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 75–131 ريالًا للفرد في اليوم شاملًا السكن والطعام والنقل والأنشطة.",
+        "source": "https://visitkyrgyzstan.org/budget/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 188–300 ريال للفرد في اليوم شاملًا السكن والطعام والنقل والأنشطة.",
+        "source": "https://visitkyrgyzstan.org/budget/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 22 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/kyrgyzstan-esim?currency=USD",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "تولبار (Tulpar) للحافلات في بيشكيك (Bishkek).",
+        "source": "https://play.google.com/store/apps/details?hl=en&id=com.bpcbt.billet.clientv2",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "تتوفر حافلات وسيارات أجرة بين مطار ماناس (Manas) وبيشكيك (Bishkek).",
+        "source": "https://www.visitkyrgyzstan.org/bishkek-airport/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "هناك حافلات صغيرة مشتركة وسيارات أجرة مشتركة بين المدن.",
+        "source": "https://www.thisis-kyrgyzstan.com/guides/getting-around-kyrgyzstan",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "توجد مطاعم حلال في بيشكيك (Bishkek).",
+        "source": "https://www.zabihah.com/subregion/504de4fa-9f3a-11ef-956c-6045bdeb9f57/city-of-bishkek",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "مسجد بيشكيك المركزي (Bishkek Central Mosque) في العاصمة.",
+        "source": "https://kyrgyzseasons.com/en/bishkek-central-mosque",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "بشبرمق، لاغمان، وآشلان فو.",
+        "source": "https://visitkyrgyzstan.org/culture/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "عند زيارة المزارات غطّ الكتفين وتجنب الملابس القصيرة جدًا.",
+        "source": "https://www.centralasia-travel.com/uploads/pdf/kg-en-2023.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "مثال محلي، متجر الهدايا إثنو ماركت (Ethno Market) في بيشكيك (Bishkek) مغلق الأحد.",
+        "source": "https://ethno.market/en/schedule/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "102 للشرطة و103 للإسعاف.",
+        "source": "https://www.gov.uk/foreign-travel-advice/kyrgyzstan/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "احفظ جواز السفر والمقتنيات في الأماكن العامة نظرًا لحوادث النشل.",
+        "source": "https://travel.gc.ca/destinations/kyrgyzstan%2Cen%2Ctravel%20advice%20and%20advisories%20for%20kyrgyzstan%2Ctrue%2C%22official%20global%20travel%20advisories%2Crisk%20level%28s%29%2Csafety%20and%20security%2Centry/exit%20requirements%2Chealth%2Claws%20%26%20culture%2Cnatural%20disasters%20%26%20climate%2Cassistance%22%2Ctravel%2C/%2Cdestinations%2C/destinations%2C%2C%2C2020-10-08t00%3A00%3A00z%2C2020-10-13t14%3A04%3A46.963z%2C%2Ctravel%2C%2C%2Ctravel%20advice%20and%20advisories%20from%20the%20government%20of%20canada%20for%20kyrgyzstan%2C?wbdisable=true",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "النشل وسرقة الحقائب واردان في الأماكن العامة.",
+        "source": "https://travel.gc.ca/destinations/kyrgyzstan%2Cen%2Ctravel%20advice%20and%20advisories%20for%20kyrgyzstan%2Ctrue%2C%22official%20global%20travel%20advisories%2Crisk%20level%28s%29%2Csafety%20and%20security%2Centry/exit%20requirements%2Chealth%2Claws%20%26%20culture%2Cnatural%20disasters%20%26%20climate%2Cassistance%22%2Ctravel%2C/%2Cdestinations%2C/destinations%2C%2C%2C2020-10-08t00%3A00%3A00z%2C2020-10-13t14%3A04%3A46.963z%2C%2Ctravel%2C%2C%2Ctravel%20advice%20and%20advisories%20from%20the%20government%20of%20canada%20for%20kyrgyzstan%2C?wbdisable=true",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "ساحة ألا تو (Ala-Too Square)",
+        "value": "للمشي إلى المعالم",
+        "source": "https://kyrgyzstanstays.com/guides/where-to-stay-in-bishkek",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "شارع تشوي (Chuy Avenue)",
+        "value": "للنقل والمتاجر",
+        "source": "https://kyrgyzstanstays.com/guides/where-to-stay-in-bishkek",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "السفوح الجنوبية (Southern Foothills)",
+        "value": "للقرب من الطبيعة",
+        "source": "https://kyrgyzstanstays.com/guides/where-to-stay-in-bishkek",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "بيشكيك (Bishkek)",
+        "value": "نقترح يومًا واحدًا عند توزيع وقت الرحلة.",
+        "source": "https://www.visitkyrgyzstan.org/itinerary-10-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كاراكول (Karakol)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.visitkyrgyzstan.org/itinerary-10-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "أوش (Osh)",
+        "value": "نقترح يومًا واحدًا عند توزيع وقت الرحلة.",
+        "source": "https://www.visitkyrgyzstan.org/itinerary-10-days/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "2026-01-01. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الأرثوذكسي",
+        "value": "2026-01-07. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-01-07",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المرأة العالمي",
+        "value": "2026-03-08. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-03-08",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "نوروز",
+        "value": "2026-03-21. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-03-21",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "2026-05-01. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "2026-05-05. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-05-05",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر",
+        "value": "2026-05-09. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-05-09",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "2026-08-31. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-08-31",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "2027-01-01. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد الأرثوذكسي",
+        "value": "2027-01-07. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-01-07",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المرأة العالمي",
+        "value": "2027-03-08. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-03-08",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "نوروز",
+        "value": "2027-03-21. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-03-21",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "2027-05-01. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الدستور",
+        "value": "2027-05-05. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-05-05",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النصر",
+        "value": "2027-05-09. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-05-09",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال",
+        "value": "2027-08-31. عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-08-31",
+        "impact": "عطلة رسمية وفق قانون العمل. تحقق من فتح الجهة المقصودة؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "status": "confirmed"
+      },
+      {
+        "label": "اعتماد مواعيد الإجازات الهجرية لعام 2027",
+        "value": "غير مؤكد",
+        "source": "https://mlsp.gov.kg/",
+        "checked": "2026-11-27",
+        "impact": "غير مؤكد",
+        "status": "uncertain"
+      },
+      {
+        "label": "إجازة العام الجديد",
+        "value": "2026-01-02. أيام تعطل مقررة في قانون العمل.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-01-02",
+        "impact": "أيام تعطل مقررة في قانون العمل.",
+        "end": "2026-01-06",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة مايو",
+        "value": "2026-05-02. أيام تعطل مقررة في قانون العمل.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-05-02",
+        "impact": "أيام تعطل مقررة في قانون العمل.",
+        "end": "2026-05-04",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة مايو",
+        "value": "2026-05-06. أيام تعطل مقررة في قانون العمل.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-05-06",
+        "impact": "أيام تعطل مقررة في قانون العمل.",
+        "end": "2026-05-08",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المدافعين عن الوطن",
+        "value": "2026-02-23. مناسبة وطنية، ولا يقرر القانون تعطيلًا عامًا مستقلًا لها.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-02-23",
+        "impact": "مناسبة وطنية، ولا يقرر القانون تعطيلًا عامًا مستقلًا لها.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ثورة أبريل",
+        "value": "2026-04-07. مناسبة وطنية، ولا يقرر القانون تعطيلًا عامًا مستقلًا لها.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-04-07",
+        "impact": "مناسبة وطنية، ولا يقرر القانون تعطيلًا عامًا مستقلًا لها.",
+        "status": "confirmed"
+      },
+      {
+        "label": "أيام التاريخ وذكرى الأسلاف",
+        "value": "2026-11-07. مناسبة وطنية، ولا يقرر القانون تعطيلًا عامًا مستقلًا لها.",
+        "source": "https://en.kabar.kg/news/ministry-of-labor-approves-2026-holidays-in-kyrgyzstan/",
+        "checked": "2026-11-27",
+        "date": "2026-11-07",
+        "impact": "مناسبة وطنية، ولا يقرر القانون تعطيلًا عامًا مستقلًا لها.",
+        "end": "2026-11-08",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة العام الجديد",
+        "value": "2027-01-02. أيام تعطل مقررة في قانون العمل.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-01-02",
+        "impact": "أيام تعطل مقررة في قانون العمل.",
+        "end": "2027-01-06",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة مايو",
+        "value": "2027-05-02. أيام تعطل مقررة في قانون العمل.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "أيام تعطل مقررة في قانون العمل.",
+        "end": "2027-05-04",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة مايو",
+        "value": "2027-05-06. أيام تعطل مقررة في قانون العمل.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-05-06",
+        "impact": "أيام تعطل مقررة في قانون العمل.",
+        "end": "2027-05-08",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المدافعين عن الوطن",
+        "value": "2027-02-23. مناسبة وطنية، ولا يقرر القانون تعطيلًا عامًا مستقلًا لها.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-02-23",
+        "impact": "مناسبة وطنية، ولا يقرر القانون تعطيلًا عامًا مستقلًا لها.",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم ثورة أبريل",
+        "value": "2027-04-07. مناسبة وطنية، ولا يقرر القانون تعطيلًا عامًا مستقلًا لها.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-04-07",
+        "impact": "مناسبة وطنية، ولا يقرر القانون تعطيلًا عامًا مستقلًا لها.",
+        "status": "confirmed"
+      },
+      {
+        "label": "أيام التاريخ وذكرى الأسلاف",
+        "value": "2027-11-07. مناسبة وطنية، ولا يقرر القانون تعطيلًا عامًا مستقلًا لها.",
+        "source": "https://drive.google.com/file/d/1_yxXTiHwsURPBQtoJLqp82Q-EFibMPxg/view?usp=sharing",
+        "checked": "2026-11-27",
+        "date": "2027-11-07",
+        "impact": "مناسبة وطنية، ولا يقرر القانون تعطيلًا عامًا مستقلًا لها.",
+        "end": "2027-11-08",
+        "status": "confirmed"
+      },
+      {
+        "label": "تمديد العطلة للجهات الممولة من الدولة",
+        "value": "2026-01-08. مُنح موظفو الجهات العامة المشمولة يومي عمل إضافيين قبل نهاية الأسبوع.",
+        "source": "https://www.gov.kg/index.php/ru/post/s/25905-ministrler-kabineti-2026-zyldagy-zany-zyldyk-kanikuldardy-12-yanvarga-ceiin-uzartty",
+        "checked": "2026-11-27",
+        "date": "2026-01-08",
+        "impact": "مُنح موظفو الجهات العامة المشمولة يومي عمل إضافيين قبل نهاية الأسبوع.",
+        "end": "2026-01-09",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "2026-03-20 تقريبًا، يعتمد على رؤية الهلال. يوم تعطيل بموجب إعلان وزارة العمل.",
+        "source": "https://mlsp.gov.kg/ru/2026/03/11/v-mintruda-napomnili-o-vyhodnyh-dnyah-v-svyazi-s-prazdnikami-orozo-ajt-i-nooruz/",
+        "checked": "2026-11-27",
+        "date": "2026-03-20",
+        "impact": "يوم تعطيل بموجب إعلان وزارة العمل.",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "2026-05-27 تقريبًا، يعتمد على رؤية الهلال. عيد ديني ويوم تعطيل وفق قانون العمل.",
+        "source": "https://www.shailoo.gov.kg/ru/news/8630/",
+        "checked": "2026-11-27",
+        "date": "2026-05-27",
+        "impact": "عيد ديني ويوم تعطيل وفق قانون العمل.",
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الفطر",
+        "value": "2027-03-10 تقريبًا، يعتمد على رؤية الهلال. تقدير تقويمي ليوم إجازة ديني. يحدد الإعلان المحلي الموعد النهائي.",
+        "source": "https://www.timeanddate.com/holidays/kyrgyzstan/2027",
+        "checked": "2026-11-27",
+        "date": "2027-03-10",
+        "impact": "تقدير تقويمي ليوم إجازة ديني. يحدد الإعلان المحلي الموعد النهائي؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "provisional": true,
+        "status": "uncertain"
+      },
+      {
+        "label": "عيد الأضحى",
+        "value": "2027-05-17 تقريبًا، يعتمد على رؤية الهلال. تقدير تقويمي ليوم إجازة ديني. يحدد الإعلان المحلي الموعد النهائي.",
+        "source": "https://www.timeanddate.com/holidays/kyrgyzstan/2027",
+        "checked": "2026-11-27",
+        "date": "2027-05-17",
+        "impact": "تقدير تقويمي ليوم إجازة ديني. يحدد الإعلان المحلي الموعد النهائي؛ أثرها على المواعيد والزحمة غير مؤكد.",
+        "provisional": true,
+        "status": "uncertain"
+      }
+    ],
+    "peak": [
+      {
+        "label": "العطلة الشتوية بحسب وزارة التعليم",
+        "value": "من 2027-01-01 إلى 2027-01-10 حسب التقويم المدرسي.",
+        "source": "https://en.kabar.kg/news/kyrgyzstan-approves-new-curricula-for-transition-to-12-year-education/",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "end": "2027-01-10",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "الموسم والوقت الأهدأ",
+        "value": "مايو وسبتمبر موسمان انتقاليان، ويتوقف فتح المسارات الجبلية على الثلوج.",
+        "source": "https://www.visitkyrgyzstan.org/when-to-visit/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "منتجعات بحيرة إيسيك كول (Issyk-Kul)",
+        "value": "يوليو وأغسطس ذروة المصايف على البحيرة، ويُفضل حجز الإقامة مسبقًا.",
+        "source": "https://www.visitkyrgyzstan.org/destinations/issyk-kul/",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "ارتفاع الطلب على منتجعات البحيرة",
+        "status": "confirmed"
+      },
+      {
+        "label": "منتجعات بحيرة إيسيك كول (Issyk-Kul)",
+        "value": "يوليو وأغسطس ذروة المصايف على البحيرة، ويُفضل حجز الإقامة مسبقًا.",
+        "source": "https://www.visitkyrgyzstan.org/destinations/issyk-kul/",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "ارتفاع الطلب على منتجعات البحيرة",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان الطيور الجارحة",
+        "value": "مخيم جايتشي (Jaichy) قرب بوكونباييفو (Bokonbaevo)، أغسطس.",
+        "source": "https://cbtkyrgyzstan.kg/events/festival-lovchih-pticz/",
+        "checked": "2026-11-27",
+        "month": 8,
+        "status": "confirmed"
+      }
+    ]
+  }
+}

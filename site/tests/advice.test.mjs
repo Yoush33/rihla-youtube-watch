@@ -1,0 +1,12 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {tripWindow,explain,budgetVerdict} from '../lib/advice.ts';
+import {parseForecast} from '../lib/weather.ts';
+import {destinations,events} from '../lib/travel.ts';
+const t={mode:'dates',date:'2026-12-30',days:'5',month:'',interests:['الثقافة','المغامرة'],currency:'USD',budget:'500',nationality:'',origin:''};
+test('date window crosses year and rejects impossible dates',()=>{assert.deepEqual(tripWindow(t),['2026-12-30','2027-01-03']);assert.deepEqual(tripWindow({...t,date:'2026-02-30'}),['','']);assert.deepEqual(tripWindow({...t,mode:'flexible',month:'2028-02'}),['2028-02-01','2028-02-29']);});
+test('explanation reports only actual matches and country-specific holidays',()=>{const a=explain(t,destinations[0],events);assert.deepEqual(a.matched,['الثقافة']);assert.deepEqual(a.unmatched,['المغامرة']);assert.equal(a.holidays.length,1);assert.equal(a.holidays[0].start,'2027-01-01');assert.ok(a.missing.includes('مدينة المغادرة'));});
+test('budget never calls incomplete or invalid estimates affordable',()=>{assert.match(budgetVerdict({complete:false,invalid:false,low:0,high:0},t),/لا يمكن/);assert.match(budgetVerdict({complete:true,invalid:false,low:400,high:600},t),/جزء/);assert.match(budgetVerdict({complete:true,invalid:false,low:550,high:600},t),/الحد الأدنى/);});
+test('forecast rejects stale data and reversed temperature range',()=>{const p={globalIdLocal:1110600,dataUpdate:'2026-09-24T18:00:00',data:[{forecastDate:'2026-09-25',tMin:'20',tMax:'30',precipitaProb:'0'}]};assert.equal(parseForecast('lisbon',p,new Date('2026-09-24T19:00:00Z')).status,'live');assert.equal(parseForecast('lisbon',p,new Date('2026-09-28T19:00:00Z')).status,'unavailable');assert.throws(()=>parseForecast('lisbon',{...p,globalIdLocal:1}));assert.equal(parseForecast('lisbon',{...p,data:[{...p.data[0],tMin:'35'}]},new Date('2026-09-24T19:00:00Z')).status,'unavailable');});
+test('Singapore timezone date stays local and forecast shape is checked',()=>{const p={code:0,data:{records:[{updatedTimestamp:'2026-09-24T07:41:00+08:00',forecasts:[{timestamp:'2026-09-25T00:00:00+08:00',temperature:{low:25,high:34},forecast:{summary:'Thundery showers'}}]}]}};const r=parseForecast('singapore',p,new Date('2026-09-24T19:00:00Z'));assert.equal(r.status,'live');assert.equal(r.days[0].date,'2026-09-25');assert.throws(()=>parseForecast('singapore',{code:0,data:{records:[]}}));});
+

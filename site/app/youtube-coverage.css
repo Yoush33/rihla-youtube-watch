@@ -1,0 +1,151 @@
+.youtube-coverage-directory > summary,
+.country-youtube-coverage > summary,
+.youtube-watch-rejected > summary {
+  color: var(--teal);
+  cursor: pointer;
+  font-weight: 600;
+  min-height: 44px;
+}
+
+.youtube-coverage-directory[open] > summary,
+.country-youtube-coverage[open] > summary {
+  margin-block-end: 8px;
+}
+
+.youtube-coverage-directory select {
+  display: block;
+  width: min(100%, 290px);
+}
+
+.youtube-coverage-metrics {
+  display: grid;
+  grid-template-columns: repeat(2,minmax(0,1fr));
+  gap: 8px;
+  margin: 10px 0;
+}
+
+.youtube-coverage-metrics > div {
+  min-width: 0;
+  padding: 8px 11px;
+  border-radius: 10px;
+  background: var(--neutral-surface);
+  color: var(--neutral-text);
+}
+
+.youtube-coverage-metrics > div[data-status="useful"] {
+  background: var(--positive-surface);
+  color: var(--positive-text);
+}
+
+.youtube-coverage-metrics > div[data-status="pending"] {
+  background: var(--warning-surface);
+  color: var(--warning-text);
+}
+
+.youtube-coverage-metrics dt {
+  font-size: .875rem;
+  overflow-wrap: anywhere;
+}
+
+.youtube-coverage-metrics dd {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.youtube-coverage-duration {
+  margin: 0 0 10px;
+}
+
+.youtube-coverage-duration small {
+  display: block;
+  color: var(--muted);
+}
+
+.youtube-coverage-progress p {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2px 8px;
+  margin: 0 0 4px;
+}
+
+.youtube-coverage-progress progress {
+  appearance: none;
+  display: block;
+  width: 100%;
+  height: 9px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--neutral-surface);
+  accent-color: var(--teal);
+}
+
+.youtube-coverage-progress progress::-webkit-progress-bar {
+  background: var(--neutral-surface);
+  border-radius: 999px;
+}
+
+.youtube-coverage-progress progress::-webkit-progress-value {
+  background: var(--teal);
+  border-radius: 999px;
+}
+
+.youtube-coverage-progress progress::-moz-progress-bar {
+  background: var(--teal);
+  border-radius: 999px;
+}
+
+.youtube-coverage-summaries {
+  margin-block: 15px 10px;
+}
+
+.youtube-coverage-summaries h3 {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.youtube-coverage-summaries > ul {
+  list-style: none;
+  margin: 6px 0 0;
+  padding: 0;
+}
+
+.youtube-watch .youtube-watch-list > li {
+  margin: 0;
+}
+
+.youtube-watch-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.youtube-watch-title > span {
+  flex: none;
+  background: var(--neutral-surface);
+  color: var(--neutral-text);
+  border-radius: 999px;
+  padding: 2px 8px;
+  font-size: .8125rem;
+}
+
+.youtube-watch .youtube-watch-reactions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.youtube-watch-reactions button[aria-pressed="true"] {
+  border-color: var(--teal);
+  background: var(--teal);
+  color: #fff;
+}
+
+.youtube-watch-rejected {
+  margin-block-start: 10px;
+}

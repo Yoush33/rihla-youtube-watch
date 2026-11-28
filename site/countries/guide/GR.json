@@ -1,0 +1,567 @@
+{
+  "code": "GR",
+  "sections": {
+    "entry": [
+      {
+        "label": "إجراء الدخول بالجواز السعودي",
+        "value": "تحتاج تأشيرة شنغن للزيارة بالجواز السعودي العادي.",
+        "source": "https://eur-lex.europa.eu/eli/reg/2018/1806/2025-02-03/eng",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مدة الإقامة السياحية",
+        "value": "حتى 90 يومًا ضمن أي 180 يومًا في دول شنغن مجتمعة، وفق صلاحية التأشيرة.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/short-stay-calculator_en?prefLang=nl",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "رسوم البالغ",
+        "value": "90 يورو رسم الطلب العادي للبالغ، وقد تضاف أجرة مركز تقديم الطلبات.",
+        "source": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "وسائل الدفع",
+        "value": "البطاقات الدولية واسعة القبول، مع تفاوت قبول بعض الشبكات.",
+        "source": "https://www.thisisathens.org/useful-tips/money-banks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "العملة",
+        "value": "اليورو",
+        "source": "https://www.thisisathens.org/useful-tips/money-banks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الإكرامية",
+        "value": "اختيارية في المطاعم.",
+        "source": "https://www.thisisathens.org/useful-tips/money-banks",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • اقتصادي",
+        "value": "نحو 368 ريالًا للفرد يوميًا عند استخدام السكن المشترك والنقل العام.",
+        "source": "https://www.budgetyourtrip.com/Greece",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      },
+      {
+        "label": "تكلفة اليوم للفرد • متوسط",
+        "value": "نحو 904 ريالات للفرد يوميًا، وهو متوسط إنفاق المسافرين على السكن والطعام والتنقل المحلي.",
+        "source": "https://www.budgetyourtrip.com/Greece",
+        "checked": "2026-11-27",
+        "fxSource": "https://www.sama.gov.sa/en-US/Currency/FinExc/pages/currency.aspx",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة الإلكترونية وسعر تقريبي",
+        "value": "تبدأ باقات البيانات الإلكترونية لدى إيرالو من نحو 15 ريالًا. تختلف السعة والصلاحية باختلاف الباقة.",
+        "source": "https://www.airalo.com/greece-esim?currency=USD",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق التنقل",
+        "value": "تطبيق أواسا (OASA Telematics) لتتبع الحافلات في أثينا (Athens).",
+        "source": "https://play.google.com/store/apps/details?hl=en-US&id=com.att.android.tfa",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "من المطار إلى المدينة",
+        "value": "الخط الثالث للمترو يصل مطار أثينا (Athens) بالوسط وببيرايوس (Piraeus).",
+        "source": "https://www.aia.gr/en/traveller/transportation-airport/public-transportation-airport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "التنقل بين المدن",
+        "value": "قطارات بين المدن، ويعرض المشغل مواعيد القطارات والحافلات البديلة عند تعليق الخدمة.",
+        "source": "https://www.hellenictrain.gr/sites/default/files/2025-07/2025.07.04-PASSENGER%20TERMS%20AND%20CONDITIONS-EN.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "أين تجد طعامًا حلالًا؟",
+        "value": "توجد خيارات حلال في أثينا (Athens) مع تفاوت العرض حسب الحي.",
+        "source": "https://www.kikijourney.com/halal-restaurants-athens/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "مسجد أثينا (Athens Mosque) في العاصمة.",
+        "source": "https://www.minedu.gov.gr/publications/docs2019/Rules_of_Procedure_of_the_Management_Board_of_the_Committee_of_the_Mosque_of_Athens.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية للتجربة",
+        "value": "سوفلاكي، موساكا، ودولماداكيا (ورق عنب). تحقق من اللحم.",
+        "source": "https://www.discovergreece.com/travel-ideas/best-of/top-9-greek-dishes-you-can-find-athens",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والتصرفات",
+        "value": "عند زيارة أديرة ميتيورا (Meteora) غطّ كتفيك واتبع تعليمات الدير الخاصة بالسراويل والتنانير.",
+        "source": "https://www.athenstourism.org/greek-etiquette-dos-donts/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "مواعيد إغلاق المتاجر",
+        "value": "تفتح متاجر في المنطقة السياحية في أثينا (Athens) أيام الأحد. راجع جدول الحي.",
+        "source": "https://market.esathena.gr/accm_useful_information.php",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "رقم الطوارئ",
+        "value": "112 للطوارئ.",
+        "source": "https://www.gov.uk/foreign-travel-advice/greece/getting-help",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "أماكن ومواقف تستدعي الانتباه",
+        "value": "تجنب التظاهرات في أثينا (Athens) وسالونيك (Thessaloniki).",
+        "source": "https://travel.gc.ca/destinations/greece",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "النصب أو السرقة المتكررة",
+        "value": "احذر النشل في النقل العام واستخدم سيارة أجرة مرخصة.",
+        "source": "https://accessible.thisisathens.org/useful-tips/safety-tips",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "بلاكا (Plaka)",
+        "value": "للأزقة التاريخية",
+        "source": "https://visitathens.city/where-to-stay.html",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "كوكاكي (Koukaki)",
+        "value": "للمشي إلى الأكروبوليس",
+        "source": "https://visitathens.city/where-to-stay.html",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "موناستيراكي (Monastiraki)",
+        "value": "للسوق والمترو",
+        "source": "https://visitathens.city/where-to-stay.html",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "أثينا (Athens)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.thegreeceguides.com/itineraries/greece-mainland-road-trip/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "نافبليو (Nafplio)",
+        "value": "نقترح يومين عند توزيع وقت الرحلة.",
+        "source": "https://www.thegreeceguides.com/itineraries/greece-mainland-road-trip/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "دلفي (Delphi)",
+        "value": "نقترح يومًا واحدًا عند توزيع وقت الرحلة.",
+        "source": "https://www.thegreeceguides.com/itineraries/greece-mainland-road-trip/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "يغلق متحف الأكروبوليس (Acropolis Museum) أبوابه في هذه العطلة.",
+        "impactSource": "https://www.theacropolismuseum.gr/en/plan-your-visit",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٦-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-01-06",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=8a0e009d-53fd-443c-b63c-961786e3930d&mode=preview",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاثنين النظيف",
+        "value": "٢٠٢٦-٠٢-٢٣",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-02-23",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=8a0e009d-53fd-443c-b63c-961786e3930d&mode=preview",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد البشارة",
+        "value": "٢٠٢٦-٠٣-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-25",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=8a0e009d-53fd-443c-b63c-961786e3930d&mode=preview",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال في الخامس والعشرين من مارس",
+        "value": "٢٠٢٦-٠٣-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-03-25",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=8a0e009d-53fd-443c-b63c-961786e3930d&mode=preview",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-١٠",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-10",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=8a0e009d-53fd-443c-b63c-961786e3930d&mode=preview",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٦-٠٤-١٢",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-12",
+        "impact": "يغلق متحف الأكروبوليس (Acropolis Museum) أبوابه في هذه العطلة.",
+        "impactSource": "https://www.theacropolismuseum.gr/en/plan-your-visit",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٦-٠٤-١٣",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-04-13",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=8a0e009d-53fd-443c-b63c-961786e3930d&mode=preview",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "يغلق متحف الأكروبوليس (Acropolis Museum) أبوابه في هذه العطلة.",
+        "impactSource": "https://www.theacropolismuseum.gr/en/plan-your-visit",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العنصرة",
+        "value": "٢٠٢٦-٠٥-٣١",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-05-31",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=8a0e009d-53fd-443c-b63c-961786e3930d&mode=preview",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٦-٠٦-٠١",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-06-01",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=8a0e009d-53fd-443c-b63c-961786e3930d&mode=preview",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد رقاد السيدة العذراء",
+        "value": "٢٠٢٦-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-08-15",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=8a0e009d-53fd-443c-b63c-961786e3930d&mode=preview",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الرفض الوطني",
+        "value": "٢٠٢٦-١٠-٢٨",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-10-28",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=8a0e009d-53fd-443c-b63c-961786e3930d&mode=preview",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "يغلق متحف الأكروبوليس (Acropolis Museum) أبوابه في هذه العطلة.",
+        "impactSource": "https://www.theacropolismuseum.gr/en/plan-your-visit",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد تكريم والدة الإله",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2026/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "يغلق متحف الأكروبوليس (Acropolis Museum) أبوابه في هذه العطلة.",
+        "impactSource": "https://www.theacropolismuseum.gr/en/plan-your-visit",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "يغلق متحف الأكروبوليس (Acropolis Museum) أبوابه في هذه العطلة.",
+        "impactSource": "https://www.theacropolismuseum.gr/en/plan-your-visit",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الغطاس",
+        "value": "٢٠٢٧-٠١-٠٦",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-01-06",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=606905a3-a71c-40a6-b96d-92557375ce29",
+        "status": "confirmed"
+      },
+      {
+        "label": "الاثنين النظيف",
+        "value": "٢٠٢٧-٠٣-١٥",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-15",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=606905a3-a71c-40a6-b96d-92557375ce29",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد البشارة",
+        "value": "٢٠٢٧-٠٣-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-25",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=606905a3-a71c-40a6-b96d-92557375ce29",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الاستقلال في الخامس والعشرين من مارس",
+        "value": "٢٠٢٧-٠٣-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-03-25",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=606905a3-a71c-40a6-b96d-92557375ce29",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٤-٣٠",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-04-30",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=606905a3-a71c-40a6-b96d-92557375ce29",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "يغلق متحف الأكروبوليس (Acropolis Museum) أبوابه في هذه العطلة.",
+        "impactSource": "https://www.theacropolismuseum.gr/en/plan-your-visit",
+        "status": "confirmed"
+      },
+      {
+        "label": "أحد الفصح",
+        "value": "٢٠٢٧-٠٥-٠٢",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-02",
+        "impact": "يغلق متحف الأكروبوليس (Acropolis Museum) أبوابه في هذه العطلة.",
+        "impactSource": "https://www.theacropolismuseum.gr/en/plan-your-visit",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين الفصح",
+        "value": "٢٠٢٧-٠٥-٠٣",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-05-03",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=606905a3-a71c-40a6-b96d-92557375ce29",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العنصرة",
+        "value": "٢٠٢٧-٠٦-٢٠",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-20",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=606905a3-a71c-40a6-b96d-92557375ce29",
+        "status": "confirmed"
+      },
+      {
+        "label": "اثنين العنصرة",
+        "value": "٢٠٢٧-٠٦-٢١",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-06-21",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=606905a3-a71c-40a6-b96d-92557375ce29",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد رقاد السيدة العذراء",
+        "value": "٢٠٢٧-٠٨-١٥",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-08-15",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=606905a3-a71c-40a6-b96d-92557375ce29",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الرفض الوطني",
+        "value": "٢٠٢٧-١٠-٢٨",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-10-28",
+        "impact": "يتوقف العمل في مصرف اليونان (Bank of Greece) في هذا اليوم ضمن العطلات أو عطلة نهاية الأسبوع.",
+        "impactSource": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=606905a3-a71c-40a6-b96d-92557375ce29",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "يغلق متحف الأكروبوليس (Acropolis Museum) أبوابه في هذه العطلة.",
+        "impactSource": "https://www.theacropolismuseum.gr/en/plan-your-visit",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد تكريم والدة الإله",
+        "value": "٢٠٢٧-١٢-٢٦",
+        "source": "https://date.nager.at/Calendar/2027/GR/L0",
+        "checked": "2026-11-27",
+        "date": "2027-12-26",
+        "impact": "يغلق متحف الأكروبوليس (Acropolis Museum) أبوابه في هذه العطلة.",
+        "impactSource": "https://www.theacropolismuseum.gr/en/plan-your-visit",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الموسم والوقت الأهدأ",
+        "value": "من نوفمبر إلى مارس يقل الزحام على المعالم والممرات، مع احتمال تقليص الخدمات في الجزر.",
+        "source": "https://www.lonelyplanet.com/articles/offseason-trip-to-greece",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "عطلة الميلاد المدرسية",
+        "value": "من 2026-12-24 إلى 2027-01-07 حسب التقويم المدرسي.",
+        "source": "https://study.studentnews.eu/s/3693/75527-School-year-in-Europe/6711478-Greece-202627.htm",
+        "checked": "2026-11-27",
+        "date": "2026-12-24",
+        "end": "2027-01-07",
+        "peak": true,
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة الصيف • يونيو",
+        "value": "يونيو إلى أغسطس الفترة ذات أكبر إقبال سياحي عمومًا.",
+        "source": "https://www.lonelyplanet.com/articles/guide-to-athens",
+        "checked": "2026-11-27",
+        "month": 6,
+        "peak": true,
+        "impact": "زيادة الزحام",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة الصيف • يوليو",
+        "value": "يونيو إلى أغسطس الفترة ذات أكبر إقبال سياحي عمومًا.",
+        "source": "https://www.lonelyplanet.com/articles/guide-to-athens",
+        "checked": "2026-11-27",
+        "month": 7,
+        "peak": true,
+        "impact": "زيادة الزحام",
+        "status": "confirmed"
+      },
+      {
+        "label": "ذروة الصيف • أغسطس",
+        "value": "يونيو إلى أغسطس الفترة ذات أكبر إقبال سياحي عمومًا.",
+        "source": "https://www.lonelyplanet.com/articles/guide-to-athens",
+        "checked": "2026-11-27",
+        "month": 8,
+        "peak": true,
+        "impact": "زيادة الزحام",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "مهرجان أثينا وإبيداوروس",
+        "value": "أثينا (Athens) وإبيداوروس (Epidaurus)، عروض صيفية.",
+        "source": "https://aefestival.gr/the-company/?lang=en",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ]
+  }
+}

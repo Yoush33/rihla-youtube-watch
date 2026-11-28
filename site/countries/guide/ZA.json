@@ -1,0 +1,457 @@
+{
+  "code": "ZA",
+  "sections": {
+    "entry": [
+      {
+        "label": "تأشيرة الجواز السعودي والمدة",
+        "value": "الجواز السعودي العادي معفى من تأشيرة الزيارة السياحية لمدة تصل إلى ٩٠ يومًا.",
+        "source": "https://www.dirco.gov.za/paris/wp-content/uploads/sites/6/2024/12/COUNTRIES-EXEMPT-FROM-VISAS.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الرسوم",
+        "value": "لا رسم طلب تأشيرة ضمن مدة الإعفاء.",
+        "source": "https://www.dirco.gov.za/paris/wp-content/uploads/sites/6/2024/12/COUNTRIES-EXEMPT-FROM-VISAS.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "money": [
+      {
+        "label": "العملة",
+        "value": "الراند الجنوب أفريقي (ZAR).",
+        "source": "https://www.budgetyourtrip.com/south-africa",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الدفع والإكرامية",
+        "value": "البطاقة والنقد مقبولان عمومًا. الإكرامية اختيارية ومتوقعة، ونحو ١٠٪ في مطعم خدمة الطاولات دليل شائع.",
+        "source": "https://southafrica.cochrane.org/african-cochrane-indaba-2019/travel-advice",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ميزانية الفرد اليومية بالريال",
+        "value": "اقتصادي نحو ١٦٩ ريالًا ومتوسط نحو ٤٢٨ ريالًا يوميًا، بالاستناد إلى نفقات مسافرين على الإقامة والطعام والتنقل والزيارات.",
+        "source": "https://www.budgetyourtrip.com/south-africa",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      }
+    ],
+    "connect": [
+      {
+        "label": "الشريحة أو الشريحة الإلكترونية",
+        "value": "مثال فوداكوم، ٢٠ غيغابايت لمدة ٣٠ يومًا بنحو ٢٢٩ راندًا. تسجيل الشريحة المحلية يحتاج جوازًا وعنوانًا.",
+        "source": "https://povnomad.com/en/south-africa-sim-card-for-tourists/",
+        "checked": "2026-11-27",
+        "status": "estimate"
+      },
+      {
+        "label": "تطبيق النقل",
+        "value": "تطبيق غاوترين للمواعيد وتخطيط المشوار في غاوتنغ (Gauteng).",
+        "source": "https://play.google.com/store/apps/details?hl=en_US&id=com.afrigis.gautrain",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "transport": [
+      {
+        "label": "المطار إلى المدينة",
+        "value": "قطار غاوترين يصل مطار أو آر تامبو (O. R. Tambo) بساندتون (Sandton) في جوهانسبرغ (Johannesburg).",
+        "source": "https://www.airports.co.za/airports/or-tambo-international-airport/transport/public-transport",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "بين المدن",
+        "value": "يجمع مسار منشور بين رحلة برية من كيب تاون (Cape Town) على طريق الحدائق (Garden Route) والطيران إلى جوهانسبرغ (Johannesburg).",
+        "source": "https://travelercenter.com/guides/south-africa-itinerary/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "food": [
+      {
+        "label": "الحلال",
+        "value": "تنشر هيئة سياحة كيب تاون (Cape Town) دليلًا للمطاعم الحلال مع تفاصيل الاعتماد.",
+        "source": "https://www.capetown.travel/halal-restaurants-in-cape-town/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الصلاة",
+        "value": "حي بو كاب (Bo-Kaap) بكيب تاون (Cape Town) معروف بتراثه الإسلامي ومساجده التاريخية.",
+        "source": "https://www.capetown.travel/neighbourhood/bo-kaap/",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "ثلاثة أطباق محلية",
+        "value": "أسياخ سوساتيز، وخبز روستركوك المشوي، وتارت الحليب. تحقق من مصدر اللحم.",
+        "source": "https://www.tourism.gov.za/CurrentProjects/Documents/A%20Framework%20for%20Gastronomy%20Tourism%20Development%20in%20South%20Africa.pdf",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "customs": [
+      {
+        "label": "اللبس والسلوك",
+        "value": "في مساجد بو كاب (Bo-Kaap)، ارتدِ لباسًا محتشمًا واخلع الحذاء قبل الدخول. احترم خصوصية السكان عند تصوير المنازل.",
+        "source": "https://bokaaphouse.com/bo-kaap-guide/faqs",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إغلاق المتاجر",
+        "value": "في جوهانسبرغ (Johannesburg) تفتح متاجر كثيرة ٩ صباحًا–٥ مساءً في الأسبوع وحتى ١ ظهر السبت. ساعات المراكز قد تختلف.",
+        "source": "https://joburg.org.za/play_/Pages/Tourism/Opening-%26-Closing-Hours.aspx",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "safety": [
+      {
+        "label": "الطوارئ",
+        "value": "الشرطة ١٠١١١ في أنحاء البلاد.",
+        "source": "https://www.saps.gov.za/services/cc_10111.php",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "السرقة والاحتيال",
+        "value": "انتبه لخدع أجهزة الصراف وتجنب مساعدة الغرباء في إدخال الرقم السري أو تشغيل الجهاز.",
+        "source": "https://www.gov.uk/foreign-travel-advice/south-africa/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الأماكن التي تستدعي الحذر",
+        "value": "تجنب المشي منفردًا ليلًا في مناطق معزولة، واختر مسارات معروفة عند التوجه من المطار أو إلى مسارات الجبال.",
+        "source": "https://www.gov.uk/foreign-travel-advice/south-africa/safety-and-security",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      }
+    ],
+    "stay": [
+      {
+        "label": "مناطق السكن وأسباب الاختيار",
+        "value": "في كيب تاون (Cape Town)، سي بوينت (Sea Point) للممشى البحري، وفي آند إيه ووترفرونت (V&A Waterfront) للميناء والخدمات، وبو كاب (Bo-Kaap) للتراث الملايوي.",
+        "source": "https://www.capetown.travel/sea-point/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      },
+      {
+        "label": "في آند إيه ووترفرونت (V&A Waterfront)",
+        "checked": "2026-11-27",
+        "value": "منطقة الميناء ومراكز الخدمات والمطاعم في كيب تاون (Cape Town).",
+        "source": "https://www.capetown.travel/travel-like-a-local-your-neighbourhood-guide-to-the-va-waterfront/",
+        "status": "recommendation"
+      },
+      {
+        "label": "بو كاب (Bo-Kaap)",
+        "checked": "2026-11-27",
+        "value": "حي سكني معروف بتراث الملايو المسلمين وشوارعه التاريخية في كيب تاون (Cape Town).",
+        "source": "https://www.capetown.travel/neighbourhood/bo-kaap/",
+        "status": "recommendation"
+      }
+    ],
+    "cities": [
+      {
+        "label": "مسار الزيارة ومدة كل محطة",
+        "value": "مساران منشوران يخصصان يومين لجوهانسبرغ (Johannesburg)، ويومين لكيب تاون (Cape Town)، ويومين معًا لستيلينبوش (Stellenbosch) وفرانشهوك (Franschhoek).",
+        "source": "https://www.southafrica-spirit.com/itineraries/",
+        "checked": "2026-11-27",
+        "status": "recommendation"
+      }
+    ],
+    "holidays": [
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٦-٠١-٠١",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم حقوق الإنسان",
+        "value": "٢٠٢٦-٠٣-٢١",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-03-21",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٦-٠٤-٠٣",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-03",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأسرة",
+        "value": "٢٠٢٦-٠٤-٠٦",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-06",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الحرية",
+        "value": "٢٠٢٦-٠٤-٢٧",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-04-27",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٦-٠٥-٠١",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الشباب",
+        "value": "٢٠٢٦-٠٦-١٦",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-06-16",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني للمرأة",
+        "value": "٢٠٢٦-٠٨-١٠",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-08-10",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التراث",
+        "value": "٢٠٢٦-٠٩-٢٤",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-09-24",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الانتخابات",
+        "value": "٢٠٢٦-١١-٠٤",
+        "source": "https://www.gov.za/news/media-statements/president-cyril-ramaphosa-declares-election-day",
+        "checked": "2026-11-27",
+        "date": "2026-11-04",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المصالحة",
+        "value": "٢٠٢٦-١٢-١٦",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-12-16",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٦-١٢-٢٥",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-12-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النوايا الحسنة",
+        "value": "٢٠٢٦-١٢-٢٦",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2026-12-26",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "رأس السنة الميلادية",
+        "value": "٢٠٢٧-٠١-٠١",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-01-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم حقوق الإنسان",
+        "value": "٢٠٢٧-٠٣-٢٢",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-22",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "الجمعة العظيمة",
+        "value": "٢٠٢٧-٠٣-٢٦",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-26",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الأسرة",
+        "value": "٢٠٢٧-٠٣-٢٩",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-03-29",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الحرية",
+        "value": "٢٠٢٧-٠٤-٢٧",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-04-27",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد العمال",
+        "value": "٢٠٢٧-٠٥-٠١",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-05-01",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم الشباب",
+        "value": "٢٠٢٧-٠٦-١٦",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-06-16",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "اليوم الوطني للمرأة",
+        "value": "٢٠٢٧-٠٨-٠٩",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-08-09",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم التراث",
+        "value": "٢٠٢٧-٠٩-٢٤",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-09-24",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم المصالحة",
+        "value": "٢٠٢٧-١٢-١٦",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-12-16",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "عيد الميلاد",
+        "value": "٢٠٢٧-١٢-٢٥",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-12-25",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      },
+      {
+        "label": "يوم النوايا الحسنة",
+        "value": "٢٠٢٧-١٢-٢٧",
+        "source": "https://www.gov.za/about-sa/public-holidays",
+        "checked": "2026-11-27",
+        "date": "2027-12-27",
+        "impact": "غير مؤكد",
+        "status": "confirmed"
+      }
+    ],
+    "peak": [
+      {
+        "label": "الإجازات المدرسية",
+        "value": "تعلن وزارة التعليم مواعيد المدارس العامة. تنتهي دراسة الطلاب في ٩ ديسمبر ٢٠٢٦ ويعودون في ١٣ يناير ٢٠٢٧.",
+        "source": "https://www.gov.za/about-sa/school-calendar",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "الذروة والفترة الأهدأ",
+        "value": "تزدحم كروغر (Kruger) صيفًا محليًا، في حين يساعد جفاف يونيو–أغسطس على مشاهدة الحياة البرية.",
+        "source": "https://www.lonelyplanet.com/articles/best-time-to-visit-south-africa",
+        "checked": "2026-11-27",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة الصيف للمدارس العامة",
+        "value": "الإجازة بين آخر يوم للطلاب في ٢٠٢٦ وأول يوم لهم في ٢٠٢٧.",
+        "source": "https://www.gov.za/about-sa/school-calendar",
+        "checked": "2026-11-27",
+        "date": "2026-12-10",
+        "end": "2027-01-12",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة الخريف المدرسية",
+        "value": "الفاصل بين الفصلين الأول والثاني في تقويم المدارس العامة.",
+        "source": "https://www.gov.za/about-sa/school-calendar",
+        "checked": "2026-11-27",
+        "date": "2027-03-20",
+        "end": "2027-04-05",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      },
+      {
+        "label": "إجازة الشتاء المدرسية",
+        "value": "الفاصل بين الفصلين الثاني والثالث في تقويم المدارس العامة.",
+        "source": "https://www.gov.za/about-sa/school-calendar",
+        "checked": "2026-11-27",
+        "date": "2027-06-26",
+        "end": "2027-07-19",
+        "peak": true,
+        "impact": "إجازة مدرسية. تحقق من الإشغال في وجهتك.",
+        "status": "confirmed"
+      }
+    ],
+    "events": [
+      {
+        "label": "الفعالية السنوية",
+        "value": "سباق كيب تاون للدراجات، كيب تاون (Cape Town)، في مارس. أعلن المنظم موعد ١٤ مارس ٢٠٢٧.",
+        "source": "https://www.capetowncycletour.com/",
+        "checked": "2026-11-27",
+        "month": 3,
+        "date": "2027-03-14",
+        "status": "confirmed"
+      }
+    ]
+  }
+}
