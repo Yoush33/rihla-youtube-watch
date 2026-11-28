@@ -94,11 +94,11 @@ def main():
                     print(f"{model}: {e.code} {msg[:200]}")
                     models.pop(0)  # جرّب الموديل اللي بعده
                     continue
-                v["tips_error"] = f"{e.code}: {msg[:200]}"
+                if e.code < 500:  # 5xx مؤقت: يعيد المحاولة التشغيل الجاي
+                    v["tips_error"] = f"{e.code}: {msg[:200]}"
                 failed += 1
                 break
-            except Exception as e:  # مقطع واحد ما يوقف الباقي
-                v["tips_error"] = str(e)[:200]
+            except Exception:  # انقطاع أو مهلة: مؤقت، يعيد المحاولة التشغيل الجاي
                 failed += 1
                 break
         STORE.write_text(json.dumps(store, ensure_ascii=False, indent=2), encoding="utf-8")
