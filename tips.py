@@ -32,18 +32,21 @@ PROMPT = """أنت تساعد مسافر سعودي من الرياض يحب ر�
 أقصى شي 8 نصايح، الأهم أول."""
 
 
-def pick_model():
+def pick_models():
     want = os.environ.get("GEMINI_MODEL")
     if want:
-        return want
+        return [want]
     with urllib.request.urlopen(BASE + "models?pageSize=200&key=" + KEY, timeout=30) as r:
         models = json.load(r).get("models", [])
     names = [m["name"].split("/")[-1] for m in models
              if "generateContent" in m.get("supportedGenerationMethods", [])]
-    flash = [n for n in names if "flash" in n and not any(x in n for x in
-             ("lite", "image", "live", "tts", "audio", "exp", "thinking", "preview"))]
-    flash = flash or [n for n in names if "flash" in n]
-    return sorted(flash)[-1]
+    print("الموديلات المتاحة:", ", ".join(names))
+    bad = ("image", "live", "tts", "audio", "omni", "embedding", "veo", "imagen", "robotics", "computer")
+    flash = [n for n in names if n.startswith("gemini-") and "flash" in n and not any(x in n for x in bad)]
+    plain = [n for n in flash if not any(x in n for x in ("lite", "preview", "exp"))]
+    lite = [n for n in flash if "lite" in n and n not in plain]
+    rest = [n for n in flash if n not in plain and n not in lite]
+    return sorted(plain, reverse=True) + sorted(rest, reverse=True) + sorted(lite, reverse=True)
 
 
 def ask(model, url, dest):
@@ -67,29 +70,37 @@ def main():
     todo = [v for v in store["videos"].values()
             if v.get("status") != "ما ينفع" and "tips_ar" not in v and not v.get("tips_error")]
     todo.sort(key=lambda v: -v.get("views", 0))
-    model = pick_model()
-    print("الموديل:", model)
+    models = pick_models()
+    print("الترتيب:", models[:6])
     used = done = failed = 0
     for v in todo:
+        if not models:
+            break
         mins = v.get("minutes", 15)
         if used + mins > MINUTES_PER_RUN:
             continue
         dest = "، ".join(v.get("destinations") or []) or "الوجهة المذكورة في العنوان"
-        try:
-            v["tips_ar"] = ask(model, v["url"], dest)
-            v["tips_model"] = model
-            used += mins
-            done += 1
-        except urllib.error.HTTPError as e:
-            msg = e.read().decode(errors="ignore")[:200]
-            if e.code == 429:
-                print("وصلنا حد اليوم، نكمل التشغيل الجاي")
+        while models:
+            model = models[0]
+            try:
+                v["tips_ar"] = ask(model, v["url"], dest)
+                v["tips_model"] = model
+                used += mins
+                done += 1
                 break
-            v["tips_error"] = f"{e.code}: {msg}"
-            failed += 1
-        except Exception as e:  # مقطع واحد ما يوقف الباقي
-            v["tips_error"] = str(e)[:200]
-            failed += 1
+            except urllib.error.HTTPError as e:
+                msg = e.read().decode(errors="ignore")[:300]
+                if e.code in (429, 404, 403) or (e.code == 400 and "model" in msg.lower()):
+                    print(f"{model}: {e.code} {msg[:200]}")
+                    models.pop(0)  # جرّب الموديل اللي بعده
+                    continue
+                v["tips_error"] = f"{e.code}: {msg[:200]}"
+                failed += 1
+                break
+            except Exception as e:  # مقطع واحد ما يوقف الباقي
+                v["tips_error"] = str(e)[:200]
+                failed += 1
+                break
         STORE.write_text(json.dumps(store, ensure_ascii=False, indent=2), encoding="utf-8")
         time.sleep(6)
     left = sum(1 for v in store["videos"].values()
